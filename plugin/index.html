@@ -1,66 +1,68 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="searchbloxModule" ng-controller="searchbloxParentController">
 <head>
     <script>document.write('<base href="' + document.location + '">');</script>
     <title></title>
-    <meta charset="utf-8"/>
-    <script src="lib/jquery-2.1.0.min.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
 
-    <script src="bower_components/jquery/dist/jquery.min.js" charset="UTF-8"></script>
-
-    <script src="bower_components/angular/angular.min.js" charset="UTF-8"></script>
-    <script src="bower_components/angular-route/angular-route.min.js" charset="UTF-8"></script>
-    <script src="bower_components/angular-resource/angular-resource.min.js" charset="UTF-8"></script>
-    <script src="bower_components/angular-sanitize/angular-sanitize.min.js" charset="UTF-8"></script>
-
-    <script src="bower_components/moment/min/moment.min.js" charset="UTF-8"></script>
-
-    <script type="text/javascript" src="lib/json2extension.js" charset="UTF-8"></script>
-
-    <script src="bower_components/jquery-ui/jquery-ui.min.js"></script>
     <link rel="stylesheet" type="text/css" href="bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css">
-
-    <script src="lib/ui-bootstrap-tpls-0.10.0.js" charset="UTF-8"></script>
     <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css">
     <link rel="shortcut icon" href="http://searchblox-website.s3.amazonaws.com/favicon.ico" />
-    <script src="bootstrap/js/bootstrap.min.js" charset="UTF-8"></script>
 
-    <script src="bower_components/abdmob/x2js/xml2json.min.js" charset="UTF-8"></script>
-
-    <script src="js/controllers/searchblox-controller.js" charset="UTF-8"></script>
-    <script src="js/directives/autocomplete-directive.js" charset="UTF-8"></script>
-    <script src="js/directives/custom-input-directive.js" charset="UTF-8"></script>
-    <script src="js/directives/media-template-directive.js" charset="UTF-8"></script>
-    <script src="js/directives/ads-template-directive.js" charset="UTF-8"></script>
-    <script src="js/directives/rw-raw-visualize.js" charset="UTF-8"></script>
-    <script src="js/factories/searchblox-factory.js" charset="UTF-8"></script>
-    <script src="js/factories/searchblox-api.js" charset="UTF-8"></script>
-    <script src="js/filters/searchblox-filter.js" charset="UTF-8"></script>
-    <script src="js/modules/facet-module.js" charset="UTF-8"></script>
-    <script src="js/modules/rw-ui-slider.js" charset="UTF-8"></script>
-    <script src="js/modules/searchblox-module.js" charset="UTF-8"></script>
-    <script src="js/services/searchblox-service.js" charset="UTF-8"></script>
-    <script src="js/services/xml2js.js" charset="UTF-8"></script>
-    <script src="js/custom-lib/myscripts.js" charset="UTF-8"></script>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/search_resumes__list_view_/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:600,700,800,400" type="text/css" rel="stylesheet"/>
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" type="text/css"
+          rel="stylesheet"/>
 
     <link rel="stylesheet" href="css/autosuggest-style.css"/>
     <link rel="stylesheet" href="css/custom-style.css"/>
-
 </head>
 <body style="background:url('images/subtle_dots.png')">
-<div ng-app="searchbloxModule" class="container">
+<div class="container">
     <div style="margin-top:10px;margin-bottom:10px" align="center">
         <a href="http://www.searchblox.com"><img src="images/logo-searchblox.png"/></a>
     </div>
 
     <div ng-view=""></div>
 
-    <div id="footer" style="margin-top: 10px;" align="center">
+    <footer id="footer" style="margin-top: 10px; text-align:center">
         <span class="app-font">Copyright {{ddate}} SearchBlox Software, Inc.</span>
         <span class="links">&nbsp;<a href="http://www.searchblox.com" target="_blank">Contact Us</a></span>
-    </div>
+    </footer>
 
 </div>
+
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
+<script src="bower_components/angular/angular.min.js"></script>
+<script src="bower_components/angular-route/angular-route.min.js"></script>
+<script src="bower_components/angular-resource/angular-resource.min.js"></script>
+<script src="bower_components/angular-sanitize/angular-sanitize.min.js"></script>
+<script src="bower_components/moment/min/moment.min.js"></script>
+<script src="bower_components/jquery-ui/jquery-ui.min.js"></script>
+<script src="bower_components/abdmob/x2js/xml2json.min.js"></script>
+
+<script src="lib/ui-bootstrap-tpls-0.10.0.js" charset="UTF-8"></script>
+<script src="bootstrap/js/bootstrap.min.js" charset="UTF-8"></script>
+
+<script src="js/controllers/searchblox-controller-parent.js"></script>
+<script src="js/controllers/searchblox-controller.js"></script>
+<script src="js/directives/autocomplete-directive.js"></script>
+<script src="js/directives/custom-input-directive.js"></script>
+<script src="js/directives/media-template-directive.js"></script>
+<script src="js/directives/ads-template-directive.js"></script>
+<script src="js/factories/searchblox-factory.js"></script>
+<script src="js/factories/searchblox-api.js"></script>
+<script src="js/filters/searchblox-filter.js"></script>
+<script src="js/modules/facet-module.js"></script>
+<script src="js/modules/rw-ui-slider.js"></script>
+<script src="js/modules/searchblox-module.js"></script>
+<script src="js/services/searchblox-service.js"></script>
+<script src="js/services/xml2js.js"></script>
+<script src="js/custom-lib/myscripts.js"></script>
 
 </body>
 </html>

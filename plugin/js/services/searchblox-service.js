@@ -97,7 +97,7 @@ angular.module('searchblox.service', [])
                 if (sortVal == i) return true;
             }
             return false;
-        }
+        };
 
         // function for generating url
         this.getUrlParams = function (url, query, rangeFilter, filterFields, page, dataMap) {
@@ -372,7 +372,7 @@ angular.module('searchblox.service', [])
         // returns an object that contains things like ["data"] and ["facets"]
         this.parseResults = function (dataobj, facetFieldsMap, dataMap) {
             var resultobj = {};
-            resultobj["records"] = new Array();
+            resultobj["records"] = [];
             resultobj["start"] = "";
             resultobj["found"] = "0";
             resultobj["showAds"] = false;

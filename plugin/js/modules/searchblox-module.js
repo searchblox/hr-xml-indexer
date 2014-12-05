@@ -35,7 +35,7 @@ angular.module('searchbloxModule', [
 .config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider) {
     $routeProvider
     .when('/', {
-        title: 'SearchBlox Database Search',
+        title: 'SearchBlox Resume Search',
         templateUrl: 'views/main.html',
         controller: 'searchbloxController'
     })
@@ -46,8 +46,6 @@ angular.module('searchbloxModule', [
     $locationProvider.html5Mode(false);
 }])
 .run(['$rootScope', '$route', function($rootScope, $route) {
-    $rootScope.ddate = new Date().getFullYear();
-
     $rootScope.$on('$routeChangeSuccess', function(oVal, nVal) {
         if (oVal !== nVal) {
             document.title = $route.current.title;

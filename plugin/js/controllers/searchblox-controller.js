@@ -3,7 +3,7 @@
  */
 'use strict';
 // CONTROLLER
-angular.module('searchblox.controller', []).controller('searchbloxController', [
+angular.module('searchblox.controller').controller('searchbloxController', [
     '$rootScope',
     '$scope',
     '$http',
@@ -71,6 +71,7 @@ angular.module('searchblox.controller', []).controller('searchbloxController', [
             if (data !== null) {
                 searchbloxAPI.licenseKey = data.licenseKey;
                 searchbloxAPI.colName = data.colName;
+                searchbloxAPI.colID = data.colID;
 
                 $scope.startedSearch = true;
                 if (typeof($scope.dataMap['facetFields']) == "undefined" || $scope.dataMap['facetFields'] == null || $scope.dataMap['facetFields'] == "") {

@@ -17,13 +17,15 @@
         s.resumeXML = null;
         s.licenseKey = null;
         s.colName = null;
+        s.colID = null;
 
         var sampleFormat = {
             "searchblox": {
                 "_apikey": "F7F522D18E3D1F47947D31D1E3C32093",
                 "document": {
                     "_colname": "Custom_Collection",
-                    "_url": "http://localhost:8080/searchblox/plugin/resume-search/plugin/data/results/Abhik.xml",
+                    "_location": "http://localhost/searchblox/plugin/resume-search/plugin/data/results/Abhik.xml",
+                    "url": "http://localhost:8080/searchblox/plugin/resume-search/plugin/data/results/Abhik.xml",
                     "title": {
                         "_boost": "1",
                         "__text": "SearchBlox Product Features"
