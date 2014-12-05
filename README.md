@@ -1,8 +1,8 @@
 hr-xml-indexer
 ==============
 
-Utility to index HR-XML compliant xml files into SearchBlox for Faceted Search
-==============
+#### Utility to index HR-XML compliant xml files into SearchBlox for Faceted Search
+
 
 - Download the plugin folder into the SearchBlox installation under /searchblox to use the package. 
 - Access the angularJS based search page at http://localhost:8080/searchblox/plugin/index.html
@@ -54,27 +54,3 @@ Facet.json configuration file options that can be configured.
     "pageSize": "10", // Number of results per page
     
     "showAutoSuggest": "true" // turn off autosuggest by setting this value to false
-
-    // grid columns
-    "gridColumns": [
-        {
-            "name": "Id",
-            "width": 50,
-            "field": "@no"
-            "cellTemplate": "<i ng-bind=\"COL_FIELD\"></i>" 
-        },
-        // To add new column
-        {
-            // Name to display on column header (required)
-            "name": "Title",
-            
-            // exact match of field name from response  (required)
-            "field": "title",
-            
-            // size of column (optional)
-            "width": 50,
-            
-            // custom template for column (COL_FIELD is dynamic value) (optional)
-            "cellTemplate": "<button><b ng-bind=\"COL_FIELD\"></b></button>",
-        },
-    ]
