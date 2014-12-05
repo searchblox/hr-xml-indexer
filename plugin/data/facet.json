@@ -5,22 +5,13 @@
         {"field": "keywords", "display": "Keywords", "size": "10"},
         {"field": "colname", "display": "Collection", "size": "10"},
         {
-            "field": "size", "display": "Size", "slider": true,
+            "field": "experience", "display": "Experience", "slider": true,
             "range": [
-                {"name": "&lt 100kB", "from": "*", "to": "102400"},
-                {"name": "100kB to 500kB", "from": "102400", "to": "512000"},
-                {"name": "500kB to 1MB", "from": "512000", "to": "1048576"},
-                {"name": "1MB to 10MB", "from": "1048576", "to": "10485760"},
-                {"name": "10MB &gt", "from": "10485760", "to": "*"}
-            ]
-        },
-        {
-            "field": "lastmodified", "display": "Modified Date",
-            "dateRange": [
-                {"name": "Last 24 hours", "calendar": "days", "value": "1"},
-                {"name": "Past Week", "calendar": "days", "value": "7"},
-                {"name": "Past Month", "calendar": "months", "value": "1"},
-                {"name": "Past Year", "calendar": "years", "value": "1"}
+                {"name": "&lt 2 years", "from": "*", "to": "2"},
+                {"name": "2 to 4 years", "from": "2", "to": "4"},
+                {"name": "5 to 10 years", "from": "5", "to": "10"},
+                {"name": "10 to 15 years", "from": "10", "to": "15"},
+                {"name": "20 years", "from": "20", "to": "*"}
             ]
         }
     ],
@@ -36,6 +27,8 @@
     "pageSize": "10",
     "showAutoSuggest": "true",
     "licenseKey": "F7F522D18E3D1F47947D31D1E3C32093",
-    "colName": "Resume-Collection"
+    "colName": "Resume-Collection",
+    "resumeCandidates": [
+        "Abhik", "AkshataKothiwale", "AlexSpears201405cProfileBA", "Ambrina_ETL (Sachin)", "Amir Kashipazha - Unix Engineer - 8+ years", "Amod Resume", "Ankit Dhawan", "Ankit.", "Anna_Aguirre_Resume_June 2014-2", "Anushree_Bhattarai_BSA", "Anver_Network Engineer", "Ashok Khanal_Java Developer", "AvinashV_Resume", "Balaji-ETL Tester", "Baljinder_Singh", "BASE", "Chandra", "CV_CASI_140612", "DataAnalyst", "DEEPA_AHUJA", "Dheeraj_MS SQL", "Dipansh Mehta", "EAQUILES630", "EBM Resume", "Eric_Michael_Resume", "Gabriel_Ogundare", "Geetha_.NET", "Gsingh _Oracle Dev", "J2EE--Pardeep", "Janak.Resume", "Jeevith Domino Admin (1)", "Kevin Kraft", "Lakshmi_UNIX", "Madhava_Oracle", "Madhav_-_ETL_Informatica_-", "Madhu_Tirumandyam", "MahaboobBashaKagaj - CV", "Mahesh_Management", "Martin_Aydin", "michael.carlson.resume4", "Mouninder_Resume", "Myconsoft - Mital-plsql", "Myconsoft - Radha_qa2", "Myconsoft - Radha_qaa", "Nand Rathour Senior Quality Assurance Analyst Production Support", "NareshMulchandani", "Neha", "Nerli", "New_Resume", "Nirav Barot_Sr_Java", "Nirav", "NowacinskiResume", "Phanidhar_ DBA", "Pradeep _Chenthati", "pradip_new1", "Prafulla", "Prasad Karanam", "Prasantha Sarvadevabatla_Dotnet_SQl_SSIS developer", "Prasanth", "PrashantSingh_UNIX (1)", "Praveen", "Prince Kenney_Network Engineer July 2014", "Rahul", "Rakesh Kumar Vangala Profile", "Ramesh_Pachanady", "Ram", "Rashid-- M", "Rashmi_Taranalli", "Resume - Harsandeep Singh", "Resume_LakshmiMunukutla_Latest", "ResumeMeirDinkels", "getResume.NJ", "_Resume", "Resume", "Rick Clark CB Resume 3", "Rohit_JAVA-J2EE-Spring-Struts-Hibernet_10Yrs_Mkt", "Sachin_Patel", "Sagar_Java (1)", "Santoshkumar_Unix", "Sapna", "Shipali_Vallampatla", "Shradha", "Siddharth_SR Network Engineer2", "S K CHAUHAN ", "Sourabh Sinha", "Srinivasan", "Srinivas Vangala", "Srinivas_Vangala", "SRUMAYOR[CV] 06-14PMP-CFO + Lean 6 Sgm", "Surendra - 07.05.14 - Dice", "SushmitaSahu06302014", "Tanima Gupta", "Tiji", "Tulika", "Vandana_Java", "Varun_Linux", "venkat_Kondabolu", "Vidhya"
+    ]
 }
-

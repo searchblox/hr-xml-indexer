@@ -96,3 +96,9 @@
 @media (min-width: 1200px) {
     .colorBg{background-color:#f2f2f2;}
 }
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+    display: none !important;
+}
+button[disabled] {
+    color: #808080;
+}

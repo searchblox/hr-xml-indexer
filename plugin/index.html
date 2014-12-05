@@ -11,30 +11,29 @@
     <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css">
     <link rel="shortcut icon" href="http://searchblox-website.s3.amazonaws.com/favicon.ico" />
 
-    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
-    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
-    <link href="files/search_resumes__list_view_/styles.css" type="text/css" rel="stylesheet"/>
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:600,700,800,400" type="text/css" rel="stylesheet"/>
-    <link href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" type="text/css"
-          rel="stylesheet"/>
-
     <link rel="stylesheet" href="css/autosuggest-style.css"/>
     <link rel="stylesheet" href="css/custom-style.css"/>
 </head>
 <body style="background:url('images/subtle_dots.png')">
-<div class="container">
-    <div style="margin-top:10px;margin-bottom:10px" align="center">
-        <a href="http://www.searchblox.com"><img src="images/logo-searchblox.png"/></a>
+    <div class="container">
+        <div style="margin-top:10px;margin-bottom:10px" align="center">
+            <a href="http://www.searchblox.com"><img src="images/logo-searchblox.png"/></a>
+        </div>
+
+        <div ng-cloak ng-view=""></div>
+
+        <footer id="footer" style="margin-top: 10px; text-align:center">
+            <div style="margin-bottom: 20px;">
+                <button ng-click="doIndexing()" ng-disabled="API.indexing">Index All Documents</button>
+                <p ng-show="API.indexing" ng-cloak>Indexing <strong ng-bind="API.currentDocument"></strong> ...</p>
+                <p ng-show="API.indexFinished" ng-cloak>Indexed done.</p>
+            </div>
+
+            <span class="app-font">Copyright {{ddate}} SearchBlox Software, Inc.</span>
+            <span class="links">&nbsp;<a href="http://www.searchblox.com" target="_blank">Contact Us</a></span>
+        </footer>
+
     </div>
-
-    <div ng-view=""></div>
-
-    <footer id="footer" style="margin-top: 10px; text-align:center">
-        <span class="app-font">Copyright {{ddate}} SearchBlox Software, Inc.</span>
-        <span class="links">&nbsp;<a href="http://www.searchblox.com" target="_blank">Contact Us</a></span>
-    </footer>
-
-</div>
 
 <script src="bower_components/jquery/dist/jquery.min.js"></script>
 <script src="bower_components/angular/angular.min.js"></script>

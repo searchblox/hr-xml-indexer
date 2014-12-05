@@ -6,55 +6,56 @@
 
     var app = angular.module('searchblox.api', []);
 
-    app.factory('searchbloxAPI', ['$http', 'x2js',
-    function ($http, x2js) {
-
-        var protoFn, s;
+    app.factory('searchbloxAPI', ['$http', 'x2js', '$q', '$timeout',
+    function ($http, x2js, $q, $timeout) {
+        var protoFn, s,
+            deferred = $q.defer();
 
         s = {};
 
-        s.resumeObject = null;
-        s.resumeXML = null;
         s.licenseKey = null;
         s.colName = null;
-        s.colID = null;
+
+        s.resumeObject = null;
+        s.resumeXML = null;
+        s.resumeCandidates = [];
+        s.candidateName = null;
 
         var sampleFormat = {
             "searchblox": {
                 "_apikey": "F7F522D18E3D1F47947D31D1E3C32093",
                 "document": {
                     "_colname": "Custom_Collection",
-                    "_location": "http://localhost/searchblox/plugin/resume-search/plugin/data/results/Abhik.xml",
-                    "url": "http://localhost:8080/searchblox/plugin/resume-search/plugin/data/results/Abhik.xml",
+                    "_location": "http://www.google.com/",
+                    "url": "data/results/",
                     "title": {
                         "_boost": "1",
-                        "__text": "SearchBlox Product Features"
+                        "__text": ""
                     },
                     "keywords": {
                         "_boost": "1",
-                        "__text": "SearchBlox, Faceted Search, Features"
+                        "__text": ""
                     },
                     "content": {
                         "_boost": "1",
-                        "__text": "This content overrides the content from the document."
+                        "__text": ""
                     },
                     "description": {
                         "_boost": "1",
-                        "__text": "SearchBlox Content Search Features"
+                        "__text": ""
                     },
                     "category": [
-                        "SearchBlox/Features",
-                        "SearchBlox/Product"
+                        "Resumes"
                     ],
                     "meta": [{
                         "_name": "experience",
-                        "__text": 9
+                        "__text": 0
                     },{
                         "_name": "currentcompany",
-                        "__text": 9
+                        "__text": ''
                     }, {
                         "_name": "previouscompany",
-                        "__text": 9
+                        "__text": ''
                     }]
                 }
             }
@@ -91,20 +92,71 @@
             });
         };
 
-        s['index'] = function(data, cb) {
+        s.indexResume = function(data, cb) {
             var format = sampleFormat;
+
+            if (!s.resumeObject || !s.resumeObject.Resume) {
+                deferred.reject('Invalid data');
+                return deferred.promise;
+            }
+
+            var r = s.resumeObject.Resume,
+                ua = r.UserArea,
+                sxr = r.StructuredXMLResume,
+                nxr = r.NonXMLResume;
+
             format.searchblox['_apikey'] = s.licenseKey;
             format.searchblox['document']['_colname'] = s.colName;
+            format.searchblox['document']['url'] += s.candidateName;
+
+            format.searchblox['document']['title']['__text'] = sxr.ContactInfo.PersonName.FormattedName || s.candidateName;
+
+            if (ua.DaxResumeUserArea.AdditionalPersonalData) {
+                format.searchblox['document']['meta'][0] = ua.DaxResumeUserArea.AdditionalPersonalData.ExperienceSummary.TotalYearsOfWorkExperience;
+            }
+
+            //format.searchblox['document']['meta'][1] = r;
+            //format.searchblox['document']['meta'][2] = r;
 
             jQuery.extend(true, format, data);
 
             return protoFn(API_INDEX_URL, null, format, cb);
         };
 
-        s.resume = function(name, cb) {
+        s.getResume = function(name, cb) {
             if (!name) return;
 
-            return protoFn('data/results/' + name + '.xml', 'get', {}, cb);
+            name = name + '.xml';
+            s.candidateName = name;
+
+            return protoFn('data/results/' + name, 'get', {}, function(err, res) {
+                s.resumeObject = res.data;
+                cb.apply(this, arguments);
+            });
+        };
+
+        s.indexResumes = function(eachCB, eachLastCB, finalCB) {
+            var resumePromises = [],
+                rc = s.resumeCandidates;
+
+            if (rc && angular.isArray(rc)) {
+                angular.forEach(rc, function (v) {
+                    if (!v) return true;
+
+                    var promise = s.getResume(v, function() {
+                        eachCB(v);
+                    }).then(function() {
+                        return s.indexResume({}, function() {
+                            eachLastCB(v);
+                        });
+                    });
+                    resumePromises.push(promise);
+                });
+
+                $q.all(resumePromises).then(function() {
+                    finalCB();
+                });
+            }
         };
 
         s.toXML = function(json) {

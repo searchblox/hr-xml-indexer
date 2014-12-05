@@ -71,7 +71,7 @@ angular.module('searchblox.controller').controller('searchbloxController', [
             if (data !== null) {
                 searchbloxAPI.licenseKey = data.licenseKey;
                 searchbloxAPI.colName = data.colName;
-                searchbloxAPI.colID = data.colID;
+                searchbloxAPI.resumeCandidates = data.resumeCandidates;
 
                 $scope.startedSearch = true;
                 if (typeof($scope.dataMap['facetFields']) == "undefined" || $scope.dataMap['facetFields'] == null || $scope.dataMap['facetFields'] == "") {
@@ -135,12 +135,6 @@ angular.module('searchblox.controller').controller('searchbloxController', [
                 
                 $scope.initResolved = true;
             }
-        }).then(function() {
-            searchbloxAPI.resume('Abhik', function(err, data) {
-                console.log(data.data);
-            });
-        }).then(function() {
-            searchbloxAPI.index();
         });
     };
 
@@ -253,7 +247,7 @@ angular.module('searchblox.controller').controller('searchbloxController', [
 
             if (obj['filterRangeFrom'] !== undefined && obj['filterRangeTo'] !== undefined) {
                 if (obj['facetName'] === facetName) {
-                    if ((facetName === 'size' && obj['slider'] === slider) || facetName === 'lastmodified') {
+                    if ((facetName === 'experience' && obj['slider'] === slider) || facetName === 'lastmodified') {
                         searchReplacment = true;
                         filter_index = i;
                     }
@@ -309,10 +303,6 @@ angular.module('searchblox.controller').controller('searchbloxController', [
                     }
 
                     $scope.filterFields = rangeFilter;
-                } else if (filterRangeCalendar !== undefined && filterRangeValue !== undefined) {
-                    $scope.filterFields = filters + '&f.' + facetName + '.filter=[' + moment().subtract(filterRangeCalendar, filterRangeValue).format("YYYY-MM-DDTHH:mm:ss") + 'TO*]';
-                } else {
-                    $scope.filterFields = filters + "&f." + facetName + ".filter=" + filterName;
                 }
 
                 $scope.showInput = true;

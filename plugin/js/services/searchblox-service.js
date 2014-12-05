@@ -25,9 +25,11 @@ angular.module('searchblox.service', [])
             for (var i in facets) {
 
                 fields = fields + '&facet.field=' + facets[i].field;
+
                 if (facets[i].size !== undefined && facets[i].size !== null) {
                     fields = fields + '&f.' + facets[i].field + '.size=' + facets[i].size;
                 }
+
                 values[facets[i].field] = {};
                 values[facets[i].field]["display"] = facets[i].display;
 
@@ -55,7 +57,7 @@ angular.module('searchblox.service', [])
             fields = fields + urlParam;
             this.facetFieldsMap = values;
             return fields;
-        }
+        };
 
         /**
          * Function for reading sort buttons from facet.json

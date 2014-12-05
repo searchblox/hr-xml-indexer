@@ -62,6 +62,7 @@
             }
 
             if (scope.searchData) {
+                console.log(scope.searchData);
                 var propertyKeys = Object.keys(scope.searchData);
                 var length = propertyKeys.length;
                 var min = 0, max = 0;
@@ -81,13 +82,8 @@
                     min = 0;
                 }
 
-                if (String(max / 1024).indexOf('.') < 0) {
-                    // max = max / 1024;
-                }
-
-                scope.min = bytesToSize(min, true);
-                scope.max = bytesToSize(max, true);
-                options.max = max;
+                scope.min = min;
+                scope.max = options.max = max;
             }
 
             if (scope.step && +scope.step) {
@@ -105,8 +101,8 @@
                 scope.$apply(function () {
                     scope.fromToTo = ui.values;
                     scope.kbValues = angular.copy(ui.values);
-                    scope.kbValues[0] = bytesToSize(scope.kbValues[0], true);
-                    scope.kbValues[1] = bytesToSize(scope.kbValues[1], true);
+                    scope.kbValues[0] = scope.kbValues[0];
+                    scope.kbValues[1] = scope.kbValues[1] + ' years';
                 });
             };
 
@@ -146,8 +142,8 @@
             var toFromTmpl =
                 '<div class="clearfix">' +
                     '<small>' +
-                        '<span class="pull-left" ng-bind="min + \'KB\'"></span>' +
-                        '<span class="pull-right" ng-bind="max"></span>' +
+                        '<span class="pull-left" ng-bind="min + \' year\'"></span>' +
+                        '<span class="pull-right" ng-bind="max + \' years\'"></span>' +
                     '</small>' +
                 '</div>';
             $(elem).append($compile(toFromTmpl)(scope));
