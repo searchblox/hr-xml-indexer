@@ -1,7 +1,8 @@
-Database Search
+hr-xml-indexer
 ==============
 
-AngularJS based Database Search front-end for SearchBlox
+Utility to index HR-XML compliant xml files into SearchBlox for Faceted Search
+==============
 
 - Download the plugin folder into the SearchBlox installation under /searchblox to use the package. 
 - Access the angularJS based search page at http://localhost:8080/searchblox/plugin/index.html
@@ -9,9 +10,10 @@ AngularJS based Database Search front-end for SearchBlox
 - Add sorting options and faceted search options on the facet.json file. 
 
 Facet.json configuration file options that can be configured.
-
-To add a new facet filter, define the field name, display name and the size of the filter values to be shown
-
+    
+    "licenseKey": "F7F522D18E3D1F47947D31D1E3C32093", // REQUIRED
+    "colName": "Resume-Collection",                   // REQUIRED
+    "colID": 1                                        // REQUIRED
     "facets":[
         {"field": "contenttype", "display": "Content Type","size":"10"}, // term facet filters
         {"field": "keywords",  "display": "Keywords","size":"10"}, 
