@@ -1,0 +1,1769 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Resume lang='en' src='DAXTRA-CVX schema:2.0.29 release:0.12.3.32629 rdate:2014-06-18'>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName id='2'>
+<FormattedName>Prasantha Sarvadevabatla</FormattedName>
+<GivenName>Prasantha</GivenName>
+<FamilyName>Sarvadevabatla</FamilyName>
+</PersonName>
+<ContactMethod>
+<Telephone id='3' type='home'>
+<InternationalCountryCode>1</InternationalCountryCode>
+<SubscriberNumber>913 952-8283</SubscriberNumber>
+<FormattedNumber>+1 913 952-8283</FormattedNumber></Telephone>
+
+<InternetEmailAddress id='4' oids='4 5 ' type='main'>spkumarmca81@gmail.com</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>*    10 Years of experience of IT industry managing software requirements throughout the different phases of software development life cycle (SDLC) including requirement engineering and converting to technical specifications, technical analysis , architectural design, implementation, process improvement and maintenance of Object Oriented Enterprise Applications. ; 
+*    Implementation experience in designing, developing, maintaining and testing Web and Windows Applications using .NET Framework 4.0/3.5/3.0/2.0/1.1, ASP.Net, C#.Net, VB.Net, ADO.NET, VB, ASP, SQL Server 2000/2005/2008, MVC 2.0/3.0/4.0,Oracle, MS Access 2003/Excel Spread Sheets, HTML, UML, XML, Web Services, AJAX Controls, WCF, SQL Server 2005 Integration Services (SSIS), Windows Share Point Services (WSS), JavaScript, JQuery, IIS, VSS, Harvest, Autosys, Control M,BMC SDE, BMC Remedy Tickets. ; 
+*    Experience with GUI Design, Development using Win Forms Controls. ; 
+*    Experience in Migrating Projects from legacy application. (VB /ASP to .NET Applications). ; 
+*    Experience in handling Un Expected Technical Software Issue fixing with Vended Apps working directly with End users and Vended Apps Support teams. ; 
+*    Strong experience in developing intranet, internet, N-tier and Client Server applications using .NET, C#, Web-API, MVC 3.0 , WCF, ASP.NET, ADO.NET, Java Script, HTML5 ,CSS,XML and JQuery. ; 
+*    Created/Modified/Monitored jobs and troubleshooting if they failed / Performance Issues/Not running on scheduled time (worked with tools like Autosys, Tivoli where this jobs are called using Batch Processing at schedule times / Real time batch processing using File Watchers) through different environments. ; 
+*    Hands on experience in the Intranet Applications Database design and written Stored Procedures, Views, Functions and Triggers for the implementation of Data Integrity using T-SQL. ; 
+*    Experience in building Integrated System for B2B (Business 2 Business) and News America Marketing Products which Reach Consumers directly through our System (B2C). ;</ExecutiveSummary>
+
+
+<EmploymentHistory>
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='73_2'>Experian</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='73_3'>
+<Municipality>Denver</Municipality>
+<Region>CO</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+
+<OrgName id='73_2'>Experian</OrgName>
+
+
+
+<Description>IT Software Lead
+*    Experian Consumer Services Offline Team, Develops Offline Jobs using MS Dotnet Technologies. This group plays major role in getting Requests and Response to Clients and plays vital role in Generating Companies Revenue. ; 
+*    Worked on Control-M Framework Jobs. ; 
+*    Developed Offline Jobs using C#.Net 2010 and Sql Server 2008. ; 
+*    Credit Bureau Process Understanding (1 B / 3 B Credit Daily Monitoring and Alerts). ; 
+*    Business Process spread across different Departments. Need to Coordinate with Teams and make Development complete. ; 
+*    Migration of Existing Jobs from Old Framework to New Framework along with Team Foundation from Dimensions. ; 
+*    Managing and support for all external and internal application in asp.net and MVC 3.0/4.0.Trouble shooting existing Offline Jobs and Optimize Process. ; 
+*    On Rotational Basis worked with Triage Team to Support or fix Issues in existing Codes across All Platforms (Web Interfaces, Offline Jobs (Reports, ETL, C#.Net Code, Control M Framework), and Database Objects. ; 
+*    Using C# Code Developed Jobs (Console Apps which can be called from Job Scheduler). ; 
+*    Modified SharePoint Library for Offline Team. ; 
+*    Migration of code from Dimensions ( Old code ) to Visual Studio 2008 and 2010 TFS Environment. ; 
+*    Heavy Process Based Development and Maintained Process of Request from Third Party Vendors and Responses to Vendors.
+Environment: Visual Studio 2005/2008/2010, SQL Server 2005/2008, SSIS, DTS, .Net Framework 1.1/2.0/3.5/4.0, Control M Framework, VB.Net 1.1/2.0/3.5/4.0, ASP.Net 1.1/2.0/3.5/4.0, C#.Net 1.1/2.0/3.5/4.0, Windows 7, XML, java script, Web services, BMC SDE Tool, Serena, Share Point 2008, Red Gate ,Dimensions, Team Foundation.</Description>
+<StartDate id='73_4_1'><YearMonth>2013-02</YearMonth></StartDate>
+<EndDate id='73_4_2'>notApplicable</EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='73' last_id='112' border_id='113'></TLSPAN>
+<MonthsOfWork>18</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='113_1'>Mayo Clinic</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='113_2'>
+<Municipality>Rochester</Municipality>
+<Region>MN</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='113_4_1'>IT Vended Apps Technical lead</Title>
+<OrgName id='113_1'>Mayo Clinic</OrgName>
+
+
+
+<Description>*    Under general supervision, provide technical software, hardware and network problem resolution to all Education (All Vended Apps) Dept Computer users by performing question/problem diagnosis and guiding users through step-by step solutions in a call center environment / One-On-One User / Remote Login to End user machine. Gained Knowledge of Education Vended Apps like AMCAS/PTCAS/Apply Yourself/ERAS/Turning Point while working on them (front and back end) ; 
+*    Clearly communicate technical solutions in a user-friendly, professional manner; provide one-on-one end-user training as needed. ; 
+*    Supported Vended Apps and Intranet Web Pages using ASP.Net 2.5/3.5/4.0 and C#.Net /VB.Net Code Behind. ; 
+*    Maintained Documentation for Applications from time to time. ; 
+*    conduct hardware and software inventory database maintenance ,reporting and Perform related work as required ; 
+*    Manipulate Data using input keyed on Page checking against to rules before Storing to Database (Massaging of Data). ; 
+*    Error Fix raised out of Vended Apps / Internal Apps using different technologies by tracking Remedy ticket Process and Perform related work as required. ; 
+*    Created stored procedures in SQL Server 2005/2008 to insert into and update tables. ; 
+*    Developed/Modified and Maintained SSIS Packages. Monitoring of SSIS Job's performance in business intelligence development studio across different Environments. ; 
+*    Developed/Modified and Maintained Above 150+ Crystal Reports using Crystal Reports 2008 and Publish using Info View for end users across all environments. ; 
+*    Reports generated using SSRS to produce Excel Spread Sheets, PDF, CSV.XML formats. ; 
+*    Consumed Universe Design Files using Backend DB2 Database accessing through Rapid Sql 7.7 Ver. ; 
+*    Upgrading T SQL Script Files / Stored Procedures / Sql Queries whenever required from time to time depending. ; 
+*    Coordinating with Vended Apps Technical Teams, IBM, Microsoft Technical Teams and Mainframe team to accomplish tasks within deadlines.
+Environment: Visual Studio 2005/2008/2010, SQL Server 2005/2008, SSIS, DTS, .Net Framework 2.0/3.5/4.0, VB.Net 2.0/3.5/4.0, ASP.Net 2.0/3.5/4.0, C#.Net 2.0/3.5/4.0, Windows XP/Vista/7, XML, java script, Ajax, Web services, HP Quality Center,BMC Remedy Tool, Red Gate , Business Objects ( Info View , CMC Modules) , Crystal Reports 2008,Turning Point 5, Autoit v3.3.81 , Tivoli , MS Silver Light , Mainframe Tivoli Screens , Device Doctor Remoting Tool, MS Access, MS Access VBA, Citrix, Oracle</Description>
+<StartDate id='113_3_1'><YearMonth>2012-03</YearMonth></StartDate>
+<EndDate id='113_3_2'><YearMonth>2013-01</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='113' last_id='157' border_id='158'></TLSPAN>
+<MonthsOfWork>11</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='158_1'>Wachovia</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='158_2'>
+<Region>Texas</Region>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='158_4_1'>Apps Systems Engineer</Title>
+<Title id='159_1'>.Net Contractor</Title>
+<OrgName id='158_1'>Wachovia</OrgName>
+
+<OrgIndustry primaryIndicator='true'><IndustryDescription>Wells Fargo</IndustryDescription></OrgIndustry>
+
+<Description>*    Developed/Modified and Maintained Web Pages using ASP.Net 1.1/2.5/3.5 with VB.Net Code Behind. ; 
+*    Developed/Modified and Maintained T-SQL, Stored Procedures in SQL Server 2005/2008 to insert into and update tables. ; 
+*    Developed/Modified and Maintained SSIS Packages and Monitoring of Job's performance in Different Environments using Autosys and Data Migration of Legacy Wachovia to Wells Fargo. ; 
+*    Worked closely with Director on Issues like Concurrency Dataflow /Parallel Dataflow nightly run jobs. ; 
+*    Consumed, Modified Web Services web methods in ASP.Net Web Pages. ; 
+*    Developed Independent ASP.Net MVC Pages and written Stored procedures for existing tables for Foreclosure Project and successfully deployed to prod. ; 
+*    Updated Mainframe screens through Vera stream Calls. ; 
+*    Coordination with System Analysts, Customer, IST / UAT and Mainframe teams to accomplish tasks within deadline. ; 
+*    Created Scripts, Stored Procedures, SSIS, Back ups of Database Tables in SQL Server 2005
+Environment: Visual Studio 2005/2008, SQL Server 2005/2008, SSIS, DTS, .Net Framework 2.0/3.5, VB.Net 2.0/3.5, ASP.Net 2.0/3.5, C#.Net, Windows Server 2003, XML, java script, Ajax, Web services, Share Point 2007, Autosys, Harvest, Pac 2000, HP Quality Center.</Description>
+<StartDate id='158_3_1'><YearMonth>2010-08</YearMonth></StartDate>
+<EndDate id='158_3_2'><YearMonth>2012-02</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='158' last_id='190' border_id='191'></TLSPAN>
+<MonthsOfWork>19</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='191_1'>Republic Plastics</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='191_2'>
+<Region>Texas</Region>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='191_4_1'>Software Engineer</Title>
+<Title id='191_4_2'>.Net Developer</Title>
+<OrgName id='206'>Share point</OrgName>
+
+
+
+<Description>*    Work with LEAN Logistics Interface to import the data to Syteline using XML via IED Tool. Modified and Maintained the Portal databases for different Republic Plastics plants. ; 
+*    Built ASP.Net Web pages with .Net framework 3.5 C# code behind using Ajax Controls both for the customer and Employees Interfaces. ; 
+*    Use Case and Activity Diagrams explaining using Microsoft Visio. ; 
+*    Modification and Maintenance of Old Intranet Pages developed in Classic ASP/VB in the company. ; 
+*    Migration of legacy Applications to .Net Framework 3.5. ; 
+*    Develop and maintain different versions of ASP.Net code using Server Shared Folders for each Individual. ; 
+*    Developed Pages using .Net Frame Work 3.5 Enriched Tools/Templates which makes pages look Rich to End Users. Created/Developed Tables, Wrote SQL/Stored Procedure SCRIPTS and Triggers Scripts to update all the plants Data into the Syteline Tables. ; 
+*    Created Web Parts of .Net Applications in Share point sites for all the departments and plants in Republic Plastics using WSS. ; 
+*    Develop Application Blocks, Injected Logging Errors from Pages into tables, Encryption using Microsoft Standards of closing Connections, Objects Dispose in Try, catch and Finally
+Environment: Visual Studio 2008, SQL Server 2005/2008, Integral Enterprise Viewer (IEV), Syteline, Integral Enterprise Data Bridge (IED), LEAN Logistics, .Net Framework 3.5, C#.Net 2.0/3.0/3.5,ASP.Net 2.0/3.0/3.5,XML, UML, VB, Classic ASP, HTML, UML, java script, Atlas Ajax tool kit, Web services, Windows Services, Stored Procedures, Cursors, Object Oriented Design, Excel Spreadsheets, WSS, VisiFire, Visio, IIS 5.0/6.0, Windows Server 2003/Windows Vista, Mapics Syteline7.0.</Description>
+<StartDate id='191_3_1'><YearMonth>2009-02</YearMonth></StartDate>
+<EndDate id='191_3_2'><YearMonth>2010-07</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='191' last_id='239' border_id='240'></TLSPAN>
+<MonthsOfWork>18</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='240_1'>News America Marketing</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='240_2'>
+<Municipality>Wilton</Municipality>
+<Region>CT</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='CONTRACT'>
+<Title id='240_4_1'>Programmer Analyst</Title>
+<Title id='240_4_2'>.Net Contractor</Title>
+<OrgName id='240_1'>News America Marketing</OrgName>
+
+<OrgIndustry primaryIndicator='true'><IndustryDescription>Marketing</IndustryDescription></OrgIndustry>
+
+<Description>*    Developed User Interface design with ASP.NET Controls considering roles. Develop N -Tier client/server ASP.Net pages. Create Client-Side and Server-Side validations using JavaScript and ASP.NET validation controls. ; 
+*    Redone the Work upgrading classic asp pages to asp.net with vb.net/c#.net ; 
+*    Follow up with BA's and QA's weekly basis. Extensively worked on architecture of application for development of application and Security of Customer WebPages. ; 
+*    Written SQL queries and Stored Procedures in SQL Server 2005. Managed computer files, image media, audio files, documents using MICROSOFT CMS 2002 for Brochure ware pages. ; 
+*    Written and used Cascading Style Sheets to display formatted style web forms. Got Exposure towards Marketing Industry and its Shopping Portals Marketing. Design template using MOSS for reporting, additional policy management for file sharing capabilities to team. ; 
+*    Taken back up of tables from time to time using methods of DTS (Data Transformation Services). ; 
+*    Documentation of Requirements following Data Modeling Methodologies. Used MVC framework 3.0 to design entire web applications to handle multiple views using the same enterprise model. ; 
+*    Developed Test Plans, Test Cases and Uploaded to QC for Quality Assurance and Re assigned to Concerned Developer on Offshore Team to fix issue. Active role in unit testing, integration testing and code debugging. Developed Data Access Layer (DAL) components using Data Access ADO.NET.
+Environment: C#.NET 2.0/3.0,VB.NET 2.0/3.0,VB 6.0, ASP.NET 2.0/3.0, OOAD,.NET Framework 2.0/3.0, SQL Server 2005,Oracle9i, IIS 6.0, Java Script, Standard Reports, Relational Database, WCF, Share Point Server 2007 , Microsoft Info path ,Java, HTML,UML, XML ,Web services, Ajax, PL/SQL,VSS, Windows Vista, HP Quality Center and Bad Boy Tool.</Description>
+<StartDate id='240_3_1'><YearMonth>2008-05</YearMonth></StartDate>
+<EndDate id='240_3_2'><YearMonth>2008-12</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='240' last_id='285' border_id='286'></TLSPAN>
+<MonthsOfWork>8</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='286_1'>Centurion Technologies</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='286_2'>
+<Municipality>Fenton</Municipality>
+<Region>MO</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='286_4_1'>.Net GUI Developer</Title>
+<OrgName id='286_1'>Centurion Technologies</OrgName>
+
+
+
+<Description>*    Designed Win forms (GUI) using C#. Net. Extensively worked on Winforms controls like Context Menu strip, Strip Container, Tool strips Container, List View &#38; Menu strip for designing Front End from Requirements. ; 
+*    Performed validations for the user Input Data format. ; 
+*    Executed Stored Procedures and Queries to validate data at backend and to execute desired result at front end. Windows authentication and User-Role based security mechanisms were coded and implemented. ; 
+*    Involved in redesigning/rewriting a lot of Legacy applications. ; 
+*    Updated Data Access Layer (DAL) components using Data Access ADO.NET. ; 
+*    Implemented the Middle tier and Business logic using C#.Net and ADO.NET.
+Environment: .Net Framework 2.0, C#.Net, Visual Studio 2005, MVC 2.0, IIS 6.0, Windows XP/2000 Server, WSS, SQL Server 2005,Windows XP.</Description>
+<StartDate id='286_3_1'><YearMonth>2007-03</YearMonth></StartDate>
+<EndDate id='286_3_2'><YearMonth>2007-12</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='286' last_id='302' border_id='303'></TLSPAN>
+<MonthsOfWork>10</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='303_1'>Spartech Corporation</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='303_2'>
+<Municipality>St Louis</Municipality>
+<Region>MO</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='Lead'>
+<Title id='303_4_1'>.Net Developer</Title>
+<OrgName id='303_1'>Spartech Corporation</OrgName>
+
+
+
+<Description>*    Generated text file with the users input. Done Validation for the checking the fields were numeric, format and many more in VB .Net. ; 
+*    Developed web pages using ASP.Net and JavaScript for the existing help desk application of Spartech Corporation. Worked with CSLA.net using in Microsoft Programming Languages. ; 
+*    Developed web interfaces using ASP.NET controls. Design and develop the User controls by using VB.NET 2.0. ; 
+*    Created Client-Side and Server-Side validations using JavaScript and ASP.NET validation controls. ; 
+*    Used Data Grid and Dataset extensively for listing and manipulating the transaction data. Execute Stored Procedure and Queries to validate the data at backend and to execute the desired result at front end. ; 
+*    Designed and modified database tables and used SQL Queries, Views, Stored Procedures and Triggers. ; 
+*    Developed Cascading Style Sheets to display formatted style forms.
+Environment: .Net Framework 2.0, Visual Studio.Net 2005, VB.Net 2.0, UML, Oracle 9i, SQL Server 2005, IIS 6.0, CSLA.net, and Microsoft project Viewer, Windows server 2003, Excel Spreadsheets.</Description>
+<StartDate id='303_3_1'><YearMonth>2006-01</YearMonth></StartDate>
+<EndDate id='303_3_2'><YearMonth>2007-02</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='303' last_id='331' border_id='333'></TLSPAN>
+<MonthsOfWork>14</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='332'>Milwaukee County Department</EmployerOrgName>
+
+<PositionHistory positionType='PERMANENT'>
+<Title id='334_1'>Programmer Analyst</Title>
+<OrgName id='332'>Milwaukee County Department</OrgName>
+
+
+
+<Description>*    Developed User Interface with ASP.NET Controls. Used Validation controls to validate the input Data using Validation Controls (like Required Field, Range, Custom and Compare Validator). ; 
+*    Developed JavaScript functions for client side validations. ; 
+*    Wrote VB Script for client side validation. Extensively worked with each worksheet type and update the data into SQL server 2000. ; 
+*    Developed ASP.Net pages with VB.Net. Data modeling using general notation called ``Entity Relationship Model''. ; 
+*    Involved in Developing Framework Reusable Components using VB.Net, which will be useful for multiple web applications along with internal applications like Accounts, Reports and services. ; 
+*    Created functional and technical documentation for the worksheets list. ; 
+*    Worked with visual source safe 6.0 to add solutions and projects, to retrieve solutions, to check files in and out on a daily basis and finally created and maintained the VSS database. ; 
+*    Converted ASP Classic Pages to ASP.NET Dynamic WebPages.
+Environment: VB.Net, ASP, ASP. Net, .Net Framework 1.1, SQL Server 2000, Web Services, Windows 2000 server, Crystal Reports 8.0, Visual source safe 2005.</Description>
+<StartDate id='333_1'><YearMonth>2004-08</YearMonth></StartDate>
+<EndDate id='333_2'><YearMonth>2005-12</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='332' last_id='347' border_id='348'></TLSPAN>
+<MonthsOfWork>17</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='348_1'>Vivekananda Hospitals</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='348_2'>
+<Municipality>Chennai</Municipality>
+<Region>Tamil Nadu</Region>
+<CountryCode>IN</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='348_4_1'>Software Developer</Title>
+<OrgName id='348_1'>Vivekananda Hospitals</OrgName>
+
+
+
+<Description>*    Design web Pages and Windows Pages ; 
+*    Used Validation controls to validate the input Data using Validation Controls (like Required Field, Range, Custom and Compare Valuator). ; 
+*    Extensively worked with Data in Excel worksheet type and update the data into SQL server 2000. ; 
+*    Designed N-Tier Architecture, which facilitates Distributed Architecture. ; 
+*    Worked on EDI Transactions for generating Health Care Suit to Insurance companies. ; 
+*    Developed XML format reports to send data through secured format using C# code behind. ; 
+*    Active role in integration testing and code debugging.
+Environment:VB,ASP,C#.NET, ASP.NET, .NET Framework 1.1, SQL Server 2000, Java Script, Standard Reports, Crystal reports 8.0, Shared Server Folders, Oracle, Windows 2000 server, Mercury Test Director, Test Cases ,Test Plans.</Description>
+<StartDate id='348_3_1'><YearMonth>2003-01</YearMonth></StartDate>
+<EndDate id='348_3_2'><YearMonth>2004-07</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='348' last_id='365' border_id='0'></TLSPAN>
+<MonthsOfWork>19</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType='university'>
+<SchoolName id='71_2'>Kakatiya University</SchoolName>
+<LocationSummary id='71_3'>
+<CountryCode>IN</CountryCode>
+</LocationSummary>
+
+
+<Degree degreeType='masters'>
+<DegreeName id='71_1'>Masters</DegreeName>
+
+</Degree>
+<Major id='71_1'>Computer Applications</Major>
+
+
+
+<Comments>*    Bachelor of Commerce, Osmania University, India</Comments>
+</SchoolOrInstitution>
+
+<SchoolOrInstitution schoolType='university'>
+<SchoolName id='72_2'>Osmania University</SchoolName>
+<LocationSummary id='72_3'>
+<CountryCode>IN</CountryCode>
+</LocationSummary>
+
+
+<Degree degreeType='bachelors'>
+<DegreeName id='72_1'>Bachelor of Commerce</DegreeName>
+
+</Degree>
+
+
+
+
+
+</SchoolOrInstitution>
+
+</EducationHistory>
+
+
+
+
+
+
+
+
+
+
+
+<Competency oids='16 54 82 104 117 140 160 182 201 218 241 244 246 265 305 310 315 341 356 ' description='Skill > IT' auth='yes' name='Microsoft ASP.NET'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>124</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='design'><StringValue>design</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ASP.Net</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ASP.Net 1.1/2.0/3.5/4.0 1.1/2.0/3.5/4.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ASP.Net 2.5/3.5/4.0 2.5/3.5/4.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ASP.Net 2.0/3.5/4.0 2.0/3.5/4.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ASP.Net 1.1/2.5/3.5 1.1/2.5/3.5</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ASP.Net 2.0/3.5 2.0/3.5</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ASP.Net 2.0/3.0/3.5 2.0/3.0/3.5</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>design with ASP.NET</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ASP.NET 2.0/3.0 2.0/3.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>97</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='17 49 78 87 88 105 118 141 183 194 217 262 288 290 293 351 355 ' description='Skill > IT' auth='yes' name='Microsoft C-SHARP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>103</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>C#.Net</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>C#</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>C#.Net 1.1/2.0/3.5/4.0 1.1/2.0/3.5/4.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>C#.Net 2.0/3.5/4.0 2.0/3.5/4.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>C#.Net 2.0/3.0/3.5 2.0/3.0/3.5</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>C#.NET 2.0/3.0 2.0/3.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='15 45 48 101 138 180 193 200 202 205 216 267 292 320 342 357 ' description='Skill > IT' auth='yes' name='Microsoft .NET Technology'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>134</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>.NET Framework 4.0/3.5/3.0/2.0/1.1 4.0/3.5/3.0/2.0/1.1</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>.NET</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>.Net Framework 1.1/2.0/3.5/4.0 1.1/2.0/3.5/4.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>.Net Framework 2.0/3.5/4.0 2.0/3.5/4.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>.Net Framework 2.0/3.5 2.0/3.5</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>.Net framework 3.5 3.5</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>.NET Framework 2.0/3.0 2.0/3.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>.Net Framework 2.0 2.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>.Net Framework 1.1 1.1</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='79 91 92 94 95 96 131 132 133 174 175 210 295 321 322 ' description='Skill > IT' auth='yes' name='Microsoft Visual Studio.NET'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>90</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>.Net 2010</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Visual Studio 2008</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2010</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Visual Studio 2005</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2008</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2005</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Visual Studio.Net</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>99</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='23 35 97 122 134 164 173 176 211 252 268 301 326 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server 2005'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>98</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Integration'><StringValue>Integration</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2005</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Server 2005 Integration</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Server 2005</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='18 103 119 139 181 263 304 313 323 336 337 339 ' description='Skill > IT' auth='yes' name='Visual Basic .NET'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>87</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VB.Net</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VB.Net 1.1/2.0/3.5/4.0 1.1/2.0/3.5/4.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VB.Net 2.0/3.5/4.0 2.0/3.5/4.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VB.Net 2.0/3.5 2.0/3.5</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VB.NET 2.0/3.0 2.0/3.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VB.NET 2.0 2.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='38 56 108 145 186 225 245 271 306 314 359 ' description='Skill > IT' auth='yes' name='JavaScript'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>107</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='62 129 162 169 170 204 229 251 316 319 ' description='Skill > IT' auth='yes' name='Stored Procedures'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>70</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Stored Procedure</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='31 59 107 128 144 185 192 219 279 ' description='Skill > IT' auth='yes' name='XML'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>74</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='24 80 98 123 135 165 177 212 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server 2008'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>66</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2008</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Sql Server 2008</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>98</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='32 109 147 188 227 280 344 ' description='Skill > IT' auth='yes' name='Web Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>91</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='20 43 199 221 264 353 ' description='Skill > IT' auth='yes' name='Visual Basic'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>45</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VB</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VB 6.0 6.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='30 220 224 278 324 ' description='Skill > IT' auth='yes' name='UML/OMT'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>40</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>UML</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='125 126 152 346 361 ' description='Skill > IT' auth='yes' name='Seagate Crystal Reports'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>47</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Crystal Reports</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Crystal Reports 8.0 8.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='36 99 136 171 178 ' description='Skill > IT' auth='yes' name='SQL Server Integration Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>48</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SSIS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='189 208 233 255 300 ' description='Skill > IT' auth='yes' name='Microsoft SharePoint'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>55</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Share Point 2007</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>WSS</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MOSS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='22 335 343 350 358 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server 2000'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2005'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Server 2000</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>27</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='40 236 270 297 327 ' description='Skill > IT' auth='yes' name='Microsoft Internet Information Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>50</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IIS</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IIS 5.0/6.0 5.0/6.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IIS 6.0 6.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='21 44 198 340 354 ' description='Skill > IT' auth='yes' name='Active Server Pages'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>54</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ASP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='130 203 250 317 ' description='Skill > IT' auth='yes' name='SQL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>51</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Sql Queries</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='28 232 331 349 ' description='Skill > IT' auth='yes' name='Microsoft Excel'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>51</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Excel Spread Sheets</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Excel</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='25 52 83 296 ' description='Skill > IT' auth='yes' name='MVC'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MVC 2.0/3.0/4.0 2.0/3.0/4.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MVC 3.0 3.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MVC 3.0/4.0 3.0/4.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MVC 2.0 2.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='146 187 195 281 ' description='Skill > IT' auth='yes' name='AJAX'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>56</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='69 261 352 ' description='Skill' auth='no' name='integration testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>27</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>23</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='34 53 274 ' description='Skill > IT' auth='yes' name='Windows Communiciation Foundation'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>WCF</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='26 157 363 ' description='Skill > IT' auth='yes' name='Oracle'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>30</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='13 231 266 ' description='Skill > IT' auth='yes' name='Object Oriented Analysis/Design'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='maintenance'><StringValue>maintenance</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>maintenance of Object Oriented Enterprise Enterprise</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Object Oriented Design</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>OOAD</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='142 298 302 ' description='Skill > IT' auth='yes' name='Microsoft Windows XP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows XP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>84</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='143 238 284 ' description='Skill > IT' auth='yes' name='Microsoft Windows Vista'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>37</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Vista</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows Vista</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='184 237 330 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2003 Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>51</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows Server 2003</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='299 345 364 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2000 Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>46</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2000 Server</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows 2000 server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='121 163 172 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>30</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='29 223 277 ' description='Skill > IT' auth='yes' name='HTML'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='148 190 285 ' description='Skill > IT' auth='no' name='HP Quality Center'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>38</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='100 137 179 ' description='Skill > IT' auth='yes' name='Data Transformation Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>48</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>DTS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='19 55 291 ' description='Skill > IT' auth='yes' name='ADO'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>10</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ADO.NET</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='68 260 ' description='Skill' auth='no' name='unit testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='39 60 ' description='Skill > IT' auth='yes' name='jQuery'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='42 289 ' description='Skill > IT' auth='yes' name='WinForms'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>10</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='272 360 ' description='Skill > IT' auth='no' name='Standard Reports'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>27</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>23</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='66 258 ' description='Skill > IT' auth='yes' name='Quality Control'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>QC for Quality Assurance</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='66 258 ' description='Skill > IT' auth='yes' name='Quality Assurance'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>QC for Quality Assurance</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='269 325 ' description='Skill > IT' auth='yes' name='Oracle 9i'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='209 294 ' description='Skill > IT' auth='yes' name='Microsoft Visual Studio'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Visual Studio</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='197 235 ' description='Skill > IT' auth='yes' name='Microsoft Visio'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Visio</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='63 161 ' description='Skill > IT' auth='yes' name='Microsoft Transact-SQL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>T-SQL</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>70</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='27 154 ' description='Skill > IT' auth='yes' name='Microsoft Access'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Access 2003</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Access</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>81</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='338 347 ' description='Skill > IT' auth='yes' name='MS Visual SourceSafe'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2005'><NumericValue description='MONTH'>17</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>visual source safe 6.0 6.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Visual source safe</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='41 287 ' description='Skill > IT' auth='yes' name='GUI Applications'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>10</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Design'><StringValue>Design</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Development'><StringValue>Development</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>GUI Design, Development</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>(GUI)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>23</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='47 243 ' description='Skill > IT' auth='yes' name='Client/Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Client Server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='58 253 ' description='Skill > IT' auth='yes' name='Cascading Style Sheets'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>CSS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='309 328 ' description='Skill > IT' auth='yes' name='CSLA .NET'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='116 ' description='Skill' auth='no' name='user training'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>84</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='10 ' description='Skill' auth='no' name='technical analysis'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='120 ' description='Skill' auth='no' name='software inventory database maintenance'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>81</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='115 ' description='Skill' auth='no' name='problem diagnosis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='307 ' description='Skill' auth='no' name='help desk'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='249 ' description='Skill' auth='no' name='development of application and Security'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='312 ' description='Skill' auth='no' name='develop the User'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='124 ' description='Skill' auth='no' name='business intelligence development'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>81</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='11 ' description='Skill' auth='no' name='architectural design'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='256 ' description='Skill' auth='no' name='additional policy management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='50 ' description='Skill > IT' auth='yes' name='Web 3.0'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Web</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='234 ' description='Skill > IT' auth='no' name='VisiFire'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='318 ' description='Skill > IT' auth='no' name='Views'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='283 ' description='Skill > IT' auth='no' name='VSS'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='114 ' description='Skill' auth='no' name='Under general supervision'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='8 ' description='Skill > IT' auth='yes' name='Software Development Life Cycle'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='362 ' description='Skill > IT' auth='no' name='Shared Server Folders'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='275 ' description='Skill > IT' auth='no' name='Share Point Server 2007'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='127 ' description='Skill > IT' auth='yes' name='SQL Server Reporting Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SSRS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>81</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='9 ' description='Skill > IT' auth='yes' name='SDLC'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='149 ' description='Skill > IT' auth='yes' name='Remedy'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>BMC Remedy</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>81</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='273 ' description='Skill > IT' auth='yes' name='Relational Database'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='12 ' description='Skill' auth='yes' name='Process Improvement'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='282 ' description='Skill > IT' auth='yes' name='Oracle PL/SQL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>PL/SQL</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='46 ' description='Skill > IT' auth='yes' name='N-Tier'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='106 ' description='Skill > IT' auth='yes' name='Microsoft Windows 7'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows 7</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>91</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='329 ' description='Skill > IT' auth='yes' name='Microsoft Project'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='365 ' description='Skill > IT' auth='yes' name='Mercury Interactive TestDirector'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Mercury Test Director</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='239 ' description='Skill > IT' auth='yes' name='Mapics'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='155 ' description='Skill > IT' auth='yes' name='MS Access VBA'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>81</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='276 ' description='Skill > IT' auth='yes' name='Java'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='14 ' description='Skill' auth='no' name='Implementation experience'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='93 ' description='Skill' auth='no' name='Heavy Process Based Development'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>91</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='57 ' description='Skill > IT' auth='yes' name='HTML5'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='102 ' description='Skill > IT' auth='yes' name='Framework'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>91</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='86 ' description='Skill > IT' auth='yes' name='ETL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>91</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='242 ' description='Skill' auth='no' name='Develop N'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='311 ' description='Skill' auth='no' name='Design'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Design and</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='166 ' description='Skill > IT' auth='yes' name='Data Migration'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>66</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='230 ' description='Skill > IT' auth='no' name='Cursors'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='77 ' description='Skill > IT' auth='yes' name='Control-M'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='222 ' description='Skill > IT' auth='no' name='Classic ASP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='156 ' description='Skill > IT' auth='yes' name='Citrix Winframe'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Citrix</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>81</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='64 ' description='Skill' auth='yes' name='Business to Business'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Business 2 Business</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='151 ' description='Skill > IT' auth='yes' name='Business Objects'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>81</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='61 ' description='Skill' auth='no' name='Batch Processing'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='111 ' description='Skill > IT' auth='yes' name='Adobe Dimensions'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Dimensions</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>91</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='196 ' description='Skill > IT' auth='yes' name='Activity Diagrams'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>48</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='51 ' description='Skill > IT' auth='yes' name='API'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='33 ' description='Skill > IT' auth='no' name='AJAX Controls'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='191_4_1 240_4_1 334_1 348_4_1 ' description='Held Position' auth='yes' name='Analyst/Programmer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>62</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Software Engineer</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Programmer Analyst</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Software Developer</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>55</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='191_4_2 303_4_1 ' description='Held Position' auth='no' name='.Net Developer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>32</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>54</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='159_1 240_4_2 ' description='Held Position' auth='no' name='.Net Contractor'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>27</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>71</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='113_4_1 ' description='Held Position' auth='no' name='IT Vended Apps Technical lead'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='158_4_1 ' description='Held Position' auth='no' name='Apps Systems Engineer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>70</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='286_4_1 ' description='Held Position' auth='no' name='.Net GUI Developer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>10</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>23</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='71_1 ' description='Degree/Qualification' auth='no' name='Masters > Masters Computer Applications'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='Computer Applications'><StringValue>Computer Applications</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Masters in Computer Applications</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='72_1 ' description='Degree/Qualification' auth='yes' name='Bachelors Degree > Bachelor of Commerce'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Bachelor of Commerce</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency description='Industry' auth='yes' name='industry~it'>
+<CompetencyEvidence name='skillCount' typeDescription='skillCount'><NumericValue>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+</Competency>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<RevisionDate id='1'>2014-07-01</RevisionDate>
+</StructuredXMLResume>
+<NonXMLResume>
+
+<TextResume>
+
+
+
+{{HEADER}}
+
+
+
+
+
+{{END_HEADER}}
+
+
+{{FOOTER}}
+
+1
+
+
+
+{{END_FOOTER}}
+
+
+<span inprof='n' id='1' class='date'>{{DOCUMENT_DATESTAMP}} 2014-07-01 {{END_DOCUMENT_DATESTAMP}}</span> 
+
+<span inprof='y' id='2' class='nominal-mb'>Prasantha Sarvadevabatla</span>
+<span inprof='y' id='3' class='telephone'>913-952-8283</span>
+<span inprof='y' id='4' class='email'>spkumarmca81@gmail.com</span> - <span inprof='y' id='5' class='email'>email: spkumarmca81@gmail.com</span>
+
+<span inprof='n' id='6' class='objectives-mark'>Summary:</span>
+*    <span inprof='n' id='7' class='duration'>10 Years</span> of experience of IT industry managing software requirements throughout the different phases of <span inprof='y' id='8' class='sofwr'>software development life cycle</span> (<span inprof='y' id='9' class='sofwr'>SDLC</span>) including requirement engineering and converting to technical specifications, <span inprof='y' id='10' class='skill'>technical analysis</span> , <span inprof='y' id='11' class='skill'>architectural design</span>, implementation, <span inprof='y' id='12' class='skill'>process improvement</span> and <span inprof='y' id='13' class='sofwr'>maintenance of Object Oriented Enterprise</span> Applications. ; 
+*    <span inprof='y' id='14' class='skill'>Implementation experience</span> in designing, developing, maintaining and testing Web and Windows Applications using <span inprof='y' id='15' class='sofwr'>.NET Framework 4.0/3.5/3.0/2.0/1.1</span>, <span inprof='y' id='16' class='sofwr'>ASP.Net</span>, <span inprof='y' id='17' class='sofwr'>C#.Net</span>, <span inprof='y' id='18' class='sofwr'>VB.Net</span>, <span inprof='y' id='19' class='sofwr'>ADO.NET</span>, <span inprof='y' id='20' class='sofwr'>VB</span>, <span inprof='y' id='21' class='sofwr'>ASP</span>, <span inprof='y' id='22' class='sofwr'>SQL Server 2000</span>/<span inprof='y' id='23' class='sofwr'>2005</span>/<span inprof='y' id='24' class='sofwr'>2008</span>, <span inprof='y' id='25' class='sofwr'>MVC 2.0/3.0/4.0</span>,<span inprof='y' id='26' class='sofwr'>Oracle</span>, <span inprof='y' id='27' class='sofwr'>MS Access 2003</span>/<span inprof='y' id='28' class='sofwr'>Excel Spread Sheets</span>, <span inprof='y' id='29' class='sofwr'>HTML</span>, <span inprof='y' id='30' class='sofwr'>UML</span>, <span inprof='y' id='31' class='sofwr'>XML</span>, <span inprof='y' id='32' class='sofwr'>Web Services</span>, <span inprof='y' id='33' class='sofwr'>AJAX Controls</span>, <span inprof='y' id='34' class='sofwr'>WCF</span>, <span inprof='y' id='35' class='sofwr'>SQL Server 2005 Integration</span> Services (<span inprof='y' id='36' class='sofwr'>SSIS</span>), <span inprof='n' id='37' class='company'>Windows Share Point Services (WSS)</span>, <span inprof='y' id='38' class='sofwr'>JavaScript</span>, <span inprof='y' id='39' class='sofwr'>JQuery</span>, <span inprof='y' id='40' class='sofwr'>IIS</span>, VSS, Harvest, Autosys, Control M,BMC SDE, BMC Remedy Tickets. ; 
+*    Experience with <span inprof='y' id='41' class='sofwr'>GUI Design, Development</span> using <span inprof='y' id='42' class='sofwr'>Win Forms</span> Controls. ; 
+*    Experience in Migrating Projects from legacy application. (<span inprof='y' id='43' class='sofwr'>VB</span> /<span inprof='y' id='44' class='sofwr'>ASP</span> to <span inprof='y' id='45' class='sofwr'>.NET</span> Applications). ; 
+*    Experience in handling Un Expected Technical Software Issue fixing with Vended Apps working directly with End users and Vended Apps Support teams. ; 
+*    Strong experience in developing intranet, internet, <span inprof='y' id='46' class='sofwr'>N-tier</span> and <span inprof='y' id='47' class='sofwr'>Client Server</span> applications using <span inprof='y' id='48' class='sofwr'>.NET</span>, <span inprof='y' id='49' class='sofwr'>C#</span>, <span inprof='y' id='50' class='sofwr'>Web</span>-<span inprof='y' id='51' class='sofwr'>API</span>, <span inprof='y' id='52' class='sofwr'>MVC 3.0</span> , <span inprof='y' id='53' class='sofwr'>WCF</span>, <span inprof='y' id='54' class='sofwr'>ASP.NET</span>, <span inprof='y' id='55' class='sofwr'>ADO.NET</span>, <span inprof='y' id='56' class='sofwr'>Java Script</span>, <span inprof='y' id='57' class='sofwr'>HTML5</span> ,<span inprof='y' id='58' class='sofwr'>CSS</span>,<span inprof='y' id='59' class='sofwr'>XML</span> and <span inprof='y' id='60' class='sofwr'>JQuery</span>. ; 
+*    Created/Modified/Monitored jobs and troubleshooting if they failed / Performance Issues/Not running on scheduled time (worked with tools like Autosys, Tivoli where this jobs are called using <span inprof='y' id='61' class='skill'>Batch Processing</span> at schedule times / Real time batch processing using File Watchers) through different environments. ; 
+*    Hands on experience in the Intranet Applications Database design and written <span inprof='y' id='62' class='sofwr'>Stored Procedures</span>, Views, Functions and Triggers for the implementation of Data Integrity using <span inprof='y' id='63' class='sofwr'>T-SQL</span>. ; 
+*    Experience in building Integrated System for B2B (<span inprof='y' id='64' class='skill'>Business 2 Business</span>) and <span inprof='n' id='65' class='company'>News America Marketing Products</span> which Reach Consumers directly through our System (B2C). ; 
+*    Working Knowledge on Design Patterns. ; 
+*    Developed Test Plans, Test Cases and Uploaded to <span inprof='y' id='66' class='sofwr'>QC for Quality Assurance</span> and Re assigned <span inprof='n' id='67' class='bad-occupation'>to Concerned Developer</span> on Offshore Team to fix issue. Active role in <span inprof='y' id='68' class='skill'>unit testing</span>, <span inprof='y' id='69' class='skill'>integration testing</span> and code debugging.
+
+<span inprof='n' id='70' class='edu-hist-mark'>Education:</span>
+*    <span inprof='y' id='71_1' class='qualif'>Masters in Computer Applications</span>, <span inprof='y' id='71_2' class='educational'>Kakatiya University</span>, <span inprof='y' id='71_3' class='location'>India</span> ; 
+*    <span inprof='y' id='72_1' class='qualif'>Bachelor of Commerce</span>, <span inprof='y' id='72_2' class='educational'>Osmania University</span>, <span inprof='y' id='72_3' class='location'>India</span>
+
+<span inprof='n' id='73_1' class='experience-title'>Experience:</span>
+<span inprof='y' id='73_2' class='company'>Experian</span>, <span inprof='y' id='73_3' class='location'>Denver, CO</span>    <span inprof='y' id='73_4_1' class='date'>Feb 2013</span> - <span inprof='y' id='73_4_2' class='date'>Present</span>
+IT Software Lead
+*    <span inprof='n' id='74' class='company'>Experian Consumer Services Offline Team</span>, Develops Offline Jobs using <span inprof='n' id='75' class='company'>MS Dotnet Technologies</span>. This group plays major role in getting Requests and Response to Clients and plays vital role in <span inprof='n' id='76' class='company'>Generating Companies</span> Revenue. ; 
+*    Worked on <span inprof='y' id='77' class='sofwr'>Control-M</span> Framework Jobs. ; 
+*    Developed Offline Jobs using <span inprof='y' id='78' class='sofwr'>C#</span><span inprof='y' id='79' class='sofwr'>.Net 2010</span> and <span inprof='y' id='80' class='sofwr'>Sql Server 2008</span>. ; 
+*    Credit Bureau Process Understanding (1 B / 3 B Credit Daily Monitoring and Alerts). ; 
+*    Business Process spread across different Departments. Need to Coordinate with Teams and make Development complete. ; 
+*    Migration of Existing Jobs from Old Framework to New Framework along with <span inprof='n' id='81' class='company'>Team Foundation</span> from Dimensions. ; 
+*    Managing and support for all external and internal application in <span inprof='y' id='82' class='sofwr'>asp.net</span> and <span inprof='y' id='83' class='sofwr'>MVC 3.0/4.0</span>.Trouble shooting existing <span inprof='n' id='84' class='company'>Offline Jobs and Optimize</span> Process. ; 
+*    On Rotational Basis worked with Triage Team to Support or fix Issues in existing Codes across All Platforms (Web Interfaces, <span inprof='n' id='85' class='company'>Offline Jobs</span> (Reports, <span inprof='y' id='86' class='sofwr'>ETL</span>, <span inprof='y' id='87' class='sofwr'>C#.Net</span> Code, Control M Framework), and Database Objects. ; 
+*    Using <span inprof='y' id='88' class='sofwr'>C#</span> Code Developed Jobs (Console Apps which can be called <span inprof='n' id='89' class='bad-occupation'>from Job Scheduler</span>). ; 
+*    Modified <span inprof='n' id='90' class='company'>SharePoint Library for Offline Team</span>. ; 
+*    Migration of code from Dimensions ( Old code ) to <span inprof='y' id='91' class='sofwr'>Visual Studio 2008</span> and <span inprof='y' id='92' class='sofwr'>2010</span> TFS Environment. ; 
+*    <span inprof='y' id='93' class='skill'>Heavy Process Based Development</span> and Maintained Process of Request from Third Party Vendors and Responses to Vendors.
+Environment: <span inprof='y' id='94' class='sofwr'>Visual Studio 2005</span>/<span inprof='y' id='95' class='sofwr'>2008</span>/<span inprof='y' id='96' class='sofwr'>2010</span>, <span inprof='y' id='97' class='sofwr'>SQL Server 2005</span>/<span inprof='y' id='98' class='sofwr'>2008</span>, <span inprof='y' id='99' class='sofwr'>SSIS</span>, <span inprof='y' id='100' class='sofwr'>DTS</span>, <span inprof='y' id='101' class='sofwr'>.Net Framework 1.1/2.0/3.5/4.0</span>, Control M <span inprof='y' id='102' class='sofwr'>Framework</span>, <span inprof='y' id='103' class='sofwr'>VB.Net 1.1/2.0/3.5/4.0</span>, <span inprof='y' id='104' class='sofwr'>ASP.Net 1.1/2.0/3.5/4.0</span>, <span inprof='y' id='105' class='sofwr'>C#.Net 1.1/2.0/3.5/4.0</span>, <span inprof='y' id='106' class='sofwr'>Windows 7</span>, <span inprof='y' id='107' class='sofwr'>XML</span>, <span inprof='y' id='108' class='sofwr'>java script</span>, <span inprof='y' id='109' class='sofwr'>Web services</span>, BMC SDE Tool, Serena, Share <span inprof='n' id='110' class='location'>Point 2008, Red Gate</span> ,<span inprof='y' id='111' class='sofwr'>Dimensions</span>, <span inprof='n' id='112' class='company'>Team Foundation</span>.
+
+<span inprof='y' id='113_1' class='company'>Mayo Clinic</span>, <span inprof='y' id='113_2' class='location'>Rochester, MN</span>    <span inprof='y' id='113_3_1' class='date'>Mar 2012</span> - <span inprof='y' id='113_3_2' class='date'>Jan 2013</span>
+<span inprof='y' id='113_4_1' class='role'>IT Vended Apps Technical lead</span>
+*    <span inprof='y' id='114' class='skill'>Under general supervision</span>, provide technical software, hardware and network problem resolution to all Education (All Vended Apps) Dept Computer users by performing question/<span inprof='y' id='115' class='skill'>problem diagnosis</span> and guiding users through step-by step solutions in a call center environment / One-On-One User / Remote Login to End user machine. Gained Knowledge of Education Vended Apps like AMCAS/PTCAS/Apply Yourself/ERAS/Turning Point while working on them (front and back end) ; 
+*    Clearly communicate technical solutions in a user-friendly, professional manner; provide one-on-one end-<span inprof='y' id='116' class='skill'>user training</span> as needed. ; 
+*    Supported Vended Apps and Intranet Web Pages using <span inprof='y' id='117' class='sofwr'>ASP.Net 2.5/3.5/4.0</span> and <span inprof='y' id='118' class='sofwr'>C#.Net</span> /<span inprof='y' id='119' class='sofwr'>VB.Net</span> Code Behind. ; 
+*    Maintained Documentation for Applications from time to time. ; 
+*    conduct hardware and <span inprof='y' id='120' class='skill'>software inventory database maintenance</span> ,reporting and Perform related work as required ; 
+*    Manipulate Data using input keyed on Page checking against to rules before Storing to Database (Massaging of Data). ; 
+*    Error Fix raised out of Vended Apps / Internal Apps using different technologies by tracking Remedy ticket Process and Perform related work as required. ; 
+*    Created stored procedures in <span inprof='y' id='121' class='sofwr'>SQL Server</span> <span inprof='y' id='122' class='sofwr'>2005</span>/<span inprof='y' id='123' class='sofwr'>2008</span> to insert into and update tables. ; 
+*    Developed/Modified and Maintained SSIS Packages. Monitoring of SSIS Job's performance in <span inprof='y' id='124' class='skill'>business intelligence development</span> studio across different Environments. ; 
+*    Developed/Modified and Maintained Above 150+ <span inprof='y' id='125' class='sofwr'>Crystal Reports</span> using <span inprof='y' id='126' class='sofwr'>Crystal Reports</span> 2008 and Publish using Info View for end users across all environments. ; 
+*    Reports generated using <span inprof='y' id='127' class='sofwr'>SSRS</span> to produce Excel Spread Sheets, PDF, CSV.<span inprof='y' id='128' class='sofwr'>XML</span> formats. ; 
+*    Consumed Universe Design Files using Backend DB2 Database accessing through Rapid Sql 7.7 Ver. ; 
+*    Upgrading T SQL Script Files / <span inprof='y' id='129' class='sofwr'>Stored Procedures</span> / <span inprof='y' id='130' class='sofwr'>Sql Queries</span> whenever required from time to time depending. ; 
+*    Coordinating with Vended Apps Technical Teams, IBM, Microsoft Technical Teams and Mainframe team to accomplish tasks within deadlines.
+Environment: <span inprof='y' id='131' class='sofwr'>Visual Studio 2005</span>/<span inprof='y' id='132' class='sofwr'>2008</span>/<span inprof='y' id='133' class='sofwr'>2010</span>, <span inprof='y' id='134' class='sofwr'>SQL Server 2005</span>/<span inprof='y' id='135' class='sofwr'>2008</span>, <span inprof='y' id='136' class='sofwr'>SSIS</span>, <span inprof='y' id='137' class='sofwr'>DTS</span>, <span inprof='y' id='138' class='sofwr'>.Net Framework 2.0/3.5/4.0</span>, <span inprof='y' id='139' class='sofwr'>VB.Net 2.0/3.5/4.0</span>, <span inprof='y' id='140' class='sofwr'>ASP.Net 2.0/3.5/4.0</span>, <span inprof='y' id='141' class='sofwr'>C#.Net 2.0/3.5/4.0</span>, <span inprof='y' id='142' class='sofwr'>Windows XP</span>/<span inprof='y' id='143' class='sofwr'>Vista</span>/7, <span inprof='y' id='144' class='sofwr'>XML</span>, <span inprof='y' id='145' class='sofwr'>java script</span>, <span inprof='y' id='146' class='sofwr'>Ajax</span>, <span inprof='y' id='147' class='sofwr'>Web services</span>, <span inprof='y' id='148' class='sofwr'>HP Quality Center</span>,<span inprof='y' id='149' class='sofwr'>BMC Remedy</span> Tool, <span inprof='n' id='150' class='location'>Red Gate</span> , <span inprof='y' id='151' class='sofwr'>Business Objects</span> ( Info View , CMC Modules) , <span inprof='y' id='152' class='sofwr'>Crystal Reports</span> 2008,Turning Point 5, Autoit v3.3.81 , <span inprof='n' id='153' class='location'>Tivoli , MS</span> Silver Light , Mainframe Tivoli Screens , Device Doctor Remoting Tool, <span inprof='y' id='154' class='sofwr'>MS Access</span>, <span inprof='y' id='155' class='sofwr'>MS Access VBA</span>, <span inprof='y' id='156' class='sofwr'>Citrix</span>, <span inprof='y' id='157' class='sofwr'>Oracle</span>
+
+<span inprof='y' id='158_1' class='company'>Wachovia (Wells Fargo)</span>, <span inprof='y' id='158_2' class='location'>Texas</span>    <span inprof='y' id='158_3_1' class='date'>Aug 2010</span> - <span inprof='y' id='158_3_2' class='date'>Feb 2012</span>
+<span inprof='y' id='158_4_1' class='role'>Apps Systems Engineer</span> 4 (<span inprof='y' id='159_1' class='role'>.Net Contractor</span>)
+*    Developed/Modified and Maintained Web Pages using <span inprof='y' id='160' class='sofwr'>ASP.Net 1.1/2.5/3.5</span> with VB.Net Code Behind. ; 
+*    Developed/Modified and Maintained <span inprof='y' id='161' class='sofwr'>T-SQL</span>, <span inprof='y' id='162' class='sofwr'>Stored Procedures</span> in <span inprof='y' id='163' class='sofwr'>SQL Server</span> <span inprof='y' id='164' class='sofwr'>2005</span>/<span inprof='y' id='165' class='sofwr'>2008</span> to insert into and update tables. ; 
+*    Developed/Modified and Maintained SSIS Packages and Monitoring of Job's performance in Different Environments using Autosys and <span inprof='y' id='166' class='sofwr'>Data Migration</span> of Legacy Wachovia to <span inprof='n' id='167' class='company'>Wells Fargo</span>. ; 
+*    Worked closely <span inprof='n' id='168' class='bad-occupation'>with Director on Issues</span> like Concurrency Dataflow /Parallel Dataflow nightly run jobs. ; 
+*    Consumed, Modified Web Services web methods in ASP.Net Web Pages. ; 
+*    Developed Independent ASP.Net MVC Pages and written <span inprof='y' id='169' class='sofwr'>Stored procedures</span> for existing tables for Foreclosure Project and successfully deployed to prod. ; 
+*    Updated Mainframe screens through Vera stream Calls. ; 
+*    Coordination with System Analysts, Customer, IST / UAT and Mainframe teams to accomplish tasks within deadline. ; 
+*    Created Scripts, <span inprof='y' id='170' class='sofwr'>Stored Procedures</span>, <span inprof='y' id='171' class='sofwr'>SSIS</span>, Back ups of Database Tables in <span inprof='y' id='172' class='sofwr'>SQL Server</span> <span inprof='y' id='173' class='sofwr'>2005</span>
+Environment: <span inprof='y' id='174' class='sofwr'>Visual Studio 2005</span>/<span inprof='y' id='175' class='sofwr'>2008</span>, <span inprof='y' id='176' class='sofwr'>SQL Server 2005</span>/<span inprof='y' id='177' class='sofwr'>2008</span>, <span inprof='y' id='178' class='sofwr'>SSIS</span>, <span inprof='y' id='179' class='sofwr'>DTS</span>, <span inprof='y' id='180' class='sofwr'>.Net Framework 2.0/3.5</span>, <span inprof='y' id='181' class='sofwr'>VB.Net 2.0/3.5</span>, <span inprof='y' id='182' class='sofwr'>ASP.Net 2.0/3.5</span>, <span inprof='y' id='183' class='sofwr'>C#.Net</span>, <span inprof='y' id='184' class='sofwr'>Windows Server 2003</span>, <span inprof='y' id='185' class='sofwr'>XML</span>, <span inprof='y' id='186' class='sofwr'>java script</span>, <span inprof='y' id='187' class='sofwr'>Ajax</span>, <span inprof='y' id='188' class='sofwr'>Web services</span>, <span inprof='y' id='189' class='sofwr'>Share Point 2007</span>, Autosys, Harvest, Pac 2000, <span inprof='y' id='190' class='sofwr'>HP Quality Center</span>.
+
+
+
+<span inprof='y' id='191_1' class='company'>Republic Plastics</span>, <span inprof='y' id='191_2' class='location'>Texas</span>    <span inprof='y' id='191_3_1' class='date'>Feb 2009</span> - <span inprof='y' id='191_3_2' class='date'>Jul 2010</span>
+<span inprof='y' id='191_4_1' class='role'>Software Engineer</span> (<span inprof='y' id='191_4_2' class='role'>.Net Developer</span>)
+*    Work with LEAN Logistics Interface to import the data to Syteline using <span inprof='y' id='192' class='sofwr'>XML</span> via IED Tool. Modified and Maintained the Portal databases for different Republic Plastics plants. ; 
+*    Built ASP.Net Web pages with <span inprof='y' id='193' class='sofwr'>.Net framework 3.5</span> <span inprof='y' id='194' class='sofwr'>C#</span> code behind using <span inprof='y' id='195' class='sofwr'>Ajax</span> Controls both for the customer and Employees Interfaces. ; 
+*    Use Case and <span inprof='y' id='196' class='sofwr'>Activity Diagrams</span> explaining using <span inprof='y' id='197' class='sofwr'>Microsoft Visio</span>. ; 
+*    Modification and Maintenance of Old Intranet Pages developed in Classic <span inprof='y' id='198' class='sofwr'>ASP</span>/<span inprof='y' id='199' class='sofwr'>VB</span> in the company. ; 
+*    Migration of legacy Applications to <span inprof='y' id='200' class='sofwr'>.Net Framework 3.5</span>. ; 
+*    Develop and maintain different versions of <span inprof='y' id='201' class='sofwr'>ASP.Net</span> code using Server Shared Folders for each Individual. ; 
+*    Developed Pages using <span inprof='y' id='202' class='sofwr'>.Net</span> Frame Work 3.5 Enriched Tools/Templates which makes pages look Rich to End Users. Created/Developed Tables, Wrote <span inprof='y' id='203' class='sofwr'>SQL</span>/<span inprof='y' id='204' class='sofwr'>Stored Procedure</span> SCRIPTS and Triggers Scripts to update all the plants Data into the Syteline Tables. ; 
+*    Created Web Parts of <span inprof='y' id='205' class='sofwr'>.Net</span> Applications in <span inprof='y' id='206' class='company'>Share point</span> sites for all the departments and plants in <span inprof='y' id='207' class='company'>Republic Plastics</span> using <span inprof='y' id='208' class='sofwr'>WSS</span>. ; 
+*    Develop Application Blocks, Injected Logging Errors from Pages into tables, Encryption using Microsoft Standards of closing Connections, Objects Dispose in Try, catch and Finally
+Environment: <span inprof='y' id='209' class='sofwr'>Visual Studio</span> <span inprof='y' id='210' class='sofwr'>2008</span>, <span inprof='y' id='211' class='sofwr'>SQL Server 2005</span>/<span inprof='y' id='212' class='sofwr'>2008</span>, Integral <span inprof='n' id='213' class='company'>Enterprise Viewer (IEV)</span>, <span inprof='n' id='214' class='company'>Syteline</span>, Integral <span inprof='n' id='215' class='company'>Enterprise Data Bridge (IED)</span>, LEAN Logistics, <span inprof='y' id='216' class='sofwr'>.Net Framework 3.5</span>, <span inprof='y' id='217' class='sofwr'>C#.Net 2.0/3.0/3.5</span>,<span inprof='y' id='218' class='sofwr'>ASP.Net 2.0/3.0/3.5</span>,<span inprof='y' id='219' class='sofwr'>XML</span>, <span inprof='y' id='220' class='sofwr'>UML</span>, <span inprof='y' id='221' class='sofwr'>VB</span>, <span inprof='y' id='222' class='sofwr'>Classic ASP</span>, <span inprof='y' id='223' class='sofwr'>HTML</span>, <span inprof='y' id='224' class='sofwr'>UML</span>, <span inprof='y' id='225' class='sofwr'>java script</span>, <span inprof='n' id='226' class='nominal'>Atlas Ajax</span> tool kit, <span inprof='y' id='227' class='sofwr'>Web services</span>, <span inprof='n' id='228' class='company'>Windows Services</span>, <span inprof='y' id='229' class='sofwr'>Stored Procedures</span>, <span inprof='y' id='230' class='sofwr'>Cursors</span>, <span inprof='y' id='231' class='sofwr'>Object Oriented Design</span>, <span inprof='y' id='232' class='sofwr'>Excel</span> Spreadsheets, <span inprof='y' id='233' class='sofwr'>WSS</span>, <span inprof='y' id='234' class='sofwr'>VisiFire</span>, <span inprof='y' id='235' class='sofwr'>Visio</span>, <span inprof='y' id='236' class='sofwr'>IIS 5.0/6.0</span>, <span inprof='y' id='237' class='sofwr'>Windows Server 2003</span>/<span inprof='y' id='238' class='sofwr'>Windows Vista</span>, <span inprof='y' id='239' class='sofwr'>Mapics</span> Syteline7.0.
+
+<span inprof='y' id='240_1' class='company'>News America Marketing</span>, <span inprof='y' id='240_2' class='location'>Wilton, CT</span>    <span inprof='y' id='240_3_1' class='date'>May 2008</span> - <span inprof='y' id='240_3_2' class='date'>Dec 2008</span>
+<span inprof='y' id='240_4_1' class='role'>Programmer Analyst</span> (<span inprof='y' id='240_4_2' class='role'>.Net Contractor</span>)
+*    Developed User Interface <span inprof='y' id='241' class='sofwr'>design with ASP.NET</span> Controls considering roles. <span inprof='y' id='242' class='skill'>Develop N</span> -Tier <span inprof='y' id='243' class='skill'>client/server</span> <span inprof='y' id='244' class='sofwr'>ASP.Net</span> pages. Create Client-Side and Server-Side validations using <span inprof='y' id='245' class='sofwr'>JavaScript</span> and <span inprof='y' id='246' class='sofwr'>ASP.NET</span> validation controls. ; 
+*    Redone the Work upgrading classic asp pages to <span inprof='n' id='247' class='internet-web-address'>asp.net</span> with <span inprof='n' id='248' class='internet-web-address'>vb.net/c#.net</span> ; 
+*    Follow up with BA's and QA's weekly basis. Extensively worked on architecture of application for <span inprof='y' id='249' class='skill'>development of application and Security</span> of Customer WebPages. ; 
+*    Written <span inprof='y' id='250' class='sofwr'>SQL queries</span> and <span inprof='y' id='251' class='sofwr'>Stored Procedures</span> in <span inprof='y' id='252' class='sofwr'>SQL Server 2005</span>. Managed computer files, image media, audio files, documents using MICROSOFT CMS 2002 for Brochure ware pages. ; 
+*    Written and used <span inprof='y' id='253' class='sofwr'>Cascading Style Sheets</span> to display formatted style web forms. Got Exposure towards <span inprof='n' id='254' class='industry-sector'>Marketing Industry</span> and its Shopping Portals Marketing. Design template using <span inprof='y' id='255' class='sofwr'>MOSS</span> for reporting, <span inprof='y' id='256' class='skill'>additional policy management</span> for file sharing capabilities to team. ; 
+*    Taken back up of tables from time to time using methods of <span inprof='n' id='257' class='company'>DTS (Data Transformation Services)</span>. ; 
+*    Documentation of Requirements following Data Modeling Methodologies. Used MVC framework 3.0 to design entire web applications to handle multiple views using the same enterprise model. ; 
+*    Developed Test Plans, Test Cases and Uploaded to <span inprof='y' id='258' class='sofwr'>QC for Quality Assurance</span> and Re assigned <span inprof='n' id='259' class='bad-occupation'>to Concerned Developer</span> on Offshore Team to fix issue. Active role in <span inprof='y' id='260' class='skill'>unit testing</span>, <span inprof='y' id='261' class='skill'>integration testing</span> and code debugging. Developed Data Access Layer (DAL) components using Data Access ADO.NET.
+Environment: <span inprof='y' id='262' class='sofwr'>C#.NET 2.0/3.0</span>,<span inprof='y' id='263' class='sofwr'>VB.NET 2.0/3.0</span>,<span inprof='y' id='264' class='sofwr'>VB 6.0</span>, <span inprof='y' id='265' class='sofwr'>ASP.NET 2.0/3.0</span>, <span inprof='y' id='266' class='sofwr'>OOAD</span>,<span inprof='y' id='267' class='sofwr'>.NET Framework 2.0/3.0</span>, <span inprof='y' id='268' class='sofwr'>SQL Server 2005</span>,<span inprof='y' id='269' class='sofwr'>Oracle9i</span>, <span inprof='y' id='270' class='sofwr'>IIS 6.0</span>, <span inprof='y' id='271' class='sofwr'>Java Script</span>, <span inprof='y' id='272' class='sofwr'>Standard Reports</span>, <span inprof='y' id='273' class='sofwr'>Relational Database</span>, <span inprof='y' id='274' class='sofwr'>WCF</span>, <span inprof='y' id='275' class='sofwr'>Share Point Server 2007</span> , Microsoft Info path ,<span inprof='y' id='276' class='sofwr'>Java</span>, <span inprof='y' id='277' class='sofwr'>HTML</span>,<span inprof='y' id='278' class='sofwr'>UML</span>, <span inprof='y' id='279' class='sofwr'>XML</span> ,<span inprof='y' id='280' class='sofwr'>Web services</span>, <span inprof='y' id='281' class='sofwr'>Ajax</span>, <span inprof='y' id='282' class='sofwr'>PL/SQL</span>,<span inprof='y' id='283' class='sofwr'>VSS</span>, <span inprof='y' id='284' class='sofwr'>Windows Vista</span>, <span inprof='y' id='285' class='sofwr'>HP Quality Center</span> and Bad Boy Tool.
+
+<span inprof='y' id='286_1' class='company'>Centurion Technologies</span>, <span inprof='y' id='286_2' class='location'>Fenton, MO</span>    <span inprof='y' id='286_3_1' class='date'>Mar 2007</span> - <span inprof='y' id='286_3_2' class='date'>Dec 2007</span>
+<span inprof='y' id='286_4_1' class='role'>.Net GUI Developer</span>
+*    Designed Win forms <span inprof='y' id='287' class='sofwr'>(GUI)</span> using <span inprof='y' id='288' class='sofwr'>C#. Net</span>. Extensively worked on <span inprof='y' id='289' class='sofwr'>Winforms</span> controls like Context Menu strip, Strip Container, Tool strips Container, List View &#38; Menu strip for designing Front End from Requirements. ; 
+*    Performed validations for the user Input Data format. ; 
+*    Executed Stored Procedures and Queries to validate data at backend and to execute desired result at front end. Windows authentication and User-Role based security mechanisms were coded and implemented. ; 
+*    Involved in redesigning/rewriting a lot of Legacy applications. ; 
+*    Updated Data Access Layer (DAL) components using Data Access ADO.NET. ; 
+*    Implemented the Middle tier and Business logic using <span inprof='y' id='290' class='sofwr'>C#.Net</span> and <span inprof='y' id='291' class='sofwr'>ADO.NET</span>.
+Environment: <span inprof='y' id='292' class='sofwr'>.Net Framework 2.0</span>, <span inprof='y' id='293' class='sofwr'>C#.Net</span>, <span inprof='y' id='294' class='sofwr'>Visual Studio</span> <span inprof='y' id='295' class='sofwr'>2005</span>, <span inprof='y' id='296' class='sofwr'>MVC 2.0</span>, <span inprof='y' id='297' class='sofwr'>IIS 6.0</span>, <span inprof='y' id='298' class='sofwr'>Windows XP</span>/<span inprof='y' id='299' class='sofwr'>2000 Server</span>, <span inprof='y' id='300' class='sofwr'>WSS</span>, <span inprof='y' id='301' class='sofwr'>SQL Server 2005</span>,<span inprof='y' id='302' class='sofwr'>Windows XP</span>.
+
+<span inprof='y' id='303_1' class='company'>Spartech Corporation</span>, <span inprof='y' id='303_2' class='location'>St Louis, MO</span>    <span inprof='y' id='303_3_1' class='date'>Jan 2006</span> - <span inprof='y' id='303_3_2' class='date'>Feb 2007</span>
+<span inprof='y' id='303_4_1' class='role'>.Net Developer</span> (<span inprof='n' id='303_4_2' class='empl-type'>Lead</span>)
+*    Generated text file with the users input. Done Validation for the checking the fields were numeric, format and many more in <span inprof='y' id='304' class='sofwr'>VB .Net</span>. ; 
+*    Developed web pages using <span inprof='y' id='305' class='sofwr'>ASP.Net</span> and <span inprof='y' id='306' class='sofwr'>JavaScript</span> for the existing <span inprof='y' id='307' class='skill'>help desk</span> application of <span inprof='y' id='308' class='company'>Spartech Corporation</span>. Worked with <span inprof='y' id='309' class='sofwr'>CSLA.net</span> using in Microsoft Programming Languages. ; 
+*    Developed web interfaces using <span inprof='y' id='310' class='sofwr'>ASP.NET</span> controls. <span inprof='y' id='311' class='skill'>Design and</span> <span inprof='y' id='312' class='skill'>develop the User</span> controls by using <span inprof='y' id='313' class='sofwr'>VB.NET 2.0</span>. ; 
+*    Created Client-Side and Server-Side validations using <span inprof='y' id='314' class='sofwr'>JavaScript</span> and <span inprof='y' id='315' class='sofwr'>ASP.NET</span> validation controls. ; 
+*    Used Data Grid and Dataset extensively for listing and manipulating the transaction data. Execute <span inprof='y' id='316' class='sofwr'>Stored Procedure</span> and Queries to validate the data at backend and to execute the desired result at front end. ; 
+*    Designed and modified database tables and used <span inprof='y' id='317' class='sofwr'>SQL Queries</span>, <span inprof='y' id='318' class='sofwr'>Views</span>, <span inprof='y' id='319' class='sofwr'>Stored Procedures</span> and Triggers. ; 
+*    Developed Cascading Style Sheets to display formatted style forms.
+Environment: <span inprof='y' id='320' class='sofwr'>.Net Framework 2.0</span>, <span inprof='y' id='321' class='sofwr'>Visual Studio.Net</span> <span inprof='y' id='322' class='sofwr'>2005</span>, <span inprof='y' id='323' class='sofwr'>VB.Net 2.0</span>, <span inprof='y' id='324' class='sofwr'>UML</span>, <span inprof='y' id='325' class='sofwr'>Oracle 9i</span>, <span inprof='y' id='326' class='sofwr'>SQL Server 2005</span>, <span inprof='y' id='327' class='sofwr'>IIS 6.0</span>, <span inprof='y' id='328' class='sofwr'>CSLA.net</span>, and <span inprof='y' id='329' class='sofwr'>Microsoft project</span> Viewer, <span inprof='y' id='330' class='sofwr'>Windows server 2003</span>, <span inprof='y' id='331' class='sofwr'>Excel Spreadsheets</span>.
+
+<span inprof='y' id='332' class='educational'>Milwaukee County Department</span> on Aging    <span inprof='y' id='333_1' class='date'>Aug 2004</span> - <span inprof='y' id='333_2' class='date'>Dec 2005</span>
+<span inprof='y' id='334_1' class='role'>Programmer Analyst</span>
+*    Developed User Interface with ASP.NET Controls. Used Validation controls to validate the input Data using Validation Controls (like Required Field, Range, Custom and Compare Validator). ; 
+*    Developed JavaScript functions for client side validations. ; 
+*    Wrote VB Script for client side validation. Extensively worked with each worksheet type and update the data into <span inprof='y' id='335' class='sofwr'>SQL server 2000</span>. ; 
+*    Developed ASP.Net pages with <span inprof='y' id='336' class='sofwr'>VB.Net</span>. Data modeling using general notation called ``Entity Relationship Model''. ; 
+*    Involved in Developing Framework Reusable Components using <span inprof='y' id='337' class='sofwr'>VB.Net</span>, which will be useful for multiple web applications along with internal applications like Accounts, Reports and services. ; 
+*    Created functional and technical documentation for the worksheets list. ; 
+*    Worked with <span inprof='y' id='338' class='sofwr'>visual source safe 6.0</span> to add solutions and projects, to retrieve solutions, to check files in and out on a daily basis and finally created and maintained the VSS database. ; 
+*    Converted ASP Classic Pages to ASP.NET Dynamic WebPages.
+Environment: <span inprof='y' id='339' class='sofwr'>VB.Net</span>, <span inprof='y' id='340' class='sofwr'>ASP</span>, <span inprof='y' id='341' class='sofwr'>ASP. Net</span>, <span inprof='y' id='342' class='sofwr'>.Net Framework 1.1</span>, <span inprof='y' id='343' class='sofwr'>SQL Server 2000</span>, <span inprof='y' id='344' class='sofwr'>Web Services</span>, <span inprof='y' id='345' class='sofwr'>Windows 2000 server</span>, <span inprof='y' id='346' class='sofwr'>Crystal Reports 8.0</span>, <span inprof='y' id='347' class='sofwr'>Visual source safe</span> 2005.
+
+<span inprof='y' id='348_1' class='company'>Vivekananda Hospitals</span>, <span inprof='y' id='348_2' class='location'>Chennai, India</span>    <span inprof='y' id='348_3_1' class='date'>Jan 2003</span> - <span inprof='y' id='348_3_2' class='date'>Jul 2004</span>
+<span inprof='y' id='348_4_1' class='role'>Software Developer</span>
+*    Design web Pages and Windows Pages ; 
+*    Used Validation controls to validate the input Data using Validation Controls (like Required Field, Range, Custom and Compare Valuator). ; 
+*    Extensively worked with Data in <span inprof='y' id='349' class='sofwr'>Excel</span> worksheet type and update the data into <span inprof='y' id='350' class='sofwr'>SQL server 2000</span>. ; 
+*    Designed N-Tier Architecture, which facilitates Distributed Architecture. ; 
+*    Worked on EDI Transactions for generating Health Care Suit to Insurance companies. ; 
+*    Developed XML format reports to send data through secured format using <span inprof='y' id='351' class='sofwr'>C#</span> code behind. ; 
+*    Active role in <span inprof='y' id='352' class='skill'>integration testing</span> and code debugging.
+Environment:<span inprof='y' id='353' class='sofwr'>VB</span>,<span inprof='y' id='354' class='sofwr'>ASP</span>,<span inprof='y' id='355' class='sofwr'>C#.NET</span>, <span inprof='y' id='356' class='sofwr'>ASP.NET</span>, <span inprof='y' id='357' class='sofwr'>.NET Framework 1.1</span>, <span inprof='y' id='358' class='sofwr'>SQL Server 2000</span>, <span inprof='y' id='359' class='sofwr'>Java Script</span>, <span inprof='y' id='360' class='sofwr'>Standard Reports</span>, <span inprof='y' id='361' class='sofwr'>Crystal reports 8.0</span>, <span inprof='y' id='362' class='sofwr'>Shared Server Folders</span>, <span inprof='y' id='363' class='sofwr'>Oracle</span>, <span inprof='y' id='364' class='sofwr'>Windows 2000 server</span>, <span inprof='y' id='365' class='sofwr'>Mercury Test Director</span>, Test Cases ,Test Plans.
+
+</TextResume>
+
+</NonXMLResume>
+
+
+
+<UserArea>
+<DaxResumeUserArea>
+<AdditionalPersonalData>
+<ExperienceSummary>
+<TotalMonthsOfWorkExperience>134</TotalMonthsOfWorkExperience>
+<TotalYearsOfWorkExperience>11</TotalYearsOfWorkExperience>
+<TotalMonthsOfManagementWorkExperience>11</TotalMonthsOfManagementWorkExperience>
+<TotalYearsOfManagementWorkExperience>0.9</TotalYearsOfManagementWorkExperience>
+<TotalMonthsOfLowLevelManagementWorkExperience>11</TotalMonthsOfLowLevelManagementWorkExperience>
+<TotalYearsOfLowLevelManagementWorkExperience>0.9</TotalYearsOfLowLevelManagementWorkExperience>
+<ExecutiveBrief>Prasantha Sarvadevabatla has been working in the IT  occupational sector for more than 11 years. Currently this candidate is employed at Experian. Prasantha has extensive knowledge of Microsoft ASP.NET, Microsoft C-SHARP, Microsoft .NET Technology, Microsoft Visual Studio.NET, Microsoft SQL Server 2005, Visual Basic .NET, JavaScript, Stored Procedures, XML, Microsoft SQL Server 2008, Web Services, Visual Basic, UML/OMT, Seagate Crystal Reports, SQL Server Integration Services, Microsoft SharePoint, Microsoft SQL Server 2000, Microsoft Internet Information Server, Active Server Pages, SQL, Microsoft Excel, MVC, AJAX, Windows Communiciation Foundation, Oracle, Object Oriented Analysis/Design, Microsoft SQL Server, HTML, HP Quality Center, Data Transformation Services, ADO, WinForms, Standard Reports, Quality Control, Quality Assurance, Oracle 9i, Microsoft Visual Studio, Microsoft Visio, Microsoft Transact-SQL, Microsoft Access, MS Visual SourceSafe, GUI Applications, Client/Server, Cascading Style Sheets, CSLA .NET, VisiFire, Views, VSS, Shared Server Folders, Share Point Server 2007, SQL Server Reporting Services, Remedy, Relational Database, Oracle PL/SQL, Microsoft Project, Mercury Interactive TestDirector, Mapics, MS Access VBA, Java, Framework, ETL, Data Migration, Cursors, Control-M, Classic ASP, Citrix Winframe, Business Objects, Adobe Dimensions, Activity Diagrams. Prasantha has some experience in managment (11 months).</ExecutiveBrief>
+<ManagementRecord>Since 2012-03 for 11 months the candidate had experience at a lower grade management level working as a IT Vended Apps Technical lead/.Net Contractor at Mayo Clinic.
+</ManagementRecord>
+</ExperienceSummary>
+</AdditionalPersonalData>
+<ParserInfo>
+<ParserConfiguration>{max_len=50000} {tel_flag=} {send_zip=} {fast_conv=} {DEF_LOCAL=} {sdate=0} {no_email_body=0} {do_clever_zoning=1} {keep_span=1} {complex=1} {accept_langs=} {not_accept_langs=} {prefer_lang_cv=EN} {pers_only=0} {turbo=0} {split_language=0} {picture=0} {picture_inline=0} {name_space=0} {charset=} {hrxml_upgrade_edu_hist=0}{hrxml_add_languages_section=0}{spool=} {docID=} {user=DEFAULT} </ParserConfiguration>
+<ParserRelease>0.12.3.32629</ParserRelease>
+<ParserReleaseDate>2014-06-18</ParserReleaseDate>
+<ParserSchema>2.0.29</ParserSchema>
+<ParserSchemaLocation>http://cvx.daxtra.com/cvts/xsd/candidate/2.0.29/Resume.xsd</ParserSchemaLocation>
+<ConverterRelease>0.5.2.32629</ConverterRelease>
+<ConverterReleaseDate>2014-06-18</ConverterReleaseDate>
+</ParserInfo>
+<FileStruct filename='/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/Prasantha Sarvadevabatla_Dotnet_SQl_SSIS developer.docx'>
+
+<attachment fname='Prasantha Sarvadevabatla_Dotnet_SQl_SSIS developer.docx' ftype='docx' conv='yes' doc_type='cv' lang='EN'>/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/Prasantha Sarvadevabatla_Dotnet_SQl_SSIS developer.docx</attachment>
+
+
+</FileStruct>
+</DaxResumeUserArea>
+</UserArea>
+</Resume>

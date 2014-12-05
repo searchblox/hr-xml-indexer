@@ -1,0 +1,1647 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Resume lang='en' src='DAXTRA-CVX schema:2.0.29 release:0.12.3.32629 rdate:2014-06-18'>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName id='2'>
+<FormattedName>Sourabh Sinha</FormattedName>
+<GivenName>Sourabh</GivenName>
+<FamilyName>Sinha</FamilyName>
+<sex>Male</sex>
+</PersonName>
+<ContactMethod>
+<Telephone id='4' type='home'>
+<InternationalCountryCode>1</InternationalCountryCode>
+<SubscriberNumber>480 282-2255</SubscriberNumber>
+<FormattedNumber>+1 480 282-2255</FormattedNumber></Telephone>
+
+<InternetEmailAddress id='5' type='main'>mr.sourabhsinha@gmail.com</InternetEmailAddress>
+<PostalAddress id='3' type='main'>
+<CountryCode>US</CountryCode>
+<Region>PA</Region>
+<Municipality>Phil</Municipality>
+
+</PostalAddress>
+</ContactMethod>
+</ContactInfo>
+
+
+<EmploymentHistory>
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='127_1'>COMCAST Corporation</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='127_2'>
+<Municipality>Philadelphia</Municipality>
+<Region>PA</Region>
+<CountryCode>BR</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='127_4_1'>Senior Oracle PL/SQL Developer</Title>
+<OrgName id='127_1'>COMCAST Corporation</OrgName>
+
+
+
+<Description>RECON system at COMCAST is responsible for performing eligibility check and decision-making on commission payment to the COMCAST affiliates like Verizon, BestBuy for bringing in customer to the corporation. As a senior oracle database developer my responsibilities include but not limited to research and data analysis; database query and performance tuning; root cause analysis for defect fix; development, testing and validation of complex packages, stored procedures, functions, triggers to help the organization reducing or preventing the revenue loss. Apart from Oracle database, I also work in Pentaho-Kettle ETL development environment for import/export Data in/out of Salesforce.com database for advanced analytics purpose.
+Responsibilities:
+*  Work in Agile-Scrum environment, coordinating in a big group (20 people) located in multiple locations and time zones (On-shore, near-shore, off-shore model). ; 
+*  Interact with the business specialists every Sprint in identifying the code defects, and providing fix by performing root cause analysis ; 
+*  Transform business requirements into Technical specification, involved in root cause analysis, database design, coding and implementing, Unit as well as Regression testing ; 
+*  Load Billions of rows from multiple kinds of sources (e.g National Data Warehouse - Teradata, Biller system - Oracle, CPOS - SQL Server) into oracle tables using DB Link, external table, SQL*Loaderas well as ETL tool Pentaho ; 
+*  Tuned SQL queries using EXPLAIN PLAN, Optimizer Hints and Indexes (simple as well as Composite) ; 
+*  Improved performance of large database (~ 10 TB) by creating index, partitioning tables, indexes, creating and tuning Materialized Viewsetc. ; 
+*  Frequently used MS excel like Pivot tables, charts, VLOOKUP for reporting purpose ; 
+*  Advanced Oracle and PL/SQL features like Collections, Bulk collect, Dynamic SQL, Analytic functions (e.g. row_number, rank etc.) in the new routines as well as to modify the existing routines work more efficiently ; 
+*  Load data to salesforce.com DB through complex Pentaho-Kettle job, transformations for advanced analytics ; 
+*  Regularly involved in Testing, Integration, production deployment and documentation of the project
+Environment: Oracle-11gR2, TOAD-11.5, SQL Developer-3.1, Windows 7, MS Excel 2013, Pentaho 4.4, Eclipse 4.3.2, Cygwin 1.7, Tortoise SVN</Description>
+<StartDate id='127_3_1'><YearMonth>2013-10</YearMonth></StartDate>
+<EndDate id='127_3_2'>notApplicable</EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='127' last_id='164' border_id='165'></TLSPAN>
+<MonthsOfWork>9</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='165_1'>FedEx Corporation</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='165_2'>
+<Municipality>Memphis</Municipality>
+<Region>TN</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='165_4_1'>Senior Oracle PL/SQL Developer</Title>
+<OrgName id='165_1'>FedEx Corporation</OrgName>
+
+
+
+<Description>The Security Data Research and Analysis group in FedEx Services is responsible for the analysis and forecasting of shipping volume, missing packages, loss claims etc. for each location, region and different operational-company of FedEx (Express, Ground, Freight etc.). It is also responsible for the detection of anomalous pattern, trend in various kinds of data e.g. lost packages, sales in a particular location or region etc. and report to the concerning region managing directors and managers. Databases used for storing and querying data are Oracle, Teradata and SQL-Server. As a database developer I am an integral part of the group and perform roles which touch upon almost all aspects of the groups' responsibilities. Some of my regular duties are: performing ETL tasks to bring data into oracle from various data-feeds and databases; creating stored packages, procedures, functions for processing data; performing statistical analysis on the processed data; generating reports for the managers etc.
+Responsibilities:
+*  Constantly interacted with the business analysts and managers for their requirements ; 
+*  Transforming business requirements into Technical Documentation, involved in analysis, database design, coding and implementing ; 
+*  Loaded Giga-bites of data into oracle tables using External table, Table partitioning, SQL*Loader, SSIS, Informatica and wrote batch scripts to automate the process. ; 
+*  Extensively used Oracle PL/SQL language to develop complex stored packages, procedures, functions, triggers, Text queries &#38; Text Indexes etc. to process raw data and prepare for the statistical analysis. ; 
+*  Extensively used statistical language like R, Python, software like Spotfire, spreadsheet like MS-excel (statistical functions, pivot table etc.) to perform statistical analysis. ; 
+*  Generated different kinds of reports e.g. drill down, nested summary detail reports as per management and business-analyst request using Oracle Report builder. ; 
+*  Automated jobs using oracle supplied package DBMS_SCHEDULER. ; 
+*  Frequently used advanced Oracle and PL/SQL features like Dynamic SQL, Ref-Cursor, Bulk collect, Analytic functions (e.g. ratio-to-report, rank etc.) in the new routines as well as to modify the existing routines work more efficiently. ; 
+*  Partitioned tables used Parallelism and created index to increase performance of large database (~ 5 TB). ; 
+*  Tuned SQL queries using EXPLAIN PLAN, Optimizer Hints and Indexes. ; 
+*  Used Java, web services to interact and pull data from XML DB. ; 
+*  Frequently interacted with the business-analysts to understand their requirements, the problems they faced and providing necessary technical support. ; 
+*  Held several quality control meetings to enforce standards, fixing bugs, presenting results, providing training. ; 
+*  Actively involved in Testing, Integration, Implementation,Documentation, Mentoring
+Environment: Oracle-11gR2, Teradata-14.00.03.09, Teradata Sql Assistant-13.11.0.3, SQL*Loader, Informatica-8.6, MS SQL-Server 2008, TOAD-11.5.0.56, SQL Developer-3.1.07, R-2.15.2, Windows7, MS Excel 2010, Python</Description>
+<StartDate id='165_3_1'><YearMonth>2012-10</YearMonth></StartDate>
+<EndDate id='165_3_2'><YearMonth>2013-09</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='165' last_id='215' border_id='218'></TLSPAN>
+<MonthsOfWork>12</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='216'>eCampusLynx</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='217'>
+<Municipality>Phoenix</Municipality>
+<Region>AZ</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='219_1'>Oracle PL/SQL Developer</Title>
+<Title id='219_2'>Administrator</Title>
+<OrgName id='216'>eCampusLynx</OrgName>
+
+
+
+<Description>eCampusLynx&#x2122;, an ORACLE based database software, focuses on comprehensive solution toadminister campus operations online. Today thesoftware is used by hundreds of schools, institutions, hospitals, healthcare industries and fashion industriesnationally and internationally,for administrating day to day campus operations like managing employee profile, taking student attendance, updating student ledger, monitoring student progress and setting up new campuses. This flexible system functions equally in a traditional or non-traditional learning environment and is customized exclusively to fit the institutions' needs. Several different modules e.g. programschedules, student profile, instructor profile, lead management, custom reportsetc. provide solutions for all the necessary functionality to run an institute smoothly and successfully.
+Responsibilities:
+*  Involved in analysis, database design, coding and implementing. ; 
+*  Installed and configured Oracle Database 10g/11g, Oracle Application server 9i/10g, Oracle Developer suite 10g in production environment. ; 
+*  During database migration used Stored Outlines to preserve Oracle Hints and benefit query performance. ; 
+*  Created Windows batch processes to automate loading data from flat file into Oracle table using SQL*Loader. ; 
+*  Regularly performed SQL query tuning using EXPLAIN PLAN, optimizer Hints and Indexes, Tkprof, Autotrace. ; 
+*  Wrote numerous DBA scripts using V$ views (e.g. V$sessions, V$parameters) to analyze the system load, monitor number of users logged on. ; 
+*  Used Oracle Import/Export, RMAN utilities to backup database. ; 
+*  Extensively used SQL, PL/SQL to develop packages, procedure, functions andtriggers. ; 
+*  Used Oracle Forms, Reports to customize according to the customer's need. ; 
+*  Extensively used ORACLE Discoverer for ad-hoc querying and reporting. ; 
+*  Developed drill down, group above, matrix, nested summary detail reports, using Reports 10g, which pulled the thousands of records in different formats. ; 
+*  Designed &#38; developed major input screen using Forms 10g. ; 
+*  Created complex forms which called reports; used stacked, tab canvas on a content canvas; used master-detailsrelationship triggers in several forms. ; 
+*  Migrated data from non-Oracle such as MS Access database to Oracle database using ESF data migration tool kit. ; 
+*  Interacted with end user for problems faced and providing necessary technical support by fixing the bugs. ; 
+*  Testing, Integration System test, Implementation (test with users) and documented the entire project.
+Environment: Oracle 10g/11g(SQL, PL/SQL), SQL Navigator 5.0, ORACLE Forms and Report builder 10g, Oracle Discoverer 10.1.2, SQL Developer data modeler 3.0, Windows server 2008,XP Professional.</Description>
+<StartDate id='218_1'><YearMonth>2010-06</YearMonth></StartDate>
+<EndDate id='218_2'><YearMonth>2012-09</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='216' last_id='264' border_id='265'></TLSPAN>
+<MonthsOfWork>28</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='265_1'>Property Tax Division - Department of Revenue</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='265_2'>
+<Municipality>Madison</Municipality>
+<Region>WI</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='265_4_1'>Oracle PL/SQL Consultant</Title>
+<OrgName id='265_1'>Property Tax Division - Department of Revenue</OrgName>
+
+
+
+<Description>IPAS is an interactive and efficient application used for all property tax transactions by property tax department as well as the state financial department of Wisconsin for tax calculation, e-filing of tax and refund processing. This application is used in all 72 property tax county offices of Wisconsin. IPAS stores name, address and assets information of all properties like land, building, vehicle &#38; natural resources (Water, forest, Minerals mines e.g. Copper, Iron etc.) that belongs to an individual or company that resides or operates in state of Wisconsin. Property tax division collects property tax, which is now calculated by the IPAS software, from an individual or company based on the assessed value of the property.
+Responsibilities:
+*  Involved in writing complex SQL statements to implement the business requirements. ; 
+*  Heavily involvedin developingPL/SQL packages, DMLtriggers, stored procedures to insert data in Oracle tables, checkdata consistency, calculate tax etc. ; 
+*  Wrote Cron jobs to automate SQL Loaderto load data from text files into the database. ; 
+*  Involved in fine tuning stored procedures by making use of PL/SQL Collections and its BULK FETCH and BULK INSERT/UPDATE/DELETE features. ; 
+*  Advanced features in PL/SQL such as Nested Tables, Records, Types, Varrays, Collections were extensively used for high performance of stored procedures. ; 
+*  Wrote complex SQL query with various Joins, sub-query, and nested query to create new reports and modified existing reports (group above, matrix) using Oracle Reports.&#x200b; ; 
+*  Involved in cleaning and maintaining migrated data by using Partitioned Tables and Indexes. ; 
+*  Involved in developing procedures using oracle supplied UTL_FILE package to read, write from ASCII files load it into Oracle forms through database tables. ; 
+*  Participated in system analysis and data modeling, which included creating tables, views, indexes, synonyms, triggers, functions, procedures, cursors and package. ; 
+*  Involved in daily monitoring and maintaining the IPAS database using Performance Analyzer, AWR snapshot and ADDM reportin OEM. ; 
+*  Extensive experience working with users/vendors and turning their requests into results.
+Environment: Oracle 9i/10g(SQL, PL/SQL), Oracle Forms/Reports 9i, SQL developer 2.1, PL/SQL developer 8.0, SQL Developer data modeler 2.0, HP-Unix, Bash/CShell scripting</Description>
+<StartDate id='265_3_1'><YearMonth>2009-06</YearMonth></StartDate>
+<EndDate id='265_3_2'><YearMonth>2010-05</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='265' last_id='299' border_id='300'></TLSPAN>
+<MonthsOfWork>12</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='300_1'>Oriental Bank of Commerce</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='300_2'>
+<Municipality>Calcutta</Municipality>
+<Region>West Bengal</Region>
+<CountryCode>IN</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='300_4_1'>Oracle PL/SQL Developer</Title>
+<OrgName id='300_1'>Oriental Bank of Commerce</OrgName>
+
+
+
+<Description>Oriental bank of commerce is one of the oldest banks in India, which has successfully integrated its credit information system with powerful and secure Oracle technology. The system has centralized database to maintain all relevant information regarding Credit Information. The transaction data will be ported to this centralized database from the branches either through data import or through manual entry. The system allows the user to generate various kinds of reports and queries e.g. Master Information, Transaction entry, Data import, Query/Report modules etc.
+Responsibilities:
+*  Incorporating all the business rules, writing code in SQL, PL/SQL. ; 
+*  Mapping Operational Repository to Business Repository elements and incorporating the build rules. ; 
+*  Used SQL Loader to load data into different tables from flat files. ; 
+*  Wrote stored procedures, functions and database triggers to perform and verify accounting. ; 
+*  Extensively used complex SQL queries with various Joins, sub-queriesto validate data. ; 
+*  Created reports using MS access tool according to specific guideline.
+Environment: Oracle database 9i, SQL, PL/SQL, SQL*PLUS, SQL*Loader, MS Access, Redhat enterprise Linux, Bash Shell scripting.</Description>
+<StartDate id='300_3_1'><YearMonth>2004-07</YearMonth></StartDate>
+<EndDate id='300_3_2'><YearMonth>2006-07</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='300' last_id='316' border_id='319'></TLSPAN>
+<MonthsOfWork>24</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='317'>National Center for Radio Astrophysics</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='318'>
+<Municipality>Pune</Municipality>
+<Region>Maharashtra</Region>
+<CountryCode>IN</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='319_2_1'>Oracle PL/SQL Intern</Title>
+<OrgName id='317'>National Center for Radio Astrophysics</OrgName>
+
+
+
+<Description>National Center for Radio Astrophysics (NCRA) of Tata Institute of Fundamental Research is a leading center of research and engineering related to a wide range of areas in astronomy and astrophysics. NCRA has built and operates the Radio Telescopes, which is located approximately 80 km north of Pune, India and one of the most powerful radio telescopes in the world. It isan Indian national scientific facility and being used by astronomers across the world, leading to several significant discoveries. As an intern I was involved in developing and enhancing signal processing and data analysis software, testing and designingOracle databaseetc.
+Responsibilities:
+*  Configured and maintained Red Hat enterprise Linux systems to streamline day-to-day operationsat GMRT, e.g. automatic astronomical data accusation, signal processing. ; 
+*  Installed and configuredOracle database 9i in development environment and monitor database performance using Oracle Enterprise Manager. ; 
+*  Used SQL Loader to load big (millions of rows) astronomical data set from ASCII files into different Oracle tables. ; 
+*  Wrote Linux shell scripts (Cron job) to automate data loading process. ; 
+*  Extensively coded in SQL and PL/SQL to develop stored procedures, functions and database triggers for data entry and validation. ; 
+*  Wrote software in C/C++, Java to process, analyze and visualize scientific quantities. ; 
+*  Role also included designingand testing Oracle database.
+Environment: Oracle database 9i, SQL*Plus, PL/SQL, SQL*Loader, Exp, Imp, C/C++, Redhat enterprise Linux, Bash/C Shell scripting, Python</Description>
+<StartDate id='319_1_1'><YearMonth>2003-06</YearMonth></StartDate>
+<EndDate id='319_1_2'><YearMonth>2004-06</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='317' last_id='351' border_id='0'></TLSPAN>
+<MonthsOfWork>12</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType='college'>
+
+
+
+
+<Degree degreeType='certification'>
+<DegreeName id='76_1'>Oracle Certified Professional 10g</DegreeName>
+<DegreeDate id='76_2'><YearMonth>2011-01</YearMonth></DegreeDate>
+</Degree>
+
+
+
+
+
+</SchoolOrInstitution>
+
+<SchoolOrInstitution schoolType='college'>
+
+
+
+
+<Degree degreeType='associates'>
+<DegreeName id='75_1'>Developer Certified Associate</DegreeName>
+<DegreeDate id='75_2'><YearMonth>2010-06</YearMonth></DegreeDate>
+</Degree>
+
+
+
+
+
+</SchoolOrInstitution>
+
+<SchoolOrInstitution schoolType='university'>
+<SchoolName id='74_2'>Arizona State University</SchoolName>
+<LocationSummary id='74_3'>
+<Municipality>Tempe</Municipality>
+<Region>AZ</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+
+
+<Degree degreeType='some post-graduate'>
+<DegreeName id='74_1'>Master of Science</DegreeName>
+<DegreeDate id='74_4'><YearMonth>2008-05</YearMonth></DegreeDate>
+</Degree>
+
+
+
+
+
+</SchoolOrInstitution>
+
+<SchoolOrInstitution schoolType='university'>
+<SchoolName id='73_2'>University of Calcutta</SchoolName>
+<LocationSummary id='73_3'>
+<Municipality>Calcutta</Municipality>
+<Region>West Bengal</Region>
+<CountryCode>IN</CountryCode>
+</LocationSummary>
+
+
+<Degree degreeType='some post-graduate'>
+<DegreeName id='73_1'>Bachelor of Science</DegreeName>
+<DegreeDate id='73_4'><YearMonth>2003-05</YearMonth></DegreeDate>
+</Degree>
+
+
+
+
+
+</SchoolOrInstitution>
+
+</EducationHistory>
+
+
+
+
+
+
+
+
+
+
+
+<Competency oids='13 14 42 48 54 59 65 135 147 150 155 159 173 178 184 194 196 202 221 231 236 237 241 249 251 279 285 303 309 332 340 341 ' description='Skill > IT' auth='yes' name='Oracle'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>97</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installation'><StringValue>Installation</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='configuration'><StringValue>configuration</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installed'><StringValue>Installed</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='configured'><StringValue>configured</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Oracle database</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installation and configuration of Oracle Database</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Oracle database, I I</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installed and configured Oracle Database</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Oracle database 9i 9i</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>91</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='23 28 30 51 82 117 151 239 242 256 277 278 283 292 304 307 310 333 ' description='Skill > IT' auth='yes' name='SQL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>85</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL queries</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>98</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='24 61 83 156 188 197 243 257 281 282 293 305 311 334 343 ' description='Skill > IT' auth='yes' name='Oracle PL/SQL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>97</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>PL/SQL</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>advanced PL/SQL</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='53 60 185 205 238 306 313 331 344 ' description='Skill > IT' auth='yes' name='Microsoft SQL*Loader'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>76</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL*Loader</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Loader</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='16 20 102 111 232 234 255 291 ' description='Skill > IT' auth='yes' name='Oracle 10G'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>40</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>10g 10g</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>70</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='18 45 67 104 246 248 284 ' description='Skill > IT' auth='yes' name='Oracle Report'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>40</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Oracle reports</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Reports</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>70</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='44 66 103 245 259 286 294 ' description='Skill > IT' auth='yes' name='Oracle Forms'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>40</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Forms</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>70</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='22 112 122 146 174 203 ' description='Skill > IT' auth='yes' name='Teradata'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Teradata-14 14</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Teradata-14.00 14.00</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='266 267 272 275 276 ' description='Skill' auth='yes' name='Property Tax'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='21 68 105 247 261 ' description='Skill > IT' auth='yes' name='Oracle Discoverer 2000'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Oracle Discoverer</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Discoverer</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Oracle Discoverer 10.1.2 10.1.2</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='15 19 101 110 290 ' description='Skill > IT' auth='yes' name='Oracle 9i'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>9i 9i</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='153 163 190 213 214 ' description='Skill > IT' auth='yes' name='Microsoft Excel'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS excel</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2010</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='36 58 120 187 206 ' description='Skill > IT' auth='yes' name='Informatica'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Informatica-8.6 8.6</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>83</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='34 56 136 152 177 ' description='Skill > IT' auth='yes' name='ETL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='development'><StringValue>development</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ETL tools</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ETL development</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ETL tool</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='35 57 121 186 ' description='Skill > IT' auth='yes' name='SQL Server Integration Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SSIS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>83</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='90 189 215 351 ' description='Skill > IT' auth='yes' name='Python Programming'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Python</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='97 315 327 347 ' description='Skill > IT' auth='yes' name='Linux Red Hat'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Linux (Red Hat)</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Redhat enterprise enterprise</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>23</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='11 316 328 348 ' description='Skill > IT' auth='yes' name='Linux'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>23</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='38 55 125 253 ' description='Skill > IT' auth='yes' name='Data Migration'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='52 92 350 ' description='Skill > IT' auth='yes' name='shell scripting'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Unix Shell scripts</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Unix Shell</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>19</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='8 182 229 ' description='Skill' auth='no' name='analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>40</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>analysis,</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='269 270 280 ' description='Skill' auth='yes' name='Taxation'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>tax</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='29 160 209 ' description='Skill > IT' auth='yes' name='TOAD'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>TOAD-11.5 11.5</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='40 134 143 ' description='Skill' auth='yes' name='Root Cause Analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='47 106 330 ' description='Skill > IT' auth='yes' name='Oracle Enterprise Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Enterprise Manager</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='12 98 250 ' description='Skill > IT' auth='yes' name='Microsoft Windows'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows environment</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Access database</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='149 175 207 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Server</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS SQL</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='250 308 314 ' description='Skill > IT' auth='yes' name='Microsoft Access'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>52</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Access database</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS access</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>70</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='84 198 339 ' description='Skill > IT' auth='yes' name='Java'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='144 183 230 ' description='Skill' auth='yes' name='Database Design'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>49</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>98</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='88 338 346 ' description='Skill > IT' auth='yes' name='C++'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>19</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='87 337 345 ' description='Skill > IT' auth='yes' name='C Programming Language'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>C</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>19</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='179 191 ' description='Skill' auth='no' name='statistical analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>83</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='200 254 ' description='Skill' auth='no' name='necessary technical support'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>40</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='10 94 ' description='Skill > IT' auth='yes' name='UNIX'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='312 342 ' description='Skill > IT' auth='yes' name='SQLPlus'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL*PLUS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>23</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='162 212 ' description='Skill > IT' auth='yes' name='Microsoft Windows 7'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows 7</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='99 263 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2008 Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Server 2008/XP/7 XP/7</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows server 2008</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='96 299 ' description='Skill > IT' auth='yes' name='HP-UX'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>HP-Unix</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='41 240 ' description='Skill' auth='yes' name='Database Administration'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>DBA</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='287 ' description='Skill' auth='no' name='system analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='9 ' description='Skill' auth='no' name='software Design'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='329 ' description='Skill' auth='no' name='signal processing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='171 ' description='Skill' auth='no' name='responsible for the detection'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='168 ' description='Skill' auth='no' name='responsible for the analysis and forecasting'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='129 ' description='Skill' auth='no' name='responsible for performing eligibility'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='271 ' description='Skill' auth='no' name='refund processing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>48</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='71 ' description='Skill' auth='no' name='production support and trouble shooting'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='158 ' description='Skill' auth='no' name='production deployment'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='142 ' description='Skill' auth='no' name='performing root cause analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='39 ' description='Skill' auth='no' name='leadership skills'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='228 ' description='Skill' auth='no' name='lead management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>72</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='335 ' description='Skill' auth='no' name='develop stored procedures'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>19</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='244 ' description='Skill' auth='no' name='develop packages'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='133 ' description='Skill' auth='no' name='data analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='288 ' description='Skill' auth='no' name='daily monitoring'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='199 ' description='Skill > IT' auth='yes' name='Web Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>83</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='95 ' description='Skill > IT' auth='yes' name='Sun Solaris'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Solaris</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='50 ' description='Skill > IT' auth='yes' name='Stored Procedures'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='7 ' description='Skill > IT' auth='yes' name='Software Development Life Cycle'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='161 ' description='Skill > IT' auth='no' name='SQL Developer 3.1'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Developer-3.1 3.1</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='295 ' description='Skill > IT' auth='no' name='Reports 9i'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Reports 9i 9i</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='145 ' description='Skill > IT' auth='yes' name='Regression Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='86 ' description='Skill > IT' auth='yes' name='REDUCE'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='108 ' description='Skill > IT' auth='yes' name='RDBMS'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='201 ' description='Skill' auth='yes' name='Quality Control'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>83</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='118 ' description='Skill > IT' auth='yes' name='Oracle Toad'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>TOAD</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='49 ' description='Skill > IT' auth='yes' name='Oracle Recovery Manager'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>RMAN</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='235 ' description='Skill > IT' auth='yes' name='Oracle Developer 2000'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Oracle Developer</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='233 ' description='Skill > IT' auth='yes' name='Oracle 9i Application Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Oracle Application server 9i 9i</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='17 ' description='Skill > IT' auth='yes' name='Oracle 10g Application Server'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Oracle Application server 10g</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='139 ' description='Skill' auth='yes' name='Onshore Oil &#38; Gas'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>On-shore</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='140 ' description='Skill' auth='yes' name='Offshore Oil &#38; Gas'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>off-shore</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='119 ' description='Skill > IT' auth='no' name='ORACLE Development Suite'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='258 ' description='Skill > IT' auth='yes' name='Netscape Navigator'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Navigator 5.0 5.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='264 ' description='Skill > IT' auth='yes' name='Microsoft Windows XP Professional'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>XP Professional</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='113 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server 2008'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Server 2008</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='89 ' description='Skill > IT' auth='yes' name='Matlab'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='85 ' description='Skill > IT' auth='no' name='Map'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='208 ' description='Skill > IT' auth='no' name='MS-SQLServer Server 2008'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Server 2008</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>83</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='225 ' description='Skill' auth='yes' name='Ledgers'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ledger</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>73</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='137 ' description='Skill' auth='yes' name='Import/Export'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>93</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='91 ' description='Skill > IT' auth='yes' name='HTML'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='170 ' description='Skill' auth='yes' name='Freight'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='164 ' description='Skill > IT' auth='yes' name='ECLiPSe'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Eclipse 4.3.2 4.3.2</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='25 ' description='Skill' auth='no' name='Data skills'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='80 ' description='Skill' auth='yes' name='Data Mining'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='336 ' description='Skill' auth='yes' name='Data Entry'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>19</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='62 ' description='Skill > IT' auth='yes' name='DML'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='43 ' description='Skill > IT' auth='yes' name='Client/Server'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Client-Server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='148 ' description='Skill > IT' auth='no' name='CPOS'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='349 ' description='Skill > IT' auth='no' name='Bash'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>19</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='107 ' description='Skill > IT' auth='yes' name='Apache Subversion'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SVN</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='63 ' description='Skill' auth='yes' name='Accident and Emergency'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ER</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='223_1 224_1 226_1 227_1 ' description='Held Position' auth='no' name='student'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>71</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='115_1 210_1 296_1 ' description='Held Position' auth='no' name='SQL developer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='64_1 262_1 298_1 ' description='Held Position' auth='no' name='SQL Developer data modeler'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>40</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>70</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='27_1 116_1 297_1 ' description='Held Position' auth='no' name='PLSQL developer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>PL/SQL developer</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='172_1 181_1 ' description='Held Position' auth='no' name='managers'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='31_1 46_1 ' description='Held Position' auth='no' name='developer'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='33_1 204_1 ' description='Held Position' auth='no' name='Teradata SQL Assistant'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>83</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='127_4_1 165_4_1 ' description='Held Position' auth='no' name='Senior Oracle PL/SQL Developer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='219_1 300_4_1 ' description='Held Position' auth='no' name='Oracle PL/SQL Developer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>52</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>75</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='132_1 ' description='Held Position' auth='no' name='senior oracle database developer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='222_1 ' description='Held Position' auth='no' name='employee'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>72</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='192_1 ' description='Held Position' auth='no' name='business-analyst'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>84</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='325_2 ' description='Held Position' auth='no' name='an intern'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='176_2 ' description='Held Position' auth='no' name='a database developer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='123_1 ' description='Held Position' auth='no' name='SQL Assistant'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='260_1 ' description='Held Position' auth='no' name='Report builder'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='70_1 ' description='Held Position' auth='no' name='Oracle forms Builder'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='69_1 ' description='Held Position' auth='no' name='Oracle Reports Builder'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='193_1 ' description='Held Position' auth='no' name='Oracle Report builder'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>83</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='319_2_1 ' description='Held Position' auth='no' name='Oracle PL/SQL Intern'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>23</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='265_4_1 ' description='Held Position' auth='no' name='Oracle PL/SQL Consultant'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='26_1 ' description='Held Position' auth='no' name='IDEslike SQL developer'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='32_1 ' description='Held Position' auth='no' name='Data Modeler'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='219_2 ' description='Held Position' auth='no' name='Administrator'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>74</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='76_1 ' description='Degree/Qualification > Professional' auth='yes' name='Oracle Certified Professional 10g'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Oracle Database 10g Administrator Certified Professional</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='74_1 ' description='Degree/Qualification' auth='yes' name='Masters Degree > Master of Science'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='75_1 ' description='Degree/Qualification > Professional' auth='no' name='Developer Certified Associate'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Oracle PL/SQL Developer Certified Associate</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='77 ' description='Degree/Qualification > Professional' auth='no' name='Cloudera Certified Developer'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='73_1 ' description='Degree/Qualification' auth='yes' name='Bachelors Degree > Bachelor of Science'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>BS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency description='Industry' auth='yes' name='industry~it'>
+<CompetencyEvidence name='skillCount' typeDescription='skillCount'><NumericValue>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+</Competency>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<RevisionDate id='1'>2014-06-25</RevisionDate>
+</StructuredXMLResume>
+<NonXMLResume>
+
+<TextResume>
+
+
+
+<span inprof='n' id='1' class='date'>{{DOCUMENT_DATESTAMP}} 2014-6-25 {{END_DOCUMENT_DATESTAMP}}</span>
+
+
+
+
+<span inprof='y' id='2' class='nominal'>Sourabh Sinha</span>
+<span inprof='y' id='3' class='location'>Phil, PA</span>
+<span inprof='y' id='4' class='telephone'>(480) 282-2255</span>
+<span inprof='y' id='5' class='email'>mr.sourabhsinha@gmail.com</span>
+
+CAREER UMMARY:
+*  <span inprof='n' id='6' class='duration'>Over 8 Years</span> of professional Experience in complete <span inprof='y' id='7' class='sofwr'>Software Development Life Cycle</span> that includes <span inprof='y' id='8' class='skill'>analysis,</span> <span inprof='y' id='9' class='skill'>software Design</span>, Development,implementation, maintenanceand migration on <span inprof='y' id='10' class='sofwr'>Unix</span>, <span inprof='y' id='11' class='sofwr'>Linux</span>, <span inprof='y' id='12' class='sofwr'>Windows environment</span> with proficiency in <span inprof='y' id='13' class='sofwr'>Oracle</span> technologies like <span inprof='y' id='14' class='sofwr'>Oracle database</span> <span inprof='y' id='15' class='sofwr'>9i</span>/<span inprof='y' id='16' class='sofwr'>10g</span>/11g, <span inprof='y' id='17' class='sofwr'>Oracle Application server 10g</span>, forms 9i/10g, <span inprof='y' id='18' class='sofwr'>Oracle reports</span> <span inprof='y' id='19' class='sofwr'>9i</span>/<span inprof='y' id='20' class='sofwr'>10g</span>, <span inprof='y' id='21' class='sofwr'>Oracle Discoverer</span>, <span inprof='y' id='22' class='sofwr'>Teradata</span> ; 
+*  Expertise inRelational database development languages like <span inprof='y' id='23' class='sofwr'>SQL</span> and <span inprof='y' id='24' class='sofwr'>PL/SQL</span>; Big-<span inprof='y' id='25' class='skill'>Data skills</span> like Hadoop, Map-Reduce, PIG, HIVE;<span inprof='y' id='26_1' class='role'>IDEslike SQL developer</span>, <span inprof='y' id='27_1' class='role'>PLSQL developer</span>, <span inprof='y' id='28' class='sofwr'>SQL</span> navigator, <span inprof='y' id='29' class='sofwr'>TOAD</span>, <span inprof='y' id='30' class='sofwr'>SQL</span> <span inprof='y' id='31_1' class='role'>developer</span> <span inprof='y' id='32_1' class='role'>Data Modeler</span>, <span inprof='y' id='33_1' class='role'>Teradata SQL Assistant</span>, eclipse; <span inprof='y' id='34' class='sofwr'>ETL tools</span> like <span inprof='y' id='35' class='sofwr'>SSIS</span>, <span inprof='y' id='36' class='sofwr'>Informatica</span>, Pentaho, <span inprof='n' id='37' class='company'>ESF</span> <span inprof='y' id='38' class='sofwr'>data migration</span> tool
+
+EXPERTISE:
+*  Excellent communication, quantitative, analytical and <span inprof='y' id='39' class='skill'>leadership skills</span>; Ability to work individually as well as in big team; Waterfall as well as Agile-scrum environment. ; 
+*  Transforming business requirements into technical specifications, involved in creating and implementing Technical Documentation, <span inprof='y' id='40' class='skill'>Root Cause analysis</span>, Defect fix. ; 
+*  <span inprof='y' id='41' class='skill'>DBA</span> duties like <span inprof='y' id='42' class='sofwr'>Installation and configuration of Oracle Database</span>, App server (<span inprof='y' id='43' class='sofwr'>Client-Server</span> architecture, e.g. <span inprof='y' id='44' class='sofwr'>Oracle Forms</span> &#38; <span inprof='y' id='45' class='sofwr'>Reports</span>), <span inprof='y' id='46_1' class='role'>Developer</span> suite, monitoring DB load and performance using <span inprof='y' id='47' class='sofwr'>Oracle Enterprise Manager</span>, Database backup using <span inprof='y' id='48' class='sofwr'>Oracle</span> Import/Export, <span inprof='y' id='49' class='sofwr'>RMAN</span> utilities. ; 
+*  Creating and designing database, table space, datafiles, tables, views, Materialized views, roles, indexes, DB Links, Cursors, <span inprof='y' id='50' class='sofwr'>Stored Procedures</span>, Packages, database Triggers. ; 
+*  Tuning <span inprof='y' id='51' class='sofwr'>SQL queries</span> using Tkprof, EXPLAIN PLAN, optimizer Hints and Indexes, Parallelism, Stored Outlinesetc. ; 
+*  Windows batch processes and <span inprof='y' id='52' class='sofwr'>Unix Shell scripts</span> (e.g. crontab) to automate processes e.g. exporting data form specific schema, importing Billions of rows using <span inprof='y' id='53' class='sofwr'>SQL*Loader</span> and External tables from flat files to <span inprof='y' id='54' class='sofwr'>Oracle</span> tables. ; 
+*  <span inprof='y' id='55' class='sofwr'>Data migration</span> using <span inprof='y' id='56' class='sofwr'>ETL tools</span> such as Pentaho, <span inprof='y' id='57' class='sofwr'>SSIS</span>, <span inprof='y' id='58' class='sofwr'>Informatica</span> as well as <span inprof='y' id='59' class='sofwr'>Oracle</span> native <span inprof='y' id='60' class='sofwr'>SQL*Loader</span> and External tables ; 
+*  Use ofscalar, groupand analytical functions like ROW_NUMBER, RANK and DENSE_RANK, LEAD, LAGetc. ; 
+*  Frequent useof <span inprof='y' id='61' class='sofwr'>advanced PL/SQL</span> features such as Collections (Nested Tables, Associative Arrays, Varray), bulk-binding techniques like BULK-COLLECT, FORALL and BULK-<span inprof='y' id='62' class='sofwr'>DML</span> operations (BULK-insert/update/delete) Records, Types, Objects, Dynamic SQL; packages such asUTL_FILE, UTL_MAIL. ; 
+*  Experience in Entity Relation (<span inprof='y' id='63' class='skill'>ER</span>) diagram using <span inprof='y' id='64_1' class='role'>SQL Developer data modeler</span>. ; 
+*  Development using applications such as <span inprof='y' id='65' class='sofwr'>ORACLE</span> <span inprof='y' id='66' class='sofwr'>Forms</span>, <span inprof='y' id='67' class='sofwr'>Reports</span>, <span inprof='y' id='68' class='sofwr'>Discoverer</span> etc. ; 
+*  Development of master-detail, drill down, matrix, nested summary detail reports using <span inprof='y' id='69_1' class='role'>Oracle Reports Builder</span> which pulled thousands of records in different formats. ; 
+*  Creating complex screens using <span inprof='y' id='70_1' class='role'>Oracle forms Builder</span> templates, calling reports from it. ; 
+*  Experience in <span inprof='y' id='71' class='skill'>production support and trouble shooting</span> of database applications.
+
+<span inprof='n' id='72' class='edu-hist-mark'>Education &#38; Certification:</span>
+    *  <span inprof='y' id='73_1' class='qualif'>BS</span>, <span inprof='y' id='73_2' class='educational'>University of Calcutta</span>, <span inprof='y' id='73_3' class='location'>Calcutta, India</span>         <span inprof='y' id='73_4' class='date'>May, 2003</span>
+
+    *  <span inprof='y' id='74_1' class='qualif'>MS</span>, <span inprof='y' id='74_2' class='educational'>Arizona State University</span>, <span inprof='y' id='74_3' class='location'>Tempe, AZ, USA</span> 	       <span inprof='y' id='74_4' class='date'>May, 2008</span>
+
+    *  <span inprof='y' id='75_1' class='qualif'>Oracle PL/SQL Developer Certified Associate</span>                         <span inprof='y' id='75_2' class='date'>June, 2010</span>
+
+    *  <span inprof='y' id='76_1' class='qualif'>Oracle Database 10g Administrator Certified Professional</span>	<span inprof='y' id='76_2' class='date'>January, 2011</span>
+
+    *  <span inprof='y' id='77' class='qualif'>Cloudera Certified Developer</span> for <span inprof='n' id='78' class='company'>Apache Hadoop</span> CDH4       <span inprof='n' id='79' class='date'>February, 2014</span>
+
+    *  <span inprof='y' id='80' class='skill'>Data Mining</span> with WEKA                               <span inprof='n' id='81' class='date'>May, 2014</span>
+
+
+TECHNICAL SKILLS
+Programming                : <span inprof='y' id='82' class='sofwr'>SQL</span>, <span inprof='y' id='83' class='sofwr'>PL/SQL</span>, Hive, Pig, <span inprof='y' id='84' class='sofwr'>Java</span>, <span inprof='y' id='85' class='sofwr'>Map</span>-<span inprof='y' id='86' class='sofwr'>Reduce</span>, <span inprof='y' id='87' class='sofwr'>C</span>, <span inprof='y' id='88' class='sofwr'>C++</span>, R, <span inprof='y' id='89' class='sofwr'>MATLAB</span>, <span inprof='y' id='90' class='sofwr'>Python</span>,
+                           <span inprof='y' id='91' class='sofwr'>HTML</span>, <span inprof='y' id='92' class='sofwr'>Unix Shell</span> Scrip
+<span inprof='n' id='93' class='title-line'>Operating Systems</span>          : <span inprof='y' id='94' class='sofwr'>UNIX</span> (<span inprof='y' id='95' class='sofwr'>Solaris</span>, <span inprof='y' id='96' class='sofwr'>HP-UX</span>), <span inprof='y' id='97' class='sofwr'>Linux (Red Hat)</span>, <span inprof='y' id='98' class='sofwr'>Windows</span> (<span inprof='y' id='99' class='sofwr'>Server 2008/XP/7</span>)
+Development Tool           : <span inprof='n' id='100' class='sofwr'>Oracle</span> <span inprof='y' id='101' class='sofwr'>9i</span>/<span inprof='y' id='102' class='sofwr'>10g</span> <span inprof='y' id='103' class='sofwr'>Forms</span>, <span inprof='y' id='104' class='sofwr'>Reports</span>, <span inprof='y' id='105' class='sofwr'>Discoverer</span>, <span inprof='y' id='106' class='sofwr'>Enterprise Manager</span>, <span inprof='y' id='107' class='sofwr'>SVN</span>
+<span inprof='y' id='108' class='sofwr'>RDBMS</span>                      : <span inprof='n' id='109' class='sofwr'>Oracle</span> <span inprof='y' id='110' class='sofwr'>9i</span>/<span inprof='y' id='111' class='sofwr'>10g</span>/11g, <span inprof='y' id='112' class='sofwr'>Teradata-14</span>, <span inprof='y' id='113' class='sofwr'>SQL Server 2008</span>, <span inprof='n' id='114' class='educational'>MS Access
+IDE</span>                        : <span inprof='y' id='115_1' class='role'>SQL developer</span>, <span inprof='y' id='116_1' class='role'>PLSQL developer</span>, <span inprof='y' id='117' class='sofwr'>SQL</span> navigator, <span inprof='y' id='118' class='sofwr'>TOAD</span>, <span inprof='y' id='119' class='sofwr'>Oracle Development
+                           Suite</span>, <span inprof='y' id='120' class='sofwr'>Informatica</span>, <span inprof='y' id='121' class='sofwr'>SSIS</span>, <span inprof='y' id='122' class='sofwr'>Teradata</span> <span inprof='y' id='123_1' class='role'>SQL Assistant</span>, <span inprof='n' id='124' class='company'>Eclipse</span>, Pentaho, ESF <span inprof='y' id='125' class='sofwr'>Data
+                           Migration</span> toolkit, SQL Developer Data Modeling
+
+<span inprof='n' id='126' class='work-hist-mark'>PROFESSIONAL EXPERIENCE</span>
+<span inprof='y' id='127_1' class='company'>COMCAST Corporation</span>, <span inprof='y' id='127_2' class='location'>Philadelphia, PA</span>                                <span inprof='y' id='127_3_1' class='date'>October, 2013</span> - <span inprof='y' id='127_3_2' class='date'>Current</span>
+<span inprof='y' id='127_4_1' class='role'>Senior Oracle PL/SQL Developer</span>
+RECON system at <span inprof='n' id='128' class='company'>COMCAST</span> is <span inprof='y' id='129' class='skill'>responsible for performing eligibility</span> check and decision-making on commission payment to <span inprof='n' id='130' class='company'>the COMCAST</span> affiliates like <span inprof='n' id='131' class='company'>Verizon</span>, BestBuy for bringing in customer to the corporation. As a <span inprof='y' id='132_1' class='role'>senior oracle database developer</span> my responsibilities include but not limited to research and <span inprof='y' id='133' class='skill'>data analysis</span>; database query and performance tuning; <span inprof='y' id='134' class='skill'>root cause analysis</span> for defect fix; development, testing and validation of complex packages, stored procedures, functions, triggers to help the organization reducing or preventing the revenue loss. Apart from <span inprof='y' id='135' class='sofwr'>Oracle database, I</span> also work in Pentaho-Kettle <span inprof='y' id='136' class='sofwr'>ETL development</span> environment for <span inprof='y' id='137' class='skill'>import/export</span> Data in/out of <span inprof='n' id='138' class='internet-web-address'>Salesforce.com</span> database for advanced analytics purpose.
+Responsibilities:
+*  Work in Agile-Scrum environment, coordinating in a big group (20 people) located in multiple locations and time zones (<span inprof='y' id='139' class='skill'>On-shore</span>, near-shore, <span inprof='y' id='140' class='skill'>off-shore</span> model). ; 
+*  Interact with the business specialists every <span inprof='n' id='141' class='company'>Sprint</span> in identifying the code defects, and providing fix by <span inprof='y' id='142' class='skill'>performing root cause analysis</span> ; 
+*  Transform business requirements into Technical specification, involved in <span inprof='y' id='143' class='skill'>root cause analysis</span>, <span inprof='y' id='144' class='skill'>database design</span>, coding and implementing, Unit as well as <span inprof='y' id='145' class='sofwr'>Regression testing</span> ; 
+*  Load Billions of rows from multiple kinds of sources (e.g National Data Warehouse - <span inprof='y' id='146' class='sofwr'>Teradata</span>, Biller system - <span inprof='y' id='147' class='sofwr'>Oracle</span>, <span inprof='y' id='148' class='sofwr'>CPOS</span> - <span inprof='y' id='149' class='sofwr'>SQL Server</span>) into <span inprof='y' id='150' class='sofwr'>oracle</span> tables using DB Link, external table, <span inprof='y' id='151' class='sofwr'>SQL</span>*Loaderas well as <span inprof='y' id='152' class='sofwr'>ETL tool</span> Pentaho ; 
+*  Tuned SQL queries using EXPLAIN PLAN, Optimizer Hints and Indexes (simple as well as Composite) ; 
+*  Improved performance of large database (~ 10 TB) by creating index, partitioning tables, indexes, creating and tuning Materialized Viewsetc. ; 
+*  Frequently used <span inprof='y' id='153' class='sofwr'>MS excel</span> like Pivot tables, charts, VLOOKUP for reporting purpose ; 
+*  <span inprof='n' id='154' class='skill'>Advanced</span> <span inprof='y' id='155' class='sofwr'>Oracle</span> and <span inprof='y' id='156' class='sofwr'>PL/SQL</span> features like Collections, Bulk collect, Dynamic SQL, Analytic functions (e.g. row_number, rank etc.) in the new routines as well as to modify the existing routines work more efficiently ; 
+*  Load data to <span inprof='n' id='157' class='internet-web-address'>salesforce.com</span> DB through complex Pentaho-Kettle job, transformations for advanced analytics ; 
+*  Regularly involved in Testing, Integration, <span inprof='y' id='158' class='skill'>production deployment</span> and documentation of the project
+Environment: <span inprof='y' id='159' class='sofwr'>Oracle</span>-11gR2, <span inprof='y' id='160' class='sofwr'>TOAD-11.5</span>, <span inprof='y' id='161' class='sofwr'>SQL Developer-3.1</span>, <span inprof='y' id='162' class='sofwr'>Windows 7</span>, <span inprof='y' id='163' class='sofwr'>MS Excel</span> 2013, Pentaho 4.4, <span inprof='y' id='164' class='sofwr'>Eclipse 4.3.2</span>, Cygwin 1.7, Tortoise SVN
+
+<span inprof='y' id='165_1' class='company'>FedEx Corporation</span>, <span inprof='y' id='165_2' class='location'>Memphis, TN</span>          <span inprof='y' id='165_3_1' class='date'>October, 2012</span> - <span inprof='y' id='165_3_2' class='date'>September, 2013</span>
+<span inprof='y' id='165_4_1' class='role'>Senior Oracle PL/SQL Developer</span>
+<span inprof='n' id='166' class='company'>The Security Data Research</span> and <span inprof='n' id='167' class='company'>Analysis group in FedEx Services</span> is <span inprof='y' id='168' class='skill'>responsible for the analysis and forecasting</span> of shipping volume, missing packages, loss claims etc. for each location, region and different operational-<span inprof='n' id='169' class='company'>company of FedEx</span> (Express, Ground, <span inprof='y' id='170' class='skill'>Freight</span> etc.). It is also <span inprof='y' id='171' class='skill'>responsible for the detection</span> of anomalous pattern, trend in various kinds of data e.g. lost packages, sales in a particular location or region etc. and report to the concerning region managing directors and <span inprof='y' id='172_1' class='role'>managers</span>. Databases used for storing and querying data are <span inprof='y' id='173' class='sofwr'>Oracle</span>, <span inprof='y' id='174' class='sofwr'>Teradata</span> and <span inprof='y' id='175' class='sofwr'>SQL-Server</span>. <span inprof='n' id='176_1' class='some-position'>As</span> <span inprof='y' id='176_2' class='role'>a database developer</span> I am an integral part of the group and perform roles which touch upon almost all aspects of the groups' responsibilities. Some of my regular duties are: performing <span inprof='y' id='177' class='sofwr'>ETL</span> tasks to bring data into <span inprof='y' id='178' class='sofwr'>oracle</span> from various data-feeds and databases; creating stored packages, procedures, functions for processing data; performing <span inprof='y' id='179' class='skill'>statistical analysis</span> on the processed data; generating reports <span inprof='n' id='180' class='bad-occupation'>for the managers</span> etc.
+Responsibilities:
+*  Constantly interacted with the business analysts and <span inprof='y' id='181_1' class='role'>managers</span> for their requirements ; 
+*  Transforming business requirements into Technical Documentation, involved in <span inprof='y' id='182' class='skill'>analysis,</span> <span inprof='y' id='183' class='skill'>database design</span>, coding and implementing ; 
+*  Loaded Giga-bites of data into <span inprof='y' id='184' class='sofwr'>oracle</span> tables using External table, Table partitioning, <span inprof='y' id='185' class='sofwr'>SQL*Loader</span>, <span inprof='y' id='186' class='sofwr'>SSIS</span>, <span inprof='y' id='187' class='sofwr'>Informatica</span> and wrote batch scripts to automate the process. ; 
+*  Extensively used <span inprof='y' id='188' class='sofwr'>Oracle PL/SQL</span> language to develop complex stored packages, procedures, functions, triggers, Text queries &#38; Text Indexes etc. to process raw data and prepare for the statistical analysis. ; 
+*  Extensively used statistical language like R, <span inprof='y' id='189' class='sofwr'>Python</span>, software like Spotfire, spreadsheet like <span inprof='y' id='190' class='sofwr'>MS-excel</span> (statistical functions, pivot table etc.) to perform <span inprof='y' id='191' class='skill'>statistical analysis</span>. ; 
+*  Generated different kinds of reports e.g. drill down, nested summary detail reports as per management and <span inprof='y' id='192_1' class='role'>business-analyst</span> request using <span inprof='y' id='193_1' class='role'>Oracle Report builder</span>. ; 
+*  Automated jobs using <span inprof='y' id='194' class='sofwr'>oracle</span> supplied package DBMS_SCHEDULER. ; 
+*  Frequently used <span inprof='n' id='195' class='skill'>advanced</span> <span inprof='y' id='196' class='sofwr'>Oracle</span> and <span inprof='y' id='197' class='sofwr'>PL/SQL</span> features like Dynamic SQL, Ref-Cursor, Bulk collect, Analytic functions (e.g. ratio-to-report, rank etc.) in the new routines as well as to modify the existing routines work more efficiently. ; 
+*  Partitioned tables used Parallelism and created index to increase performance of large database (~ 5 TB). ; 
+*  Tuned SQL queries using EXPLAIN PLAN, Optimizer Hints and Indexes. ; 
+*  Used <span inprof='y' id='198' class='sofwr'>Java</span>, <span inprof='y' id='199' class='sofwr'>web services</span> to interact and pull data from XML DB. ; 
+*  Frequently interacted with the business-analysts to understand their requirements, the problems they faced and providing <span inprof='y' id='200' class='skill'>necessary technical support</span>. ; 
+*  Held several <span inprof='y' id='201' class='skill'>quality control</span> meetings to enforce standards, fixing bugs, presenting results, providing training. ; 
+*  Actively involved in Testing, Integration, Implementation,Documentation, Mentoring
+Environment: <span inprof='y' id='202' class='sofwr'>Oracle</span>-11gR2, <span inprof='y' id='203' class='sofwr'>Teradata-14.00</span>.03.09, <span inprof='y' id='204_1' class='role'>Teradata Sql Assistant</span>-13.11.0.3, <span inprof='y' id='205' class='sofwr'>SQL*Loader</span>, <span inprof='y' id='206' class='sofwr'>Informatica-8.6</span>, <span inprof='y' id='207' class='sofwr'>MS SQL</span>-<span inprof='y' id='208' class='sofwr'>Server 2008</span>, <span inprof='y' id='209' class='sofwr'>TOAD-11.5</span>.0.56, <span inprof='y' id='210_1' class='role'>SQL Developer</span>-<span inprof='n' id='211' class='date'>3.1.07</span>, R-2.15.2, <span inprof='y' id='212' class='sofwr'>Windows7</span>, <span inprof='y' id='213' class='sofwr'>MS Excel</span> <span inprof='y' id='214' class='sofwr'>2010</span>, <span inprof='y' id='215' class='sofwr'>Python</span>
+
+<span inprof='y' id='216' class='company'>eCampusLynx</span>&#x2122;, <span inprof='y' id='217' class='location'>Phoenix, AZ</span>                    <span inprof='y' id='218_1' class='date'>June, 2010</span> - <span inprof='y' id='218_2' class='date'>September, 2012</span>
+<span inprof='y' id='219_1' class='role'>Oracle PL/SQL Developer</span>&#38; <span inprof='y' id='219_2' class='role'>Administrator</span>
+<span inprof='y' id='220' class='company'>eCampusLynx</span>&#x2122;, an <span inprof='y' id='221' class='sofwr'>ORACLE</span> based database software, focuses on comprehensive solution toadminister campus operations online. Today thesoftware is used by hundreds of schools, institutions, hospitals, healthcare industries and fashion industriesnationally and internationally,for administrating day to day campus operations like managing <span inprof='y' id='222_1' class='role'>employee</span> profile, taking <span inprof='y' id='223_1' class='role'>student</span> attendance, updating <span inprof='y' id='224_1' class='role'>student</span> <span inprof='y' id='225' class='skill'>ledger</span>, monitoring <span inprof='y' id='226_1' class='role'>student</span> progress and setting up new campuses. This flexible system functions equally in a traditional or non-traditional learning environment and is customized exclusively to fit the institutions' needs. Several different modules e.g. programschedules, <span inprof='y' id='227_1' class='role'>student</span> profile, instructor profile, <span inprof='y' id='228' class='skill'>lead management</span>, custom reportsetc. provide solutions for all the necessary functionality to run an institute smoothly and successfully.
+Responsibilities:
+*  Involved in <span inprof='y' id='229' class='skill'>analysis,</span> <span inprof='y' id='230' class='skill'>database design</span>, coding and implementing. ; 
+*  <span inprof='y' id='231' class='sofwr'>Installed and configured Oracle Database</span> <span inprof='y' id='232' class='sofwr'>10g</span>/11g, <span inprof='y' id='233' class='sofwr'>Oracle Application server 9i</span>/<span inprof='y' id='234' class='sofwr'>10g</span>, <span inprof='y' id='235' class='sofwr'>Oracle Developer</span> suite 10g in production environment. ; 
+*  During database migration used Stored Outlines to preserve <span inprof='y' id='236' class='sofwr'>Oracle</span> Hints and benefit query performance. ; 
+*  Created Windows batch processes to automate loading data from flat file into <span inprof='y' id='237' class='sofwr'>Oracle</span> table using <span inprof='y' id='238' class='sofwr'>SQL*Loader</span>. ; 
+*  Regularly performed <span inprof='y' id='239' class='sofwr'>SQL</span> query tuning using EXPLAIN PLAN, optimizer Hints and Indexes, Tkprof, Autotrace. ; 
+*  Wrote numerous <span inprof='y' id='240' class='skill'>DBA</span> scripts using V$ views (e.g. V$sessions, V$parameters) to analyze the system load, monitor number of users logged on. ; 
+*  Used <span inprof='y' id='241' class='sofwr'>Oracle</span> Import/Export, RMAN utilities to backup database. ; 
+*  Extensively used <span inprof='y' id='242' class='sofwr'>SQL</span>, <span inprof='y' id='243' class='sofwr'>PL/SQL</span> to <span inprof='y' id='244' class='skill'>develop packages</span>, procedure, functions andtriggers. ; 
+*  Used <span inprof='y' id='245' class='sofwr'>Oracle Forms</span>, <span inprof='y' id='246' class='sofwr'>Reports</span> to customize according to the customer's need. ; 
+*  Extensively used <span inprof='y' id='247' class='sofwr'>ORACLE Discoverer</span> for ad-hoc querying and reporting. ; 
+*  Developed drill down, group above, matrix, nested summary detail reports, using <span inprof='y' id='248' class='sofwr'>Reports</span> 10g, which pulled the thousands of records in different formats. ; 
+*  Designed &#38; developed major input screen using Forms 10g. ; 
+*  Created complex forms which called reports; used stacked, tab canvas on a content canvas; used master-detailsrelationship triggers in several forms. ; 
+*  Migrated data from non-<span inprof='y' id='249' class='sofwr'>Oracle</span> such as <span inprof='y' id='250' class='sofwr'>MS Access database</span> to <span inprof='y' id='251' class='sofwr'>Oracle database</span> using <span inprof='n' id='252' class='company'>ESF</span> <span inprof='y' id='253' class='sofwr'>data migration</span> tool kit. ; 
+*  Interacted with end user for problems faced and providing <span inprof='y' id='254' class='skill'>necessary technical support</span> by fixing the bugs. ; 
+*  Testing, Integration System test, Implementation (test with users) and documented the entire project.
+Environment: <span inprof='y' id='255' class='sofwr'>Oracle 10g</span>/11g(<span inprof='y' id='256' class='sofwr'>SQL</span>, <span inprof='y' id='257' class='sofwr'>PL/SQL</span>), SQL <span inprof='y' id='258' class='sofwr'>Navigator 5.0</span>, <span inprof='y' id='259' class='sofwr'>ORACLE Forms</span> and <span inprof='y' id='260_1' class='role'>Report builder</span> 10g, <span inprof='y' id='261' class='sofwr'>Oracle Discoverer 10.1.2</span>, <span inprof='y' id='262_1' class='role'>SQL Developer data modeler</span> 3.0, <span inprof='y' id='263' class='sofwr'>Windows server 2008</span>,<span inprof='y' id='264' class='sofwr'>XP Professional</span>.
+
+<span inprof='y' id='265_1' class='company'>Property Tax Division - Department of Revenue</span>, <span inprof='y' id='265_2' class='location'>Madison, WI</span>                      <span inprof='y' id='265_3_1' class='date'>June, 2009</span> - <span inprof='y' id='265_3_2' class='date'>May, 2010</span>
+<span inprof='y' id='265_4_1' class='role'>Oracle PL/SQL Consultant</span>, Integrated Property Assessment System (IPAS)
+IPAS is an interactive and efficient application used for all <span inprof='y' id='266' class='skill'>property tax</span> transactions by <span inprof='y' id='267' class='skill'>property tax</span> department as well as the state financial <span inprof='n' id='268' class='educational'>department of Wisconsin</span> for <span inprof='y' id='269' class='skill'>tax</span> calculation, e-filing of <span inprof='y' id='270' class='skill'>tax</span> and <span inprof='y' id='271' class='skill'>refund processing</span>. This application is used in all 72 <span inprof='y' id='272' class='skill'>property tax</span> county offices of <span inprof='n' id='273' class='location'>Wisconsin</span>. IPAS stores name, address and assets information of all properties like land, building, vehicle &#38; natural resources (Water, forest, Minerals mines e.g. Copper, Iron etc.) that belongs to an individual or company that resides or operates in state of <span inprof='n' id='274' class='location'>Wisconsin</span>. <span inprof='y' id='275' class='skill'>Property tax</span> division collects <span inprof='y' id='276' class='skill'>property tax</span>, which is now calculated by the IPAS software, from an individual or company based on the assessed value of the property.
+Responsibilities:
+*  Involved in writing complex <span inprof='y' id='277' class='sofwr'>SQL</span> statements to implement the business requirements. ; 
+*  Heavily involvedin developingPL/<span inprof='y' id='278' class='sofwr'>SQL</span> packages, DMLtriggers, stored procedures to insert data in <span inprof='y' id='279' class='sofwr'>Oracle</span> tables, checkdata consistency, calculate <span inprof='y' id='280' class='skill'>tax</span> etc. ; 
+*  Wrote Cron jobs to automate SQL Loaderto load data from text files into the database. ; 
+*  Involved in fine tuning stored procedures by making use of <span inprof='y' id='281' class='sofwr'>PL/SQL</span> Collections and its BULK FETCH and BULK INSERT/UPDATE/DELETE features. ; 
+*  Advanced features in <span inprof='y' id='282' class='sofwr'>PL/SQL</span> such as Nested Tables, Records, Types, Varrays, Collections were extensively used for high performance of stored procedures. ; 
+*  Wrote complex <span inprof='y' id='283' class='sofwr'>SQL</span> query with various Joins, sub-query, and nested query to create new reports and modified existing reports (group above, matrix) using <span inprof='y' id='284' class='sofwr'>Oracle Reports</span>.&#x200b; ; 
+*  Involved in cleaning and maintaining migrated data by using Partitioned Tables and Indexes. ; 
+*  Involved in developing procedures using <span inprof='y' id='285' class='sofwr'>oracle</span> supplied UTL_FILE package to read, write from ASCII files load it into <span inprof='y' id='286' class='sofwr'>Oracle forms</span> through database tables. ; 
+*  Participated in <span inprof='y' id='287' class='skill'>system analysis</span> and data modeling, which included creating tables, views, indexes, synonyms, triggers, functions, procedures, cursors and package. ; 
+*  Involved in <span inprof='y' id='288' class='skill'>daily monitoring</span> and maintaining the IPAS database using Performance Analyzer, AWR snapshot and ADDM reportin OEM. ; 
+*  Extensive experience working with users/vendors and turning their requests into results.
+Environment: <span inprof='n' id='289' class='sofwr'>Oracle</span> <span inprof='y' id='290' class='sofwr'>9i</span>/<span inprof='y' id='291' class='sofwr'>10g</span>(<span inprof='y' id='292' class='sofwr'>SQL</span>, <span inprof='y' id='293' class='sofwr'>PL/SQL</span>), <span inprof='y' id='294' class='sofwr'>Oracle Forms</span>/<span inprof='y' id='295' class='sofwr'>Reports 9i</span>, <span inprof='y' id='296_1' class='role'>SQL developer</span> 2.1, <span inprof='y' id='297_1' class='role'>PL/SQL developer</span> 8.0, <span inprof='y' id='298_1' class='role'>SQL Developer data modeler</span> 2.0, <span inprof='y' id='299' class='sofwr'>HP-Unix</span>, Bash/CShell scripting
+
+
+<span inprof='y' id='300_1' class='company'>Oriental Bank of Commerce</span>, <span inprof='y' id='300_2' class='location'>Calcutta, India</span>                           <span inprof='y' id='300_3_1' class='date'>July, 2004</span> - <span inprof='y' id='300_3_2' class='date'>July, 2006</span>
+<span inprof='y' id='300_4_1' class='role'>Oracle PL/SQL Developer</span>, Credit Information System
+<span inprof='n' id='301' class='company'>Oriental bank of commerce</span> is one of the oldest banks in <span inprof='n' id='302' class='location'>India</span>, which has successfully integrated its credit information system with powerful and secure <span inprof='y' id='303' class='sofwr'>Oracle</span> technology. The system has centralized database to maintain all relevant information regarding Credit Information. The transaction data will be ported to this centralized database from the branches either through data import or through manual entry. The system allows the user to generate various kinds of reports and queries e.g. Master Information, Transaction entry, Data import, Query/Report modules etc.
+Responsibilities:
+*  Incorporating all the business rules, writing code in <span inprof='y' id='304' class='sofwr'>SQL</span>, <span inprof='y' id='305' class='sofwr'>PL/SQL</span>. ; 
+*  Mapping Operational Repository to Business Repository elements and incorporating the build rules. ; 
+*  Used <span inprof='y' id='306' class='sofwr'>SQL Loader</span> to load data into different tables from flat files. ; 
+*  Wrote stored procedures, functions and database triggers to perform and verify accounting. ; 
+*  Extensively used complex <span inprof='y' id='307' class='sofwr'>SQL queries</span> with various Joins, sub-queriesto validate data. ; 
+*  Created reports using <span inprof='y' id='308' class='sofwr'>MS access</span> tool according to specific guideline.
+Environment: <span inprof='y' id='309' class='sofwr'>Oracle database 9i</span>, <span inprof='y' id='310' class='sofwr'>SQL</span>, <span inprof='y' id='311' class='sofwr'>PL/SQL</span>, <span inprof='y' id='312' class='sofwr'>SQL*PLUS</span>, <span inprof='y' id='313' class='sofwr'>SQL*Loader</span>, <span inprof='y' id='314' class='sofwr'>MS Access</span>, <span inprof='y' id='315' class='sofwr'>Redhat enterprise</span> <span inprof='y' id='316' class='sofwr'>Linux</span>, Bash Shell scripting.
+
+<span inprof='y' id='317' class='educational'>National Center for Radio Astrophysics</span>, <span inprof='y' id='318' class='location'>Pune, India</span>             <span inprof='y' id='319_1_1' class='date'>June, 2003</span>- <span inprof='y' id='319_1_2' class='date'>June, 2004</span>
+<span inprof='y' id='319_2_1' class='role'>Oracle PL/SQL Intern</span>
+<span inprof='n' id='319_3' class='educational'>National Center for Radio Astrophysics (NCRA)</span> of <span inprof='n' id='320' class='educational'>Tata Institute of Fundamental Research</span> is a leading center of <span inprof='n' id='321' class='qualif'>research and engineering</span> related to a wide range of areas in <span inprof='n' id='322' class='qualif'>astronomy and astrophysics</span>. <span inprof='n' id='323' class='educational'>NCRA</span> has built and operates the Radio Telescopes, which is located approximately 80 km north of <span inprof='y' id='324' class='location'>Pune, India</span> and one of the most powerful radio telescopes in the world. It isan Indian national scientific facility and being used by astronomers across the world, leading to several significant discoveries. <span inprof='n' id='325_1' class='some-position'>As</span> <span inprof='y' id='325_2' class='role'>an intern</span> I was involved in developing and enhancing <span inprof='n' id='326' class='qualif'>signal processing and data analysis</span> software, testing and designingOracle databaseetc.
+Responsibilities:
+*  Configured and maintained <span inprof='y' id='327' class='sofwr'>Red Hat enterprise</span> <span inprof='y' id='328' class='sofwr'>Linux</span> systems to streamline day-to-day operationsat GMRT, e.g. automatic astronomical data accusation, <span inprof='y' id='329' class='skill'>signal processing</span>. ; 
+*  Installed and configuredOracle database 9i in development environment and monitor database performance using <span inprof='y' id='330' class='sofwr'>Oracle Enterprise Manager</span>. ; 
+*  Used <span inprof='y' id='331' class='sofwr'>SQL Loader</span> to load big (millions of rows) astronomical data set from ASCII files into different <span inprof='y' id='332' class='sofwr'>Oracle</span> tables. ; 
+*  Wrote Linux shell scripts (Cron job) to automate data loading process. ; 
+*  Extensively coded in <span inprof='y' id='333' class='sofwr'>SQL</span> and <span inprof='y' id='334' class='sofwr'>PL/SQL</span> to <span inprof='y' id='335' class='skill'>develop stored procedures</span>, functions and database triggers for <span inprof='y' id='336' class='skill'>data entry</span> and validation. ; 
+*  Wrote software in <span inprof='y' id='337' class='sofwr'>C</span>/<span inprof='y' id='338' class='sofwr'>C++</span>, <span inprof='y' id='339' class='sofwr'>Java</span> to process, analyze and visualize scientific quantities. ; 
+*  Role also included designingand testing <span inprof='y' id='340' class='sofwr'>Oracle database</span>.
+Environment: <span inprof='y' id='341' class='sofwr'>Oracle database 9i</span>, <span inprof='y' id='342' class='sofwr'>SQL*Plus</span>, <span inprof='y' id='343' class='sofwr'>PL/SQL</span>, <span inprof='y' id='344' class='sofwr'>SQL*Loader</span>, Exp, Imp, <span inprof='y' id='345' class='sofwr'>C</span>/<span inprof='y' id='346' class='sofwr'>C++</span>, <span inprof='y' id='347' class='sofwr'>Redhat enterprise</span> <span inprof='y' id='348' class='sofwr'>Linux</span>, <span inprof='y' id='349' class='sofwr'>Bash</span>/C <span inprof='y' id='350' class='sofwr'>Shell scripting</span>, <span inprof='y' id='351' class='sofwr'>Python</span>
+
+</TextResume>
+
+</NonXMLResume>
+
+
+
+<UserArea>
+<DaxResumeUserArea>
+<AdditionalPersonalData>
+<ExperienceSummary>
+<TotalMonthsOfWorkExperience>97</TotalMonthsOfWorkExperience>
+<TotalYearsOfWorkExperience>8</TotalYearsOfWorkExperience>
+<ExecutiveBrief>Sourabh Sinha is a resident of Phil, PA, US. He has been working in the IT  occupational sector for more than 8 years. Currently he is employed as a Senior Oracle PL/SQL Developer at COMCAST Corporation. Sourabh has extensive knowledge of Oracle, SQL, Oracle PL/SQL, Microsoft SQL*Loader, Oracle 10G, Oracle Report, Oracle Forms, Teradata, Oracle Discoverer 2000, Oracle 9i, Microsoft Excel, Informatica, ETL, SQL Server Integration Services, Python Programming, Linux Red Hat, Linux, Data Migration, shell scripting, TOAD, Oracle Enterprise Manager, Microsoft SQL Server, Microsoft Access, Java, C++, C Programming Language, SQLPlus, HP-UX, Web Services, SQL Developer 3.1, Reports 9i, Regression Testing, Oracle Developer 2000, Oracle 9i Application Server, Netscape Navigator, MS-SQLServer Server 2008, ECLiPSe, CPOS, Bash. So far Sourabh has not gained any managerial experience.</ExecutiveBrief>
+</ExperienceSummary>
+</AdditionalPersonalData>
+<ParserInfo>
+<ParserConfiguration>{max_len=50000} {tel_flag=} {send_zip=} {fast_conv=} {DEF_LOCAL=} {sdate=0} {no_email_body=0} {do_clever_zoning=1} {keep_span=1} {complex=1} {accept_langs=} {not_accept_langs=} {prefer_lang_cv=EN} {pers_only=0} {turbo=0} {split_language=0} {picture=0} {picture_inline=0} {name_space=0} {charset=} {hrxml_upgrade_edu_hist=0}{hrxml_add_languages_section=0}{spool=} {docID=} {user=DEFAULT} </ParserConfiguration>
+<ParserRelease>0.12.3.32629</ParserRelease>
+<ParserReleaseDate>2014-06-18</ParserReleaseDate>
+<ParserSchema>2.0.29</ParserSchema>
+<ParserSchemaLocation>http://cvx.daxtra.com/cvts/xsd/candidate/2.0.29/Resume.xsd</ParserSchemaLocation>
+<ConverterRelease>0.5.2.32629</ConverterRelease>
+<ConverterReleaseDate>2014-06-18</ConverterReleaseDate>
+</ParserInfo>
+<FileStruct filename='/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/Sourabh Sinha.doc'>
+
+<attachment fname='Sourabh Sinha.doc' ftype='doc' conv='yes' doc_type='cv' lang='EN'>/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/Sourabh Sinha.doc</attachment>
+
+
+</FileStruct>
+</DaxResumeUserArea>
+</UserArea>
+</Resume>

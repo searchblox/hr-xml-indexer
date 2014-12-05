@@ -1,0 +1,1264 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Resume lang='en' src='DAXTRA-CVX schema:2.0.29 release:0.12.3.32629 rdate:2014-06-18'>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName id='2'>
+<FormattedName>César A. Sánchez</FormattedName>
+<GivenName>César</GivenName>
+<MiddleName>A.</MiddleName>
+<FamilyName>Sánchez</FamilyName>
+<sex>Male</sex>
+</PersonName>
+<ContactMethod>
+<Mobile id='5'>
+<InternationalCountryCode>58</InternationalCountryCode>
+<SubscriberNumber>414-923-5028</SubscriberNumber>
+<FormattedNumber>+58 414-923-5028</FormattedNumber></Mobile>
+
+<InternetEmailAddress id='4' type='main'>cesarasanchezi@hotmail.com</InternetEmailAddress>
+<InternetWebAddress id='6' type='linkedin'>http://www.linkedin.com/in/cesarasanchezi</InternetWebAddress>
+<PostalAddress id='3' type='main'>
+<CountryCode>VE</CountryCode>
+<Region>Miranda</Region>
+<Municipality>Baruta</Municipality>
+
+</PostalAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>*  Goal-oriented Project Manager with comprehensive experience managing technical and Business Process Improvement (BPI) projects in various functional areas, across all project phases. ; 
+*  Innovative and strategic thinker recognized for an innate ability to improve processes that yield operational excellence and positive fiscal results. ; 
+*  Over 13 years of Domestic and International project experience including: manufacturing operations, ITIL and Web Systems (Cloud), 3rd party contract manufacturing, supplier network rationalization (USA, Europe, LATAM), PMO Management, Operational Excellence (Lean6Sigma), FDA regulations, Clinical Studies (CTMS), quality assurance systems, systems validations, Global Strategic Sourcing and Supply chain, and inventory management. ; 
+*  Proven expertise in driving teams achieving project goals, facilitating project planning, tracking project costs and schedules, and ensuring that the delivered product meets the customer's expectations for quality and functionality. ;</ExecutiveSummary>
+
+
+<EmploymentHistory>
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='25'>Oracle Managed Cloud Services</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='27'>
+<Municipality>Caracas</Municipality>
+<CountryCode>VE</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='24_1'>Service Delivery Manager</Title>
+<OrgName id='25'>Oracle Managed Cloud Services</OrgName>
+
+
+
+<Description>As a member of the Support organization, my focus is to deliver post-sales support and solutions to the Oracle customer base while serving as an advocate for customer needs. This involves resolving post-sales non-technical customer inquiries via phone and electronic means, as well as, technical questions regarding the use of and troubleshooting for our Electronic Support Services. A primary point of contact for customers, I'm responsible for facilitating customer relationships with Support and providing advice and assistance to internal Oracle employees on diverse customer situations and escalated issues. Coordinate tasks between all Cloud Managed Service Teams, and guarantee the commitment of the Service level Agreement and P&#38;L. Considered the lead customer liaison for Banesco Banco Universal (Venezuela) and Banesco Seguros (Dominican Republic &#38; Venezuela), top-revenue Support accounts, and will attend one-on-one meetings with representatives of the strategic accounts. Responsible for managing internal projects, such as creating internal training curricula and schedules, presenting across lines of businesses, identifying and driving productivity improvement opportunities, coordinating, preparing and qualifying Premier Analysts for Customer Visits and employee mentoring.</Description>
+<StartDate id='28_1'><YearMonth>2013-07</YearMonth></StartDate>
+<EndDate id='28_2'>notApplicable</EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>customer-service</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='24' last_id='41' border_id='42'></TLSPAN>
+<MonthsOfWork>12</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='42_2'>The Clorox Company</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='42_3'>
+<Municipality>Caracas</Municipality>
+<CountryCode>VE</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='42_1_1'>LATAM Project Manager</Title>
+<Title id='42_1_2'>International Project Management</Title>
+<OrgName id='42_2'>The Clorox Company</OrgName>
+
+
+
+<Description>Manage complex new product implementation and executions.  Provide both technical and business leadership to multi-functional new product teams and lead them to deliver initiatives that provide the highest possible ROI for the Company. Reduce execution times and system costs through the promotion of consistent work practices, efficient use of assets and strategic planning. Ensure that teams adequately analyze data, design in contingencies, communicate and get buy-in from Management on risks associated with their projects. Expand the Company's Project Management capabilities by providing "project management process leadership" to the project management function as well as the businesses that are supported. Coach and mentor other team leads in project leadership.</Description>
+<StartDate id='42_4_1'><YearMonth>2012-02</YearMonth></StartDate>
+<EndDate id='42_4_2'><YearMonth>2013-06</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>mngm-consult</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='42' last_id='47' border_id='51'></TLSPAN>
+<MonthsOfWork>17</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='49'>Corporación Astir</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='50'>
+<Municipality>Caracas</Municipality>
+<CountryCode>VE</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='48_1'>IT Project Manager</Title>
+<OrgName id='49'>Corporación Astir</OrgName>
+
+
+
+<Description>Responsible for delivering and launching in Latam markets a new System Web based to manage electronic health record (EHR) or also known as electronic patient record (EPR) and driving day-to-day issue resolution in order to meet the technology requirements. Research, evaluate, recommend and potentially implement new technologies, features, services and equipment to best support current markets' needs. Ensure that the team meets project objectives and deliverables on-time and within budget.  Manages work integration, scope, expectations, quality, time, cost, risk, procurement and communication for the team and stakeholders. Lead and oversee the design, development and implementation phases of the project, coordinate with the stakeholders. Establish, maintain and encourage high quality standards.</Description>
+<StartDate id='51_1'><YearMonth>2010-06</YearMonth></StartDate>
+<EndDate id='51_2'><YearMonth>2012-02</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='48' last_id='55' border_id='56'></TLSPAN>
+<MonthsOfWork>21</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='56_2'>Telefónica Venezuela - Movistar</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='56_3'>
+<Municipality>Caracas</Municipality>
+<CountryCode>VE</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='CONTRACT'>
+<Title id='56_1_1'>Project Leader</Title>
+<OrgName id='56_2'>Telefónica Venezuela - Movistar</OrgName>
+
+
+
+<Description>Responsible to increase the network coverage adding up 125 E1s to the UMTS platform, and migrating the technology from UMTS to IP in parallel.</Description>
+<StartDate id='56_4_1'><YearMonth>2010-02</YearMonth></StartDate>
+<EndDate id='56_4_2'><YearMonth>2010-04</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='56' last_id='59' border_id='61'></TLSPAN>
+<MonthsOfWork>3</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='61_1'>Teva Neuroscience, Inc.</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='61_2'>
+<Region>PA</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='60_1'>Project Manager - Innovative Research &#38; Development</Title>
+<OrgName id='61_1'>Teva Neuroscience, Inc.</OrgName>
+
+
+
+<Description>Created, established and managed the North America Project Management Office (PMO). Oversaw the management of IR&#38;D projects from inception to closure to ensure they were completed on time and within budget. Provided overall coordination across the full range of activities associated with the planning, design and execution of 20 simultaneous projects involving 19 cross functional team members. Assembled management tools to identify and resolve issues, both inter and intra-departmental, to ensure objectives were successfully met. Supported the implementation of Oracle Project Accounting system and Hyperion Planning system in Teva Neuroscience IR&#38;D. Evaluated and reported performance metrics across various departments within the organization and provided the core management team with a continuous analytical view of the studies' progress and probability to meet timelines.</Description>
+<StartDate id='61_3_1'><YearMonth>2007-03</YearMonth></StartDate>
+<EndDate id='61_3_2'><YearMonth>2009-11</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='60' last_id='67' border_id='70'></TLSPAN>
+<MonthsOfWork>33</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='70_2'>Technical Group Inc.</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='70_3'>
+<Municipality>Cidra</Municipality>
+<Region>PR</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='CONTRACT'>
+<Title id='70_1_1'>Mentor</Title>
+<OrgName id='70_2'>Technical Group Inc.</OrgName>
+
+
+
+<Description>Coordinate both manufacturing and laboratory activities to comply with GlaxoSmithKline's commitments to the Food and Drug Administration (FDA). Develop and maintain detailed schedule and resource utilization plans on Primavera 5.0. Implement a Quality Management System (QMS), which improve the management of Standard Operating Procedures' (SOPs). Serve as the scheduler for various projects, providing guidance across the full range of activities associated with the work plan.</Description>
+<StartDate id='70_4_1'><YearMonth>2006-11</YearMonth></StartDate>
+<EndDate id='70_4_2'><YearMonth>2007-03</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>mngm-consult</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='70' last_id='76' border_id='78'></TLSPAN>
+<MonthsOfWork>5</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='78_1'>Valeant Puerto Rico LLC</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='78_2'>
+<Municipality>Humacao</Municipality>
+<Region>PR</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='77_1'>Project Manager</Title>
+<OrgName id='78_1'>Valeant Puerto Rico LLC</OrgName>
+
+
+
+<Description>Interfaced with Commercial, Donor Site and Senior Management, to keep them engaged and aligned with the Company's goals and objectives. Steered, coached and led the Technical Support department in order to deliver successful project results and customer satisfaction. Developed and maintained detailed site schedule and resource utilization plans in Microsoft Project for more than 12 new products introductions (NPI) within different manufacturing lines. Managed 3rd Party Contract manufacturing projects and exceed the clients' expectations (McNeil, J&#38;J, Roche and Bayer). Worked with stream leads / team members to ensure project parameters were successfully developed and defined in the Project Execution Plan (PEP). Identified and tracked all the critical paths of GPD transfers and new launches to advise management on priorities, forecast completion dates and deviations from the work plan. Prepared periodical reports for all stakeholders, including Senior Management and Customers, that provided full visibility of the progress achieved ("S" curves). Supervised contractors and consultants to ensure that their schedules were realistic fully challenged and completed within the planned timeframes.</Description>
+<StartDate id='78_3_1'><YearMonth>2005-05</YearMonth></StartDate>
+<EndDate id='78_3_2'><YearMonth>2006-11</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>mngm-consult</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='77' last_id='84' border_id='87'></TLSPAN>
+<MonthsOfWork>19</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='87_1'>Technisource Inc.</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='87_2'>
+<Municipality>Humacao</Municipality>
+<Region>PR</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+
+<OrgName id='87_1'>Technisource Inc.</OrgName>
+
+
+
+<Description>Provided project controls and scheduling expertise for the Puerto Rico site ``Strategic Master Plan'' program while coordinating global activities with sites in Poland, Mexico, Brazil, Hungary, Italy and the USA, receiving 100+ products from 13 sites. Developed, maintained and monitored site schedule to measure the team's performance. Created and developed multi-site reporting method, interfacing business functions, site leadership and corporate senior management. Coordinated product transfer meetings with global site teams and corporate.</Description>
+<StartDate id='87_3_1'><YearMonth>2004-03</YearMonth></StartDate>
+<EndDate id='87_3_2'><YearMonth>2005-05</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>mngm-consult</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='87' last_id='95' border_id='96'></TLSPAN>
+<MonthsOfWork>15</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='96_2'>GlaxoSmithKline</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='96_3'>
+<Municipality>Caracas</Municipality>
+<CountryCode>VE</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='96_1_1'>Logistic Planner</Title>
+<OrgName id='96_2'>GlaxoSmithKline</OrgName>
+
+
+
+
+<StartDate id='96_4_1'><YearMonth>2002-11</YearMonth></StartDate>
+<EndDate id='96_4_2'><YearMonth>2003-12</YearMonth></EndDate>
+
+
+
+
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='96' last_id='97' border_id='97'></TLSPAN>
+<MonthsOfWork>14</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='97_2'>Glaxo Wellcome</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='97_4'>
+<Municipality>Caracas</Municipality>
+<CountryCode>VE</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='97_1_1'>Project Planner</Title>
+<Title id='97_1_2'>Project Leader</Title>
+<OrgName id='97_3'>GlaxoSmithKline</OrgName>
+
+
+
+<Description>Glaxo Wellcome / GlaxoSmithKline (Caracas, Venezuela)                         
+Project Coordinator &#38; Planner - Y2K Validation ,</Description>
+<StartDate id='97_5_1'><YearMonth>2000-10</YearMonth></StartDate>
+<EndDate id='97_5_2'><YearMonth>2002-11</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='97' last_id='98' border_id='98'></TLSPAN>
+<MonthsOfWork>26</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='98_3'>Glaxo Wellcome</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='98_4'>
+<Municipality>Caracas</Municipality>
+<CountryCode>VE</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='CONTRACT'>
+<Title id='99_1'>Project Coordinator</Title>
+<OrgName id='98_3'>Glaxo Wellcome</OrgName>
+
+
+
+
+<StartDate id='98_5_1'><YearMonth>1999-05</YearMonth></StartDate>
+<EndDate id='98_5_2'><YearMonth>1999-10</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='98' last_id='100' border_id='101'></TLSPAN>
+<MonthsOfWork>6</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='101_1'>Glaxo Wellcome</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='101_2'>
+<Municipality>Caracas</Municipality>
+<CountryCode>VE</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='99_1'>Project Coordinator</Title>
+<OrgName id='101_1'>Glaxo Wellcome</OrgName>
+
+
+
+<Description>Validation of local software on HP3000 Server
+System Analyst and Progress V8 Programmer</Description>
+<StartDate id='101_3_1'><YearMonth>1997-09</YearMonth></StartDate>
+<EndDate id='101_3_2'><YearMonth>1998-07</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='99' last_id='101' border_id='102'></TLSPAN>
+<MonthsOfWork>11</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='102_1'>Fritz International</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='102_2'>
+<Municipality>Caracas</Municipality>
+<CountryCode>VE</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='CONTRACT'>
+<Title id='101_4_1'>System Analyst</Title>
+<Title id='101_4_2'>Progress V8 Programmer</Title>
+<OrgName id='102_1'>Fritz International</OrgName>
+
+
+
+<Description>Education:
+BS Systems Engineer (2003), Universidad Santa Maria, Caracas, Venezuela</Description>
+<StartDate id='102_3_1'><YearMonth>1997-07</YearMonth></StartDate>
+<EndDate id='102_3_2'><YearMonth>1998-02</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='101' last_id='104' border_id='0'></TLSPAN>
+<MonthsOfWork>8</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+</EmploymentHistory>
+
+
+
+
+
+
+
+
+
+
+
+
+<Competency oids='26 30 35 64 126 ' description='Skill > IT' auth='yes' name='Oracle'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>45</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='44 45 111 ' description='Skill' auth='yes' name='Project Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>17</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='57 58 ' description='Skill > IT' auth='yes' name='UMTS'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>3</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>48</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='81 118 ' description='Skill > IT' auth='yes' name='Microsoft Project'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Project</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>25</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='79 84 ' description='Skill' auth='yes' name='Managerial Skills'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Senior Management</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>25</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='13 106 ' description='Skill > IT' auth='yes' name='ITIL'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='40 ' description='Skill' auth='no' name='revenue Support'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='34 ' description='Skill' auth='no' name='responsible for facilitating customer relationships'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>91</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='22 ' description='Skill' auth='no' name='project planning'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='63 ' description='Skill' auth='no' name='management of IR&#38;D'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>33</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>management of IR&#38;D</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>53</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='62 ' description='Skill' auth='no' name='managed the North America Project Management Office'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>33</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>54</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='53 ' description='Skill' auth='no' name='manage electronic health record'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>70</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='95 ' description='Skill' auth='no' name='corporate senior management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2005'><NumericValue description='MONTH'>15</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='9 ' description='Skill' auth='no' name='comprehensive experience'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='54 ' description='Skill' auth='no' name='best support'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='115 ' description='Skill > IT' auth='yes' name='Visual Basic'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Visual Basic</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='43 ' description='Skill' auth='yes' name='System Strategy'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>17</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>strategic planning</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='20 ' description='Skill' auth='yes' name='Supply Chain'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='75 ' description='Skill' auth='yes' name='Standard Operating Procedure'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>5</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Standard Operating Procedures</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='129 ' description='Skill > Language' auth='yes' name='Spanish'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>84</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>NATIVE</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='112 ' description='Skill' auth='no' name='Software Skills'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='37 ' description='Skill' auth='yes' name='SLA'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Service level Agreement</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>90</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='74 ' description='Skill' auth='no' name='Quality Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>5</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='19 ' description='Skill' auth='yes' name='Quality Assurance'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='83 ' description='Skill' auth='no' name='Project Execution'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='65 ' description='Skill' auth='yes' name='Project Accounting'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>33</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='55 ' description='Skill' auth='yes' name='Procurement'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='119 ' description='Skill > IT' auth='yes' name='Primavera P3'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='32 ' description='Skill' auth='yes' name='Post Sales'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='114 ' description='Skill > IT' auth='yes' name='PROGRES'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Progress V 8.0 V 8.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='17 ' description='Skill' auth='no' name='PMO Management'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='100 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2000 Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1999'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>HP3000 Server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='116 ' description='Skill > IT' auth='yes' name='Microsoft Windows'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Windows</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='125 ' description='Skill > IT' auth='yes' name='Microsoft Outlook'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Outlook</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='117 ' description='Skill > IT' auth='yes' name='Microsoft Office XP'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Office XP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='120 ' description='Skill > IT' auth='yes' name='Microsoft FrontPage'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS FrontPage</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='113 ' description='Skill > IT' auth='yes' name='Microsoft Access'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Access</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='124 ' description='Skill > IT' auth='yes' name='Lotus Notes/Domino'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Lotus Notes</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='121 ' description='Skill > IT' auth='yes' name='JDEdwards Suite'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>JD Edwards</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='131 ' description='Skill > Language' auth='yes' name='Italian'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>84</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='21 ' description='Skill' auth='yes' name='Inventory Management'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='12 ' description='Skill' auth='no' name='International project experience'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='107 ' description='Skill' auth='no' name='IT Service Management'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='59 ' description='Skill > IT' auth='yes' name='IP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>3</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='66 ' description='Skill > IT' auth='yes' name='Hyperion Pillar-Budgeting &#38; Planning'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>33</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Hyperion Planning</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='127 ' description='Skill > IT' auth='yes' name='Hyperion'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='Planning'><StringValue>Planning</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Hyperion Planning</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='100 ' description='Skill > IT' auth='yes' name='HP Server Hardware > HP 3000 Servers'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1999'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>HP3000 Server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='130 ' description='Skill > Language' auth='yes' name='English'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>84</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='72 ' description='Skill' auth='no' name='Drug Administration'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>5</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='128 ' description='Skill' auth='no' name='Clinical Trial Management'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='10 ' description='Skill' auth='yes' name='Business Process Improvement'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='122 ' description='Skill > IT' auth='yes' name='Adobe Photoshop'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Adobe Photoshop V5.0 &#38; V6.0 V5.0 &#38; V6.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='123 ' description='Skill > IT' auth='yes' name='Adobe Acrobat'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Adobe Acrobat V5.0 V5.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='56_1_1 85_2 97_1_2 ' description='Held Position' auth='no' name='Project Leader'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>17</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='47_2 70_1_1 ' description='Held Position' auth='no' name='mentor'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='85_1 97_1_1 ' description='Held Position' auth='no' name='Project Planner'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2003'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>23</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='98_1_1 99_1 ' description='Held Position' auth='no' name='Project Coordinator'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2002'><NumericValue description='MONTH'>32</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>27</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='76_2 ' description='Held Position' auth='no' name='the scheduler'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>5</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='41_1 ' description='Held Position' auth='no' name='employee'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='31_2 ' description='Held Position' auth='no' name='an advocate'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>93</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='104_1_1 ' description='Held Position' auth='no' name='Systems Engineer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1998'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='101_4_1 ' description='Held Position' auth='yes' name='Systems Analyst'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1998'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>System Analyst</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='24_1 ' description='Held Position' auth='no' name='Service Delivery Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='60_1 ' description='Held Position' auth='no' name='Project Manager - Innovative Research &#38; Development'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>33</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Project Manager - Innovative Research &#38; Development</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>54</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='77_1 ' description='Held Position' auth='no' name='Project Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>25</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='68_1 ' description='Held Position' auth='no' name='Project Controller'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='101_4_2 ' description='Held Position' auth='no' name='Progress V8 Programmer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1998'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='98_1_2 ' description='Held Position' auth='no' name='Planner'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2002'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>27</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='96_1_1 ' description='Held Position' auth='no' name='Logistic Planner'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2003'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='42_1_1 ' description='Held Position' auth='no' name='LATAM Project Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>17</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='42_1_2 ' description='Held Position' auth='no' name='International Project Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>17</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='48_1 ' description='Held Position' auth='no' name='IT Project Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>70</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='8_1 ' description='Held Position' auth='no' name='Goal-oriented Project Manager'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='47_1 ' description='Held Position' auth='no' name='Coach'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>17</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='18 ' description='Degree/Qualification' auth='no' name='CTMS > CTMS Clinical Studies'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='Clinical Studies'><StringValue>Clinical Studies</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Clinical Studies (CTMS)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='103 ' description='Degree/Qualification' auth='yes' name='Bachelors Degree > Bachelor of Science'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Education: BS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency description='Industry' auth='yes' name='industry~it'>
+<CompetencyEvidence name='skillCount' typeDescription='skillCount'><NumericValue>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+</Competency>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<RevisionDate id='1'>2014-06-26</RevisionDate>
+</StructuredXMLResume>
+<NonXMLResume>
+
+<TextResume>
+
+
+
+<span inprof='n' id='1' class='date'>{{DOCUMENT_DATESTAMP}} 2014-6-26 {{END_DOCUMENT_DATESTAMP}}</span>
+
+
+<span inprof='y' id='2' class='nominal'>CÉSAR A. SÁNCHEZ</span> I.
+Av. Ppal. de Lomas de Pdos. del Este, Res. Giancarlo, PH-2 * <span inprof='y' id='3' class='location'>Baruta, Miranda - Venezuela</span>
+<span inprof='y' id='4' class='email'>cesarasanchezi@hotmail.com</span> * <span inprof='y' id='5' class='telephone'>Cel +58-414-923-5028</span>
+<span inprof='y' id='6' class='internet-web-address'>http://www.linkedin.com/in/cesarasanchezi</span>
+
+
+<span inprof='n' id='7' class='work-hist-mark'>PROFESSIONAL PROFILE</span>
+
+*  <span inprof='y' id='8_1' class='role'>Goal-oriented Project Manager</span> with <span inprof='y' id='9' class='skill'>comprehensive experience</span> managing technical and <span inprof='y' id='10' class='skill'>Business Process Improvement</span> (BPI) projects in various functional areas, across all project phases. ; 
+*  Innovative and strategic thinker recognized for an innate ability to improve processes that yield operational excellence and positive fiscal results. ; 
+*  <span inprof='n' id='11' class='duration'>Over 13 years</span> of Domestic and <span inprof='y' id='12' class='skill'>International project experience</span> including: manufacturing operations, <span inprof='y' id='13' class='sofwr'>ITIL</span> and <span inprof='n' id='14' class='company'>Web Systems (Cloud), 3rd party</span> contract manufacturing, supplier network rationalization (<span inprof='n' id='15' class='location'>USA</span>, <span inprof='n' id='16' class='location'>Europe</span>, LATAM), <span inprof='y' id='17' class='skill'>PMO Management</span>, Operational Excellence (Lean6Sigma), FDA regulations, <span inprof='y' id='18' class='qualif'>Clinical Studies (CTMS)</span>, <span inprof='y' id='19' class='skill'>quality assurance</span> systems, systems validations, Global Strategic Sourcing and <span inprof='y' id='20' class='skill'>Supply chain</span>, and <span inprof='y' id='21' class='skill'>inventory management</span>. ; 
+*  Proven expertise in driving teams achieving project goals, facilitating <span inprof='y' id='22' class='skill'>project planning</span>, tracking project costs and schedules, and ensuring that the delivered product meets the customer's expectations for quality and functionality.
+
+<span inprof='n' id='23' class='work-hist-mark'>PROFESSIONAL EXPERIENCE</span>
+
+<span inprof='y' id='24_1' class='role'>Service Delivery Manager</span> - <span inprof='y' id='25' class='company'>Oracle Managed Cloud Services</span> (South of Latam)
+<span inprof='y' id='26' class='sofwr'>Oracle</span> (<span inprof='y' id='27' class='location'>Caracas, Venezuela</span>)          <span inprof='y' id='28_1' class='date'>July 2013</span> - <span inprof='y' id='28_2' class='date'>Present</span>
+As a member of the Support organization, my focus is <span inprof='n' id='29' class='bad-occupation'>to deliver post-sales support</span> and solutions to the <span inprof='y' id='30' class='sofwr'>Oracle</span> customer base while serving <span inprof='n' id='31_1' class='some-position'>as</span> <span inprof='y' id='31_2' class='role'>an advocate</span> for customer needs. This involves resolving <span inprof='y' id='32' class='skill'>post-sales</span> non-technical customer inquiries via phone and electronic means, as well as, technical questions regarding the use of and troubleshooting for our <span inprof='n' id='33' class='company'>Electronic Support Services</span>. A primary point of contact for customers, I'm <span inprof='y' id='34' class='skill'>responsible for facilitating customer relationships</span> with Support and providing advice and assistance to internal <span inprof='y' id='35' class='sofwr'>Oracle</span> employees on diverse customer situations and escalated issues. Coordinate tasks between all <span inprof='n' id='36' class='company'>Cloud Managed Service</span> Teams, and guarantee the commitment of the <span inprof='y' id='37' class='skill'>Service level Agreement</span> and P&#38;L. Considered the lead customer liaison for <span inprof='n' id='38' class='company'>Banesco Banco Universal (Venezuela)</span> and <span inprof='n' id='39' class='company'>Banesco Seguros (Dominican Republic &#38; Venezuela)</span>, top-<span inprof='y' id='40' class='skill'>revenue Support</span> accounts, and will attend one-on-one meetings with representatives of the strategic accounts. Responsible for managing internal projects, such as creating internal training curricula and schedules, presenting across lines of businesses, identifying and driving productivity improvement opportunities, coordinating, preparing and qualifying Premier Analysts for Customer Visits and <span inprof='y' id='41_1' class='role'>employee</span> mentoring.
+
+<span inprof='y' id='42_1_1' class='role'>LATAM Project Manager</span> - <span inprof='y' id='42_1_2' class='role'>International Project Management</span>
+<span inprof='y' id='42_2' class='company'>The Clorox Company</span> (<span inprof='y' id='42_3' class='location'>Caracas, Venezuela</span>)          <span inprof='y' id='42_4_1' class='date'>February 2012</span> - <span inprof='y' id='42_4_2' class='date'>June 2013</span>
+Manage complex new product implementation and executions.  Provide both technical and business leadership to multi-functional new product teams and lead them to deliver initiatives that provide the highest possible ROI for the Company. Reduce execution times and system costs through the promotion of consistent work practices, efficient use of assets and <span inprof='y' id='43' class='skill'>strategic planning</span>. Ensure that teams adequately analyze data, design in contingencies, communicate and get buy-in from Management on risks associated with their projects. Expand the Company's <span inprof='y' id='44' class='skill'>Project Management</span> capabilities by providing "<span inprof='y' id='45' class='skill'>project management</span> process leadership" <span inprof='n' id='46' class='bad-occupation'>to the project management</span> function as well as the businesses that are supported. <span inprof='y' id='47_1' class='role'>Coach</span> and <span inprof='y' id='47_2' class='role'>mentor</span> other team leads in project leadership.
+
+
+<span inprof='y' id='48_1' class='role'>IT Project Manager</span>
+<span inprof='y' id='49' class='company'>Corporación Astir</span> 2222, C.A. (<span inprof='y' id='50' class='location'>Caracas, Venezuela</span>)          <span inprof='y' id='51_1' class='date'>June 2010</span> - <span inprof='y' id='51_2' class='date'>February 2012</span>
+Responsible for delivering and launching in Latam markets a <span inprof='n' id='52' class='company'>new System</span> Web based to <span inprof='y' id='53' class='skill'>manage electronic health record</span> (EHR) or also known as electronic patient record (EPR) and driving day-to-day issue resolution in order to meet the technology requirements. Research, evaluate, recommend and potentially implement new technologies, features, services and equipment to <span inprof='y' id='54' class='skill'>best support</span> current markets' needs. Ensure that the team meets project objectives and deliverables on-time and within budget.  Manages work integration, scope, expectations, quality, time, cost, risk, <span inprof='y' id='55' class='skill'>procurement</span> and communication for the team and stakeholders. Lead and oversee the design, development and implementation phases of the project, coordinate with the stakeholders. Establish, maintain and encourage high quality standards.
+
+<span inprof='y' id='56_1_1' class='role'>Project Leader</span>
+<span inprof='y' id='56_2' class='company'>Telefónica Venezuela - Movistar</span> (<span inprof='y' id='56_3' class='location'>Caracas, Venezuela</span>)          <span inprof='y' id='56_4_1' class='date'>February 2010</span> - <span inprof='y' id='56_4_2' class='date'>April 2010</span>
+Responsible to increase the network coverage adding up 125 E1s to the <span inprof='y' id='57' class='sofwr'>UMTS</span> platform, and migrating the technology from <span inprof='y' id='58' class='sofwr'>UMTS</span> to <span inprof='y' id='59' class='sofwr'>IP</span> in parallel.
+
+<span inprof='y' id='60_1' class='role'>Project Manager - Innovative Research &#38; Development</span> (IR&#38;D)
+<span inprof='y' id='61_1' class='company'>Teva Neuroscience, Inc.</span> (<span inprof='y' id='61_2' class='location'>Pennsylvania, USA</span>)           <span inprof='y' id='61_3_1' class='date'>March 2007</span> - <span inprof='y' id='61_3_2' class='date'>November 2009</span>
+Created, established and <span inprof='y' id='62' class='skill'>managed the North America Project Management Office</span> (PMO). Oversaw the <span inprof='y' id='63' class='skill'>management of IR&#38;D</span> projects from inception to closure to ensure they were completed on time and within budget. Provided overall coordination across the full range of activities associated with the planning, design and execution of 20 simultaneous projects involving 19 cross functional team members. Assembled management tools to identify and resolve issues, both inter and intra-departmental, to ensure objectives were successfully met. Supported the implementation of <span inprof='y' id='64' class='sofwr'>Oracle</span> <span inprof='y' id='65' class='skill'>Project Accounting</span> system and <span inprof='y' id='66' class='sofwr'>Hyperion Planning</span> system in <span inprof='n' id='67' class='company'>Teva Neuroscience</span> IR&#38;D. Evaluated and reported performance metrics across various departments within the organization and provided the core management team with a continuous analytical view of the studies' progress and probability to meet timelines.
+
+<span inprof='y' id='68_1' class='role'>Project Controller</span> - Remediation Plan (PMO) at <span inprof='n' id='69' class='company'>GlaxoSmithKline</span>
+<span inprof='y' id='70_1_1' class='role'>Mentor</span> <span inprof='y' id='70_2' class='company'>Technical Group Inc.</span> (<span inprof='y' id='70_3' class='location'>Cidra, Puerto Rico</span>)           <span inprof='y' id='70_4_1' class='date'>November 2006</span> - <span inprof='y' id='70_4_2' class='date'>March 2007</span>
+Coordinate both manufacturing and laboratory activities to comply with <span inprof='n' id='71' class='company'>GlaxoSmithKline</span>'s commitments to the Food and <span inprof='y' id='72' class='skill'>Drug Administration</span> (FDA). Develop and maintain detailed schedule and resource utilization plans on <span inprof='n' id='73' class='location'>Primavera</span> 5.0. Implement a <span inprof='y' id='74' class='skill'>Quality Management</span> System (QMS), which improve the management of <span inprof='y' id='75' class='skill'>Standard Operating Procedures</span>' (SOPs). Serve <span inprof='n' id='76_1' class='some-position'>as</span> <span inprof='y' id='76_2' class='role'>the scheduler</span> for various projects, providing guidance across the full range of activities associated with the work plan.
+
+<span inprof='y' id='77_1' class='role'>Project Manager</span> - Global Product Development (GPD)
+<span inprof='y' id='78_1' class='company'>Valeant Puerto Rico LLC</span>. (<span inprof='y' id='78_2' class='location'>Humacao, Puerto Rico</span>)          <span inprof='y' id='78_3_1' class='date'>May 2005</span> - <span inprof='y' id='78_3_2' class='date'>November 2006</span>
+Interfaced with Commercial, Donor Site and <span inprof='y' id='79' class='skill'>Senior Management</span>, to keep them engaged and aligned with the Company's goals and objectives. Steered, coached and led the <span inprof='n' id='80' class='company'>Technical Support department</span> in order to deliver successful project results and customer satisfaction. Developed and maintained detailed site schedule and resource utilization plans in <span inprof='y' id='81' class='sofwr'>Microsoft Project</span> for more than 12 new products introductions (NPI) within different manufacturing lines. Managed 3rd Party Contract manufacturing projects and exceed the clients' expectations (McNeil, J&#38;J, <span inprof='n' id='82' class='company'>Roche and Bayer</span>). Worked with stream leads / team members to ensure project parameters were successfully developed and defined in the <span inprof='y' id='83' class='skill'>Project Execution</span> Plan (PEP). Identified and tracked all the critical paths of GPD transfers and new launches to advise management on priorities, forecast completion dates and deviations from the work plan. Prepared periodical reports for all stakeholders, including <span inprof='y' id='84' class='skill'>Senior Management</span> and Customers, that provided full visibility of the progress achieved ("S" curves). Supervised contractors and consultants to ensure that their schedules were realistic fully challenged and completed within the planned timeframes.
+
+<span inprof='y' id='85_1' class='role'>Project Planner</span> / <span inprof='y' id='85_2' class='role'>Project Leader</span> at <span inprof='y' id='86' class='company'>Valeant Puerto Rico LLC</span>
+<span inprof='y' id='87_1' class='company'>Technisource Inc.</span> (<span inprof='y' id='87_2' class='location'>Humacao, Puerto Rico</span>)          <span inprof='y' id='87_3_1' class='date'>March 2004</span> - <span inprof='y' id='87_3_2' class='date'>May 2005</span>
+Provided project controls and scheduling expertise for <span inprof='n' id='88' class='location'>the Puerto Rico</span> site ``Strategic Master Plan'' program while coordinating global activities with sites in <span inprof='n' id='89' class='location'>Poland</span>, <span inprof='n' id='90' class='location'>Mexico</span>, <span inprof='n' id='91' class='location'>Brazil</span>, <span inprof='n' id='92' class='location'>Hungary</span>, <span inprof='n' id='93' class='location'>Italy</span> and <span inprof='n' id='94' class='location'>the USA</span>, receiving 100+ products from 13 sites. Developed, maintained and monitored site schedule to measure the team's performance. Created and developed multi-site reporting method, interfacing business functions, site leadership and <span inprof='y' id='95' class='skill'>corporate senior management</span>. Coordinated product transfer meetings with global site teams and corporate.
+
+<span inprof='y' id='96_1_1' class='role'>Logistic Planner</span>
+<span inprof='y' id='96_2' class='company'>GlaxoSmithKline</span> (<span inprof='y' id='96_3' class='location'>Caracas, Venezuela</span>)                                         <span inprof='y' id='96_4_1' class='date'>November 2002</span> - <span inprof='y' id='96_4_2' class='date'>December 2003</span>
+<span inprof='y' id='97_1_1' class='role'>Project Planner</span> / <span inprof='y' id='97_1_2' class='role'>Project Leader</span>
+<span inprof='y' id='97_2' class='company'>Glaxo Wellcome</span> / <span inprof='y' id='97_3' class='company'>GlaxoSmithKline</span> (<span inprof='y' id='97_4' class='location'>Caracas, Venezuela</span>)                        <span inprof='y' id='97_5_1' class='date'>October 2000</span> - <span inprof='y' id='97_5_2' class='date'>November 2002</span>
+<span inprof='y' id='98_1_1' class='role'>Project Coordinator</span> &#38; <span inprof='y' id='98_1_2' class='role'>Planner</span> - <span inprof='n' id='98_2' class='company'>Y2K Validation</span>
+<span inprof='y' id='98_3' class='company'>Glaxo Wellcome</span> (<span inprof='y' id='98_4' class='location'>Caracas, Venezuela</span>)                                          <span inprof='y' id='98_5_1' class='date'>May 1999</span> - <span inprof='y' id='98_5_2' class='date'>October 1999</span>
+<span inprof='y' id='99_1' class='role'>Project Coordinator</span> - Validation of local software on <span inprof='y' id='100' class='sofwr'>HP3000 Server</span>
+<span inprof='y' id='101_1' class='company'>Glaxo Wellcome</span> (<span inprof='y' id='101_2' class='location'>Caracas, Venezuela</span>)                                          <span inprof='y' id='101_3_1' class='date'>September 1997</span> - <span inprof='y' id='101_3_2' class='date'>July 1998</span>
+<span inprof='y' id='101_4_1' class='role'>System Analyst</span> and <span inprof='y' id='101_4_2' class='role'>Progress V8 Programmer</span>
+<span inprof='y' id='102_1' class='company'>Fritz International</span> (<span inprof='y' id='102_2' class='location'>Caracas, Venezuela</span>)                                     <span inprof='y' id='102_3_1' class='date'>July 1997</span> - <span inprof='y' id='102_3_2' class='date'>February 1998</span>
+
+
+
+<span inprof='y' id='103' class='qualif'>Education:
+BS</span> <span inprof='y' id='104_1_1' class='role'>Systems Engineer</span> (<span inprof='n' id='104_2' class='date'>2003</span>), <span inprof='n' id='104_3' class='educational'>Universidad Santa Maria</span>, <span inprof='y' id='104_4' class='location'>Caracas, Venezuela</span>
+
+<span inprof='n' id='105' class='skills-qualif-mark'>Certifications:</span> <span inprof='y' id='106' class='sofwr'>ITIL</span>® Foundation in <span inprof='y' id='107' class='skill'>IT Service Management</span> (1002205405) - <span inprof='n' id='108' class='date'>JUN14</span>
+
+<span inprof='n' id='109' class='qualif'>Professional Development Courses</span>: Advanced Supply Chain Techniques, OE <span inprof='n' id='110' class='qualif'>Green Belt course</span> (Lean6Sigma), <span inprof='y' id='111' class='skill'>Project Management</span> - Fundamentals and Advanced.
+
+Programming and <span inprof='y' id='112' class='skill'>Software Skills</span>: <span inprof='y' id='113' class='sofwr'>MS Access</span>, <span inprof='y' id='114' class='sofwr'>Progress V 8.0</span>, <span inprof='y' id='115' class='sofwr'>MS Visual Basic</span>® 3.0, <span inprof='y' id='116' class='sofwr'>MS Windows</span>® and <span inprof='y' id='117' class='sofwr'>Office XP</span>, <span inprof='y' id='118' class='sofwr'>MS Project</span>, <span inprof='y' id='119' class='sofwr'>Primavera P3</span> &#38; P5, SureTrak PM 3.0, PS8 (ver. 8.5), PSNext, <span inprof='y' id='120' class='sofwr'>MS FrontPage</span>, <span inprof='y' id='121' class='sofwr'>JD Edwards</span>, <span inprof='y' id='122' class='sofwr'>Adobe Photoshop V5.0 &#38; V6.0</span>, <span inprof='y' id='123' class='sofwr'>Adobe Acrobat V5.0</span> &#38;, <span inprof='y' id='124' class='sofwr'>Lotus Notes</span> and <span inprof='y' id='125' class='sofwr'>MS Outlook</span>, <span inprof='y' id='126' class='sofwr'>Oracle</span> <span inprof='y' id='127' class='sofwr'>Hyperion Planning</span>, <span inprof='y' id='128' class='skill'>Clinical Trial Management</span> Systems CTMS (Siebel eClinical).
+
+<span inprof='y' id='129' class='skill'>Languages:
+Spanish (Native)</span>, <span inprof='y' id='130' class='skill'>English (Fluent</span> - Wide Knowledge) and <span inprof='y' id='131' class='skill'>Italian (Fluent</span> - Conversational)
+
+
+
+
+{{FOOTER}}
+
+
+
+<span inprof='n' id='132' class='page'>Page 2</span>
+ of 3
+
+
+
+<span inprof='n' id='133' class='page'>Page 1</span>
+ of 3
+
+
+
+
+<span inprof='n' id='134' class='page'>Page 3</span>
+ of 3
+
+
+
+
+{{END_FOOTER}}
+
+</TextResume>
+
+</NonXMLResume>
+
+
+
+<UserArea>
+<DaxResumeUserArea>
+<AdditionalPersonalData>
+<ExperienceSummary>
+<TotalMonthsOfWorkExperience>190</TotalMonthsOfWorkExperience>
+<TotalYearsOfWorkExperience>16</TotalYearsOfWorkExperience>
+<TotalMonthsOfManagementWorkExperience>131</TotalMonthsOfManagementWorkExperience>
+<TotalYearsOfManagementWorkExperience>10.9</TotalYearsOfManagementWorkExperience>
+<TotalMonthsOfLowLevelManagementWorkExperience>131</TotalMonthsOfLowLevelManagementWorkExperience>
+<TotalYearsOfLowLevelManagementWorkExperience>10.9</TotalYearsOfLowLevelManagementWorkExperience>
+<ExecutiveBrief>César A. Sánchez is a resident of Baruta, Miranda, VE. He has been working in the IT  occupational sector for more than 16 years. Currently he is employed as a Service Delivery Manager at Oracle Managed Cloud Services. César has extensive knowledge of Oracle, UMTS, Microsoft Project, IP, Hyperion Pillar-Budgeting &amp; Planning, HP Server Hardware > HP 3000 Servers. César has an extensive management experience (10.9 years).</ExecutiveBrief>
+<ManagementRecord>Currently since 2013-07 the candidate had experience at a lower grade management level working as a Service Delivery Manager/International Project Management at Oracle Managed Cloud Services.
+Since 2012-02 for 17 months the candidate had experience at a lower grade management level working as a LATAM Project Manager/International Project Management at The Clorox Company.
+Since 2010-06 for 21 months the candidate had experience at a lower grade management level working as a IT Project Manager/International Project Management at Corporación Astir.
+Since 2010-02 for 3 months the candidate had experience at a lower grade management level working as a Project Leader/International Project Management at Telefónica Venezuela - Movistar.
+Since 2007-03 for 33 months the candidate had experience at a lower grade management level working as a Project Manager - Innovative Research &amp; Development/International Project Management at Teva Neuroscience, Inc..
+Since 2005-05 for 19 months the candidate had experience at a lower grade management level working as a Project Manager/International Project Management at Valeant Puerto Rico LLC.
+Since 2000-10 for 26 months the candidate had experience at a lower grade management level working as a Project Planner/International Project Management at Glaxo Wellcome.
+</ManagementRecord>
+</ExperienceSummary>
+</AdditionalPersonalData>
+<ParserInfo>
+<ParserConfiguration>{max_len=50000} {tel_flag=} {send_zip=} {fast_conv=} {DEF_LOCAL=} {sdate=0} {no_email_body=0} {do_clever_zoning=1} {keep_span=1} {complex=1} {accept_langs=} {not_accept_langs=} {prefer_lang_cv=EN} {pers_only=0} {turbo=0} {split_language=0} {picture=0} {picture_inline=0} {name_space=0} {charset=} {hrxml_upgrade_edu_hist=0}{hrxml_add_languages_section=0}{spool=} {docID=} {user=DEFAULT} </ParserConfiguration>
+<ParserRelease>0.12.3.32629</ParserRelease>
+<ParserReleaseDate>2014-06-18</ParserReleaseDate>
+<ParserSchema>2.0.29</ParserSchema>
+<ParserSchemaLocation>http://cvx.daxtra.com/cvts/xsd/candidate/2.0.29/Resume.xsd</ParserSchemaLocation>
+<ConverterRelease>0.5.2.32629</ConverterRelease>
+<ConverterReleaseDate>2014-06-18</ConverterReleaseDate>
+</ParserInfo>
+<FileStruct filename='/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/CV_CASI_140612.doc'>
+
+<attachment fname='CV_CASI_140612.doc' ftype='doc' conv='yes' doc_type='cv' lang='EN'>/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/CV_CASI_140612.doc</attachment>
+
+
+</FileStruct>
+</DaxResumeUserArea>
+</UserArea>
+</Resume>

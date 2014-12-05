@@ -1,0 +1,1947 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Resume lang='en' src='DAXTRA-CVX schema:2.0.29 release:0.12.3.32629 rdate:2014-06-18'>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName id='2'>
+<FormattedName>Cesar Silie</FormattedName>
+<GivenName>Cesar</GivenName>
+<FamilyName>Silie</FamilyName>
+<sex>Male</sex>
+</PersonName>
+<ContactMethod>
+<Telephone id='3' type='home'>
+<InternationalCountryCode>1</InternationalCountryCode>
+<SubscriberNumber>732 982-7799</SubscriberNumber>
+<FormattedNumber>+1 732 982-7799</FormattedNumber></Telephone>
+
+<InternetEmailAddress id='7' type='main'>cesarsilie@ymail.com</InternetEmailAddress>
+<PostalAddress id='4' type='main'>
+<CountryCode>US</CountryCode>
+<PostalCode>08818</PostalCode>
+<Region>NJ</Region>
+<Municipality>Edison</Municipality>
+<DeliveryAddress>
+<AddressLine>P.O. Box 1275</AddressLine>
+<PostOfficeBox>P.O. Box 1275</PostOfficeBox>
+</DeliveryAddress>
+
+</PostalAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>I am searching for a professional opportunity to acquire additional system and network administration engineering experience and fully utilize my talents on many new and exciting challenges that will help me grow professionally, work closely with your colleagues, and hopefully be a full company employee with this employer.</ExecutiveSummary>
+<Objective id='116'>Account Administration</Objective>
+
+
+<EmploymentHistory>
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='44_1'>Bank Of America</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='44_3'>
+<Municipality>Pennington</Municipality>
+<Region>NJ</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='51_1'>Profile Manager</Title>
+<OrgName id='44_2'>Merrill lynch</OrgName>
+
+
+
+<Description>The nation's leading financial institution and home for all of your personal financial needs.
+
+Level 2 Network/Senior System Administrators
+Subject Matter Expert on the following elements
+*  Receive trouble tickets based on your area of expertise XenApp or XenDesktop and work with users to pinpoint the issue. ; 
+*  Determine and implement the fix or work across technology teams to determine the solution and then implement the solution with the environment. ; 
+*  Work closely with the solution design engineering group, network, and operations to get resolution to the end users problem and close out these tickets. ; 
+*  Implement virtualization technologies (i.e. VMWARE, Citrix) on testing and production environment infrastructure. ; 
+*  Work in an environment of 100,000 users for the second largest financial bank of the nation. ; 
+*  Deploy application packet with Stream Profiler and XenApp or App-V to the HVD. ; 
+*  Work with Provisioning Server 6.1, Profile Manager 4.1, XenDesktop 5.5, XenApp 6.5, vSphere 5.5, Store Area Network Uni-Sphere, Single Sign, Merchandising Server and ICA Receivers. ; 
+*  Implemented monitoring with Eagle Sight server and apply HA, WLB and load balancing with NetCaller. ; 
+*  Installation, Configuration and troubleshooting of windows domain controller Server 2008/2012 infrastructure. ;</Description>
+<StartDate id='44_4_1'><YearMonth>2013-03</YearMonth></StartDate>
+<EndDate id='44_4_2'><YearMonth>2014-03</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='44' last_id='56' border_id='57'></TLSPAN>
+<MonthsOfWork>12</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='57_1'>Professional Data System</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='57_3'>
+<Municipality>New York</Municipality>
+<Region>NY</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='73_1'>managers</Title>
+<OrgName id='57_2'>LHR</OrgName>
+
+
+
+<Description>The trusted leader in medical IT support, the Medical IT specialists offering EMR support &#38; Healthcare IT systems.
+
+Level 2 Network/System Administrators
+Concentrating on Network and Systems Maintenance and Documentation
+*  Analyze information to determine, recommend, and plan installation of a new system or existing system. ; 
+*  Available for all systems strong suit related issues dealing with CORE/POE ROUTERS/SWITCH ; 
+*  Work in an environment of 22 sites with 1000 users for the radiology hospital municipality state of NY. ; 
+*  Network Administration experience with CISCO, SONICWAL, HP PROCURVE, and FORCE10. ; 
+*  Work with single sign on and merchandising server to deploy ICA and password manage to the users. ; 
+*  Implemented monitoring with Eagle Sight server and apply HA, WLB and load balancing with NetCaller. ; 
+*  Separate management interface from fiber channels and setup mutilating with ISCSI to the SAN Storage. ; 
+*  User administration experience with MICROSOFT SQL, Exchange, Shared Point, Server, etc. ; 
+*  CITRIX Environment, application presentation, desktop presentation, printing, profile, storage etc. ; 
+*  Confer with data processing or project managers to obtain information on limitations or capabilities. ; 
+*  Modify software to correct errors, adapt new hardware, or to upgrade interfaces and improve performance. ;</Description>
+<StartDate id='57_4_1'><YearMonth>2012-05</YearMonth></StartDate>
+<EndDate id='57_4_2'><YearMonth>2013-03</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='57' last_id='73' border_id='74'></TLSPAN>
+<MonthsOfWork>11</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='74_1'>Synergistic</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='74_2'>
+<Municipality>West Cardwell</Municipality>
+<Region>NJ</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='74_4_1'>Preforming Project management</Title>
+<OrgName id='75'>the Board of Education of West Caldwell School</OrgName>
+
+
+
+<Description>technology for the Board of Education of West Caldwell School infrastructure system
+Level 2 System Administrators
+Lucent trained in the flowing Network Elements
+*  Working in a virtual environment with Citrix and VMWARE products, Server, application, Desktop. ; 
+*  Implement virtualization technologies (i.e. VMWARE, Citrix) on testing and production environment infrastructure. ; 
+*  Work in an environment of 8000 users for the board of education of West Caldwell school District system. ; 
+*  Blend knowledge of Administration of XenServer, Provisioning, XenApp, XenDesktop, Profile Manager, etc. ; 
+*  Work with single sign on and merchandising server to deploy ICA and password manage to the users. ; 
+*  Project manager for backup system, network implementation, connection and server database maintenance. ; 
+*  Implemented monitoring with Eagle Sight server and apply HA, WLB and load balancing with NetCaller. ; 
+*  Installation, Configuration and troubleshooting of windows domain controller Server 2008/2012 infrastructure. ; 
+*  Experience on Dell Power Edge Blade Server iDRAG DLP interface and EMC Storage Area Network infrastructure. ; 
+*  Bend Knowledge of disk tools such as NaviSphere and UniSphere EMC Storage and Redundancy (RAID 1, 5, 10). ;</Description>
+<StartDate id='74_3_1'><YearMonth>2010-03</YearMonth></StartDate>
+<EndDate id='74_3_2'><YearMonth>2012-03</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='74' last_id='93' border_id='94'></TLSPAN>
+<MonthsOfWork>24</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='94_1'>BBVA Data Security Inc.</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='94_2'>
+<Municipality>New York</Municipality>
+<Region>NY</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='CONTRACT'>
+<Title id='123_1'>Control Manager</Title>
+<Title id='124_1'>Server Control Operation Manager</Title>
+<OrgName id='94_1'>BBVA Data Security Inc.</OrgName>
+
+
+
+<Description>Bank Bilbao Biscayan Argent aria, the second largest bank in Spain and the largest financial institution in the Southwestern region
+
+Level 2 System Administrators
+Member of Data Network Control Center, supporting an assortment of technology networks 
+*  Implement Exchange, SMS, SQL, Double Take, File Server, UNIX, Clusters SAN Storage and Netware Server. ; 
+*  Maintaining configuration-demonstrating blend of (AD, DHCP, TCP IP, DNS, WIN, NIS, NFS, and NAS etc.). ; 
+*  Reduce physical server footprint standardization of Database Access maintenance and Security management. ; 
+*  Participated with network security principles and general network security management at best practice, securing Account Administration service account, DCOM Service. ; 
+*  Implement and administrated Windows Server 2003 and UNIX on physical server VMWARE virtualization technology ; 
+*  WSUS (Update Server), SCCM (System Center Control Manager) and SCOM (Server Control Operation Manager) ; 
+*  Troubleshoot IBM, Dell Power Edge and HP Pavilion Server hardware and Software installation system. ; 
+*  Configure network interface TCP/IP protocol connectivity and work with the seven layer of the OSI model. ;</Description>
+<StartDate id='94_3_1'><YearMonth>2009-09</YearMonth></StartDate>
+<EndDate id='94_3_2'><YearMonth>2010-03</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='94' last_id='131' border_id='132'></TLSPAN>
+<MonthsOfWork>7</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='132_1'>AT&#38;T</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='132_2'>
+<Municipality>Bedminster</Municipality>
+<Region>NJ</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+
+<OrgName id='132_1'>AT&#38;T</OrgName>
+
+
+
+<Description>AT&#38;T America's Most Reliable Network worldwide
+
+Tier II Network Implementation Support
+Member of Data Network Control Center, supporting an assortment of technology networks 
+*  Provide network support for Auto-routing, PNNI, AGN, IPFR and VRF network in support of WAN technology. ; 
+*  Responsible for the identification, monitoring, analyzing, sectionalizing and referring of T1/T3, E3/OC12 circuit. ; 
+*  Interact with other IT OSWF Professionals in related organization across the world to deal with network issues. ; 
+*  Conduct in-depth analysis of circuit impairments by assessing network output from a multitude of network systems. ; 
+*  BMP, WMS, RMA, and ICORE were some of the ticketing system and diagnostic on degree of service impairment. ; 
+*  Troubleshooting Frame-Relay, ATM, Sonnet, Ethernet, OSPF, BGP, IGP, EGP, LDP, VPLS protocols. ; 
+*  WAN Switch Support of the I/O modules in the AXIS, MGX, GSN BPX and CSR Router configuration chassis. ; 
+*  Cisco router script management/configuration with Unix KSH, Perl, expects, OSS, VBS script programming. ;</Description>
+<StartDate id='132_3_1'><YearMonth>2008-12</YearMonth></StartDate>
+<EndDate id='132_3_2'><YearMonth>2009-08</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='132' last_id='154' border_id='155'></TLSPAN>
+<MonthsOfWork>9</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='155_1'>Verizon Wireless</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='155_2'>
+<Municipality>Bedminster</Municipality>
+<Region>NJ</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='CONTRACT'>
+<Title id='164_1'>Network Administrator</Title>
+<OrgName id='155_1'>Verizon Wireless</OrgName>
+
+
+
+<Description>Verizon Wireless America's Most Reliable Network in the Nation
+
+Tier II Network Implementation Support, Wireless Data Network
+Member of the production staff, specialist on Network Repair Bureau, troubleshooting tickets and network issues / outages 
+*  Provide technical support activities relating to the performance of Wireless services in support of WAN. ; 
+*  Responsible for the identification, monitoring, analyzing, sensationalizing and referring wireless signal coverage. ; 
+*  Responsible for the project of production NRB provisioning tools and NRB Remedy Ticket system. ; 
+*  Conduct in-depth analysis of wireless impairments by accessing data output from a multitude of support systems. ; 
+*  System performance troubleshooting related complaints involving signal issues, dropped calls, ineffective attempts. ; 
+*  Network Administrator on Cisco IOS Navigation, Monitoring, Router/Interface Configuration, Implementation. ; 
+*  Troubleshooting 802.11a/b/g RF router wireless technology and Air Card, Express Card and Internal NIC Interface. ;</Description>
+<StartDate id='155_3_1'><YearMonth>2008-07</YearMonth></StartDate>
+<EndDate id='155_3_2'><YearMonth>2008-11</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>telecomms</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='155' last_id='166' border_id='167'></TLSPAN>
+<MonthsOfWork>5</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='167_1'>FK IT Data Center</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='167_2'>
+<Municipality>Union</Municipality>
+<Region>NJ</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='169_1'>IT Manager</Title>
+<OrgName id='168'>IT Development Group</OrgName>
+
+
+
+<Description>One of the largest furniture distributor holding company, the leading provider of merchandise, and the driving force customer service that transform the way people live in their homes.
+
+Level 2 System Administrators
+Working closely with the other Network Administrators Help Desk Group, IT Development Group, VP Network, IT Manager, Main Office Support Groups, 3rd Party Vendors and end-user to provide support for the IT Network Infrastructures.
+*  Provide server administration on System UNIX Mainframe Administrator Servers located at the data centers. ; 
+*  Maintain and engineer UNIX (Sun Solaris) Network environment file system and Monitor Security management. ; 
+*  Creation of data retention and backup archiving strategy on My SQL Server Database Administration Management. ; 
+*  Conduct in-depth analysis of circuit impairments by accessing data output from a multitude of support systems. ; 
+*  Bend Knowledge of disk management tools such as VERITAS Storage backup and Redundancy (RAID 1, 5). ; 
+*  Installing, supporting and maintaining UNIX and Windows servers or other computer and telephony systems. ; 
+*  Provide technical support activities relating to the performance of IP and SMNP services in support of LAN/WAN. ;</Description>
+<StartDate id='167_3_1'><YearMonth>2001-11</YearMonth></StartDate>
+<EndDate id='167_3_2'><YearMonth>2008-04</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='167' last_id='181' border_id='182'></TLSPAN>
+<MonthsOfWork>78</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='182_1'>IBM, Inc.</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='182_2'>
+<Municipality>Somerset</Municipality>
+<Region>NJ</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+
+<OrgName id='182_1'>IBM, Inc.</OrgName>
+
+
+
+<Description>Leader in the invention, development and manufacture of the industry's most advanced information technologies, including computer systems, software, storage systems and microelectronics.
+
+Level 2 System Administrators
+IRC Consult Conjunction Network Operations of the IBM Team and System Administration Management for Lucent Technologies
+*  Configured installed, and tested computer system in IT lab consisting of WINDOWS / LINUX server and computers. ; 
+*  Responsibility of maintained servers, computers and telephony systems of the network infrastructure architect. ; 
+*  Interact with other IT Professionals in related organization across the world to deal with network issues. ; 
+*  System performance troubleshooting complaints involving Administration, customized set up, troubleshot, signal issues, dropped calls, and network configurations. ; 
+*  Work with Even logs, Exchange Servers, Backup Servers, Print Servers, Storage Servers, IIS Servers, and Database Servers. ; 
+*  Maintain Microsoft Windows Server 2000 environment, demonstrating blend knowledge of LAN Network (AD, DNS, WIN, TCP/ IP, NIS, NFS, and NAS etc.). ; 
+*  Participated with applications and services (ISA, LDAP, GPO, RDP, RAID, DFS, SMS, SCCM, etc.). ;</Description>
+<StartDate id='182_3_1'><YearMonth>1998-08</YearMonth></StartDate>
+<EndDate id='182_3_2'><YearMonth>2001-09</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='182' last_id='204' border_id='0'></TLSPAN>
+<MonthsOfWork>38</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType='college'>
+<SchoolName id='207'>Arthur McNeil School of technology and Xircom</SchoolName>
+<LocationSummary id='206_3'>
+<Region>NJ</Region>
+</LocationSummary>
+
+
+
+
+
+
+<DatesOfAttendance>
+<StartDate id='206_4_1'><YearMonth>2008-01</YearMonth></StartDate>
+<EndDate id='206_4_2'><YearMonth>2013-04</YearMonth></EndDate>
+</DatesOfAttendance>
+<Comments>Arthur McNeil AND Xircom, Central Jersey, NJ             certified testing center. Has the best-equipped networking, Internetworking and Cisco laboratory facilities. The array of equipment includes series 2500, 2600, 3000, 4000 &#38; 7000 routers; 2509, 2511, 5200 Access Servers; Catalyst Switches 1900, 2800, 3500 5000 &#38; 5500 switches; Pix and Checkpoint firewalls; Sun Solaris, Network Associates Intrusion protection and much, much more.
+Technical Support and Network Telecommunications Management, Bi-Lingual/Spanish
+*  CITRIX CERTIFIED ENTERPRISE ENGINEER
+*  CITRIX CERTIFIED NETSCALER ADMINISTRATOR ; 
+*  CITRIX CERTIFIED ADVANCE XENAPP ADMINISTRATOR ; 
+*  CITRIX CERTIFIED XENSERVER ADMINISTRATOR
+*  CITRIX CERTIFIED XENDESKTOP ADMINISTRATOR
+*  CITRIX CERTIFIED XENAPP ADMINISTRATOR ;</Comments>
+</SchoolOrInstitution>
+
+<SchoolOrInstitution schoolType='university'>
+<SchoolName id='229_1'>DeVry University</SchoolName>
+<LocationSummary id='229_2'>
+<Municipality>North Brunswick</Municipality>
+<Region>NJ</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+
+
+
+
+
+
+<DatesOfAttendance>
+<StartDate id='229_3_1'><YearMonth>2000-11</YearMonth></StartDate>
+<EndDate id='229_3_2'><YearMonth>2003-06</YearMonth></EndDate>
+</DatesOfAttendance>
+<Comments>DeVry graduate professionals design, implement, and manage business networks. As a network manager, analyst, engineer, consultant, or an administrator the student will provide effective solutions in any organization.
+*
+AS/BS CIS Programming and Telecommunications Management, Bi-Lingual/Spanish
+*  Associates Degree in Computer Programming Information System ; 
+*  Bachelor Degree in Network Telecommunications Management - Note: will acquire on Next 2 Semesters ;</Comments>
+</SchoolOrInstitution>
+
+<SchoolOrInstitution schoolType='college'>
+<SchoolName id='250_1'>High School</SchoolName>
+<LocationSummary id='250_2'>
+<Municipality>Perth Amboy</Municipality>
+<Region>NJ</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+
+
+<Degree degreeType='some college'>
+<DegreeName id='251'>Diploma</DegreeName>
+<DegreeDate id='250_3_2'><YearMonth>2000-06</YearMonth></DegreeDate>
+</Degree>
+
+
+
+<DatesOfAttendance>
+<StartDate id='250_3_1'><YearMonth>1997-09</YearMonth></StartDate>
+<EndDate id='250_3_2'><YearMonth>2000-06</YearMonth></EndDate>
+</DatesOfAttendance>
+<Comments>*  High School Diploma
+
+Excellent references and portfolio available on request</Comments>
+</SchoolOrInstitution>
+
+<SchoolOrInstitution schoolType='college'>
+<SchoolName id='242_2'>Amtech Institute of Management and Technology</SchoolName>
+<LocationSummary id='241'>
+<Municipality>North Brunswick</Municipality>
+</LocationSummary>
+
+<OrganizationUnit organizationType='mainco'>School of technology</OrganizationUnit>
+<Degree degreeType='certification'>
+<DegreeName id='246'>Microsoft Certified Professional</DegreeName>
+<DegreeDate id='242_1_2'><YearMonth>1999-06</YearMonth></DegreeDate>
+</Degree>
+
+
+
+<DatesOfAttendance>
+<StartDate id='242_1_1'><YearMonth>1998-03</YearMonth></StartDate>
+<EndDate id='242_1_2'><YearMonth>1999-06</YearMonth></EndDate>
+</DatesOfAttendance>
+<Comments>(a division of the Microsoft Global Group) providing enhance on technical support and Microsoft application management the employability worldwide.
+
+ Bi-Lingual/Spanish
+*  MICROSOFT CERTIFIED PROFETIONAL for (NT 4.0) ;</Comments>
+</SchoolOrInstitution>
+
+</EducationHistory>
+
+
+
+
+
+
+
+
+
+
+
+<Competency oids='19 42 47 77 80 ' description='Skill > IT' auth='yes' name='Citrix Winframe'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>CITRIX</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>97</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='17 101 119 151 172 178 ' description='Skill > IT' auth='yes' name='UNIX'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>94</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='configuration'><StringValue>configuration</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>configuration with Unix KSH</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>UNIX (Sun Solaris)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>54</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='46 78 79 120 ' description='Skill > IT' auth='yes' name='VMware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>43</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='108 179 190 197 ' description='Skill > IT' auth='yes' name='Microsoft Windows'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>123</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>WIN</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='45 48 52 83 ' description='Skill > IT' auth='yes' name='Citrix XenApp'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>XenApp</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>XenApp 6.5 6.5</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>99</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='141 163 175 ' description='Skill' auth='no' name='depth analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>92</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>52</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='106 130 198 ' description='Skill > IT' auth='yes' name='TCP/IP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>45</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>TCP IP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='93 177 202 ' description='Skill > IT' auth='yes' name='RAID'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>140</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>RAID 1, 5, 10 5, 10</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>RAID 1, 5 5</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='50 103 191 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2000 Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>57</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Provisioning Server 6.1 6.1</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Netware Server</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>LINUX server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>97</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='55 68 90 ' description='Skill' auth='no' name='Implemented monitoring'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>47</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='214 244 ' description='Skill' auth='no' name='Technical Support'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='172 212 ' description='Skill > IT' auth='yes' name='Sun Solaris'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>78</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>UNIX (Sun Solaris)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>28</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='99 204 ' description='Skill > IT' auth='yes' name='SMS'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>45</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>55</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='138 161 ' description='Skill' auth='no' name='Responsible for the identification'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='50 82 ' description='Skill > IT' auth='yes' name='Provisioning'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Provisioning Server 6.1 6.1</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='110 200 ' description='Skill > IT' auth='yes' name='Network File System'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>45</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>NFS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='111 201 ' description='Skill > IT' auth='yes' name='Network Attached Storage'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>45</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>NAS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='109 199 ' description='Skill > IT' auth='no' name='NIS'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>45</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='56 91 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2008 Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Server 2008</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='66 85 ' description='Skill' auth='yes' name='Merchandising'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>35</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='137 160 ' description='Skill > IT' auth='yes' name='LAN/WAN > WAN'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='support'><StringValue>support</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>support of WAN</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='194 227 ' description='Skill > IT' auth='yes' name='LAN/WAN > LAN'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>38</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>knowledge of LAN</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>LAN</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='107 196 ' description='Skill > IT' auth='yes' name='Domain Name Server Protocol'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>45</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>DNS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='20 150 ' description='Skill > IT' auth='yes' name='Cisco Switches/Routers'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>CISCO</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Cisco router</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='104 195 ' description='Skill > IT' auth='yes' name='AD'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>45</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='39 ' description='Skill > IT' auth='yes' name='shell scripting'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>C Shell</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='31 ' description='Skill' auth='no' name='service support'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='89 ' description='Skill' auth='no' name='server database maintenance'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>66</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='170 ' description='Skill' auth='no' name='server administration'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>78</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>29</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='88 ' description='Skill' auth='no' name='network implementation'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>66</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='13 ' description='Skill' auth='no' name='network administration'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='58 ' description='Skill' auth='no' name='medical IT support'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='230 ' description='Skill' auth='no' name='manage business networks'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='24 ' description='Skill' auth='no' name='manage an assortment'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='34 ' description='Skill' auth='no' name='light programming'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='115 ' description='Skill' auth='no' name='general network security management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='176 ' description='Skill' auth='no' name='disk management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>78</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='37 ' description='Skill > IT' auth='yes' name='VBScript'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='154 ' description='Skill' auth='no' name='VBS script programming'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='70 ' description='Skill' auth='no' name='User administration experience'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>81</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='134 ' description='Skill' auth='no' name='Tier II Network Implementation Support'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='236 ' description='Skill' auth='no' name='Telecommunications Management'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='186 ' description='Skill' auth='yes' name='Team Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>38</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Team</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>28</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='60 ' description='Skill' auth='no' name='Systems Maintenance'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>84</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='187 ' description='Skill' auth='no' name='System Administration Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>38</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>27</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='148 ' description='Skill' auth='no' name='Support of the I/O modules'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='16 ' description='Skill > Language' auth='yes' name='Spanish'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>NATIVE</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='144 ' description='Skill > IT' auth='no' name='Sonnet'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='129 ' description='Skill' auth='no' name='Software installation'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='25 ' description='Skill' auth='no' name='Skill Project management'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='69 ' description='Skill' auth='no' name='Separate management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>81</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='114 ' description='Skill' auth='no' name='Security management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='100 ' description='Skill > IT' auth='yes' name='SQL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='64 ' description='Skill > IT' auth='no' name='SONICWAL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>82</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='165 ' description='Skill > IT' auth='yes' name='Router'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>5</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='162 ' description='Skill' auth='no' name='Responsible for the project'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>5</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='62 ' description='Skill' auth='yes' name='Radiology'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>83</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='112 ' description='Skill > IT' auth='yes' name='REDUCE'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='35 ' description='Skill' auth='yes' name='Project Management'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='127 ' description='Skill > IT' auth='yes' name='PowerEdge Hardware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Power Edge</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='152 ' description='Skill > IT' auth='yes' name='Perl Programming'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Perl</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='22 ' description='Skill' auth='no' name='Over All Experience'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='140 ' description='Skill > IT' auth='yes' name='Optical Carrier > OC-12'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>OC12</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='153 ' description='Skill > IT' auth='yes' name='OSS (Operating Support Systems)'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>OSS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='146 ' description='Skill > IT' auth='yes' name='OSPF (Open Shortest Path First)'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>OSPF</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='131 ' description='Skill > IT' auth='yes' name='OSI'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='103 ' description='Skill > IT' auth='yes' name='Novell Netware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Netware Server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='215 ' description='Skill' auth='no' name='Network Telecommunications Management'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='63 ' description='Skill' auth='no' name='Network Administration experience'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>82</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='173 ' description='Skill' auth='no' name='Monitor Security management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>78</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>26</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='245 ' description='Skill' auth='no' name='Microsoft application management'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='121 ' description='Skill > IT' auth='yes' name='Microsoft Windows Server Update Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>WSUS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='249 ' description='Skill > IT' auth='yes' name='Microsoft Windows NT'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>NT 4.0 4.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='118 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2003 Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows Server 2003</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='193 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2000 Professional'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>38</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2000</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='27 ' description='Skill > IT' auth='yes' name='Microsoft Visio'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Visio</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='71 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MICROSOFT SQL</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>81</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='30 ' description='Skill > IT' auth='yes' name='Microsoft PowerPoint'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>PowerPoint</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='26 ' description='Skill > IT' auth='yes' name='Microsoft Office'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>knowledge with Microsoft Office</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='72 ' description='Skill > IT' auth='yes' name='Microsoft Exchange Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Exchange</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>81</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='29 ' description='Skill > IT' auth='yes' name='Microsoft Excel'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Excel</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='49 ' description='Skill > IT' auth='yes' name='Microsoft Application Virtualization'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>App-V</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>91</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='183 ' description='Skill' auth='yes' name='Microelectronics'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>38</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>29</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='191 ' description='Skill > IT' auth='yes' name='Linux'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>38</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>LINUX server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>26</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='181 ' description='Skill > IT' auth='yes' name='LAN/WAN'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>78</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='support'><StringValue>support</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>support of LAN/WAN</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='151 ' description='Skill > IT' auth='yes' name='Korn Shell'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='configuration'><StringValue>configuration</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>configuration with Unix KSH</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='125 ' description='Skill > IT' auth='yes' name='IBM Hardware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IBM</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='65 ' description='Skill > IT' auth='yes' name='HP ProCurve Networking'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>HP PROCURVE</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>81</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='128 ' description='Skill > IT' auth='yes' name='HP Hardware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>HP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='142 ' description='Skill > IT' auth='yes' name='Frame Relay'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Troubleshooting'><StringValue>Troubleshooting</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Troubleshooting Frame-Relay</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='145 ' description='Skill > IT' auth='yes' name='Ethernet'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='59 ' description='Skill' auth='no' name='EMR support'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='105 ' description='Skill > IT' auth='yes' name='Dynamic Host Control protocol'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>DHCP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='36 ' description='Skill' auth='no' name='Develop Script'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='126 ' description='Skill > IT' auth='yes' name='Dell Server Hardware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Dell</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='174 ' description='Skill' auth='no' name='Database Administration Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>78</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>26</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='113 ' description='Skill' auth='no' name='Database Access maintenance'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='139 ' description='Skill > IT' auth='yes' name='DS1'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>T1</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='203 ' description='Skill > IT' auth='yes' name='DFS'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>38</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='102 ' description='Skill > IT' auth='no' name='Clusters SAN Storage'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='209 ' description='Skill > IT' auth='yes' name='Cisco Switches/Routers > Catalyst Switches'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Catalyst Switches</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='211 ' description='Skill > IT' auth='yes' name='CheckPoint Firewall'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Checkpoint firewalls</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='149 ' description='Skill' auth='yes' name='Chassis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='38 ' description='Skill > IT' auth='no' name='Bash'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='147 ' description='Skill > IT' auth='yes' name='BGP (Border Gateway Protocol)'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>BGP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='143 ' description='Skill > IT' auth='yes' name='ATM (Asynchronous Transfer Mode)'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ATM</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='18 ' description='Skill > IT' auth='no' name='APPLE'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency description='Skill > IT' auth='yes' name='A+'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='51_1 84_1 ' description='Held Position' auth='no' name='Profile Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>99</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='32_1 233_1 ' description='Held Position' auth='no' name='Engineer'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='33_1 234_1 ' description='Held Position' auth='no' name='Consultant'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='73_1 ' description='Held Position' auth='no' name='managers'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='14_1 ' description='Held Position' auth='no' name='employee'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='232_1 ' description='Held Position' auth='no' name='analyst'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='231_2 ' description='Held Position' auth='no' name='a network manager'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='5_1 ' description='Held Position' auth='no' name='Technology Associate'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='124_1 ' description='Held Position' auth='no' name='Server Control Operation Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>48</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='87_1 ' description='Held Position' auth='no' name='Project manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='74_4_1 ' description='Held Position' auth='no' name='Preforming Project management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>70</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='164_1 ' description='Held Position' auth='no' name='Network Administrator'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>5</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='171_1 ' description='Held Position' auth='no' name='Maintain and engineer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>78</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>28</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='41_1 ' description='Held Position' auth='no' name='IT Manager, Support'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='169_1 ' description='Held Position' auth='no' name='IT Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>78</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>29</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='123_1 ' description='Held Position' auth='no' name='Control Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='116_1 ' description='Held Position' auth='no' name='Account Administration'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='54 67 86 ' description='Degree/Qualification > Professional' auth='no' name='ICA'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>36</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='97 135 ' description='Degree/Qualification > Professional' auth='no' name='Member of Data Network Control Center'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='6 239 ' description='Degree/Qualification' auth='yes' name='Bachelors Degree > Bachelors Degree Network Telecommunications Management'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='Network Telecommunications Management'><StringValue>Network Telecommunications Management</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Degree , Communication Bachelor's Degree</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Bachelor Degree in Network Telecommunications Management</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='6 239 ' description='Degree/Qualification' auth='yes' name='Bachelors Degree > Bachelors Degree Communication'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='Communication'><StringValue>Communication</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Degree , Communication Bachelor's Degree</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Bachelor Degree in Network Telecommunications Management</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='225 ' description='Degree/Qualification > Professional' auth='yes' name='Microsoft Certified Technology Specialist'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='223_1 ' description='Degree/Qualification > Professional' auth='yes' name='Microsoft Certified Systems Engineer'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MICROSOFT CERTIFIED SYSTEM ENGINEER</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='246 ' description='Degree/Qualification > Professional' auth='yes' name='Microsoft Certified Professional'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='248 ' description='Degree/Qualification > Professional' auth='no' name='MICROSOFT CERTIFIED PROFETIONAL'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='253 ' description='Degree/Qualification' auth='yes' name='Higher School Certificate'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>High School Diploma</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='251 ' description='Degree/Qualification' auth='no' name='Diploma'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='226 ' description='Degree/Qualification > Professional' auth='yes' name='CompTIA Network+ Certified Professional'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>NETWORK + CERTIFIED PROFESSIONAL</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='224 ' description='Degree/Qualification > Professional' auth='yes' name='Cisco Certified Network Associate'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>CISCO CERTIFIED NETWORK ASSOCIATE (WAN)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='220 ' description='Degree/Qualification > Professional' auth='no' name='CERTIFIED XENSERVER ADMINISTRATOR'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>CITRIX CERTIFIED XENSERVER ADMINISTRATOR</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='221 ' description='Degree/Qualification > Professional' auth='no' name='CERTIFIED XENDESKTOP ADMINISTRATOR'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>CITRIX CERTIFIED XENDESKTOP ADMINISTRATOR</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='222 ' description='Degree/Qualification > Professional' auth='no' name='CERTIFIED XENAPP ADMINISTRATOR'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>CITRIX CERTIFIED XENAPP ADMINISTRATOR</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='228 ' description='Degree/Qualification > Professional' auth='no' name='CERTIFIED PROFESSIONAL IT TECHNICIAN'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>A+ CERTIFIED PROFESSIONAL IT TECHNICIAN</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='218 ' description='Degree/Qualification > Professional' auth='no' name='CERTIFIED NETSCALER ADMINISTRATOR'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>CITRIX CERTIFIED NETSCALER ADMINISTRATOR</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='217 ' description='Degree/Qualification > Professional' auth='no' name='CERTIFIED ENTERPRISE ENGINEER'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>CITRIX CERTIFIED ENTERPRISE ENGINEER</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='219 ' description='Degree/Qualification > Professional' auth='no' name='CERTIFIED ADVANCE XENAPP ADMINISTRATOR'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>CITRIX CERTIFIED ADVANCE XENAPP ADMINISTRATOR</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='238 ' description='Degree/Qualification' auth='yes' name='Associate Degree > Associate Degree Computer Programming Information'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='Computer Programming Information'><StringValue>Computer Programming Information</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Associates Degree in Computer Programming Information</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency description='Industry' auth='yes' name='industry~it'>
+<CompetencyEvidence name='skillCount' typeDescription='skillCount'><NumericValue>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+</Competency>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<RevisionDate id='1'>2014-03-18</RevisionDate>
+</StructuredXMLResume>
+<NonXMLResume>
+
+<TextResume>
+
+
+
+<span inprof='n' id='1' class='date'>{{DOCUMENT_DATESTAMP}} 2014-3-18 {{END_DOCUMENT_DATESTAMP}}</span>
+
+
+<span inprof='y' id='2' class='nominal'>Cesar Silie</span> - MCSE, CCEE, CCNA
+<span inprof='y' id='3' class='telephone'>Phone: 732-982-7799</span>
+
+<span inprof='y' id='4' class='location'>P.O. Box 1275 - Edison, NJ 08818</span>
+
+<span inprof='y' id='5_1' class='role'>Technology Associate</span> <span inprof='y' id='6' class='qualif'>Degree
+Communication Bachelor's Degree</span>
+
+<span inprof='y' id='7' class='email'>cesarsilie@ymail.com</span>
+
+
+Cisco <span inprof='n' id='8' class='passport-number'>ID = CSCO11422541</span>
+Citrix <span inprof='n' id='9' class='passport-number'>ID = CTX487468</span>
+Microsoft <span inprof='n' id='10' class='passport-number'>ID = 1932645</span>, 6132422
+Comp-TIA <span inprof='n' id='11' class='passport-number'>ID = COMP001006618383</span>
+
+<span inprof='n' id='12' class='objectives-mark'>OBJECTIVE:</span>
+I am searching for a professional opportunity to acquire additional system and <span inprof='y' id='13' class='skill'>network administration</span> engineering experience and fully utilize my talents on many new and exciting challenges that will help me grow professionally, work closely with your colleagues, and hopefully be a full company <span inprof='y' id='14_1' class='role'>employee</span> with this employer.
+
+<span inprof='n' id='15' class='edu-hist-mark'>QUALIFICATIONS:</span>
+*  Operate within the guidelines established by the company policies and procedures. ; 
+*  Maintains confidentiality of workplace information according to the company policies and procedures. ; 
+*  The ability to lift in fast paced environment and transport moderately heavy objects and deal with stress. ; 
+*  Detail-oriented, flexible, able to adjust and respond to crisis and provide technical blend knowledge. ; 
+*  Speak, Read, and Write in <span inprof='y' id='16' class='skill'>Bi-Lingual (Spanish</span>) on casual, professional, and technical dialects. ; 
+*  Proficient on MICROSOFT, <span inprof='y' id='17' class='sofwr'>UNIX</span>, <span inprof='y' id='18' class='sofwr'>APPLE</span>, <span inprof='y' id='19' class='sofwr'>CITRIX</span>, <span inprof='y' id='20' class='sofwr'>CISCO</span> hardware and software legacy latest technologies. ; 
+*  Able to stand, walk, reach, climb, extensive sitting; dexterity of hands and fingers to operate a computer keyboard, mouse, power tools and other technical devices for extended periods of time.
+
+<span inprof='n' id='21' class='work-hist-mark'>EXPERIENCE</span>
+<span inprof='y' id='22' class='skill'>Over All Experience</span> in all the jobs
+*  Demonstrated blend knowledge of technical skills beyond the knowledge <span inprof='n' id='23' class='bad-occupation'>of Help Desk</span> Group and End User staff. ; 
+*  Implement technical solutions that ensure control, manageability and integrity of the environment technology. ; 
+*  Maintain, configure, and <span inprof='y' id='24' class='skill'>manage an assortment</span> of technology changes to control network infrastructure. ; 
+*  Planning and respond to service outages troubleshoot with effective resolutions in timely manner. ; 
+*  Design operational and technical engineering management system manual documentation procedures. ; 
+*  <span inprof='y' id='25' class='skill'>Skill Project management</span> with <span inprof='y' id='26' class='sofwr'>knowledge with Microsoft Office</span> <span inprof='y' id='27' class='sofwr'>Visio</span>, <span inprof='n' id='28' class='sofwr'>Project</span>, World, <span inprof='y' id='29' class='sofwr'>Excel</span>, <span inprof='y' id='30' class='sofwr'>PowerPoint</span> etc. ; 
+*  Recommend diagnostic tests and possible network configurations based on degree of <span inprof='y' id='31' class='skill'>service support</span>. ; 
+*  <span inprof='y' id='32_1' class='role'>Engineer</span> the datacenter Backup system by implementing the Full and Increment backup of all data in the district. ; 
+*  <span inprof='y' id='33_1' class='role'>Consultant</span> to other duties include scripting, <span inprof='y' id='34' class='skill'>light programming</span>, <span inprof='y' id='35' class='skill'>project management</span>, supervising or training. ; 
+*  <span inprof='y' id='36' class='skill'>Develop Script</span> for Network Server and Router in Pert, Expect, Power Shell, WMI, <span inprof='y' id='37' class='sofwr'>VBScript</span>, <span inprof='y' id='38' class='sofwr'>Bash</span>, <span inprof='y' id='39' class='sofwr'>C Shell</span>, etc. ; 
+*  Collaborated closely with Network Engineers, <span inprof='n' id='40' class='company'>Provisioning Group, IT Development Group</span>, VP Network, <span inprof='y' id='41_1' class='role'>IT Manager, Support</span> Groups, 3rd Party Vendors and Customers to provide support and resolve anomalies. ; 
+*  All <span inprof='y' id='42' class='sofwr'>Citrix</span> application on this resume is implemented with the latest version of the software. ; 
+*  There always have downtown time to implemented and apply upgrades to the system environment in the network.
+
+
+<span inprof='n' id='43' class='work-hist-mark'>WORK EXPERIENCE:</span>
+
+<span inprof='y' id='44_1' class='company'>Bank Of America</span>/<span inprof='y' id='44_2' class='company'>Merrill lynch</span>, <span inprof='y' id='44_3' class='location'>Pennington, NJ</span>           <span inprof='y' id='44_4_1' class='date'>03/2013</span> - <span inprof='y' id='44_4_2' class='date'>03/2014</span>
+The nation's leading financial institution and home for all of your personal financial needs.
+
+Level 2 Network/Senior System Administrators
+Subject Matter Expert on the following elements
+*  Receive trouble tickets based on your area of expertise <span inprof='y' id='45' class='sofwr'>XenApp</span> or XenDesktop and work with users to pinpoint the issue. ; 
+*  Determine and implement the fix or work across technology teams to determine the solution and then implement the solution with the environment. ; 
+*  Work closely with the solution design engineering group, network, and operations to get resolution to the end users problem and close out these tickets. ; 
+*  Implement virtualization technologies (i.e. <span inprof='y' id='46' class='sofwr'>VMWARE</span>, <span inprof='y' id='47' class='sofwr'>Citrix</span>) on testing and production environment infrastructure. ; 
+*  Work in an environment of 100,000 users for the second largest financial bank of the nation. ; 
+*  Deploy application packet with Stream Profiler and <span inprof='y' id='48' class='sofwr'>XenApp</span> or <span inprof='y' id='49' class='sofwr'>App-V</span> to the HVD. ; 
+*  Work with <span inprof='y' id='50' class='sofwr'>Provisioning Server 6.1</span>, <span inprof='y' id='51_1' class='role'>Profile Manager</span> 4.1, XenDesktop 5.5, <span inprof='y' id='52' class='sofwr'>XenApp 6.5</span>, vSphere 5.5, <span inprof='n' id='53' class='educational'>Store Area Network Uni</span>-Sphere, Single Sign, Merchandising Server and <span inprof='y' id='54' class='qualif'>ICA</span> Receivers. ; 
+*  <span inprof='y' id='55' class='skill'>Implemented monitoring</span> with Eagle Sight server and apply HA, WLB and load balancing with NetCaller. ; 
+*  Installation, Configuration and troubleshooting of windows domain controller <span inprof='y' id='56' class='sofwr'>Server 2008</span>/2012 infrastructure.
+
+<span inprof='y' id='57_1' class='company'>Professional Data System</span>, <span inprof='y' id='57_2' class='company'>LHR</span>, <span inprof='y' id='57_3' class='location'>New York, NY</span>          <span inprof='y' id='57_4_1' class='date'>05/2012</span> - <span inprof='y' id='57_4_2' class='date'>03/2013</span>
+The trusted leader in <span inprof='y' id='58' class='skill'>medical IT support</span>, the Medical IT specialists offering <span inprof='y' id='59' class='skill'>EMR support</span> &#38; Healthcare IT systems.
+
+Level 2 Network/System Administrators
+Concentrating on Network and <span inprof='y' id='60' class='skill'>Systems Maintenance</span> and Documentation
+*  Analyze information to determine, recommend, and plan installation of a <span inprof='n' id='61' class='company'>new system</span> or existing system. ; 
+*  Available for all systems strong suit related issues dealing with CORE/POE ROUTERS/SWITCH ; 
+*  Work in an environment of 22 sites with 1000 users for the <span inprof='y' id='62' class='skill'>radiology</span> hospital municipality state of NY. ; 
+*  <span inprof='y' id='63' class='skill'>Network Administration experience</span> with CISCO, <span inprof='y' id='64' class='sofwr'>SONICWAL</span>, <span inprof='y' id='65' class='sofwr'>HP PROCURVE</span>, and FORCE10. ; 
+*  Work with single sign on and <span inprof='y' id='66' class='skill'>merchandising</span> server to deploy <span inprof='y' id='67' class='qualif'>ICA</span> and password manage to the users. ; 
+*  <span inprof='y' id='68' class='skill'>Implemented monitoring</span> with Eagle Sight server and apply HA, WLB and load balancing with NetCaller. ; 
+*  <span inprof='y' id='69' class='skill'>Separate management</span> interface from fiber channels and setup mutilating with ISCSI to the SAN Storage. ; 
+*  <span inprof='y' id='70' class='skill'>User administration experience</span> with <span inprof='y' id='71' class='sofwr'>MICROSOFT SQL</span>, <span inprof='y' id='72' class='sofwr'>Exchange</span>, Shared Point, Server, etc. ; 
+*  CITRIX Environment, application presentation, desktop presentation, printing, profile, storage etc. ; 
+*  Confer with data processing or project <span inprof='y' id='73_1' class='role'>managers</span> to obtain information on limitations or capabilities. ; 
+*  Modify software to correct errors, adapt new hardware, or to upgrade interfaces and improve performance.
+
+<span inprof='y' id='74_1' class='company'>Synergistic</span>, <span inprof='y' id='74_2' class='location'>West Cardwell, NJ</span>          <span inprof='y' id='74_3_1' class='date'>03/2010</span> - <span inprof='y' id='74_3_2' class='date'>03/2012</span>
+<span inprof='y' id='74_4_1' class='role'>Preforming Project management</span> technology for <span inprof='y' id='75' class='company'>the Board of Education of West Caldwell School</span> infrastructure system
+
+Level 2 System Administrators
+<span inprof='n' id='76' class='company'>Lucent</span> trained in the flowing Network Elements
+*  Working in a virtual environment with <span inprof='y' id='77' class='sofwr'>Citrix</span> and <span inprof='y' id='78' class='sofwr'>VMWARE</span> products, Server, application, Desktop. ; 
+*  Implement virtualization technologies (i.e. <span inprof='y' id='79' class='sofwr'>VMWARE</span>, <span inprof='y' id='80' class='sofwr'>Citrix</span>) on testing and production environment infrastructure. ; 
+*  Work in an environment of 8000 users for the board of education of <span inprof='n' id='81' class='company'>West Caldwell school</span> District system. ; 
+*  Blend knowledge of Administration of XenServer, <span inprof='y' id='82' class='sofwr'>Provisioning</span>, <span inprof='y' id='83' class='sofwr'>XenApp</span>, XenDesktop, <span inprof='y' id='84_1' class='role'>Profile Manager</span>, etc. ; 
+*  Work with single sign on and <span inprof='y' id='85' class='skill'>merchandising</span> server to deploy <span inprof='y' id='86' class='qualif'>ICA</span> and password manage to the users. ; 
+*  <span inprof='y' id='87_1' class='role'>Project manager</span> for backup system, <span inprof='y' id='88' class='skill'>network implementation</span>, connection and <span inprof='y' id='89' class='skill'>server database maintenance</span>. ; 
+*  <span inprof='y' id='90' class='skill'>Implemented monitoring</span> with Eagle Sight server and apply HA, WLB and load balancing with NetCaller. ; 
+*  Installation, Configuration and troubleshooting of windows domain controller <span inprof='y' id='91' class='sofwr'>Server 2008</span>/2012 infrastructure. ; 
+*  Experience on Dell Power Edge Blade Server iDRAG DLP interface and <span inprof='n' id='92' class='company'>EMC Storage Area</span> Network infrastructure. ; 
+*  Bend Knowledge of disk tools such as NaviSphere and UniSphere EMC Storage and Redundancy (<span inprof='y' id='93' class='sofwr'>RAID 1, 5, 10</span>).
+
+<span inprof='y' id='94_1' class='company'>BBVA Data Security Inc.</span>, <span inprof='y' id='94_2' class='location'>New York, NY</span>          <span inprof='y' id='94_3_1' class='date'>9/2009</span> - <span inprof='y' id='94_3_2' class='date'>3/2010</span>
+Bank Bilbao Biscayan Argent aria, the second largest bank in <span inprof='n' id='95' class='location'>Spain</span> and the largest financial institution in the <span inprof='n' id='96' class='company'>Southwestern</span> region
+
+Level 2 System Administrators
+<span inprof='y' id='97' class='qualif'>Member of Data Network Control Center</span>, supporting an assortment of technology networks 
+*  <span inprof='n' id='98' class='company'>Implement Exchange</span>, <span inprof='y' id='99' class='sofwr'>SMS</span>, <span inprof='y' id='100' class='sofwr'>SQL</span>, Double Take, File Server, <span inprof='y' id='101' class='sofwr'>UNIX</span>, <span inprof='y' id='102' class='sofwr'>Clusters SAN Storage</span> and <span inprof='y' id='103' class='sofwr'>Netware Server</span>. ; 
+*  Maintaining configuration-demonstrating blend of (<span inprof='y' id='104' class='sofwr'>AD</span>, <span inprof='y' id='105' class='sofwr'>DHCP</span>, <span inprof='y' id='106' class='sofwr'>TCP IP</span>, <span inprof='y' id='107' class='sofwr'>DNS</span>, <span inprof='y' id='108' class='sofwr'>WIN</span>, <span inprof='y' id='109' class='sofwr'>NIS</span>, <span inprof='y' id='110' class='sofwr'>NFS</span>, and <span inprof='y' id='111' class='sofwr'>NAS</span> etc.). ; 
+*  <span inprof='y' id='112' class='sofwr'>Reduce</span> physical server footprint standardization of <span inprof='y' id='113' class='skill'>Database Access maintenance</span> and <span inprof='y' id='114' class='skill'>Security management</span>. ; 
+*  Participated with network security principles and <span inprof='y' id='115' class='skill'>general network security management</span> at best practice, securing <span inprof='y' id='116_1' class='role'>Account Administration</span> service account, <span inprof='n' id='117' class='company'>DCOM Service</span>. ; 
+*  Implement and administrated <span inprof='y' id='118' class='sofwr'>Windows Server 2003</span> and <span inprof='y' id='119' class='sofwr'>UNIX</span> on physical server <span inprof='y' id='120' class='sofwr'>VMWARE</span> virtualization technology ; 
+*  <span inprof='y' id='121' class='sofwr'>WSUS</span> (Update Server), SCCM (<span inprof='n' id='122' class='company'>System Center</span> <span inprof='y' id='123_1' class='role'>Control Manager</span>) and SCOM (<span inprof='y' id='124_1' class='role'>Server Control Operation Manager</span>) ; 
+*  Troubleshoot <span inprof='y' id='125' class='sofwr'>IBM</span>, <span inprof='y' id='126' class='sofwr'>Dell</span> <span inprof='y' id='127' class='sofwr'>Power Edge</span> and <span inprof='y' id='128' class='sofwr'>HP</span> Pavilion Server hardware and <span inprof='y' id='129' class='skill'>Software installation</span> system. ; 
+*  Configure network interface <span inprof='y' id='130' class='sofwr'>TCP/IP</span> protocol connectivity and work with the seven layer of the <span inprof='y' id='131' class='sofwr'>OSI</span> model.
+
+<span inprof='y' id='132_1' class='company'>AT&#38;T</span>, <span inprof='y' id='132_2' class='location'>Bedminster, NJ</span>          <span inprof='y' id='132_3_1' class='date'>12/2008</span> - <span inprof='y' id='132_3_2' class='date'>8/2009</span>
+<span inprof='n' id='133' class='company'>AT&#38;T America's Most Reliable Network worldwide</span>
+
+<span inprof='y' id='134' class='skill'>Tier II Network Implementation Support</span>
+<span inprof='y' id='135' class='qualif'>Member of Data Network Control Center</span>, supporting an assortment of technology networks 
+*  <span inprof='n' id='136' class='bad-occupation'>Provide network support for Auto-routing</span>, PNNI, AGN, IPFR and VRF network in <span inprof='y' id='137' class='sofwr'>support of WAN</span> technology. ; 
+*  <span inprof='y' id='138' class='skill'>Responsible for the identification</span>, monitoring, analyzing, sectionalizing and referring of <span inprof='y' id='139' class='sofwr'>T1</span>/T3, E3/<span inprof='y' id='140' class='sofwr'>OC12</span> circuit. ; 
+*  Interact with other IT OSWF Professionals in related organization across the world to deal with network issues. ; 
+*  Conduct in-<span inprof='y' id='141' class='skill'>depth analysis</span> of circuit impairments by assessing network output from a multitude of network systems. ; 
+*  BMP, WMS, RMA, and ICORE were some of the ticketing system and diagnostic on degree of service impairment. ; 
+*  <span inprof='y' id='142' class='sofwr'>Troubleshooting Frame-Relay</span>, <span inprof='y' id='143' class='sofwr'>ATM</span>, <span inprof='y' id='144' class='sofwr'>Sonnet</span>, <span inprof='y' id='145' class='sofwr'>Ethernet</span>, <span inprof='y' id='146' class='sofwr'>OSPF</span>, <span inprof='y' id='147' class='sofwr'>BGP</span>, IGP, EGP, LDP, VPLS protocols. ; 
+*  WAN Switch <span inprof='y' id='148' class='skill'>Support of the I/O modules</span> in the AXIS, MGX, GSN BPX and CSR Router configuration <span inprof='y' id='149' class='skill'>chassis</span>. ; 
+*  <span inprof='y' id='150' class='sofwr'>Cisco router</span> script management/<span inprof='y' id='151' class='sofwr'>configuration with Unix KSH</span>, <span inprof='y' id='152' class='sofwr'>Perl</span>, expects, <span inprof='y' id='153' class='sofwr'>OSS</span>, <span inprof='y' id='154' class='skill'>VBS script programming</span>.
+
+<span inprof='y' id='155_1' class='company'>Verizon Wireless</span>, <span inprof='y' id='155_2' class='location'>Bedminster, NJ</span>                                        <span inprof='y' id='155_3_1' class='date'>07/2008</span> - <span inprof='y' id='155_3_2' class='date'>11/2008</span>
+<span inprof='y' id='156' class='company'>Verizon Wireless</span> <span inprof='n' id='157' class='company'>America's Most Reliable Network</span> in the Nation
+
+Tier II Network Implementation Support, Wireless Data Network
+Member of the production staff, specialist on <span inprof='n' id='158' class='company'>Network Repair Bureau</span>, troubleshooting tickets and network issues / outages 
+*  <span inprof='n' id='159' class='bad-occupation'>Provide technical support</span> activities relating to the performance of Wireless services in <span inprof='y' id='160' class='sofwr'>support of WAN</span>. ; 
+*  <span inprof='y' id='161' class='skill'>Responsible for the identification</span>, monitoring, analyzing, sensationalizing and referring wireless signal coverage. ; 
+*  <span inprof='y' id='162' class='skill'>Responsible for the project</span> of production NRB provisioning tools and NRB Remedy Ticket system. ; 
+*  Conduct in-<span inprof='y' id='163' class='skill'>depth analysis</span> of wireless impairments by accessing data output from a multitude of support systems. ; 
+*  System performance troubleshooting related complaints involving signal issues, dropped calls, ineffective attempts. ; 
+*  <span inprof='y' id='164_1' class='role'>Network Administrator</span> on Cisco IOS Navigation, Monitoring, <span inprof='y' id='165' class='sofwr'>Router</span>/Interface Configuration, Implementation. ; 
+*  Troubleshooting 802.11a/b/g <span inprof='n' id='166' class='company'>RF router wireless</span> technology and Air Card, Express Card and Internal NIC Interface.
+
+<span inprof='y' id='167_1' class='company'>FK IT Data Center</span>, <span inprof='y' id='167_2' class='location'>Union, NJ</span>          <span inprof='y' id='167_3_1' class='date'>11/2001</span> - <span inprof='y' id='167_3_2' class='date'>04/2008</span>
+One of the largest furniture distributor holding company, the leading provider of merchandise, and the driving force customer service that transform the way people live in their homes.
+
+Level 2 System Administrators
+Working closely with the other <span inprof='y' id='168' class='company'>Network Administrators Help Desk Group, IT Development Group</span>, VP Network, <span inprof='y' id='169_1' class='role'>IT Manager</span>, Main Office Support Groups, 3rd Party Vendors and end-user to provide support for the IT Network Infrastructures.
+*  Provide <span inprof='y' id='170' class='skill'>server administration</span> on System UNIX Mainframe Administrator Servers located at the data centers. ; 
+*  <span inprof='y' id='171_1' class='role'>Maintain and engineer</span> <span inprof='y' id='172' class='sofwr'>UNIX (Sun Solaris)</span> Network environment file system and <span inprof='y' id='173' class='skill'>Monitor Security management</span>. ; 
+*  Creation of data retention and backup archiving strategy on My SQL Server <span inprof='y' id='174' class='skill'>Database Administration Management</span>. ; 
+*  Conduct in-<span inprof='y' id='175' class='skill'>depth analysis</span> of circuit impairments by accessing data output from a multitude of support systems. ; 
+*  Bend Knowledge of <span inprof='y' id='176' class='skill'>disk management</span> tools such as VERITAS Storage backup and Redundancy (<span inprof='y' id='177' class='sofwr'>RAID 1, 5</span>). ; 
+*  Installing, supporting and maintaining <span inprof='y' id='178' class='sofwr'>UNIX</span> and <span inprof='y' id='179' class='sofwr'>Windows</span> servers or other computer and telephony systems. ; 
+*  <span inprof='n' id='180' class='bad-occupation'>Provide technical support</span> activities relating to the performance of IP and SMNP services in <span inprof='y' id='181' class='sofwr'>support of LAN/WAN</span>.
+
+<span inprof='y' id='182_1' class='company'>IBM, Inc.</span> <span inprof='y' id='182_2' class='location'>Somerset, NJ</span>          <span inprof='y' id='182_3_1' class='date'>08/1998</span> - <span inprof='y' id='182_3_2' class='date'>09/2001</span>
+Leader in the invention, development and manufacture of the industry's most advanced information technologies, including computer systems, software, storage systems and <span inprof='y' id='183' class='skill'>microelectronics</span>.
+
+Level 2 System Administrators
+<span inprof='n' id='184' class='company'>IRC Consult</span> Conjunction Network Operations of <span inprof='n' id='185' class='company'>the IBM</span> <span inprof='y' id='186' class='skill'>Team</span> and <span inprof='y' id='187' class='skill'>System Administration Management</span> for <span inprof='n' id='188' class='company'>Lucent Technologies</span>
+*  Configured installed, and tested computer system in <span inprof='n' id='189' class='educational'>IT lab</span> consisting of <span inprof='y' id='190' class='sofwr'>WINDOWS</span> / <span inprof='y' id='191' class='sofwr'>LINUX server</span> and computers. ; 
+*  Responsibility of maintained servers, computers and telephony systems <span inprof='n' id='192' class='bad-occupation'>of the network infrastructure architect</span>. ; 
+*  Interact with other IT Professionals in related organization across the world to deal with network issues. ; 
+*  System performance troubleshooting complaints involving Administration, customized set up, troubleshot, signal issues, dropped calls, and network configurations. ; 
+*  Work with Even logs, Exchange Servers, Backup Servers, Print Servers, Storage Servers, IIS Servers, and Database Servers. ; 
+*  Maintain Microsoft Windows Server <span inprof='y' id='193' class='sofwr'>2000</span> environment, demonstrating blend <span inprof='y' id='194' class='sofwr'>knowledge of LAN</span> Network (<span inprof='y' id='195' class='sofwr'>AD</span>, <span inprof='y' id='196' class='sofwr'>DNS</span>, <span inprof='y' id='197' class='sofwr'>WIN</span>, <span inprof='y' id='198' class='sofwr'>TCP/ IP</span>, <span inprof='y' id='199' class='sofwr'>NIS</span>, <span inprof='y' id='200' class='sofwr'>NFS</span>, and <span inprof='y' id='201' class='sofwr'>NAS</span> etc.). ; 
+*  Participated with applications and services (ISA, LDAP, GPO, RDP, <span inprof='y' id='202' class='sofwr'>RAID</span>, <span inprof='y' id='203' class='sofwr'>DFS</span>, <span inprof='y' id='204' class='sofwr'>SMS</span>, SCCM, etc.).
+
+
+<span inprof='n' id='205' class='edu-hist-mark'>EDUCATION</span>
+
+<span inprof='n' id='206_1' class='company'>Arthur McNeil AND Xircom</span>, <span inprof='n' id='206_2' class='company'>Central Jersey</span>, <span inprof='y' id='206_3' class='location'>NJ</span>          <span inprof='y' id='206_4_1' class='date'>01/2008</span> - <span inprof='y' id='206_4_2' class='date'>04/2013</span>
+<span inprof='y' id='207' class='educational'>Arthur McNeil School of technology and Xircom</span> certified testing center. Has the best-equipped networking, Internetworking and <span inprof='n' id='208' class='company'>Cisco laboratory</span> facilities. The array of equipment includes series 2500, 2600, 3000, 4000 &#38; 7000 routers; 2509, 2511, 5200 Access Servers; <span inprof='y' id='209' class='sofwr'>Catalyst Switches</span> 1900, 2800, <span inprof='n' id='210' class='telephone'>3500 5000</span> &#38; 5500 switches; Pix and <span inprof='y' id='211' class='sofwr'>Checkpoint firewalls</span>; <span inprof='y' id='212' class='sofwr'>Sun Solaris</span>, <span inprof='n' id='213' class='company'>Network Associates</span> Intrusion protection and much, much more.
+
+<span inprof='y' id='214' class='skill'>Technical Support</span> and <span inprof='y' id='215' class='skill'>Network Telecommunications Management</span>, <span inprof='n' id='216' class='passport-number'>Bi-Lingual/Spanish</span>
+*  <span inprof='y' id='217' class='qualif'>CITRIX CERTIFIED ENTERPRISE ENGINEER</span>
+*  <span inprof='y' id='218' class='qualif'>CITRIX CERTIFIED NETSCALER ADMINISTRATOR</span> ; 
+*  <span inprof='y' id='219' class='qualif'>CITRIX CERTIFIED ADVANCE XENAPP ADMINISTRATOR</span> ; 
+*  <span inprof='y' id='220' class='qualif'>CITRIX CERTIFIED XENSERVER ADMINISTRATOR</span>
+*  <span inprof='y' id='221' class='qualif'>CITRIX CERTIFIED XENDESKTOP ADMINISTRATOR</span>
+*  <span inprof='y' id='222' class='qualif'>CITRIX CERTIFIED XENAPP ADMINISTRATOR</span> ; 
+*  <span inprof='y' id='223_1' class='qualif'>MICROSOFT CERTIFIED SYSTEM ENGINEER</span> (<span inprof='n' id='223_2' class='date'>2003, 2008) ;</span> 
+*  <span inprof='y' id='224' class='qualif'>CISCO CERTIFIED NETWORK ASSOCIATE (WAN)</span>
+*  <span inprof='y' id='225' class='qualif'>MICROSOFT CERTIFIED TECHNOLOGY SPECIALIST</span>
+*  <span inprof='y' id='226' class='qualif'>NETWORK + CERTIFIED PROFESSIONAL</span> (<span inprof='y' id='227' class='sofwr'>LAN</span>)
+*  <span inprof='y' id='228' class='qualif'>A+ CERTIFIED PROFESSIONAL IT TECHNICIAN</span>
+* ; 
+*  <span inprof='y' id='229_1' class='educational'>DeVry University</span>, <span inprof='y' id='229_2' class='location'>North Brunswick, NJ</span>          <span inprof='y' id='229_3_1' class='date'>11/2000</span> - <span inprof='y' id='229_3_2' class='date'>06/2003</span>
+DeVry graduate professionals design, implement, and <span inprof='y' id='230' class='skill'>manage business networks</span>. <span inprof='n' id='231_1' class='some-position'>As</span> <span inprof='y' id='231_2' class='role'>a network manager</span>, <span inprof='y' id='232_1' class='role'>analyst</span>, <span inprof='y' id='233_1' class='role'>engineer</span>, <span inprof='y' id='234_1' class='role'>consultant</span>, <span inprof='n' id='235' class='bad-occupation'>or an administrator the student</span> will provide effective solutions in any organization.
+*
+AS/BS CIS Programming and <span inprof='y' id='236' class='skill'>Telecommunications Management</span>, <span inprof='n' id='237' class='passport-number'>Bi-Lingual/Spanish</span>
+*  <span inprof='y' id='238' class='qualif'>Associates Degree in Computer Programming Information</span> System ; 
+*  <span inprof='y' id='239' class='qualif'>Bachelor Degree in Network Telecommunications Management</span> - Note: will acquire on Next 2 Semesters
+
+Amtech #1 <span inprof='y' id='240' class='educational'>School of technology</span>, <span inprof='y' id='241' class='location'>North Brunswick</span>, NJ          <span inprof='y' id='242_1_1' class='date'>03/1998</span> - <span inprof='y' id='242_1_2' class='date'>06/1999</span>
+<span inprof='y' id='242_2' class='educational'>Amtech Institute of Management and Technology</span> (a <span inprof='n' id='243' class='company'>division of the Microsoft Global Group</span>) providing enhance on <span inprof='y' id='244' class='skill'>technical support</span> and <span inprof='y' id='245' class='skill'>Microsoft application management</span> the employability worldwide.
+
+<span inprof='y' id='246' class='qualif'>Microsoft Certified Professional</span>, <span inprof='n' id='247' class='passport-number'>Bi-Lingual/Spanish</span>
+*  <span inprof='y' id='248' class='qualif'>MICROSOFT CERTIFIED PROFETIONAL</span> for (<span inprof='y' id='249' class='sofwr'>NT 4.0</span>)
+
+<span inprof='y' id='250_1' class='educational'>High School</span>, <span inprof='y' id='250_2' class='location'>Perth Amboy, NJ</span>          <span inprof='y' id='250_3_1' class='date'>09/1997</span> - <span inprof='y' id='250_3_2' class='date'>06/2000</span>
+
+<span inprof='y' id='251' class='qualif'>Diploma</span>, <span inprof='n' id='252' class='passport-number'>Bi-Lingual/Spanish</span>
+*  <span inprof='y' id='253' class='qualif'>High School Diploma</span>
+
+Excellent references and portfolio available on request
+
+</TextResume>
+
+</NonXMLResume>
+
+
+
+<UserArea>
+<DaxResumeUserArea>
+<AdditionalPersonalData>
+<ExperienceSummary>
+<TotalMonthsOfWorkExperience>184</TotalMonthsOfWorkExperience>
+<TotalYearsOfWorkExperience>15</TotalYearsOfWorkExperience>
+<TotalMonthsOfManagementWorkExperience>97</TotalMonthsOfManagementWorkExperience>
+<TotalYearsOfManagementWorkExperience>8</TotalYearsOfManagementWorkExperience>
+<TotalMonthsOfLowLevelManagementWorkExperience>97</TotalMonthsOfLowLevelManagementWorkExperience>
+<TotalYearsOfLowLevelManagementWorkExperience>8</TotalYearsOfLowLevelManagementWorkExperience>
+<ExecutiveBrief>Cesar Silie is a resident of Edison, NJ, US. He has been working in the IT  occupational sector for more than 15 years. During his last employment he was working as a Profile Manager at Bank Of America. Cesar has extensive knowledge of Citrix Winframe, UNIX, VMware, Citrix XenApp, TCP/IP, RAID, Sun Solaris, SMS, Provisioning, Network File System, Network Attached Storage, NIS, LAN/WAN > WAN, LAN/WAN > LAN, Domain Name Server Protocol, Cisco Switches/Routers, AD, Sonnet, SQL, SONICWAL, Router, REDUCE, PowerEdge Hardware, Perl Programming, Optical Carrier > OC-12, OSS (Operating Support Systems), OSPF (Open Shortest Path First), OSI, Novell Netware, Microsoft Visio, Microsoft SQL Server, Microsoft PowerPoint, Microsoft Office, Microsoft Exchange Server, Microsoft Excel, Microsoft Application Virtualization, Linux, LAN/WAN, Korn Shell, IBM Hardware, HP ProCurve Networking, HP Hardware, Frame Relay, Ethernet, Dynamic Host Control protocol, Dell Server Hardware, DS1, DFS, Clusters SAN Storage, BGP (Border Gateway Protocol), ATM (Asynchronous Transfer Mode). Cesar has an extensive management experience (8 years).</ExecutiveBrief>
+<ManagementRecord>Since 2013-03 for 12 months the candidate had experience at a lower grade management level working as a Profile Manager/Server Control Operation Manager at Bank Of America.
+Since 2009-09 for 7 months the candidate had experience at a lower grade management level working as a Control Manager/Server Control Operation Manager at BBVA Data Security Inc..
+Since 2001-11 for 78 months the candidate had experience at a lower grade management level working as a IT Manager/Server Control Operation Manager at FK IT Data Center.
+</ManagementRecord>
+</ExperienceSummary>
+</AdditionalPersonalData>
+<ParserInfo>
+<ParserConfiguration>{max_len=50000} {tel_flag=} {send_zip=} {fast_conv=} {DEF_LOCAL=} {sdate=0} {no_email_body=0} {do_clever_zoning=1} {keep_span=1} {complex=1} {accept_langs=} {not_accept_langs=} {prefer_lang_cv=EN} {pers_only=0} {turbo=0} {split_language=0} {picture=0} {picture_inline=0} {name_space=0} {charset=} {hrxml_upgrade_edu_hist=0}{hrxml_add_languages_section=0}{spool=} {docID=} {user=DEFAULT} </ParserConfiguration>
+<ParserRelease>0.12.3.32629</ParserRelease>
+<ParserReleaseDate>2014-06-18</ParserReleaseDate>
+<ParserSchema>2.0.29</ParserSchema>
+<ParserSchemaLocation>http://cvx.daxtra.com/cvts/xsd/candidate/2.0.29/Resume.xsd</ParserSchemaLocation>
+<ConverterRelease>0.5.2.32629</ConverterRelease>
+<ConverterReleaseDate>2014-06-18</ConverterReleaseDate>
+</ParserInfo>
+<FileStruct filename='/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/_Resume.doc'>
+
+<attachment fname='_Resume.doc' ftype='doc' conv='yes' doc_type='cv' lang='EN'>/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/_Resume.doc</attachment>
+
+
+</FileStruct>
+</DaxResumeUserArea>
+</UserArea>
+</Resume>

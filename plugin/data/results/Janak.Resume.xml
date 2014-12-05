@@ -1,0 +1,2310 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Resume lang='en' src='DAXTRA-CVX schema:2.0.29 release:0.12.3.32629 rdate:2014-06-18'>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName id='2'>
+<FormattedName>Janak Dahal</FormattedName>
+<GivenName>Janak</GivenName>
+<FamilyName>Dahal</FamilyName>
+<sex>Male</sex>
+</PersonName>
+<ContactMethod>
+<Telephone id='3' type='home'>
+<InternationalCountryCode>1</InternationalCountryCode>
+<SubscriberNumber>469 464-9446</SubscriberNumber>
+<FormattedNumber>+1 469 464-9446</FormattedNumber></Telephone>
+
+<InternetEmailAddress id='4' type='main'>jdahal3@gmail.com</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>*  Over 7 years of IT experience as a System Administrator for Red Hat Enterprise Linux 3.x, 4.x, 5.x, IBM-AIX, Sun Solaris, SUSE Linux 11.2 and HP-UX servers. ; 
+*  Installed, configured, and upgraded Red Hat Enterprise Linux 3.x, 4.x, 5.x on HP Proliant, IBM System X and Dell PowerEdge Servers. ; 
+*  Strong sense of urgency providing troubleshooting support in critical 24X7 production and development environments. ; 
+*  Designed and implemented server cluster using Red Hat Enterprise Linux cluster suite for RHEL5 servers. ; 
+*  Configured and Implemented clustering on Sun Servers using Veritas Cluster Server (VCS) &#38; Sun-Cluster. ; 
+*  Experienced in working with SAN hardware from vendors including Netapp, EMC (Symmetrix and CLARiiON), Hitachi and Sun StorageTek. ; 
+*  Installed, configured and maintained Veritas Volume Manager (VxVM), Sun volume Manager, Logical Volume Manager. ; 
+*  Experienced in using Veritas NetBackup 6.5 with proficiency in System Backup and Recovery from tapes using ufsdump, ufsrestore, tar and cpio. ; 
+*  Performed server consolidation and virtualization using VMware ESX 3.5/4 and created VMs on VirtualCenter server and installed guest OS using Virtual Infrastructure Client. ; 
+*  Expert in Shell, Perl scripting and experienced in using text processing tools like Grep/Sed/Awk. ;</ExecutiveSummary>
+
+
+<EmploymentHistory>
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='141_1'>Cox Communications</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='141_2'>
+<Municipality>Atlanta</Municipality>
+<Region>GA</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='141_4_1'>Sr. Unix/Linux Engineer</Title>
+<OrgName id='141_1'>Cox Communications</OrgName>
+
+
+
+<Description>Responsibilities:
+    *  Installed and configured RHEL 4.3, 4.7, 5.1, 5.2, 5.3 and SunOS on Dell and IBM Bladecenter servers. ; 
+    *  Administered, maintained Red Hat  3.0, 4.0, 5.0, 6.0 AS, ES, Troubleshooting Hardware, Operating System Application &#38; Network problems and performance issues ; 
+    *  Deployed latest patches for Sun, Linux and Application servers, ; 
+    *  Performed Solaris and Red Hat Linux Kernel Tuning for TCP stack. ; 
+*  Installing and upgrading Redhat Linux, firmware, failed hardware and system support software Dell PowerEdge Servers. ; 
+*  Implemented log parser to provide support for multiple server log file formats ; 
+*  Performance monitoring with Prtdiag,Sar, Iostat, VMstat, MPstat and Other Tools. ; 
+*  Disk Space management using VERITAS Volume Manager and Apache Cassandra ; 
+*  Configuration of Hardware and Software RAID. Disk replacement and File system recovery. ; 
+*  Implemented Virtualization using VMware in Linux on HP-DL585. ; 
+*  Installed and configured KVM on Dell Blade Servers using virt-manager ; 
+*  Troubleshooting critical hardware and software issues and other day-to-day user trouble tickets; maintaining email servers designated for 5 million residential and over 100K HSI customer's ; 
+*  Installing and setting up Oracle9i on Linux for the development team. ; 
+*  Created Servers, User mappings and Nicknames to access DB2 and Oracle databases. ; 
+*  Installed VMware ESX server on Dell Servers and configured Solaris 9/10/ Red Hat Linux 4.0, 5.0, 6.0 / Windows 2000 virtual machines for various applications. ; 
+*  Installation of software packages and checking the integrity of the installed packages. Installed different RPM Linux 4.0/5.0. ; 
+*  Administered Linux servers for several functions including managing Apache/Tomcat server, mail server, MySQL database, and firewalls in both development and production ; 
+*  Implemented OpenLDAP in enterprise environment, created user mailboxes, modified various user attributes in LDAP/LDIF ; 
+*  Installed and configured Sudo for users to access the root privileges. ; 
+*  Integrating UNIX file systems using packages like SAMBA. Setting up printers on UNIX / NT machines to work seamlessly across platforms. ; 
+*  Configured and administered firewall rules to effectively monitor system files, port security, and network traffic activity coming through the firewall. ; 
+*  Assisted other teams for projects like ISS Development, Test and QS environments ; 
+*  Worked with different hardware and software vendors to troubleshoot the hardware and software problems including Oracle, Openwave, Terris, Dell and many more. ; 
+*  Experienced in Troubleshooting critical hardware and software issues and other day-to-day user trouble tickets; effectively completed &#60;20 trouble tickets per day ; 
+*  Document backup policies and procedures for backup routines, schedules and restore policies. ; 
+*  Responsible for backup of all servers, and recovery of servers. ; 
+*  Managing cron jobs, batch processing and job scheduling. ; 
+*  Able to create and maintain documentation for servers and storage environments. ; 
+*  Supporting and in-depth troubleshooting of Linux/Solaris systems 24 x 7 Environment
+
+Environment: SunOS, Linux, VMWARE, IBM 8677, IBM Blade center Servers (HS20, HS21), Lenovo workstation's (D2, D3, D10, D20), IBM P520, P550, P560, P570, P575, P595, IBM IntelliZpro-9228, MAC pro workstation's, DELL Poweredge 1650,2850,2950,6400, SUN SPARC workstations (A21, A22, A70, A89), NFS, NIS, DNS,PICS, Preload Assist Servers.</Description>
+<StartDate id='141_3_1'><YearMonth>2013-06</YearMonth></StartDate>
+<EndDate id='141_3_2'><YearMonth>2014-04</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='141' last_id='189' border_id='190'></TLSPAN>
+<MonthsOfWork>11</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='190_1'>Kohls</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='190_2'>
+<Municipality>Milwaukee</Municipality>
+<Region>WI</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='190_4_2'>Sr.Unix/Linux Engineer</Title>
+<OrgName id='190_1'>Kohls</OrgName>
+
+
+
+<Description>Responsibilities:
+
+    *  Installed and configured RHEL 4.3, 4.7, 5.1, 5.2, 5.3 on IBM Bladecenter servers. Configured IBM p5,B80,RS6000,520,550,570,590,595,610,690.695 for production, staging and test environments. ; 
+    *  Administered, maintained Red Hat  3.0, 4.0, 5.0  AS, ES, Troubleshooting Hardware, Operating System Application &#38; Network problems and performance issues; Deployed latest patches for Sun, Linux and Application servers, Performed Solaris and Red Hat Linux Kernel Tuning for TCP stack. ; 
+    *  Installing and upgrading Red hat Linux, firmware, failed hardware and system support software HP Proliant Servers. ; 
+    *  Configured and maintained the HP Proliant Essential Software packages on the PICS and Preload Assist Servers ; 
+    *  Performance monitoring with Sar, Iostat, VMstat, MPstat and Other Tools. ; 
+    *  Disk Space management using VERITAS Volume Manager. ; 
+    *  Configuration of Hardware and Software RAID. Disk replacement and File system recovery. ; 
+    *  Implemented Virtualization using VMware in Linux on HP-DL585. ; 
+    *  Troubleshooting critical hardware and software issues and other day-to-day user trouble tickets. ; 
+    *  Installing and setting up Oracle9i on Linux for the development team. ; 
+    *  Created Servers, User mappings and Nicknames to access DB2 and Oracle databases. ; 
+    *  Installed VMware ESX server on Dell Servers and configured Solaris 9/10/ Red Hat Linux 4.0 / Windows 2000 virtual machines for various applications. ; 
+    *  Installation of software packages and checking the integrity of the installed packages. Installed different RPM Linux 4.0/5/0. ; 
+    *  Administered Linux servers for several functions including managing Apache/Tomcat server, mail server, MySQL database, and firewalls in both development and production ; 
+    *  Installed and configured Sudo for users to access the root privileges. ; 
+    *  Integrating UNIX file systems using packages like SAMBA. Setting up printers on UNIX / NT machines to work seamlessly across platforms. ; 
+    *  Installed application connectivity software to enable IBM print services. Configured and administered firewall rules to effectively monitor system files, port security, and network traffic activity coming through the firewall. ; 
+    *  Assisted other teams for projects like ISS Development, Test and QS environments ; 
+    *  Worked with different hardware and software vendors to troubleshoot the hardware and software problems. ; 
+    *  Experienced in Troubleshooting critical hardware and software issues and other day-to-day user trouble tickets. ; 
+    *  Document backup policies and procedures for backup routines, schedules and restore policies. ; 
+    *  Configured and documented the Preload Assist and PICS. ; 
+    *  Responsible for backup of all servers, and recovery of servers. ; 
+    *  Managing cron jobs, at Jobs, batch processing and job scheduling. ; 
+    *  Able to create and maintain documentation for servers and storage environments. ; 
+    *  Supporting and in-depth troubleshooting of AIX systems 24 x 7 Environment
+
+Environment: Linux, VMWARE, IBM 8677, IBM Blade center Servers (HS20, HS21), Lenovo workstation's (D2, D3, D10, D20), IBM P520, P550, P560, P570, P575, P595, IBM IntelliZpro-9228, MAC pro workstation's, DELL Poweredge 1650,2850,2950,6400, SUN SPARC workstations (A21, A22, A70, A89), NFS, NIS, DNS,PICS, Preload Assist Servers.</Description>
+<StartDate id='190_3_1'><YearMonth>2011-12</YearMonth></StartDate>
+<EndDate id='190_3_2'><YearMonth>2013-02</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='190' last_id='235' border_id='236'></TLSPAN>
+<MonthsOfWork>15</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='236_1'>IBM</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='236_2'>
+<Municipality>Dallas</Municipality>
+<Region>TX</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='236_4_2'>Sr.Linux/Unix Administrator</Title>
+<OrgName id='236_1'>IBM</OrgName>
+
+<OrgIndustry primaryIndicator='true'><IndustryDescription>internet services</IndustryDescription></OrgIndustry>
+
+<Description>Responsibilities:
+
+*  Installation, configuration and OS upgrades on Red Hat Linux 4.x, 5.x; AIX 5.2/5.3/6.1. ; 
+*  Configuring Kickstart Servers and booting the images using PXE in Red Hat Linux. ; 
+*  Installation of patches and other software packages on Linux and AIX Servers. ; 
+*  SWAP box configuration, Implementation of disaster backup and recovery. ; 
+*  Configure HACMP for a clustering environment on AIX servers and administered the virtualization environments consisting VIO servers. ; 
+*  Use ILO/IMM/HMC for remote access of servers on Linux/AIX respectively. ; 
+*  Administration for multiple Sun hardware, this involves creating domains, adding/deleting system components. ; 
+*  Administration and Troubleshooting Solaris servers running business critical application &#38; WebLogic applications. ; 
+*  Used Veritas File system (VxFS) and Veritas Volume Manager (VxVM) to configure RAID 1 and RAID 5 Storage Systems on Sun Solaris. ; 
+*  Installed and Configured Sun availability Suite 3.5 to implement Point-in-time snap shots and remote mirroring. ; 
+*  Installed and configured SAMBA server for windows and Linux connectivity. ; 
+*  Installing, configuring and deploying applications on Weblogic Application Server 8.x, 9.x. ; 
+*  Installed WebLogic 8.1 with SP5 Server and configured Domains, Admin and managed servers for applications to be deployed. ; 
+*  Implemented and configured Backup policies and Storage Units using Veritas Netbackup 6.5. ; 
+*  Managing disk storage with Veritas Volume Manager 3.5/4.1 (VxVM) and Solaris Volume Manager with Veritas File System (VxFS). ; 
+*  Installation, configuration, and maintenance of Sun Solaris 10 servers. ; 
+*  Upgrading Solaris 8/9 to Solaris 10 using live upgrade and manual upgrade. ; 
+*  Performed file system tuning, growing, and shrinking with Veritas File system 3.5/4.x. ; 
+*  Experience in internet services installation, configuration and maintenance (WWW on apache, SMTP on sendmail, POP3 and LDAP) on Linux platforms, including security of provided services, ability to troubleshoot common and very uncommon problems, high availability services. ; 
+*  Experience in Implementation Apache, Tomcat 5.5 for the Java Servlet and Java Server Pages technologies. ; 
+*  Administered the UNIX System for clustered HP Servers with fiber attached SAN storage. ; 
+*  Maintained &#38; troubleshooted SAN and Fibre card related errors on UNIX ; 
+*  Discovered and attached LUNS provided by the Storage team to the required Unix/Linux Servers. ; 
+*  Maintained &#38; Troubleshooted Storage Disks from IBM and EMC Disk arrays. ; 
+*  Created disk pools and configured shared virtual disks using Symmetrix Management Console. ; 
+*  Installing, maintaining, upgrading and supporting Red Hat Linux systems w/ Oracle 10G RAC with Cluster Ready Services (CRS) and Sybase database. ; 
+*  Installed and configured LAMP (Linux, Apache, MySQL, and PHP) for different applications. ; 
+*  Monitored servers, switches, ports etc with Nagios monitoring tool. ; 
+*  Administered 8-server Red Hat Linux cluster, 6-server fedora core6 cluster, IBM DS4300 Storage, Veritas Clustering (VCS) and miscellaneous servers. ; 
+*  Experience in Servers consolidation and virtualization using UML Linux, XEN and VMware virtual infrastructure, VMware ESX, VMware Vcenter. ; 
+*  Implemented NIS and NFS for administrative and project requirements. ; 
+*  Worked closely with database administration staff to ensure optimal performance of databases, and maintain development applications and databases. ; 
+*  Tuning the kernel parameters based on the application/database requirement. ; 
+*  Configuring SUDO and granting root permission to users for performing certain activities.
+
+Environment: Red Hat Linux AS3.0, AIX 4.3/5.1/5.2/5.3, Sun Solaris 8,9,10, AS 4.0, HPUX 10.x,11.x, SLES 9, 10, Sun Fire 6800, 4800,V890, V880, V490,V480 and V210, Veritas Volume Manager, Veritas Cluster Server, IBM HACMP V4.5, Websphere ND 5.1, XD 5.1, Weblogic 8.1, Samba, Oracle 9i/10g, Veritas Netbackup 4.5.5, EMC Symmetric, CLARiiON,  MYSQL, LVT, NIM, ILO, Samba, Nagios, FlexLM, NT/2000 Server, VMware ESX 3.x/4, LPAR, DLPAR, JBOSS, SAN, NAS, LVT, NIM, ILO, Lplanet, Tomcat, Apache Server 1.x,2.x, Shell Scripting.</Description>
+<StartDate id='236_3_1'><YearMonth>2010-05</YearMonth></StartDate>
+<EndDate id='236_3_2'><YearMonth>2011-11</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='236' last_id='328' border_id='329'></TLSPAN>
+<MonthsOfWork>19</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='329_1'>Citibank</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='329_2'>
+<Municipality>New York</Municipality>
+<Region>NY</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='332_1'>Systems Engineer</Title>
+<Title id='332_2'>Admin</Title>
+<OrgName id='329_1'>Citibank</OrgName>
+
+
+
+<Description>Responsibilities:
+
+    *  Performing the AIX systems administration, installation, troubleshooting, and customization of AIX 5.1,5.2 machines on pSeries 615, 630, 670 servers, including clustered (SP) servers. The entire environment included around 40 AIX Servers and 60 additional servers. ; 
+    *  Responsible for Migration of servers from AIX 5.2 to AIX 5.3. ; 
+    *  System &#38; backup management using Veritas Netbackup Server. ; 
+    *  IBM RS/6000 SP System Software Maintenance AIX System Dump Generation and sending System Dump to AIX System Support Center. ; 
+    *  Installation of Red hat Linux on Dell, Proliant, and Enterprise Server 4.0. ; 
+    *  Installation of web logic, upgraded to service pack updates, installed BEA patches, configuring and creation new domain &#38; services starting &#38; stopping. Installation of Oracle10g on Linux, creating database, creating Oracle users &#38; export and importing database, creating roleback segment etc. ; 
+    *  Setup and administration of Lab environment within the datacenter. ; 
+    *  Responsible for Implementing Cloning, Clustering (VCS), Performance tuning and trouble shooting of IBM WebSphere    Application Server. ; 
+    *  Performed WebSphere MQ Messaging administration, monitoring, management and support for AIX and Windows environments. ; 
+    *  AIX systems administration and Disk Management using SMIT. ; 
+    *  Experience in LVM, Kernel and performance tuning on IBM AIX and Redhat Linux. ; 
+    *  Installation and Administration of TIVOLI Service Desk. ; 
+    *  Managed hardware in IBM P-series servers using hot-pluggable devices. ; 
+    *  Managing cron jobs, batch processing and job scheduling. ; 
+    *  Software installation and maintenance on AIX and Linux servers. ; 
+    *  developing and testing a new tcpwrappers package ; 
+    *  Configuring and Administrating of AIX HACMP clusters. ; 
+    *  Tune servers and support Oracle DBAs with installation and Configuration. ; 
+    *  Security, users and groups administration on AIX and Linux. ; 
+    *  Networking service, performance, and resource monitoring ; 
+    *  Performance monitoring with Sar,Iostat,VMstat,MPstat and Other Tools ; 
+    *  Network Monitoring Using Nagios tool.
+    *  Daily backup and restore operations. ; 
+    *  Completed a full migration of UNIX Server (AIX and Linux), including all network services. ; 
+    *  Review Design Documentation confirming to Software Requirements ; 
+    *  Coordinated with other members working from offshore ; 
+    *  Systems administrator providing support for production and development systems. Environment consisted of multiple IBM RS/6000's (SP, R-series) and X-Window terminals ; 
+    *  Used per v5 for systems tasks as well as C and Korn shell scripting. ; 
+    *  Other standard system administration tasks performed, such as system monitoring, performance usage, network support, and user support.
+
+Environment: Red Hat Enterprise Linux 3.0,4.0,5.0, IBM AIX 4.3.3, 5.1, 5.2, with HACMP 4.3.1 and 4.5, Veritas Netbackup 4.5, Web Logic 8.1, Oracle 9i/10g, WebSphere Application Server 3.5/4.0.x, MQ V5.3, V6.0,Tivoli Storage Manager 5.x,Cron,Batch, Nagios 2.x , C, Korn.</Description>
+<StartDate id='329_3_1'><YearMonth>2008-11</YearMonth></StartDate>
+<EndDate id='329_3_2'><YearMonth>2010-04</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='329' last_id='397' border_id='398'></TLSPAN>
+<MonthsOfWork>18</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='398_1'>Mercentile</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='398_2'>
+<Municipality>Kathmandu</Municipality>
+
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='398_3_2'>UNIX Administrator</Title>
+<Title id='398_3_3'>Engineer</Title>
+<OrgName id='398_1'>Mercentile</OrgName>
+
+
+
+<Description>Responsibilities:
+
+*  Installation, configuration &#38; administration of Red Hat Linux 8/ 9, Red Hat Enterprise Linux 3.x/4.x, CentOS, Sun Solaris 8,9 and AIX 5.1/5.2 servers. ; 
+*  Installed SUN OS versions 2.8, 2.9 on Ultra 5, 280R, 6800, 12K, E450 production servers. ; 
+*  Installation, upgrades, and configuration of SLES 9/10 OS on IBM System X servers and Dell PowerEdge servers using AutoYast and CD media. ; 
+*  Installed and Configured Z-VM on IBM System z9 Enterprise Class server 2094-S08 for Virtulization. ; 
+*  Installed and administered Z-OS on System z9 servers. ; 
+*  Installed and configured Veritas Volume Manager 4.0, Veritas File System 3.5, Veritas Cluster Server 3.5 and Veritas Netbackup Enterprise 5.0 on E450, E12K servers. ; 
+*  Setup, Configured and Maintained nearly automated installation methods for both SLES and Red Hat (AutoYast and Kickstart) to standardize the Linux install image/configuration ; 
+*  Created RAID Groups and Storage Groups by using Navisphere Manager. ; 
+*  Created LUN's using Navisphere Manager. ; 
+*  Kernel tuning on AIX systems for Oracle 9i and 10g installations. ; 
+*  Performed OS and kernel upgrades on AIX and Linux servers. ; 
+*  Building Servers using NIM from mksysb or SPOT in AIX. ; 
+*  Implemented Virtualization using VMware in Linux on HP-DL585. ; 
+*  Performed Logical Volume Manager (LVM), SSA Disk and RAID Management. ; 
+*  Performed daily backups, restoration of data as per requests from developers using Veritas Netbackup. ; 
+*  Worked on EMC disk storage to allocate disk space. ; 
+*  Monitored servers, switches, ports etc with Ganglia monitoring tool. ; 
+*  Installed/Configured Websphere and other Application Servers. ;</Description>
+<StartDate id='398_4_1'><YearMonth>2007-04</YearMonth></StartDate>
+<EndDate id='398_4_2'><YearMonth>2008-09</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='398' last_id='426' border_id='0'></TLSPAN>
+<MonthsOfWork>18</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType='university'>
+<SchoolName id='139_2'>Tribhuvan University</SchoolName>
+
+
+
+<Degree degreeType='bachelors'>
+<DegreeName id='139_1'>Bachelors Degree</DegreeName>
+<DegreeDate id='139_3'><Year>2004</Year></DegreeDate>
+</Degree>
+<Major id='139_1'>Science</Major>
+
+
+
+
+</SchoolOrInstitution>
+
+</EducationHistory>
+
+
+
+
+
+
+
+
+
+
+
+<Competency oids='9 53 74 146 156 158 166 178 181 196 205 206 214 227 240 247 257 274 285 293 330 346 363 368 374 386 411 419 422 427 ' description='Skill > IT' auth='yes' name='Linux'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>81</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Administered'><StringValue>Administered</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='troubleshooting'><StringValue>troubleshooting</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installation'><StringValue>Installation</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Linux 3.x, 4.x, 5.x 3.x, 4.x, 5.x</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Linux on HP</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Oracle9i on Linux</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Administered Linux</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>in-depth troubleshooting of Linux</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installation of Oracle10g on Linux</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Linux 3.0,4.0,5.0 3.0,4.0,5.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='11 63 73 86 226 238 241 246 248 305 333 334 336 337 341 350 352 354 362 365 367 373 387 402 414 418 420 428 433 442 ' description='Skill > IT' auth='yes' name='AIX UNIX'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>70</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='troubleshooting'><StringValue>troubleshooting</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='systems administration'><StringValue>systems administration</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='installation'><StringValue>installation</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Maintenance'><StringValue>Maintenance</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='support'><StringValue>support</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>AIX</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>AIX environment</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>AIX 4.3/5.1/5.2/5.3 4.3/5.1/5.2/5.3</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>in-depth troubleshooting of AIX</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>AIX 5.2/5.3/6.1 5.2/5.3/6.1</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>AIX systems administration, installation, troubleshooting</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>AIX 5.1,5.2 5.1,5.2</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>AIX 5.2 5.2</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>AIX 5.3 5.3</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Maintenance AIX</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>support for AIX</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>AIX systems administration</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IBM AIX</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>AIX HACMP</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>AIX 5.1/5.2 5.1/5.2</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IBM AIX 4.3.3, 5.1, 5.2 4.3.3, 5.1, 5.2</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='15 48 144 148 150 164 194 198 200 212 237 239 288 297 343 355 399 409 432 441 ' description='Skill > IT' auth='yes' name='Linux Red Hat'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>81</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installed'><StringValue>Installed</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='configured'><StringValue>configured</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='upgraded'><StringValue>upgraded</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installing'><StringValue>Installing</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='upgrading'><StringValue>upgrading</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='supporting'><StringValue>supporting</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installation'><StringValue>Installation</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='configuration'><StringValue>configuration</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='administration'><StringValue>administration</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installed, configured, and upgraded Red Hat Enterprise Enterprise</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Red Hat Linux</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Red Hat 3.0, 4.0, 5.0, 6.0 3.0, 4.0, 5.0, 6.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installing and upgrading Redhat Linux</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Red Hat Linux 4.0, 5.0, 6.0 4.0, 5.0, 6.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Red Hat 3.0, 4.0, 5.0 3.0, 4.0, 5.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Red Hat Linux 4.0 4.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Red Hat Linux 4.x, 5.x 4.x, 5.x</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>upgrading and supporting Red Hat Linux</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installation of Red hat Linux on Dell</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installation, configuration &#38; administration of Red Hat Linux 8/ 9 8/ 9</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Red Hat</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Red Hat 3.x, 4.x 3.x, 4.x</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>97</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='12 39 56 75 87 147 163 179 197 211 250 255 264 265 266 306 401 435 444 ' description='Skill > IT' auth='yes' name='Sun Solaris'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>63</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='configured'><StringValue>configured</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Administration'><StringValue>Administration</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Troubleshooting'><StringValue>Troubleshooting</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installation'><StringValue>Installation</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='configuration'><StringValue>configuration</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='maintenance'><StringValue>maintenance</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Upgrading'><StringValue>Upgrading</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Solaris10 10</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Solaris 10 on Sun SPARC 10</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Solaris</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Solaris 2.x/7/8/9/10 2.x/7/8/9/10</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>configured Solaris 9/10 9/10</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Administration and Troubleshooting Solaris</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installation, configuration, and maintenance of Sun Solaris 10 10</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Upgrading Solaris 8/9 8/9</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Sun Solaris 8,9,10 8,9,10</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Sun Solaris 8,9 8,9</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Solaris 8,9,10 8,9,10</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='35 89 155 161 182 204 209 228 302 322 421 ' description='Skill > IT' auth='yes' name='VMware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>63</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installed'><StringValue>Installed</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VMware 2/2.x/3.x/3.5/4 2/2.x/3.x/3.5/4</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installed VMware</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='46 62 76 108 154 167 215 270 275 294 327 ' description='Skill > IT' auth='yes' name='Apache WEB Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>45</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='upgraded'><StringValue>upgraded</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='supported'><StringValue>supported</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Implementation'><StringValue>Implementation</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>upgraded and supported Apache</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Apache</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Apache 2.x, 1.3.x, 1.2 2.x, 1.3.x, 1.2</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Implementation Apache</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Apache Server 1.x,2.x 1.x,2.x</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='21 129 168 216 311 321 327 339 372 407 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2000 Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>81</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Veritas Cluster Server</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Compaq Insight Server</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Tomcat server</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>NT/2000 Server</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Apache Server 1.x,2.x 1.x,2.x</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Veritas Netbackup Server</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>UNIX Server</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Veritas Cluster Server 3.5 3.5</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='30 67 153 203 252 261 310 405 452 ' description='Skill > IT' auth='yes' name='Veritas Volume Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>63</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installed'><StringValue>Installed</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='configured'><StringValue>configured</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Veritas Volume Manager 3.5/4.1 3.5/4.1</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installed and configured Veritas Volume Manager 4.0 4.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='33 124 260 317 339 389 408 424 455 ' description='Skill > IT' auth='yes' name='Veritas NetBackup'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>55</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Veritas NetBackup 6.5 6.5</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Veritas Netbackup 4.5.5 4.5.5</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Veritas Netbackup Server</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Veritas Netbackup 4.5 4.5</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Veritas Netbackup Enterprise 5.0 Enterprise 5.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Veritas Net Backup 4.0 4.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='52 171 219 279 283 284 331 372 ' description='Skill > IT' auth='yes' name='UNIX'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>63</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Administered'><StringValue>Administered</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Administered the UNIX</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>UNIX Server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='78 110 251 258 259 314 390 ' description='Skill > IT' auth='yes' name='WebLogic Enterprise Application Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>37</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installed'><StringValue>Installed</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>BEA WebLogic 8.x, 9.x 8.x, 9.x</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>WebLogic</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Weblogic Application Server 8.x, 9.x 8.x, 9.x</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installed WebLogic 8.1 8.1</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Weblogic 8.1 8.1</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='133 160 174 208 347 366 391 ' description='Skill > IT' auth='yes' name='Oracle'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>44</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='10 60 183 192 229 448 ' description='Skill > IT' auth='yes' name='IBM Hardware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Configured'><StringValue>Configured</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IBM</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Configured IBM</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='23 31 145 195 249 256 ' description='Skill > IT' auth='yes' name='SUN Hardware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>45</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installed'><StringValue>Installed</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Configured'><StringValue>Configured</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Sun</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installed and Configured Sun</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>97</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='65 66 281 282 324 453 ' description='Skill > IT' auth='yes' name='SAN'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Storage Area Network</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>(SAN)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='70 107 168 216 276 326 ' description='Skill > IT' auth='yes' name='Jakarta TOMCAT Servlet Engine'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>45</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Apache Tomcat</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Tomcat</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Tomcat server</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Tomcat 5.5 5.5</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='72 245 312 365 388 438 ' description='Skill > IT' auth='yes' name='HACMP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>37</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Configured'><StringValue>Configured</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Configuration'><StringValue>Configuration</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='administration'><StringValue>administration</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Configured HACMP</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IBM HACMP V4.5 V4.5</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>AIX HACMP</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>HACMP 4.3.1 and 4.5 4.3.1 and 4.5</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Configuration and administration of HACMP 4.3.1/4.4 4.3.1/4.4</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='158 206 316 392 416 ' description='Skill > IT' auth='yes' name='Oracle 9i'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>81</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Oracle9i on Linux</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>9i 9i</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='50 289 346 393 417 ' description='Skill > IT' auth='yes' name='Oracle 10G'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>55</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installation'><StringValue>Installation</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>10G 10G</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installation of Oracle10g on Linux</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='40 187 233 303 430 ' description='Skill > IT' auth='yes' name='Network File System'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>45</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>NFS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='135 169 217 295 320 ' description='Skill > IT' auth='yes' name='MySQL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>45</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MySQL database</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='97 193 340 377 447 ' description='Skill > IT' auth='yes' name='IBM RS6000 Hardware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>33</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IBM RS/6000</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>RS6000</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>88</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='17 142 162 210 343 ' description='Skill > IT' auth='yes' name='Dell Server Hardware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>44</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installation'><StringValue>Installation</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Dell</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SunOS on Dell</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Dell Servers</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installation of Red hat Linux on Dell</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='21 114 311 407 ' description='Skill > IT' auth='yes' name='Veritas Cluster'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>37</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Veritas Cluster Server</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Veritas Cluster Server 3.5 3.5</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='99 345 446 449 ' description='Skill > IT' auth='yes' name='SUN Hardware > Sun Enterprise Servers'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Ultra Enterprise 2 2</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Enterprise Server 4.0 4.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Sun Enterprise</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Enterprise server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='91 172 220 321 ' description='Skill > IT' auth='yes' name='Microsoft Windows NT'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>45</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows NT 4.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>NT</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>NT/2000 Server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='47 77 111 323 ' description='Skill > IT' auth='yes' name='Jboss'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>JBoss4.0.x 4.0.x</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='112 313 426 450 ' description='Skill > IT' auth='yes' name='IBM WebSphere'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>37</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installed'><StringValue>Installed</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Configured'><StringValue>Configured</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Websphere</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installed/Configured Websphere</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='143 184 191 230 ' description='Skill > IT' auth='yes' name='IBM Hardware > IBM BladeCenter'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IBM Bladecenter</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>97</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='14 90 308 434 ' description='Skill > IT' auth='yes' name='HP-UX'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>HPUX 10.x/11.x 10.x/11.x</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>HPUX 10.x,11.x 10.x,11.x</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='42 189 235 431 ' description='Skill > IT' auth='yes' name='Domain Name Server Protocol'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>DNS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='136 137 159 207 ' description='Skill > IT' auth='yes' name='DB2'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>UDB</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='116 328 436 ' description='Skill > IT' auth='yes' name='shell scripting'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Shell Scripts</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='177 225 359 ' description='Skill' auth='no' name='job scheduling'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>44</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='176 224 358 ' description='Skill' auth='no' name='batch processing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>44</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='81 149 199 ' description='Skill > IT' auth='yes' name='TCP/IP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>TCP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='142 180 403 ' description='Skill > IT' auth='yes' name='SunOS'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>29</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installed'><StringValue>Installed</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SunOS on Dell</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installed SUN OS versions 2.8, 2.9 on Ultra 5 versions 2.8, 2.9</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>98</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='56 186 232 ' description='Skill > IT' auth='yes' name='SUN Hardware > Sun SPARC series'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Solaris 10 on Sun SPARC 10</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SUN SPARC</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='151 201 370 ' description='Skill' auth='no' name='Performance monitoring'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>44</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='92 165 213 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2000 Professional'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2000</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows 2000</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='59 349 394 ' description='Skill > IT' auth='yes' name='IBM WebSphere Application Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Supported'><StringValue>Supported</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Supported WebSphere Application Server</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>WebSphere Application Server 3.5/4.0.x 3.5/4.0.x</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='16 96 404 ' description='Skill > IT' auth='yes' name='IBM Hardware > IBM System x'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IBM System X</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='156 205 422 ' description='Skill > IT' auth='yes' name='HP Hardware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>44</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Linux on HP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='185 231 ' description='Skill > IT' auth='no' name='workstation pro'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MAC pro workstation pro</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='170 218 ' description='Skill' auth='no' name='both development'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='268 406 ' description='Skill > IT' auth='yes' name='Veritas File System'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>37</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Veritas File system 3.5/4.x 3.5/4.x</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Veritas File System 3.5 3.5</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='101 403 ' description='Skill > IT' auth='yes' name='Ultra'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installed'><StringValue>Installed</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Ultra 1,5,10 1,5,10</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installed SUN OS versions 2.8, 2.9 on Ultra 5 versions 2.8, 2.9</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='134 291 ' description='Skill > IT' auth='yes' name='Sybase'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='309 443 ' description='Skill > IT' auth='no' name='SLES 9, 10'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SLES 9, 10 9, 10</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='175 223 ' description='Skill' auth='no' name='Responsible for backup'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='253 254 ' description='Skill > IT' auth='yes' name='RAID'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>RAID 1</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>RAID 5</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='122 296 ' description='Skill > IT' auth='yes' name='Personal Home Page'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>PHP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='325 454 ' description='Skill > IT' auth='yes' name='Network Attached Storage'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>NAS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='188 234 ' description='Skill > IT' auth='no' name='NIS'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='273 429 ' description='Skill > IT' auth='yes' name='LDAP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='173 222 ' description='Skill' auth='no' name='ISS Development'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='25 425 ' description='Skill' auth='yes' name='Encephalomyocarditis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>EMC</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='152 202 ' description='Skill' auth='no' name='Disk Space management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='353 437 ' description='Skill' auth='no' name='Disk Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='34 299 ' description='Skill' auth='yes' name='Consolidations'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>consolidation</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='27 319 ' description='Skill > IT' auth='yes' name='CLARiiON'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='117 379 ' description='Skill > IT' auth='yes' name='C Programming Language'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>C</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='185 231 ' description='Skill > IT' auth='yes' name='Apple Mac'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MAC pro workstation pro</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='384 ' description='Skill' auth='no' name='user support'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='18 ' description='Skill' auth='no' name='troubleshooting support'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='382 ' description='Skill' auth='no' name='system monitoring'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='369 ' description='Skill' auth='no' name='resource monitoring'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='383 ' description='Skill' auth='no' name='network support'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='361 ' description='Skill' auth='no' name='maintenance'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='243 ' description='Skill' auth='no' name='configuration'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>configuration,</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='338 ' description='Skill' auth='no' name='backup management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='121 ' description='Skill > IT' auth='yes' name='XML'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='301 ' description='Skill > IT' auth='no' name='XEN'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='378 ' description='Skill > IT' auth='yes' name='X Windows'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>X-Window</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='22 ' description='Skill > IT' auth='no' name='VCS'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>(VCS)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='300 ' description='Skill > IT' auth='yes' name='UML/OMT'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>UML</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='267 ' description='Skill' auth='yes' name='System Tuning'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='381 ' description='Skill' auth='yes' name='System Administration'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='287 ' description='Skill' auth='no' name='Symmetrix Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='29 ' description='Skill > IT' auth='yes' name='Sun StorageTek'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='115 ' description='Skill > IT' auth='no' name='Sun Cluster'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='360 ' description='Skill' auth='no' name='Software installation'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='45 ' description='Skill > IT' auth='yes' name='Secure Shell'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SSH</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='315 ' description='Skill > IT' auth='no' name='Samba'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='242 ' description='Skill > IT' auth='yes' name='SWAP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>66</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='445 ' description='Skill > IT' auth='yes' name='SUN Hardware > Sun Ultra series'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Sun Ultra 5 5</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='271 ' description='Skill > IT' auth='yes' name='SMTP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='44 ' description='Skill > IT' auth='no' name='SFTP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='104 ' description='Skill > IT' auth='yes' name='Router'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Routers</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='335 ' description='Skill' auth='no' name='Responsible for Migration'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>48</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='348 ' description='Skill' auth='no' name='Responsible for Implementing Cloning'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='100 ' description='Skill > IT' auth='yes' name='Reduced Instruction Set Computer (RISC)'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>RISC</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='423 ' description='Skill' auth='no' name='RAID Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='344 ' description='Skill > IT' auth='no' name='Proliant'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='68 ' description='Skill' auth='no' name='Process Monitoring'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='38 ' description='Skill > IT' auth='yes' name='Perl Programming'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Perl scripting</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='98 ' description='Skill > IT' auth='no' name='PSeries'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='272 ' description='Skill > IT' auth='yes' name='POP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>POP3</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='123 ' description='Skill > IT' auth='yes' name='Oracle PL/SQL'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>PL/SQL</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='375 ' description='Skill' auth='yes' name='Offshore Oil &#38; Gas'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>offshore</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='371 ' description='Skill' auth='no' name='Network Monitoring'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='24 ' description='Skill > IT' auth='yes' name='Network Appliance'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Netapp</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='95 ' description='Skill > IT' auth='yes' name='Microsoft Windows XP'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>XP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='94 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2008 Server'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2008</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='93 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2003 Server'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2003</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='351 ' description='Skill > IT' auth='yes' name='Microsoft Windows'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='138 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='120 ' description='Skill > IT' auth='yes' name='Microsoft .NET Technology'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>.net</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='395 ' description='Skill > IT' auth='no' name='MQ V5.3, V6.0'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MQ V5.3, V6.0 V5.3, V6.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='71 ' description='Skill > IT' auth='no' name='Lplanet'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='13 ' description='Skill > IT' auth='yes' name='Linux Suse'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SUSE Linux 11.2 11.2</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='298 ' description='Skill > IT' auth='yes' name='Linux Fedora'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>fedora core6 6</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='105 ' description='Skill > IT' auth='yes' name='LAN/WAN > LAN'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>LAN</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='292 ' description='Skill > IT' auth='yes' name='LAMP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installed'><StringValue>Installed</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='configured'><StringValue>configured</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installed and configured LAMP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='380 ' description='Skill > IT' auth='yes' name='Korn Shell'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Korn shell scripting</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='277 ' description='Skill > IT' auth='yes' name='Java Servlets'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Java Servlet</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='278 ' description='Skill > IT' auth='yes' name='Java Server Pages'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='119 ' description='Skill > IT' auth='yes' name='Java'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='244 ' description='Skill' auth='no' name='Implementation of disaster backup and recovery'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='6 ' description='Skill' auth='no' name='IT experience'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='YEAR'><NumericValue description='YEAR'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Over 7 years of IT experience</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='82 ' description='Skill > IT' auth='yes' name='IP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='356 ' description='Skill > IT' auth='yes' name='IBM Tivoli Management Framework > Tivoli Service Desk'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installation'><StringValue>Installation</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Administration'><StringValue>Administration</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installation and Administration of TIVOLI Service Desk</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='357 ' description='Skill > IT' auth='yes' name='IBM Hardware > IBM pSeries'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IBM P-series</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='307 ' description='Skill > IT' auth='yes' name='IBM AS400 Hardware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>AS 4.0 4.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='28 ' description='Skill > IT' auth='yes' name='Hitachi Hardware'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Hitachi</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='61 ' description='Skill > IT' auth='yes' name='HTTP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='102 ' description='Skill > IT' auth='yes' name='HP Server Hardware > HP 9000 Servers'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>HP-9000</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='280 ' description='Skill > IT' auth='yes' name='HP Server Hardware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>HP Servers</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='127 ' description='Skill > IT' auth='yes' name='HP OpenView'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='128 ' description='Skill > IT' auth='yes' name='HP Network Node Manager'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Network Node manager</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='64 ' description='Skill' auth='no' name='Good experience'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='43 ' description='Skill > IT' auth='yes' name='FTP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='451 ' description='Skill > IT' auth='no' name='Enterprise Single Sign-on'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='26 ' description='Skill > IT' auth='yes' name='EMC Symmetrix'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Symmetrix</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='318 ' description='Skill > IT' auth='no' name='EMC Symmetric'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='41 ' description='Skill > IT' auth='yes' name='Dynamic Host Control protocol'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>DHCP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='304 ' description='Skill' auth='yes' name='Database Administration'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='103 ' description='Skill > IT' auth='yes' name='Compaq/Digital Hardware'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Compaq</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='129 ' description='Skill > IT' auth='yes' name='Compaq Insight'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Compaq Insight Server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='113 ' description='Skill > IT' auth='yes' name='Cluster Server'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='106 ' description='Skill > IT' auth='yes' name='Cisco Switches/Routers'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Cisco</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='131 ' description='Skill > IT' auth='yes' name='Cisco Pix Firewall'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Cisco PIX Version 5.1, 6.2 Version 5.1, 6.2</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='132 ' description='Skill > IT' auth='yes' name='CheckPoint VPN'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VPN-1</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='440 ' description='Skill' auth='no' name='Capacity planning of disk space and hardware resources'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='118 ' description='Skill > IT' auth='yes' name='C++'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='125 ' description='Skill > IT' auth='yes' name='BMC Software'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>BMC Patrol</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='32_1 130_1 262_1 ' description='Held Position' auth='no' name='Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='7_1 376_1 ' description='Held Position' auth='no' name='a System Administrator'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Systems administrator</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='141_4_1 190_4_2 ' description='Held Position' auth='no' name='Sr. Unix/Linux Engineer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>98</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='412_1 413_1 ' description='Held Position' auth='no' name='Navisphere Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='36_1 54_1 ' description='Held Position' auth='no' name='Expert'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='157_1 ' description='Held Position' auth='no' name='virt-manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>93</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='332_1 ' description='Held Position' auth='no' name='Systems Engineer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='236_4_2 ' description='Held Position' auth='no' name='Sr.Linux/Unix Administrator'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>70</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='130_2 ' description='Held Position' auth='no' name='Intel LAN Desk Manager'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='126_1 ' description='Held Position' auth='no' name='IBM System Director'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='69_1 ' description='Held Position' auth='no' name='Expert in installing'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='332_2 ' description='Held Position' auth='no' name='Admin'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='80 ' description='Degree/Qualification > Professional' auth='no' name='SSL Certificate'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='109 ' description='Degree/Qualification > Professional' auth='yes' name='Royal Society of Arts'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IBM RSA</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='139_1 ' description='Degree/Qualification' auth='yes' name='Bachelors Degree > Bachelors Degree Science'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='Science'><StringValue>Science</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>EDUCATION: Bachelor's in Science</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency description='Industry' auth='yes' name='industry~it'>
+<CompetencyEvidence name='skillCount' typeDescription='skillCount'><NumericValue>5</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+</Competency>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<RevisionDate id='1'>2014-06-17</RevisionDate>
+</StructuredXMLResume>
+<NonXMLResume>
+
+<TextResume>
+
+
+
+<span inprof='n' id='1' class='date'>{{DOCUMENT_DATESTAMP}} 2014-6-17 {{END_DOCUMENT_DATESTAMP}}</span>
+
+
+
+<span inprof='y' id='2' class='nominal'>Janak Dahal</span>
+<span inprof='y' id='3' class='telephone'>469-464-9446</span>
+<span inprof='y' id='4' class='email'>jdahal3@gmail.com</span>
+
+
+<span inprof='n' id='5' class='objectives-mark'>SUMMARY:</span>
+
+*  <span inprof='y' id='6' class='skill'>Over 7 years of IT experience</span> as <span inprof='y' id='7_1' class='role'>a System Administrator</span> for <span inprof='n' id='8' class='company'>Red Hat Enterprise</span> <span inprof='y' id='9' class='sofwr'>Linux 3.x, 4.x, 5.x</span>, <span inprof='y' id='10' class='sofwr'>IBM</span>-<span inprof='y' id='11' class='sofwr'>AIX</span>, <span inprof='y' id='12' class='sofwr'>Sun Solaris</span>, <span inprof='y' id='13' class='sofwr'>SUSE Linux 11.2</span> and <span inprof='y' id='14' class='sofwr'>HP-UX</span> servers. ; 
+*  <span inprof='y' id='15' class='sofwr'>Installed, configured, and upgraded Red Hat Enterprise</span> Linux 3.x, 4.x, 5.x on HP Proliant, <span inprof='y' id='16' class='sofwr'>IBM System X</span> and <span inprof='y' id='17' class='sofwr'>Dell</span> PowerEdge Servers. ; 
+*  Strong sense of urgency providing <span inprof='y' id='18' class='skill'>troubleshooting support</span> in critical 24X7 production and development environments. ; 
+*  Designed and implemented server cluster using <span inprof='n' id='19' class='company'>Red Hat Enterprise</span> Linux cluster suite for RHEL5 servers. ; 
+*  Configured and Implemented clustering on <span inprof='n' id='20' class='date'>Sun</span> Servers using <span inprof='y' id='21' class='sofwr'>Veritas Cluster Server</span> <span inprof='y' id='22' class='sofwr'>(VCS)</span> &#38; <span inprof='y' id='23' class='sofwr'>Sun</span>-Cluster. ; 
+*  Experienced in working with SAN hardware from vendors including <span inprof='y' id='24' class='sofwr'>Netapp</span>, <span inprof='y' id='25' class='skill'>EMC</span> (<span inprof='y' id='26' class='sofwr'>Symmetrix</span> and <span inprof='y' id='27' class='sofwr'>CLARiiON</span>), <span inprof='y' id='28' class='sofwr'>Hitachi</span> and <span inprof='y' id='29' class='sofwr'>Sun StorageTek</span>. ; 
+*  Installed, configured and maintained <span inprof='y' id='30' class='sofwr'>Veritas Volume Manager</span> (VxVM), <span inprof='y' id='31' class='sofwr'>Sun</span> volume <span inprof='y' id='32_1' class='role'>Manager</span>, Logical Volume Manager. ; 
+*  Experienced in using <span inprof='y' id='33' class='sofwr'>Veritas NetBackup 6.5</span> with proficiency in System Backup and Recovery from tapes using ufsdump, ufsrestore, tar and cpio. ; 
+*  Performed server <span inprof='y' id='34' class='skill'>consolidation</span> and virtualization using <span inprof='y' id='35' class='sofwr'>VMware</span> ESX 3.5/4 and created VMs on VirtualCenter server and installed guest OS using Virtual Infrastructure Client. ; 
+*  <span inprof='y' id='36_1' class='role'>Expert</span> in <span inprof='n' id='37' class='company'>Shell</span>, <span inprof='y' id='38' class='sofwr'>Perl scripting</span> and experienced in using text processing tools like Grep/Sed/Awk. ; 
+*  Implemented OpenSSH based security for the RH-4 and <span inprof='y' id='39' class='sofwr'>Solaris10</span> machine. ; 
+*  Installed and configured network based services such as NIS, <span inprof='y' id='40' class='sofwr'>NFS</span>, <span inprof='y' id='41' class='sofwr'>DHCP</span>, <span inprof='y' id='42' class='sofwr'>DNS</span>, <span inprof='y' id='43' class='sofwr'>FTP</span>, <span inprof='y' id='44' class='sofwr'>SFTP</span>, <span inprof='y' id='45' class='sofwr'>SSH</span>, RSH, Samba &#38; Send mail. ; 
+*  Installed, maintained, <span inprof='y' id='46' class='sofwr'>upgraded and supported Apache</span> and <span inprof='y' id='47' class='sofwr'>JBoss</span> application servers on <span inprof='y' id='48' class='sofwr'>Red Hat Linux</span> systems. ; 
+*  Deployed <span inprof='n' id='49' class='sofwr'>Oracle</span> <span inprof='y' id='50' class='sofwr'>10G</span> RAC with <span inprof='n' id='51' class='company'>Cluster Ready Services (CRS)</span> on various <span inprof='y' id='52' class='sofwr'>UNIX</span> and <span inprof='y' id='53' class='sofwr'>Linux</span> Servers. ; 
+*  <span inprof='y' id='54_1' class='role'>Expert</span> in <span inprof='n' id='55' class='company'>Kickstart</span>, NIM, Jumpstart, Ignite, AutoYast Installation Methods. ; 
+*  Created and Implemented Global and Non-Global Zones in <span inprof='y' id='56' class='sofwr'>Solaris 10 on Sun SPARC</span> servers. ; 
+*  Created and Maintained Domains on <span inprof='n' id='57' class='date'>Sun</span> SPARC M5000 and LDOMS on <span inprof='n' id='58' class='date'>Sun</span> SPARC T2000/T5240 Servers. ; 
+*  Experienced in Configuration of LPAR using HMC and installed the OS using NIM server. ; 
+*  Experienced in configuring Dynamic LPAR IBM Servers. ; 
+*  <span inprof='y' id='59' class='sofwr'>Supported WebSphere Application Server</span>, <span inprof='y' id='60' class='sofwr'>IBM</span> <span inprof='y' id='61' class='sofwr'>HTTP</span>/ <span inprof='y' id='62' class='sofwr'>Apache</span> Web Servers in <span inprof='y' id='63' class='sofwr'>AIX environment</span> for various projects. ; 
+*  <span inprof='y' id='64' class='skill'>Good experience</span> and understanding of <span inprof='y' id='65' class='sofwr'>Storage Area Network</span> <span inprof='y' id='66' class='sofwr'>(SAN)</span> technology including zoning, creating disk pools and virtual disks on various systems, maintaining and configuring various fiber switches and storages. ; 
+*  Expertise in implementation and designing of Disaster Backup and Recovery Plan. ; 
+*  Experienced in working with different teams such as Network Engineering., Database team and application teams to resolve the issues and provide Customer Satisfaction. ; 
+*  Efficiency in installing, configuring and implementing the RAID Technologies using various tools like <span inprof='y' id='67' class='sofwr'>Veritas Volume Manager</span> and Logical Volume Manager. ; 
+*  Strong background in creating and maintaining User Accounts, Profiles, Security Rights, Disk Space and <span inprof='y' id='68' class='skill'>Process Monitoring</span>. ; 
+*  <span inprof='y' id='69_1' class='role'>Expert in installing</span>, configuring and maintaining <span inprof='y' id='70' class='sofwr'>Apache Tomcat</span>, <span inprof='y' id='71' class='sofwr'>Lplanet</span>, WebSphere Application Servers. ; 
+*  <span inprof='y' id='72' class='sofwr'>Configured HACMP</span> for a clustering environment on <span inprof='y' id='73' class='sofwr'>AIX</span> servers and administered the virtualization environments consisting VIO servers. ; 
+*  Used ILO/IMM/LOM for remote access of servers on <span inprof='y' id='74' class='sofwr'>Linux</span>/<span inprof='y' id='75' class='sofwr'>Solaris</span> respectively. ; 
+*  Experienced with the installation and configuration on <span inprof='y' id='76' class='sofwr'>Apache 2.x, 1.3.x, 1.2</span>, <span inprof='y' id='77' class='sofwr'>JBoss4.0.x</span> Web Servers and, <span inprof='y' id='78' class='sofwr'>BEA WebLogic 8.x, 9.x</span> servers. ; 
+*  Experience in Installation, Configuring, Monitoring Z-OS and Z-VM on IBM Mainframe Servers. ; 
+*  Experience in Installing and <span inprof='n' id='79' class='company'>configuring Wireless</span> network using <span inprof='y' id='80' class='qualif'>SSL Certificate</span> and RADIUS authentication. ; 
+*  Configured and Troubleshooted <span inprof='y' id='81' class='sofwr'>TCP</span>/<span inprof='y' id='82' class='sofwr'>IP</span> network services.
+
+<span inprof='n' id='83' class='skills-qualif-mark'>TECHNICAL SKILLS:</span>
+
+<span inprof='n' id='84' class='title-line'>Operating Systems</span>
+<span inprof='n' id='85' class='company'>Red Hat Enterprise</span> Linux 3/4/5; <span inprof='y' id='86' class='sofwr'>AIX 4.3/5.1/5.2/5.3</span>; <span inprof='y' id='87' class='sofwr'>Solaris 2.x/7/8/9/10</span>; SLES <span inprof='n' id='88' class='date'>9/10/11</span>; <span inprof='y' id='89' class='sofwr'>VMware 2/2.x/3.x/3.5/4</span>; <span inprof='y' id='90' class='sofwr'>HPUX 10.x/11.x</span>; <span inprof='y' id='91' class='sofwr'>Windows NT 4.0</span>/<span inprof='y' id='92' class='sofwr'>2000</span>/<span inprof='y' id='93' class='sofwr'>2003</span>/<span inprof='y' id='94' class='sofwr'>2008</span>/<span inprof='y' id='95' class='sofwr'>XP</span>; OEL 5.5; OVM 2.2.1; XEN
+
+Hardware
+<span inprof='y' id='96' class='sofwr'>IBM System X</span> 3650/3650M2, 3850/3850M2, <span inprof='y' id='97' class='sofwr'>IBM RS/6000</span> &#38; <span inprof='y' id='98' class='sofwr'>PSeries</span>, DEC DS20, ES40, IBM System z9 Enterprise Class server 2094-S08, HP Proliant DL785/G6, Proliant DL980/G7, Sun Fire 280R/V480/4800/3800/12K Server, Sun Enterprise T2000, T5220, T5240, M5000, M3000, V490, 480R 4500/6500/450/420R/250 Server, <span inprof='y' id='99' class='sofwr'>Ultra Enterprise 2</span>/1Servers, SPARC server 1000, SPARC server 20 Enterprise  Servers, SPARC server 1000/20, SPARCstation 10, HP PA-<span inprof='y' id='100' class='sofwr'>RISC</span> rp7420,3440,5405 Itanium rx 6600,7640 and 3500, Sun Sparc <span inprof='y' id='101' class='sofwr'>Ultra 1,5,10</span>, <span inprof='y' id='102' class='sofwr'>HP-9000</span>, K,L,Nseries, DELL Poweredge 1850,1650,2850,2950,6400, <span inprof='y' id='103' class='sofwr'>Compaq</span> Proliant DL 385,585, 380 G4/G5 Acer Intel Servers, Backup devices, Jukebox, Ethernet Hubs, Repeaters, <span inprof='y' id='104' class='sofwr'>Routers</span>, <span inprof='y' id='105' class='sofwr'>LAN</span> Testers, Terminal Servers &#38; Print servers, EMC Symmetric, Hitachi Arrays, Brocade fiber switches, <span inprof='y' id='106' class='sofwr'>Cisco</span> fiber switches.
+
+Web /Application Server
+<span inprof='y' id='107' class='sofwr'>Tomcat</span>, <span inprof='y' id='108' class='sofwr'>Apache</span>, Lplanet <span inprof='y' id='109' class='qualif'>IBM RSA</span>/WAS, <span inprof='y' id='110' class='sofwr'>WebLogic</span>, <span inprof='y' id='111' class='sofwr'>Jboss</span>, <span inprof='y' id='112' class='sofwr'>Websphere</span>
+
+<span inprof='y' id='113' class='sofwr'>Cluster Server</span>
+<span inprof='y' id='114' class='sofwr'>Veritas Cluster</span>, <span inprof='y' id='115' class='sofwr'>Sun Cluster</span>, Red Hat Cluster Suite
+
+Languages
+<span inprof='y' id='116' class='sofwr'>Shell Scripting</span> (bash, perl, ksh, sh, csh, python), <span inprof='y' id='117' class='sofwr'>C</span>, <span inprof='y' id='118' class='sofwr'>C++</span>, <span inprof='y' id='119' class='sofwr'>Java</span>, <span inprof='y' id='120' class='sofwr'>.net</span>, <span inprof='y' id='121' class='sofwr'>XML</span>, <span inprof='y' id='122' class='sofwr'>PHP</span>, <span inprof='y' id='123' class='sofwr'>PL/SQL</span>, FlexLM
+
+Server Management
+SUN Solstice Disk and Admin Suites, <span inprof='y' id='124' class='sofwr'>Veritas Netbackup</span>, SMC, BB4, Big Brother, <span inprof='y' id='125' class='sofwr'>BMC Patrol</span>, <span inprof='y' id='126_1' class='role'>IBM System Director</span>, Nagios, Ganglia, Predict, SW Tool Set, Single Sign On, <span inprof='y' id='127' class='sofwr'>HP OpenView</span>, <span inprof='y' id='128' class='sofwr'>Network Node manager</span>, <span inprof='y' id='129' class='sofwr'>Compaq Insight Server</span> <span inprof='y' id='130_1' class='role'>Manager</span> and <span inprof='y' id='130_2' class='role'>Intel LAN Desk Manager</span>
+
+Firewall
+<span inprof='y' id='131' class='sofwr'>Cisco PIX Version 5.1, 6.2</span>, Checkpoint 2000 <span inprof='y' id='132' class='sofwr'>VPN-1</span>/Firewall - 1
+
+Databases
+<span inprof='y' id='133' class='sofwr'>Oracle</span>, <span inprof='y' id='134' class='sofwr'>Sybase</span>, <span inprof='y' id='135' class='sofwr'>MYSQL</span>, <span inprof='y' id='136' class='sofwr'>DB2</span>/<span inprof='y' id='137' class='sofwr'>UDB</span>, <span inprof='y' id='138' class='sofwr'>SQL Server</span>
+
+Tape Hardware
+Spectrlogic T120, Sun Storage Tek Tape libraries SL500, SL850, DAT &#38; DLT, STK 9940B, 9840B, LTOs
+
+
+<span inprof='y' id='139_1' class='qualif'>EDUCATION:
+Bachelor's in Science</span> - <span inprof='y' id='139_2' class='educational'>Tribhuvan University</span>- <span inprof='y' id='139_3' class='date'>2004</span>
+
+<span inprof='n' id='140' class='work-hist-mark'>PROFESSIONAL EXPERIENCE:</span>
+
+<span inprof='y' id='141_1' class='company'>Cox Communications</span>, <span inprof='y' id='141_2' class='location'>Atlanta GA</span>           <span inprof='y' id='141_3_1' class='date'>Jun 2013</span> - <span inprof='y' id='141_3_2' class='date'>Apr 2014</span>
+ <span inprof='y' id='141_4_1' class='role'>Sr. Unix/Linux Engineer</span>
+
+Responsibilities:
+    *  Installed and configured RHEL 4.3, 4.7, 5.1, 5.2, 5.3 and <span inprof='y' id='142' class='sofwr'>SunOS on Dell</span> and <span inprof='y' id='143' class='sofwr'>IBM Bladecenter</span> servers. ; 
+    *  Administered, maintained <span inprof='y' id='144' class='sofwr'>Red Hat  3.0, 4.0, 5.0, 6.0</span> AS, ES, Troubleshooting Hardware, Operating System Application &#38; Network problems and performance issues ; 
+    *  Deployed latest patches for <span inprof='y' id='145' class='sofwr'>Sun</span>, <span inprof='y' id='146' class='sofwr'>Linux</span> and Application servers, ; 
+    *  Performed <span inprof='y' id='147' class='sofwr'>Solaris</span> and <span inprof='y' id='148' class='sofwr'>Red Hat Linux</span> Kernel Tuning for <span inprof='y' id='149' class='sofwr'>TCP</span> stack. ; 
+*  <span inprof='y' id='150' class='sofwr'>Installing and upgrading Redhat Linux</span>, firmware, failed hardware and system support software Dell PowerEdge Servers. ; 
+*  Implemented log parser to provide support for multiple server log file formats ; 
+*  <span inprof='y' id='151' class='skill'>Performance monitoring</span> with Prtdiag,Sar, Iostat, VMstat, MPstat and Other Tools. ; 
+*  <span inprof='y' id='152' class='skill'>Disk Space management</span> using <span inprof='y' id='153' class='sofwr'>VERITAS Volume Manager</span> and <span inprof='y' id='154' class='sofwr'>Apache</span> Cassandra ; 
+*  Configuration of Hardware and Software RAID. Disk replacement and File system recovery. ; 
+*  Implemented Virtualization using <span inprof='y' id='155' class='sofwr'>VMware</span> in <span inprof='y' id='156' class='sofwr'>Linux on HP</span>-DL585. ; 
+*  Installed and configured KVM on Dell Blade Servers using <span inprof='y' id='157_1' class='role'>virt-manager</span> ; 
+*  Troubleshooting critical hardware and software issues and other day-to-day user trouble tickets; maintaining email servers designated for 5 million residential and over 100K HSI customer's ; 
+*  Installing and setting up <span inprof='y' id='158' class='sofwr'>Oracle9i on Linux</span> for the development team. ; 
+*  Created Servers, User mappings and Nicknames to access <span inprof='y' id='159' class='sofwr'>DB2</span> and <span inprof='y' id='160' class='sofwr'>Oracle</span> databases. ; 
+*  <span inprof='y' id='161' class='sofwr'>Installed VMware</span> ESX server on <span inprof='y' id='162' class='sofwr'>Dell Servers</span> and <span inprof='y' id='163' class='sofwr'>configured Solaris 9/10</span>/ <span inprof='y' id='164' class='sofwr'>Red Hat Linux 4.0, 5.0, 6.0</span> / <span inprof='y' id='165' class='sofwr'>Windows 2000</span> virtual machines for various applications. ; 
+*  Installation of software packages and checking the integrity of the installed packages. Installed different RPM Linux 4.0/5.0. ; 
+*  <span inprof='y' id='166' class='sofwr'>Administered Linux</span> servers for several functions including managing <span inprof='y' id='167' class='sofwr'>Apache</span>/<span inprof='y' id='168' class='sofwr'>Tomcat server</span>, mail server, <span inprof='y' id='169' class='sofwr'>MySQL database</span>, and firewalls in <span inprof='y' id='170' class='skill'>both development</span> and production ; 
+*  Implemented OpenLDAP in enterprise environment, created user mailboxes, modified various user attributes in LDAP/LDIF ; 
+*  Installed and configured Sudo for users to access the root privileges. ; 
+*  Integrating UNIX file systems using packages like SAMBA. Setting up printers on <span inprof='y' id='171' class='sofwr'>UNIX</span> / <span inprof='y' id='172' class='sofwr'>NT</span> machines to work seamlessly across platforms. ; 
+*  Configured and administered firewall rules to effectively monitor system files, port security, and network traffic activity coming through the firewall. ; 
+*  Assisted other teams for projects like <span inprof='y' id='173' class='skill'>ISS Development</span>, Test and QS environments ; 
+*  Worked with different hardware and software vendors to troubleshoot the hardware and software problems including <span inprof='y' id='174' class='sofwr'>Oracle</span>, Openwave, Terris, Dell and many more. ; 
+*  Experienced in Troubleshooting critical hardware and software issues and other day-to-day user trouble tickets; effectively completed &#60;20 trouble tickets per day ; 
+*  Document backup policies and procedures for backup routines, schedules and restore policies. ; 
+*  <span inprof='y' id='175' class='skill'>Responsible for backup</span> of all servers, and recovery of servers. ; 
+*  Managing cron jobs, <span inprof='y' id='176' class='skill'>batch processing</span> and <span inprof='y' id='177' class='skill'>job scheduling</span>. ; 
+*  Able to create and maintain documentation for servers and storage environments. ; 
+*  Supporting and <span inprof='y' id='178' class='sofwr'>in-depth troubleshooting of Linux</span>/<span inprof='y' id='179' class='sofwr'>Solaris</span> systems 24 x 7 Environment
+
+Environment: <span inprof='y' id='180' class='sofwr'>SunOS</span>, <span inprof='y' id='181' class='sofwr'>Linux</span>, <span inprof='y' id='182' class='sofwr'>VMWARE</span>, <span inprof='y' id='183' class='sofwr'>IBM</span> 8677, <span inprof='y' id='184' class='sofwr'>IBM Blade center</span> Servers (HS20, HS21), Lenovo workstation's (D2, D3, D10, D20), IBM P520, P550, P560, P570, P575, P595, IBM IntelliZpro-9228, <span inprof='y' id='185' class='sofwr'>MAC pro workstation</span>'s, DELL Poweredge 1650,2850,2950,6400, <span inprof='y' id='186' class='sofwr'>SUN SPARC</span> workstations (A21, A22, A70, A89), <span inprof='y' id='187' class='sofwr'>NFS</span>, <span inprof='y' id='188' class='sofwr'>NIS</span>, <span inprof='y' id='189' class='sofwr'>DNS</span>,PICS, Preload Assist Servers.
+
+
+<span inprof='y' id='190_1' class='company'>Kohls</span>, <span inprof='y' id='190_2' class='location'>Milwaukee, Wisconsin</span>            <span inprof='y' id='190_3_1' class='date'>Dec 2011</span> - <span inprof='y' id='190_3_2' class='date'>Feb 2013</span>
+<span inprof='n' id='190_4_1' class='some-position'>Role</span>:  <span inprof='y' id='190_4_2' class='role'>Sr.Unix/Linux Engineer</span>
+
+Responsibilities:
+
+    *  Installed and configured RHEL 4.3, 4.7, 5.1, 5.2, 5.3 on <span inprof='y' id='191' class='sofwr'>IBM Bladecenter</span> servers. <span inprof='y' id='192' class='sofwr'>Configured IBM</span> p5,B80,<span inprof='y' id='193' class='sofwr'>RS6000</span>,520,550,570,590,595,610,690.695 for production, staging and test environments. ; 
+    *  Administered, maintained <span inprof='y' id='194' class='sofwr'>Red Hat  3.0, 4.0, 5.0</span>  AS, ES, Troubleshooting Hardware, Operating System Application &#38; Network problems and performance issues; Deployed latest patches for <span inprof='y' id='195' class='sofwr'>Sun</span>, <span inprof='y' id='196' class='sofwr'>Linux</span> and Application servers, Performed <span inprof='y' id='197' class='sofwr'>Solaris</span> and <span inprof='y' id='198' class='sofwr'>Red Hat Linux</span> Kernel Tuning for <span inprof='y' id='199' class='sofwr'>TCP</span> stack. ; 
+    *  <span inprof='y' id='200' class='sofwr'>Installing and upgrading Red hat Linux</span>, firmware, failed hardware and system support software HP Proliant Servers. ; 
+    *  Configured and maintained the HP Proliant Essential Software packages on the PICS and Preload Assist Servers ; 
+    *  <span inprof='y' id='201' class='skill'>Performance monitoring</span> with Sar, Iostat, VMstat, MPstat and Other Tools. ; 
+    *  <span inprof='y' id='202' class='skill'>Disk Space management</span> using <span inprof='y' id='203' class='sofwr'>VERITAS Volume Manager</span>. ; 
+    *  Configuration of Hardware and Software RAID. Disk replacement and File system recovery. ; 
+    *  Implemented Virtualization using <span inprof='y' id='204' class='sofwr'>VMware</span> in <span inprof='y' id='205' class='sofwr'>Linux on HP</span>-DL585. ; 
+    *  Troubleshooting critical hardware and software issues and other day-to-day user trouble tickets. ; 
+    *  Installing and setting up <span inprof='y' id='206' class='sofwr'>Oracle9i on Linux</span> for the development team. ; 
+    *  Created Servers, User mappings and Nicknames to access <span inprof='y' id='207' class='sofwr'>DB2</span> and <span inprof='y' id='208' class='sofwr'>Oracle</span> databases. ; 
+    *  <span inprof='y' id='209' class='sofwr'>Installed VMware</span> ESX server on <span inprof='y' id='210' class='sofwr'>Dell Servers</span> and <span inprof='y' id='211' class='sofwr'>configured Solaris 9/10</span>/ <span inprof='y' id='212' class='sofwr'>Red Hat Linux 4.0</span> / <span inprof='y' id='213' class='sofwr'>Windows 2000</span> virtual machines for various applications. ; 
+    *  Installation of software packages and checking the integrity of the installed packages. Installed different RPM Linux 4.0/5/0. ; 
+    *  <span inprof='y' id='214' class='sofwr'>Administered Linux</span> servers for several functions including managing <span inprof='y' id='215' class='sofwr'>Apache</span>/<span inprof='y' id='216' class='sofwr'>Tomcat server</span>, mail server, <span inprof='y' id='217' class='sofwr'>MySQL database</span>, and firewalls in <span inprof='y' id='218' class='skill'>both development</span> and production ; 
+    *  Installed and configured Sudo for users to access the root privileges. ; 
+    *  Integrating UNIX file systems using packages like SAMBA. Setting up printers on <span inprof='y' id='219' class='sofwr'>UNIX</span> / <span inprof='y' id='220' class='sofwr'>NT</span> machines to work seamlessly across platforms. ; 
+    *  Installed application connectivity software to enable <span inprof='n' id='221' class='company'>IBM</span> print services. Configured and administered firewall rules to effectively monitor system files, port security, and network traffic activity coming through the firewall. ; 
+    *  Assisted other teams for projects like <span inprof='y' id='222' class='skill'>ISS Development</span>, Test and QS environments ; 
+    *  Worked with different hardware and software vendors to troubleshoot the hardware and software problems. ; 
+    *  Experienced in Troubleshooting critical hardware and software issues and other day-to-day user trouble tickets. ; 
+    *  Document backup policies and procedures for backup routines, schedules and restore policies. ; 
+    *  Configured and documented the Preload Assist and PICS. ; 
+    *  <span inprof='y' id='223' class='skill'>Responsible for backup</span> of all servers, and recovery of servers. ; 
+    *  Managing cron jobs, at Jobs, <span inprof='y' id='224' class='skill'>batch processing</span> and <span inprof='y' id='225' class='skill'>job scheduling</span>. ; 
+    *  Able to create and maintain documentation for servers and storage environments. ; 
+    *  Supporting and <span inprof='y' id='226' class='sofwr'>in-depth troubleshooting of AIX</span> systems 24 x 7 Environment
+
+Environment: <span inprof='y' id='227' class='sofwr'>Linux</span>, <span inprof='y' id='228' class='sofwr'>VMWARE</span>, <span inprof='y' id='229' class='sofwr'>IBM</span> 8677, <span inprof='y' id='230' class='sofwr'>IBM Blade center</span> Servers (HS20, HS21), Lenovo workstation's (D2, D3, D10, D20), IBM P520, P550, P560, P570, P575, P595, IBM IntelliZpro-9228, <span inprof='y' id='231' class='sofwr'>MAC pro workstation</span>'s, DELL Poweredge 1650,2850,2950,6400, <span inprof='y' id='232' class='sofwr'>SUN SPARC</span> workstations (A21, A22, A70, A89), <span inprof='y' id='233' class='sofwr'>NFS</span>, <span inprof='y' id='234' class='sofwr'>NIS</span>, <span inprof='y' id='235' class='sofwr'>DNS</span>,PICS, Preload Assist Servers.
+
+
+
+<span inprof='y' id='236_1' class='company'>Client: IBM</span>, <span inprof='y' id='236_2' class='location'>Dallas, TX</span>                               <span inprof='y' id='236_3_1' class='date'>May 2010</span>- <span inprof='y' id='236_3_2' class='date'>November 2011</span>
+<span inprof='n' id='236_4_1' class='some-position'>Role</span>:  <span inprof='y' id='236_4_2' class='role'>Sr.Linux/Unix Administrator</span>
+
+Responsibilities:
+
+*  Installation, configuration and OS upgrades on <span inprof='y' id='237' class='sofwr'>Red Hat Linux 4.x, 5.x</span>; <span inprof='y' id='238' class='sofwr'>AIX 5.2/5.3/6.1</span>. ; 
+*  Configuring Kickstart Servers and booting the images using PXE in <span inprof='y' id='239' class='sofwr'>Red Hat Linux</span>. ; 
+*  Installation of patches and other software packages on <span inprof='y' id='240' class='sofwr'>Linux</span> and <span inprof='y' id='241' class='sofwr'>AIX</span> Servers. ; 
+*  <span inprof='y' id='242' class='sofwr'>SWAP</span> box <span inprof='y' id='243' class='skill'>configuration,</span> <span inprof='y' id='244' class='skill'>Implementation of disaster backup and recovery</span>. ; 
+*  Configure <span inprof='y' id='245' class='sofwr'>HACMP</span> for a clustering environment on <span inprof='y' id='246' class='sofwr'>AIX</span> servers and administered the virtualization environments consisting VIO servers. ; 
+*  Use ILO/IMM/HMC for remote access of servers on <span inprof='y' id='247' class='sofwr'>Linux</span>/<span inprof='y' id='248' class='sofwr'>AIX</span> respectively. ; 
+*  Administration for multiple <span inprof='y' id='249' class='sofwr'>Sun hardware</span>, this involves creating domains, adding/deleting system components. ; 
+*  <span inprof='y' id='250' class='sofwr'>Administration and Troubleshooting Solaris</span> servers running business critical application &#38; <span inprof='y' id='251' class='sofwr'>WebLogic</span> applications. ; 
+*  Used Veritas File system (VxFS) and <span inprof='y' id='252' class='sofwr'>Veritas Volume Manager</span> (VxVM) to configure <span inprof='y' id='253' class='sofwr'>RAID 1</span> and <span inprof='y' id='254' class='sofwr'>RAID 5</span> Storage Systems on <span inprof='y' id='255' class='sofwr'>Sun Solaris</span>. ; 
+*  <span inprof='y' id='256' class='sofwr'>Installed and Configured Sun</span> availability Suite 3.5 to implement Point-in-time snap shots and remote mirroring. ; 
+*  Installed and configured SAMBA server for windows and <span inprof='y' id='257' class='sofwr'>Linux</span> connectivity. ; 
+*  Installing, configuring and deploying applications on <span inprof='y' id='258' class='sofwr'>Weblogic Application Server 8.x, 9.x</span>. ; 
+*  <span inprof='y' id='259' class='sofwr'>Installed WebLogic 8.1</span> with SP5 Server and configured Domains, Admin and managed servers for applications to be deployed. ; 
+*  Implemented and configured Backup policies and Storage Units using <span inprof='y' id='260' class='sofwr'>Veritas Netbackup 6.5</span>. ; 
+*  Managing disk storage with <span inprof='y' id='261' class='sofwr'>Veritas Volume Manager 3.5/4.1</span> (VxVM) and Solaris Volume <span inprof='y' id='262_1' class='role'>Manager</span> with <span inprof='n' id='263' class='company'>Veritas File System (VxFS)</span>. ; 
+*  <span inprof='y' id='264' class='sofwr'>Installation, configuration, and maintenance of Sun Solaris 10</span> servers. ; 
+*  <span inprof='y' id='265' class='sofwr'>Upgrading Solaris 8/9</span> to <span inprof='y' id='266' class='sofwr'>Solaris 10</span> using live upgrade and manual upgrade. ; 
+*  Performed file <span inprof='y' id='267' class='skill'>system tuning</span>, growing, and shrinking with <span inprof='y' id='268' class='sofwr'>Veritas File system 3.5/4.x</span>. ; 
+*  Experience in <span inprof='n' id='269' class='industry-sector'>internet services</span> installation, configuration and maintenance (WWW on <span inprof='y' id='270' class='sofwr'>apache</span>, <span inprof='y' id='271' class='sofwr'>SMTP</span> on sendmail, <span inprof='y' id='272' class='sofwr'>POP3</span> and <span inprof='y' id='273' class='sofwr'>LDAP</span>) on <span inprof='y' id='274' class='sofwr'>Linux</span> platforms, including security of provided services, ability to troubleshoot common and very uncommon problems, high availability services. ; 
+*  Experience in <span inprof='y' id='275' class='sofwr'>Implementation Apache</span>, <span inprof='y' id='276' class='sofwr'>Tomcat 5.5</span> for the <span inprof='y' id='277' class='sofwr'>Java Servlet</span> and <span inprof='y' id='278' class='sofwr'>Java Server Pages</span> technologies. ; 
+*  <span inprof='y' id='279' class='sofwr'>Administered the UNIX</span> System for clustered <span inprof='y' id='280' class='sofwr'>HP Servers</span> with fiber attached <span inprof='y' id='281' class='sofwr'>SAN</span> storage. ; 
+*  Maintained &#38; troubleshooted <span inprof='y' id='282' class='sofwr'>SAN</span> and Fibre card related errors on <span inprof='y' id='283' class='sofwr'>UNIX</span> ; 
+*  Discovered and attached LUNS provided by the Storage team to the required <span inprof='y' id='284' class='sofwr'>Unix</span>/<span inprof='y' id='285' class='sofwr'>Linux</span> Servers. ; 
+*  Maintained &#38; Troubleshooted Storage Disks from <span inprof='n' id='286' class='company'>IBM</span> and EMC Disk arrays. ; 
+*  Created disk pools and configured shared virtual disks using <span inprof='y' id='287' class='skill'>Symmetrix Management</span> Console. ; 
+*  Installing, maintaining, <span inprof='y' id='288' class='sofwr'>upgrading and supporting Red Hat Linux</span> systems w/ <span inprof='y' id='289' class='sofwr'>Oracle 10G</span> RAC with <span inprof='n' id='290' class='company'>Cluster Ready Services (CRS)</span> and <span inprof='y' id='291' class='sofwr'>Sybase</span> database. ; 
+*  <span inprof='y' id='292' class='sofwr'>Installed and configured LAMP</span> (<span inprof='y' id='293' class='sofwr'>Linux</span>, <span inprof='y' id='294' class='sofwr'>Apache</span>, <span inprof='y' id='295' class='sofwr'>MySQL</span>, and <span inprof='y' id='296' class='sofwr'>PHP</span>) for different applications. ; 
+*  Monitored servers, switches, ports etc with Nagios monitoring tool. ; 
+*  Administered 8-server <span inprof='y' id='297' class='sofwr'>Red Hat Linux</span> cluster, 6-server <span inprof='y' id='298' class='sofwr'>fedora core6</span> cluster, IBM DS4300 Storage, Veritas Clustering (VCS) and miscellaneous servers. ; 
+*  Experience in Servers <span inprof='y' id='299' class='skill'>consolidation</span> and virtualization using <span inprof='y' id='300' class='sofwr'>UML</span> Linux, <span inprof='y' id='301' class='sofwr'>XEN</span> and <span inprof='y' id='302' class='sofwr'>VMware</span> virtual infrastructure, VMware ESX, VMware Vcenter. ; 
+*  Implemented NIS and <span inprof='y' id='303' class='sofwr'>NFS</span> for administrative and project requirements. ; 
+*  Worked closely with <span inprof='y' id='304' class='skill'>database administration</span> staff to ensure optimal performance of databases, and maintain development applications and databases. ; 
+*  Tuning the kernel parameters based on the application/database requirement. ; 
+*  Configuring SUDO and granting root permission to users for performing certain activities.
+
+Environment: Red Hat Linux AS3.0, <span inprof='y' id='305' class='sofwr'>AIX 4.3/5.1/5.2/5.3</span>, <span inprof='y' id='306' class='sofwr'>Sun Solaris 8,9,10</span>, <span inprof='y' id='307' class='sofwr'>AS 4.0</span>, <span inprof='y' id='308' class='sofwr'>HPUX 10.x,11.x</span>, <span inprof='y' id='309' class='sofwr'>SLES 9, 10</span>, Sun Fire 6800, 4800,V890, V880, V490,V480 and V210, <span inprof='y' id='310' class='sofwr'>Veritas Volume Manager</span>, <span inprof='y' id='311' class='sofwr'>Veritas Cluster Server</span>, <span inprof='y' id='312' class='sofwr'>IBM HACMP V4.5</span>, <span inprof='y' id='313' class='sofwr'>Websphere</span> ND 5.1, XD 5.1, <span inprof='y' id='314' class='sofwr'>Weblogic 8.1</span>, <span inprof='y' id='315' class='sofwr'>Samba</span>, <span inprof='y' id='316' class='sofwr'>Oracle 9i</span>/10g, <span inprof='y' id='317' class='sofwr'>Veritas Netbackup 4.5.5</span>, <span inprof='y' id='318' class='sofwr'>EMC Symmetric</span>, <span inprof='y' id='319' class='sofwr'>CLARiiON</span>,  <span inprof='y' id='320' class='sofwr'>MYSQL</span>, LVT, NIM, ILO, Samba, Nagios, FlexLM, <span inprof='y' id='321' class='sofwr'>NT/2000 Server</span>, <span inprof='y' id='322' class='sofwr'>VMware</span> ESX 3.x/4, LPAR, DLPAR, <span inprof='y' id='323' class='sofwr'>JBOSS</span>, <span inprof='y' id='324' class='sofwr'>SAN</span>, <span inprof='y' id='325' class='sofwr'>NAS</span>, LVT, NIM, ILO, Lplanet, <span inprof='y' id='326' class='sofwr'>Tomcat</span>, <span inprof='y' id='327' class='sofwr'>Apache Server 1.x,2.x</span>, <span inprof='y' id='328' class='sofwr'>Shell Scripting</span>.
+
+
+<span inprof='y' id='329_1' class='company'>Citibank</span>, <span inprof='y' id='329_2' class='location'>New York, NY</span>                        <span inprof='y' id='329_3_1' class='date'>Nov 2008</span> - <span inprof='y' id='329_3_2' class='date'>Apr 2010</span>
+<span inprof='y' id='330' class='sofwr'>Linux</span> -<span inprof='y' id='331' class='sofwr'>Unix</span> <span inprof='y' id='332_1' class='role'>Systems Engineer</span> / <span inprof='y' id='332_2' class='role'>Admin</span>
+
+Responsibilities:
+
+    *  Performing the <span inprof='y' id='333' class='sofwr'>AIX systems administration, installation, troubleshooting</span>, and customization of <span inprof='y' id='334' class='sofwr'>AIX 5.1,5.2</span> machines on pSeries 615, 630, 670 servers, including clustered (SP) servers. The entire environment included around 40 AIX Servers and 60 additional servers. ; 
+    *  <span inprof='y' id='335' class='skill'>Responsible for Migration</span> of servers from <span inprof='y' id='336' class='sofwr'>AIX 5.2</span> to <span inprof='y' id='337' class='sofwr'>AIX 5.3</span>. ; 
+    *  System &#38; <span inprof='y' id='338' class='skill'>backup management</span> using <span inprof='y' id='339' class='sofwr'>Veritas Netbackup Server</span>. ; 
+    *  <span inprof='y' id='340' class='sofwr'>IBM RS/6000</span> SP System Software <span inprof='y' id='341' class='sofwr'>Maintenance AIX</span> System Dump Generation and sending System Dump to <span inprof='n' id='342' class='company'>AIX System Support Center</span>. ; 
+    *  <span inprof='y' id='343' class='sofwr'>Installation of Red hat Linux on Dell</span>, <span inprof='y' id='344' class='sofwr'>Proliant</span>, and <span inprof='y' id='345' class='sofwr'>Enterprise Server 4.0</span>. ; 
+    *  Installation of web logic, upgraded to service pack updates, installed BEA patches, configuring and creation new domain &#38; services starting &#38; stopping. <span inprof='y' id='346' class='sofwr'>Installation of Oracle10g on Linux</span>, creating database, creating <span inprof='y' id='347' class='sofwr'>Oracle</span> users &#38; export and importing database, creating roleback segment etc. ; 
+    *  Setup and administration of Lab environment within the datacenter. ; 
+    *  <span inprof='y' id='348' class='skill'>Responsible for Implementing Cloning</span>, Clustering (VCS), Performance tuning and trouble shooting of <span inprof='y' id='349' class='sofwr'>IBM WebSphere   Application Server</span>. ; 
+    *  Performed WebSphere MQ Messaging administration, monitoring, management and <span inprof='y' id='350' class='sofwr'>support for AIX</span> and <span inprof='y' id='351' class='sofwr'>Windows</span> environments. ; 
+    *  <span inprof='y' id='352' class='sofwr'>AIX systems administration</span> and <span inprof='y' id='353' class='skill'>Disk Management</span> using SMIT. ; 
+    *  Experience in LVM, Kernel and performance tuning on <span inprof='y' id='354' class='sofwr'>IBM AIX</span> and <span inprof='y' id='355' class='sofwr'>Redhat Linux</span>. ; 
+    *  <span inprof='y' id='356' class='sofwr'>Installation and Administration of TIVOLI Service Desk</span>. ; 
+    *  Managed hardware in <span inprof='y' id='357' class='sofwr'>IBM P-series</span> servers using hot-pluggable devices. ; 
+    *  Managing cron jobs, <span inprof='y' id='358' class='skill'>batch processing</span> and <span inprof='y' id='359' class='skill'>job scheduling</span>. ; 
+    *  <span inprof='y' id='360' class='skill'>Software installation</span> and <span inprof='y' id='361' class='skill'>maintenance</span> on <span inprof='y' id='362' class='sofwr'>AIX</span> and <span inprof='y' id='363' class='sofwr'>Linux</span> servers. ; 
+    *  developing and testing a new tcpwrappers package ; 
+    *  <span inprof='n' id='364' class='company'>Configuring and Administrating</span> of <span inprof='y' id='365' class='sofwr'>AIX HACMP</span> clusters. ; 
+    *  Tune servers and support <span inprof='y' id='366' class='sofwr'>Oracle</span> DBAs with installation and Configuration. ; 
+    *  Security, users and groups administration on <span inprof='y' id='367' class='sofwr'>AIX</span> and <span inprof='y' id='368' class='sofwr'>Linux</span>. ; 
+    *  Networking service, performance, and <span inprof='y' id='369' class='skill'>resource monitoring</span> ; 
+    *  <span inprof='y' id='370' class='skill'>Performance monitoring</span> with Sar,Iostat,VMstat,MPstat and Other Tools ; 
+    *  <span inprof='y' id='371' class='skill'>Network Monitoring</span> Using Nagios tool.
+    *  Daily backup and restore operations. ; 
+    *  Completed a full migration of <span inprof='y' id='372' class='sofwr'>UNIX Server</span> (<span inprof='y' id='373' class='sofwr'>AIX</span> and <span inprof='y' id='374' class='sofwr'>Linux</span>), including all network services. ; 
+    *  Review Design Documentation confirming to Software Requirements ; 
+    *  Coordinated with other members working from <span inprof='y' id='375' class='skill'>offshore</span> ; 
+    *  <span inprof='y' id='376_1' class='role'>Systems administrator</span> providing support for production and development systems. Environment consisted of multiple <span inprof='y' id='377' class='sofwr'>IBM RS/6000</span>'s (SP, R-series) and <span inprof='y' id='378' class='sofwr'>X-Window</span> terminals ; 
+    *  Used per v5 for systems tasks as well as <span inprof='y' id='379' class='sofwr'>C</span> and <span inprof='y' id='380' class='sofwr'>Korn shell scripting</span>. ; 
+    *  Other standard <span inprof='y' id='381' class='skill'>system administration</span> tasks performed, such as <span inprof='y' id='382' class='skill'>system monitoring</span>, performance usage, <span inprof='y' id='383' class='skill'>network support</span>, and <span inprof='y' id='384' class='skill'>user support</span>.
+
+Environment: <span inprof='n' id='385' class='company'>Red Hat Enterprise</span> <span inprof='y' id='386' class='sofwr'>Linux 3.0,4.0,5.0</span>, <span inprof='y' id='387' class='sofwr'>IBM AIX</span> 4.3.3, 5.1, 5.2, with <span inprof='y' id='388' class='sofwr'>HACMP 4.3.1 and 4.5</span>, <span inprof='y' id='389' class='sofwr'>Veritas Netbackup 4.5</span>, <span inprof='y' id='390' class='sofwr'>Web Logic 8.1</span>, <span inprof='y' id='391' class='sofwr'>Oracle</span> <span inprof='y' id='392' class='sofwr'>9i</span>/<span inprof='y' id='393' class='sofwr'>10g</span>, <span inprof='y' id='394' class='sofwr'>WebSphere Application Server 3.5/4.0.x</span>, <span inprof='y' id='395' class='sofwr'>MQ V5.3, V6.0</span>,<span inprof='n' id='396' class='nominal'>Tivoli Storage</span> <span inprof='n' id='397' class='occupation'>Manager</span> 5.x,Cron,Batch, Nagios 2.x , C, Korn.
+
+
+<span inprof='y' id='398_1' class='company'>Client: Mercentile</span> <span inprof='y' id='398_2' class='location'>Kathmandu, Nepal</span>
+<span inprof='n' id='398_3_1' class='some-position'>Role</span>: <span inprof='y' id='398_3_2' class='role'>UNIX Administrator</span> /<span inprof='y' id='398_3_3' class='role'>Engineer</span>                                                  <span inprof='y' id='398_4_1' class='date'>Duration: Apr 2007</span> - <span inprof='y' id='398_4_2' class='date'>Sept 2008</span>
+
+Responsibilities:
+
+*  <span inprof='y' id='399' class='sofwr'>Installation, configuration &#38; administration of Red Hat Linux 8/ 9</span>, <span inprof='n' id='400' class='company'>Red Hat Enterprise</span> Linux 3.x/4.x, CentOS, <span inprof='y' id='401' class='sofwr'>Sun Solaris 8,9</span> and <span inprof='y' id='402' class='sofwr'>AIX 5.1/5.2</span> servers. ; 
+*  <span inprof='y' id='403' class='sofwr'>Installed SUN OS versions 2.8, 2.9 on Ultra 5</span>, 280R, 6800, 12K, E450 production servers. ; 
+*  Installation, upgrades, and configuration of SLES 9/10 OS on <span inprof='y' id='404' class='sofwr'>IBM System X</span> servers and Dell PowerEdge servers using AutoYast and CD media. ; 
+*  Installed and Configured Z-VM on IBM System z9 Enterprise Class server 2094-S08 for Virtulization. ; 
+*  Installed and administered Z-OS on System z9 servers. ; 
+*  <span inprof='y' id='405' class='sofwr'>Installed and configured Veritas Volume Manager 4.0</span>, <span inprof='y' id='406' class='sofwr'>Veritas File System 3.5</span>, <span inprof='y' id='407' class='sofwr'>Veritas Cluster Server 3.5</span> and <span inprof='y' id='408' class='sofwr'>Veritas Netbackup Enterprise 5.0</span> on E450, E12K servers. ; 
+*  Setup, Configured and Maintained nearly automated installation methods for both SLES and <span inprof='y' id='409' class='sofwr'>Red Hat</span> (AutoYast and <span inprof='n' id='410' class='company'>Kickstart</span>) to standardize the <span inprof='y' id='411' class='sofwr'>Linux</span> install image/configuration ; 
+*  Created RAID Groups and Storage Groups by using <span inprof='y' id='412_1' class='role'>Navisphere Manager</span>. ; 
+*  Created LUN's using <span inprof='y' id='413_1' class='role'>Navisphere Manager</span>. ; 
+*  Kernel tuning on <span inprof='y' id='414' class='sofwr'>AIX</span> systems for <span inprof='n' id='415' class='sofwr'>Oracle</span> <span inprof='y' id='416' class='sofwr'>9i</span> and <span inprof='y' id='417' class='sofwr'>10g</span> installations. ; 
+*  Performed OS and kernel upgrades on <span inprof='y' id='418' class='sofwr'>AIX</span> and <span inprof='y' id='419' class='sofwr'>Linux</span> servers. ; 
+*  Building Servers using NIM from mksysb or SPOT in <span inprof='y' id='420' class='sofwr'>AIX</span>. ; 
+*  Implemented Virtualization using <span inprof='y' id='421' class='sofwr'>VMware</span> in <span inprof='y' id='422' class='sofwr'>Linux on HP</span>-DL585. ; 
+*  Performed Logical Volume Manager (LVM), SSA Disk and <span inprof='y' id='423' class='skill'>RAID Management</span>. ; 
+*  Performed daily backups, restoration of data as per requests from developers using <span inprof='y' id='424' class='sofwr'>Veritas Netbackup</span>. ; 
+*  Worked on <span inprof='y' id='425' class='skill'>EMC</span> disk storage to allocate disk space. ; 
+*  Monitored servers, switches, ports etc with Ganglia monitoring tool. ; 
+*  <span inprof='y' id='426' class='sofwr'>Installed/Configured Websphere</span> and other Application Servers. ; 
+*  Implemented Single Sign On using Open LDAP in enterprise environment ; 
+*  Managed <span inprof='y' id='427' class='sofwr'>Linux</span> and <span inprof='y' id='428' class='sofwr'>AIX</span> user accounts, groups, directories and file permissions. ; 
+*  Configuration and administration of <span inprof='y' id='429' class='sofwr'>LDAP</span>, <span inprof='y' id='430' class='sofwr'>NFS</span>, NIS, NIS+, <span inprof='y' id='431' class='sofwr'>DNS</span> and sendmail in <span inprof='y' id='432' class='sofwr'>Red Hat Linux</span>, <span inprof='y' id='433' class='sofwr'>IBM AIX</span>, <span inprof='y' id='434' class='sofwr'>HPUX</span> and <span inprof='y' id='435' class='sofwr'>Solaris</span>. ; 
+*  Modification of <span inprof='y' id='436' class='sofwr'>Shell Scripts</span> as per the Customer requirements. ; 
+*  Installed software using Installp applying PTF s, Micro codes, updating PMRs, downloading Filesets, ODM, LVM and <span inprof='y' id='437' class='skill'>Disk Management</span>. ; 
+*  <span inprof='y' id='438' class='sofwr'>Configuration and administration of HACMP 4.3.1/4.4</span> using 2/3 node cluster using Cascading, Rotating, <span inprof='n' id='439' class='company'>Concurrent resource group</span>, PSSP 3.2 Migration. ; 
+*  Ensured the Systems and Data online, offline, archived Backups on Daily and weekly basis using Maestro and Crontab. ; 
+*  <span inprof='y' id='440' class='skill'>Capacity planning of disk space and hardware resources</span> required for production and development servers.
+
+Environment: <span inprof='y' id='441' class='sofwr'>Red Hat  3.x, 4.x</span>, <span inprof='y' id='442' class='sofwr'>IBM AIX 4.3.3, 5.1, 5.2</span>, <span inprof='y' id='443' class='sofwr'>SLES 9, 10</span>, <span inprof='y' id='444' class='sofwr'>Solaris 8,9,10</span>, Z-OS, Z-VM, Sun Fire 280R/12K/6800, <span inprof='y' id='445' class='sofwr'>Sun Ultra 5</span>, <span inprof='y' id='446' class='sofwr'>Sun Enterprise</span> 450, 250, <span inprof='y' id='447' class='sofwr'>IBM RS/6000</span>, <span inprof='y' id='448' class='sofwr'>IBM</span> System z9 <span inprof='y' id='449' class='sofwr'>Enterprise server</span> 2094-S08, <span inprof='y' id='450' class='sofwr'>Websphere</span>, <span inprof='y' id='451' class='sofwr'>Enterprise Single Sign-on</span>, <span inprof='y' id='452' class='sofwr'>Veritas Volume Manager</span>, <span inprof='y' id='453' class='sofwr'>SAN</span>, <span inprof='y' id='454' class='sofwr'>NAS</span>, VCS, <span inprof='y' id='455' class='sofwr'>Veritas Net Backup 4.0</span>
+
+</TextResume>
+
+</NonXMLResume>
+
+
+
+<UserArea>
+<DaxResumeUserArea>
+<AdditionalPersonalData>
+<ExperienceSummary>
+<TotalMonthsOfWorkExperience>81</TotalMonthsOfWorkExperience>
+<TotalYearsOfWorkExperience>7</TotalYearsOfWorkExperience>
+<ExecutiveBrief>Janak Dahal has been working in the IT  occupational sector for more than 7 years. During his last employment he was working as a Sr. Unix/Linux Engineer at Cox Communications. Janak has extensive knowledge of Linux, AIX UNIX, Linux Red Hat, Sun Solaris, VMware, Apache WEB Server, Veritas Volume Manager, Veritas NetBackup, UNIX, WebLogic Enterprise Application Server, Oracle, IBM Hardware, SUN Hardware, SAN, Jakarta TOMCAT Servlet Engine, HACMP, Oracle 9i, Oracle 10G, Network File System, MySQL, IBM RS6000 Hardware, Dell Server Hardware, Veritas Cluster, SUN Hardware > Sun Enterprise Servers, Jboss, IBM WebSphere, IBM Hardware > IBM BladeCenter, HP-UX, Domain Name Server Protocol, DB2, shell scripting, TCP/IP, SunOS, SUN Hardware > Sun SPARC series, IBM WebSphere Application Server, IBM Hardware > IBM System x, HP Hardware, workstation pro, Veritas File System, Ultra, Sybase, SLES 9, 10, RAID, Personal Home Page, Network Attached Storage, NIS, LDAP, CLARiiON, C Programming Language, Apple Mac, XEN, X Windows, UML/OMT, Samba, SWAP, SMTP, Proliant, POP, MQ V5.3, V6.0, Linux Fedora, LAMP, Korn Shell, Java Servlets, Java Server Pages, IBM Tivoli Management Framework > Tivoli Service Desk, IBM Hardware > IBM pSeries, IBM AS400 Hardware, HP Server Hardware, EMC Symmetric. So far Janak has not gained any managerial experience.</ExecutiveBrief>
+</ExperienceSummary>
+</AdditionalPersonalData>
+<ParserInfo>
+<ParserConfiguration>{max_len=50000} {tel_flag=} {send_zip=} {fast_conv=} {DEF_LOCAL=} {sdate=0} {no_email_body=0} {do_clever_zoning=1} {keep_span=1} {complex=1} {accept_langs=} {not_accept_langs=} {prefer_lang_cv=EN} {pers_only=0} {turbo=0} {split_language=0} {picture=0} {picture_inline=0} {name_space=0} {charset=} {hrxml_upgrade_edu_hist=0}{hrxml_add_languages_section=0}{spool=} {docID=} {user=DEFAULT} </ParserConfiguration>
+<ParserRelease>0.12.3.32629</ParserRelease>
+<ParserReleaseDate>2014-06-18</ParserReleaseDate>
+<ParserSchema>2.0.29</ParserSchema>
+<ParserSchemaLocation>http://cvx.daxtra.com/cvts/xsd/candidate/2.0.29/Resume.xsd</ParserSchemaLocation>
+<ConverterRelease>0.5.2.32629</ConverterRelease>
+<ConverterReleaseDate>2014-06-18</ConverterReleaseDate>
+</ParserInfo>
+<FileStruct filename='/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/Janak.Resume.doc'>
+
+<attachment fname='Janak.Resume.doc' ftype='doc' conv='yes' doc_type='cv' lang='EN'>/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/Janak.Resume.doc</attachment>
+
+
+</FileStruct>
+</DaxResumeUserArea>
+</UserArea>
+</Resume>

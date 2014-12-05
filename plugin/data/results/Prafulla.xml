@@ -1,0 +1,2281 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Resume lang='en' src='DAXTRA-CVX schema:2.0.29 release:0.12.3.32629 rdate:2014-06-18'>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+</PersonName>
+<ContactMethod>
+<Telephone id='4' type='home'><AreaCityCode>323</AreaCityCode>
+<SubscriberNumber>963.0149</SubscriberNumber>
+<FormattedNumber>323 963.0149</FormattedNumber></Telephone>
+
+<InternetEmailAddress id='3' type='main'>alok@cedentinc.com</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>Senior IT Professional with over 14 years of experience in software industry. Extensive background, hands-on experience, and proficiency in implementation of Project and Testing Methodologies from initiation to deployment.
+    *  Self-motivated, highly productive individual with strong interpersonal, communication and problem solving skills. ; 
+    *  Demonstrated ability to manage, lead, and work within a team or independently. ; 
+    *  Good understanding of Project, Software Development and Software Quality Life Cycles. ; 
+    *  Expertise in Software Development Methodologies such as Waterfall, Agile, Extreme Programming (XP), Rational Unified Process (RUP) and SEI CMM levels. ; 
+    *  Experience in business requirement analysis, requirements gathering, creation and execution of Smoke, Unit, Integration, Regression, Functional, System and User Acceptance testing. ; 
+    *  Demonstrated ability in multitasking, providing good leadership and mentoring. ; 
+    *  Expertise in team management, client management, data and resource management; release, configuration and change management. ; 
+    *  Expertise in Financial, Mortgage, HealthCare and Risk Management industries. ;</ExecutiveSummary>
+
+
+<EmploymentHistory>
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='87_1'>BLUE CROSS BLUE SHIELD</EmployerOrgName>
+
+<PositionHistory positionType='PERMANENT'>
+<Title id='88_1'>Sr. IT QA Consultant</Title>
+<OrgName id='87_1'>BLUE CROSS BLUE SHIELD</OrgName>
+
+
+
+<Description>(HP Quality Center 10, WebSphere Portal Server v6.1.5, WebSphere Application Server v6.1, WebSphere Data Power, RSA Federated Identity Manager (FIM), Web Services Apache axis webservice version 1.4, UNIX - AIX 6, DB II v10, AS/400, IE 8.0, FireFox, Google Chrome)
+
+Responsible team member working on various complex assignments. 
+*  Worked on NGEN implementation of Blue Access for Members (BAM) application. ; 
+*  Effectively and successfully worked on different phases of a major project implementation. ; 
+*  Involved in analysis of Business Requirements, System Requirements, Customer Requirements, X-Walks and Mapping documents. ; 
+*  Involved in writing test scenarios, executing test cases/test scripts and documenting and tracking defects. ; 
+*  Compared products in different environments for each business and project related code releases. ; 
+*  Involved in System Integration, Regression, Parallel, Production and UAT testing of Blue Access for Members (BAM) redesign, Data Center II (DC II) portal, Medicare Part D, and Medicare Advantage web based applications. ; 
+*  Verified Claims Spending Summary, Benefit Highlights, Spending Summary, My Health Summary, My Care Profile, Spending Accounts, User Profile, Health Care School and Splash page. ; 
+*  Identified data in BlueStar and Mainframe (CICS) and registered many members for testing purposes. ; 
+*  Verified and validated the members' eligibility to receive benefits based on their eligibility code. ; 
+*  Tested the Employee Retirement Service (ERS) - benefit agreement changes that has been used to handle split membership in coverage within BAM Web application. ;</Description>
+<StartDate id='87_2_1'><YearMonth>2011-10</YearMonth></StartDate>
+<EndDate id='87_2_2'><YearMonth>2013-06</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='87' last_id='106' border_id='107'></TLSPAN>
+<MonthsOfWork>21</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+
+<PositionHistory positionType='PERMANENT'>
+<Title id='107_1_1'>Project Manager</Title>
+<Title id='107_1_2'>Test Manager</Title>
+
+
+
+
+<Description>Clients worked for - Cross Net Inc, LSU Agricultural Center, Land Stewardship Project
+
+(HP Quality Center, SQL, MS Office, Windows 7, QTP, Oracle 11g, IE, MS Project)
+
+Actively involved in business, project administration and Software Testing / QA activities of the company.
+*  Effectively managed all the projects from initiation to the closure. ; 
+*  Responsible for project selection, defining project scope, develop project charter, review documents with key stakeholders, get approval, identify and document risks, develop communication, and contingency plan. ; 
+*  Responsible for creating, reviewing, and updating all project related documents as required. ; 
+*  Managed resource allocation, roles and responsibilities, changes to the project scope, and product delivery as scheduled. ; 
+*  Created quality management plan and ensure deliverables conform to the quality standards. ; 
+*  Actively communicated the progress to key stakeholders of the project and received feedback. ; 
+*  Executed all the tasks defined in the project plan, implemented quality measurement plan, obtained acceptance, created and distributed final project report. ; 
+*  Led and performed all the SQA activities for all the projects. ; 
+*  Responsible for creating, reviewing, and updating all SQA related documents as required by ensuring deliverables conform to the quality standards. ; 
+*  Held fulltime responsibility in test planning, test execution, defect management and test coordination from initiation to the closure. ; 
+*  Actively communicated the progress to key team members of the project and received feedback. ; 
+*  Developed and delivered numerous presentations to 20+ audiences. ; 
+*  Managed team of 15 or more  people. ; 
+*  Ensured the production and delivery of high quality product. ;</Description>
+<StartDate id='107_2_1'><YearMonth>2008-08</YearMonth></StartDate>
+<EndDate id='107_2_2'><YearMonth>2011-10</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='107' last_id='127' border_id='128'></TLSPAN>
+<MonthsOfWork>39</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='128_1'>CS STARS</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='128_2'>
+<Municipality>Amarillo</Municipality>
+<Region>TX</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='128_4_1'>Sr. Quality Assurance Analyst</Title>
+<OrgName id='128_1'>CS STARS</OrgName>
+
+
+
+<Description>(Test Director 8.0, Quality Center 9.0, JAVA, DB2, Windows 2000/XP, IE browser)
+Designed, developed and executed test plans for three projects. Insured the quality of software development, timely delivery, accurate documentation, and streamlined testing processes.
+*  Effectively and thoroughly performed functional and regression tests for three different projects resulting in maintaining a &#x2264; 1% hot fix rate per feature implemented in production. ; 
+*  Provided positive impact to internal clients and maintained 100% support rate for projects being implemented per cycle by collaborating with members in other systems areas to clarify client requirements, specifications, technical design, and system integration, and strictly adhering to the software processes. ; 
+*  Delivered high quality products by isolating and correcting defects prior to reaching the production environment, and by reviewing use cases, technical specifications and requirements' documents for testability and consistency. ; 
+*  Met or exceeded goals on multiple projects, completing them in before project deadlines and under budget by an average of 5%. ; 
+*  Cut testing time by 11% and increased customer satisfaction ratings by 16% by implementing testing and business best practices. ;</Description>
+<StartDate id='128_3_1'><YearMonth>2006-01</YearMonth></StartDate>
+<EndDate id='128_3_2'><YearMonth>2008-05</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='128' last_id='145' border_id='146'></TLSPAN>
+<MonthsOfWork>29</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='146_1'>WELLS FARGO HOME MORTGAGES</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='146_2'>
+<Municipality>Minneapolis</Municipality>
+<Region>MN</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='146_4_1'>Test Coordinator</Title>
+<Title id='146_4_2'>Test Lead</Title>
+<OrgName id='146_1'>WELLS FARGO HOME MORTGAGES</OrgName>
+
+
+
+<Description>(Oracle 9i,TOAD VI 6.3, Sybase, Rapid SQL 7.2, Ascent Capture, 6.1, Tibco Integration Manager, Tibco SDK Adapters, XML CAN (Create, Archive and Notify) process, WS_FTP Pro, 6.51, AS/400)
+
+Managed a team of 10 testers and coordinated overall SQA/testing activities of the major company product using best practices resulted in the delivery of outstanding client solutions. 
+*  Provided technical leadership in identifying, evaluating and resolving complex test problems. ; 
+*  Assisted with data identification, data creation, review of system and acceptance test scripts, defect resolution and User Acceptance Testing. ; 
+*  Helped group/team to improve performance by eliminating unnecessary complexity and bureaucracy, resulting in optimized business processes and performance. ; 
+*  Performed ambiguity reviews of business requirements and functional specification documents. ; 
+*  Developed and maintained test strategy, test plan and documentation of all phases of QA process. ; 
+*  Worked with business team and clients to establish and maintain a consistent test methodology and to resolve questions during the testing process. ; 
+*  Shared professional insights, expertise and knowledge, developing critical thinking capability across business areas. ; 
+*  Managed client relationships and engagements, resulting in future sales due to trust-based relationships. ; 
+*  Inspired and motivated high performance in others by respecting the uniqueness of all colleagues, and valuing others' ideas and initiatives. ; 
+*  Earned commendation for tenacity by QA director, management and customer relations' team. ;</Description>
+<StartDate id='146_3_1'><YearMonth>2004-06</YearMonth></StartDate>
+<EndDate id='146_3_2'><YearMonth>2005-06</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='146' last_id='158' border_id='159'></TLSPAN>
+<MonthsOfWork>12</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='159_1'>BLUE CROSS BLUE SHIELD</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='159_2'>
+<Municipality>Eagan</Municipality>
+<Region>MN</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='159_4_1'>Test Coordinator</Title>
+<Title id='159_4_2'>Test Lead</Title>
+<OrgName id='159_1'>BLUE CROSS BLUE SHIELD</OrgName>
+
+
+
+<Description>(Oracle 9i, Lotus Notes 6.0, AS/400, Rational ClearQuest3.1, Windows 2000; SUNOS 5.8 - Solaris 8, Rational Clear Quest 3.1, PuTTY R0.52, VITRIA Businessware Consol 3.1.7, Tivoli Monitor 3.6; TOAD VI 6.3.11, TextPad 4.5, Cognos Impromptu 7.0, UltraEdit-32 4.3, Hummingbird Neighborhood for Win32 7.1, SSH Secure Shell 3.2; Staffware 2000 8.1 , SQL*Plus 8.0, Oracle 8.1.7, VISIO Professional 5.0, Access 2000, Harvest 5.02 Client, Windows NT 4.0, Novell Client 1.3, J2SDK 1.3)
+
+Supervised a team of 15 testers and interfaced with all other members of the team. 
+*  Directed testing activities of more than 20 Blue cross affiliate and interfacing systems. ; 
+*  Led incident review board, user acceptance and final project implementation process.
+
+*  Earned recognition for high productivity and quality of testing. ; 
+*  Led all testing activities for HIPAA team `Production Management' Reports. ; 
+*  Effectively trained testers, training team leads and managers. ; 
+*  Created, reviewed and updated test strategy, test plan, requirement validation matrices(RVMs), test cases, test scenarios, use cases and other testing documents. ; 
+*  Actively involved in determining and establishing applications' test environment, data setup requirements, identifying new test cases for critical applications, identifying gaps between use cases/requirements and test cases. ; 
+*  Facilitated QC walkthrough of all deliverables, provided work direction, managed and tracked workload and progress, resulting in efficient workflow. ; 
+*  Performed smoke, unit, functional, system, regression and also user acceptance tests of various applications. ; 
+*  Installed and configured various applications to support testing activities. ;</Description>
+<StartDate id='159_3_1'><YearMonth>2003-06</YearMonth></StartDate>
+<EndDate id='159_3_2'><YearMonth>2004-05</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='159' last_id='185' border_id='186'></TLSPAN>
+<MonthsOfWork>12</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='186_1'>ANALYSTS INTERNATIONAL</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='186_2'>
+<Municipality>Edina</Municipality>
+<Region>MN</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='CONTRACT'>
+<Title id='186_4_1'>Lead System Test Analyst</Title>
+<Title id='187_1'>Consultant</Title>
+<OrgName id='188'>United Health Care and Cargill, Inc.</OrgName>
+
+
+
+<Description>Lead System Test Analyst (Consultant, projects completed for United Health Care and Cargill, Inc.)
+ (Siebel Tools 6.3, eScripts of ST 6.3, Siebel Applications 6.3, IBM DB2 7, AS/400, WinSQL 3.8, Enterprise Integration Manager, Actuate eReporting Suite 4.1, FullShot 7.0, Windows 2000, Solaris 8;Windows NT, Power Builder6.5, Crystal Reports 8.5, Oracle 8, MS Office 2000)
+Performed various testing activities for two different clients. 
+*  Responsible team member for testing United Health Care- Key Accounts Sale Management tool (ATLAS). ; 
+*  An independent and only tester responsible for testing client server application (Cargill -River Services-Barge Tracking System) both front and back end. ; 
+*  Responsible for developing Test Scripts and Test Steps by analyzing design and analysis document. ; 
+*  Responsible for submitting reports on incidents that result from testing by analyzing and assigning priority. ; 
+*  Responsible for backend testing of Oracle database using SQL, SQL*Plus, PL/SQL commands and for executing and analyzing the reports. ;</Description>
+<StartDate id='186_3_1'><YearMonth>2002-11</YearMonth></StartDate>
+<EndDate id='186_3_2'><YearMonth>2003-04</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='186' last_id='214' border_id='215'></TLSPAN>
+<MonthsOfWork>6</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='215_1'>INTEGRATION, INC.</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='215_2'>
+<Municipality>Edina</Municipality>
+<Region>MN</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='215_4_1'>Senior E-commerce Application Test Lead</Title>
+<OrgName id='215_1'>INTEGRATION, INC.</OrgName>
+
+
+
+<Description>ADVANCED TECHNOLOGIES INTEGRATION, INC., Edina, MN            (Windows 98, Java, HTML, Dinamo, Cold Fusion, Oracle, SQL Server)
+Plan, schedule, prioritize, and monitor testing needs of all Projects.
+*  Coordinated with Project Managers, QA Managers, Developers and DBAs to manage expectations, scope and risks. ; 
+*  Responsible for defect management, documentation and change control. ; 
+*  Tested and validated data stored in the backend Oracle database using SQL, SQL*Plus, PL/SQL commands. ; 
+*  Tested an e-commerce application both front end and backend using different browsers.
+
+Java Developer (HTML, JBuilder 3.5, Java 1.2.2, JSWDK 1.0.1, Together 3.2, Poet 6.0)
+*  Researched and used shareware servlets, configured web server, and coded servlet API. ; 
+*  Designed and developed an object-oriented database and schema. ;</Description>
+<StartDate id='215_3_1'><YearMonth>1999-11</YearMonth></StartDate>
+<EndDate id='215_3_2'><YearMonth>2001-06</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='215' last_id='241' border_id='243'></TLSPAN>
+<MonthsOfWork>20</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='242'>WELLS FARGO</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='243_2'>
+<Municipality>Minneapolis</Municipality>
+<Region>MN</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='243_4_1'>Client-Server Test Lead</Title>
+<OrgName id='243_1'>MORTGAGE, INC.</OrgName>
+
+
+
+<Description>(Windows 95, Power Builder, Sybase, MS Access 97, Test Director)
+Managed complete testing needs alone and completed the assigned tasks on time.
+
+*  Worked as a responsible team lead for test planning and test execution of three major business functions.
+
+*  Responsible for testing a new client-server application;  by analyzing Test Plan and detailed specifications, for submitting reports on incidents that result from testing by analyzing and assigning priority. ; 
+*  Created and executed Test Scripts and Test Steps based on high level tests defined in the test plan. ; 
+*  Participated in all meetings to discuss testing problems and issues. ;</Description>
+<StartDate id='243_3_1'><YearMonth>1998-07</YearMonth></StartDate>
+<EndDate id='243_3_2'><YearMonth>1999-06</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='242' last_id='251' border_id='252'></TLSPAN>
+<MonthsOfWork>12</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='252_1'>COMPROMPTER, INC.</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='252_2'>
+<Municipality>La Crosse</Municipality>
+<Region>WI</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='CONTRACT'>
+<Title id='252_4_1'>Programmer</Title>
+<OrgName id='252_1'>COMPROMPTER, INC.</OrgName>
+
+
+
+<Description>(Windows95/NT, PVCS, Visual Basic 5.0, SQL Server6.5)
+Responsible for maintaining and developing the utility program that enables the user to configure desktops to their specifications. 
+*  Studied and tested the existing utility programs' design and development. ; 
+*  Increased functionality of the program by 30% by adding new features to make the utility programs more powerful and flexible. ; 
+*  Completely modified an existing utility program to make it precise and reliable. ; 
+*  Responsible for documenting the result of the data validation by retrieving the data using PL/SQL. ;</Description>
+<StartDate id='252_3_1'><YearMonth>1997-11</YearMonth></StartDate>
+<EndDate id='252_3_2'><YearMonth>1998-04</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='252' last_id='261' border_id='262'></TLSPAN>
+<MonthsOfWork>6</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='262_1'>FIRSTLOGIC, INC.</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='262_2'>
+<Municipality>La Crosse</Municipality>
+<Region>WI</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='262_4_1'>Quality Assurance Specialist</Title>
+<OrgName id='262_1'>FIRSTLOGIC, INC.</OrgName>
+
+
+
+<Description>(Windows 95/NT, SUN, Solaris, RS6000, MS-DOS, FoxPro2.5, SQL Server 6.5, Oracle 7, MS Access 2.0)
+Responsible for testing in-house software programs on multiple platforms. 
+*  Discovered errors in functionality, accuracy and usability of products, resulting in near perfect product releases. ; 
+*  Restructured and expanded scope of regression suite by developing new test cases that promote product stability and documentation of testing procedures. ; 
+*  Served as liaison between Technical Support and Product Development for researching and analyzing software problems. ; 
+*  Reformatted test suites from existing form allowing batch processing, resulting in significant time savings and more efficient use of disk space. ; 
+*  Responsible for developing batch files and shell scripts on DOS and UNIX platforms. ; 
+*  Developed complete test suite to monitor software performance relating to speed of product that was ultimately used for testing in more than 14 platforms. ; 
+*  Received Outstanding Team Achievement Award for meeting all specifications during release of major product into market place. ; 
+*  Supported Oracle and SQL Servers as the major databases with one of the company product.
+
+Associate Software Engineer (PVCS, UNIX and C)
+*  Responsible for design, development and implementation of in house product. ; 
+*  Responsible for technical trouble-shooting, analysis and improvement of the product. ;</Description>
+<StartDate id='262_3_1'><YearMonth>1996-10</YearMonth></StartDate>
+<EndDate id='262_3_2'><YearMonth>1997-09</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='262' last_id='288' border_id='0'></TLSPAN>
+<MonthsOfWork>12</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType='college'>
+<SchoolName id='74_1'>Software Engineering Institute</SchoolName>
+
+
+
+
+<Major id='74_2_1'>Methodology</Major>
+
+
+
+<Comments>SW Model:                       Capability Maturity Model (CMM) for Software by   :                    Rational Unified Process (RUP) by IBM Rational</Comments>
+</SchoolOrInstitution>
+
+<SchoolOrInstitution schoolType='university'>
+<SchoolName id='78_2'>Mysore University</SchoolName>
+<LocationSummary id='78_3'>
+<CountryCode>IN</CountryCode>
+</LocationSummary>
+
+<OrganizationUnit organizationType='unit'>S. J. College of Engineering</OrganizationUnit>
+<Degree degreeType='some college'>
+<DegreeName id='78_1'>B.E.</DegreeName>
+
+</Degree>
+<Major id='78_4_1'>Computer</Major>
+
+
+
+
+</SchoolOrInstitution>
+
+<SchoolOrInstitution schoolType='college'>
+
+
+
+
+<Degree degreeType='some college'>
+<DegreeName id='81'>PMI Qualification</DegreeName>
+<DegreeDate id='82'><Year>2011</Year></DegreeDate>
+</Degree>
+
+
+
+
+<Comments>Membership</Comments>
+</SchoolOrInstitution>
+
+<SchoolOrInstitution schoolType='college'>
+
+
+
+
+<Degree degreeType='some college'>
+<DegreeName id='84'>PMI Qualification</DegreeName>
+<DegreeDate id='85'><Year>2010</Year></DegreeDate>
+</Degree>
+
+
+
+
+<Comments>
+Awards
+
+- Outstanding Academic Achievement Award, Spring 2008, West Texas A&#38;M University, Canyon, TX
+- Achieved 45th ranking (7th percentile) out of 643 teams in the world wide Business Simulation competition (Spring 2008 Capstone &#38; Foundation Challenge) conducted by Capsim Management Simulations, Inc.</Comments>
+</SchoolOrInstitution>
+
+<SchoolOrInstitution schoolType='university'>
+<SchoolName id='77_1'>West Texas A &#38; M University</SchoolName>
+<LocationSummary id='77_2'>
+<Municipality>Canyon</Municipality>
+<Region>TX</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+
+
+<Degree degreeType='some post-graduate'>
+<DegreeName id='76'>Master of Business Administration</DegreeName>
+<DegreeDate id='77_4'><Year>2008</Year></DegreeDate>
+</Degree>
+<Major id='77_3_1_2'>Strategic Management</Major>
+
+<Measure>
+<MeasureValue id='77_5_1'>4.0 GPA</MeasureValue>
+</Measure>
+
+
+<Comments>B.E., S. J. College of Engineering, Mysore University, INDIA, Computer Science and Engineering</Comments>
+</SchoolOrInstitution>
+
+</EducationHistory>
+
+
+
+
+
+
+
+
+
+
+
+<Competency oids='34 66 110 212 230 282 ' description='Skill > IT' auth='yes' name='SQL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>77</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>72</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='65 178 211 221 229 281 ' description='Skill > IT' auth='yes' name='Oracle'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>50</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Oracle 8.1.7 8.1.7</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Oracle database</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='49 174 181 195 254 264 ' description='Skill > IT' auth='yes' name='Microsoft Windows NT'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>NT/2000</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Win32 7.1 7.1</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows NT 4.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows NT</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>NT</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='43 50 95 279 285 ' description='Skill > IT' auth='yes' name='UNIX'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>33</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='36 67 214 232 261 ' description='Skill > IT' auth='yes' name='Oracle PL/SQL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2003'><NumericValue description='MONTH'>32</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>PL/SQL</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='29 63 131 217 237 ' description='Skill > IT' auth='yes' name='Java'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>49</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Java Programming Language</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Java 1.2.2 1.2.2</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>54</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='33 98 155 163 191 ' description='Skill > IT' auth='yes' name='IBM AS400 Hardware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>51</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>AS/400</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='51 167 194 266 ' description='Skill > IT' auth='yes' name='Sun Solaris'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>30</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Solaris</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Solaris 8 8</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='35 177 213 231 ' description='Skill > IT' auth='yes' name='SQLPlus'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>38</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL*Plus</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL*Plus 8.0 8.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='216 244 253 263 ' description='Skill > IT' auth='yes' name='Microsoft Windows 9x'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>50</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows 98</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows 95</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>28</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='39 152 222 257 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2005'><NumericValue description='MONTH'>38</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Server</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>6.1</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>25</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='38 180 247 272 ' description='Skill > IT' auth='yes' name='Microsoft Access'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Access</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Access 2000</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Access 97</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Access 2.0 2.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='57 164 168 ' description='Skill > IT' auth='yes' name='Rational ClearQuest'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Clear Quest</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Rational ClearQuest3.1 3.1</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Clear Quest 3.1 3.1</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='133 165 193 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2000 Professional'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>47</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows 2000</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>52</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='111 199 200 ' description='Skill > IT' auth='yes' name='Microsoft Office'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>45</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Office</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2000</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>71</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='99 115 135 ' description='Skill > IT' auth='yes' name='Microsoft Internet Explorer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>89</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IE 8.0 8.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IE</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='56 129 248 ' description='Skill > IT' auth='yes' name='Mercury Interactive TestDirector'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>41</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Test director</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Test Director 8.0 8.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>55</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='31 218 235 ' description='Skill > IT' auth='yes' name='HTML'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='55 89 109 ' description='Skill > IT' auth='no' name='HP Quality Center'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>60</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>HP Quality Center 10 10</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='125 250 ' description='Skill' auth='no' name='test planning'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>51</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='32 278 ' description='Skill > IT' auth='yes' name='shell scripting'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1997'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Shell Scripts</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>shell scripts on DOS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='52 90 ' description='Skill > IT' auth='yes' name='WebSphere MQ Portal'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IBM WebSphere Portal Server</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>WebSphere Portal Server v6.1.5 v6.1.5</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='42 269 ' description='Skill > IT' auth='yes' name='Visual FoxPro'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1997'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Fox Pro</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>FoxPro2.5 2.5</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='25 256 ' description='Skill > IT' auth='yes' name='Visual Basic'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1998'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VB</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Visual Basic 5.0 5.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>19</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='15 157 ' description='Skill' auth='yes' name='User Acceptance Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2005'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='16 156 ' description='Skill' auth='yes' name='Team Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2005'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Managed a team</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='148 170 ' description='Skill > IT' auth='yes' name='TOAD'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2005'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>TOAD VI 6.3 VI 6.3</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>TOAD VI 6.3.11 VI 6.3.11</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>25</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='149 246 ' description='Skill > IT' auth='yes' name='Sybase'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2005'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='9 136 ' description='Skill' auth='no' name='Software Development'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>29</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='59 197 ' description='Skill > IT' auth='yes' name='Seagate Crystal Reports'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2003'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Crystal Reports</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Crystal Reports 8.5 8.5</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>17</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='11 12 ' description='Skill > IT' auth='yes' name='RUP'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Rational Unified Process</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>(RUP)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='259 275 ' description='Skill' auth='yes' name='Product Development'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1998'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>design and development</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='196 245 ' description='Skill > IT' auth='yes' name='PowerBuilder'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2003'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Power Builder6.5 6.5</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='40 240 ' description='Skill > IT' auth='yes' name='Poet'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Poet 6.0 6.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='255 284 ' description='Skill > IT' auth='yes' name='PVCS'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1998'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='147 161 ' description='Skill > IT' auth='yes' name='Oracle 9i'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2005'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>25</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='37 114 ' description='Skill > IT' auth='yes' name='Oracle 11g'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='48 134 ' description='Skill > IT' auth='yes' name='Microsoft Windows XP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>29</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>XP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='46 112 ' description='Skill > IT' auth='yes' name='Microsoft Windows 7'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows 7</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>71</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='258 270 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server 6.5'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1998'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>6.5</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Server 6.5</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='268 278 ' description='Skill > IT' auth='yes' name='Microsoft DOS'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1997'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS-DOS</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>shell scripts on DOS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>19</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='54 113 ' description='Skill > IT' auth='yes' name='Mercury Interactive Quicktest'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>QTP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>70</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='53 91 ' description='Skill > IT' auth='yes' name='IBM WebSphere Application Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>WebSphere Application Server v6.1 v6.1</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='132 190 ' description='Skill > IT' auth='yes' name='DB2'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>35</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IBM DB2 7 7</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='19 69 ' description='Skill' auth='yes' name='Configuration Management'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>configuration</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='20 228 ' description='Skill' auth='yes' name='Change Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>change control</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='72 73 ' description='Skill > IT' auth='yes' name='Capability Maturity Model'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>(CMM)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='26 286 ' description='Skill > IT' auth='yes' name='C Programming Language'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1997'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>C</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='44 96 ' description='Skill > IT' auth='yes' name='AIX UNIX'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>AIX 6 6</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='127 ' description='Skill' auth='no' name='test coordination'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='141 ' description='Skill' auth='no' name='technical design'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>29</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='137 ' description='Skill' auth='no' name='streamlined testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>29</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='204 ' description='Skill' auth='no' name='responsible for testing client'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2003'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>17</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='18 ' description='Skill' auth='no' name='resource management'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='117 ' description='Skill' auth='no' name='project administration'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='8 ' description='Skill' auth='no' name='problem solving'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>problem solving skills</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='223 ' description='Skill' auth='no' name='monitor testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='120 ' description='Skill' auth='no' name='managed all the projects'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='226 ' description='Skill' auth='no' name='manage expectations'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='145 ' description='Skill' auth='no' name='implementing testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>29</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='7 ' description='Skill' auth='no' name='implementation of Project and Testing Methodologies'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='233 ' description='Skill' auth='yes' name='eCommerce'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='122 ' description='Skill' auth='no' name='develop project charter'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='123 ' description='Skill' auth='no' name='develop communication'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='126 ' description='Skill' auth='no' name='defect management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='17 ' description='Skill' auth='no' name='client management'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='13 ' description='Skill' auth='no' name='business requirement analysis'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='276 ' description='Skill' auth='no' name='batch processing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1997'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='208 ' description='Skill' auth='no' name='analyzing design and analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2003'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>17</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='24 ' description='Skill > IT' auth='yes' name='XML'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='94 ' description='Skill > IT' auth='yes' name='Web Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>webservice version 1.4 version 1.4</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='173 ' description='Skill > IT' auth='no' name='UltraEdit 32 4.3'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>UltraEdit-32 4.3 32 4.3</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='102 ' description='Skill' auth='no' name='UAT testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='239 ' description='Skill > IT' auth='yes' name='Together'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Together 3.2 3.2</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='171 ' description='Skill > IT' auth='no' name='TextPad 4.5'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>TextPad 4.5 4.5</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='166 ' description='Skill > IT' auth='yes' name='SunOS'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SUNOS 5.8 5.8</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>19</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='176 ' description='Skill > IT' auth='yes' name='Staffware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Staffware 2000 8.1 2000 8.1</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='118 ' description='Skill' auth='no' name='Software Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='189 ' description='Skill > IT' auth='yes' name='Siebel Tools'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2003'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Siebel Tools 6.3 6.3</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='175 ' description='Skill > IT' auth='yes' name='Secure Shell'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SSH</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='265 ' description='Skill > IT' auth='yes' name='SUN Hardware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1997'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SUN</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='273 ' description='Skill' auth='no' name='Responsible for testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1997'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='288 ' description='Skill' auth='no' name='Responsible for technical trouble'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1997'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='209 ' description='Skill' auth='no' name='Responsible for submitting reports'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2003'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>17</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='121 ' description='Skill' auth='no' name='Responsible for project selection'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='277 ' description='Skill' auth='no' name='Responsible for developing batch'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1997'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='207 ' description='Skill' auth='no' name='Responsible for developing Test Scripts'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2003'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>17</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='287 ' description='Skill' auth='no' name='Responsible for design'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1997'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='227 ' description='Skill' auth='no' name='Responsible for defect management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='210 ' description='Skill' auth='no' name='Responsible for backend testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2003'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>17</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='14 ' description='Skill' auth='yes' name='Requirements Gathering'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='138 ' description='Skill > IT' auth='yes' name='Regression Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>29</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>regression tests</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='61 ' description='Skill > IT' auth='yes' name='Rational Suite'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='58 ' description='Skill > IT' auth='yes' name='Rational Robot'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='150 ' description='Skill > IT' auth='no' name='Rapid SQL 7.2'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2005'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Rapid SQL 7.2 7.2</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='184 ' description='Skill' auth='no' name='Production Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='224 ' description='Skill > IT' auth='yes' name='Oracle Projects'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Projects</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='198 ' description='Skill > IT' auth='yes' name='Oracle 8'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2003'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>17</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='271 ' description='Skill > IT' auth='yes' name='Oracle 7'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1997'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='241 ' description='Skill > IT' auth='yes' name='Object Oriented Database'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='119 ' description='Skill > IT' auth='no' name='ORACLE QA'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>QA</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='182 ' description='Skill > IT' auth='yes' name='Novell Netware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Novell Client 1.3 1.3</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='101 ' description='Skill' auth='no' name='NGEN implementation'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='47 ' description='Skill > IT' auth='yes' name='Microsoft Windows Vista'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Vista</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='52 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2000 Server'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IBM WebSphere Portal Server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='179 ' description='Skill > IT' auth='yes' name='Microsoft Visio'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VISIO Professional 5.0 Professional 5.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='116 ' description='Skill > IT' auth='yes' name='Microsoft Project'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Project</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='130 ' description='Skill > IT' auth='yes' name='Mercury Quality Center'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>29</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Quality Center 9.0 9.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>53</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='45 ' description='Skill > IT' auth='yes' name='Mac OS X'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='162 ' description='Skill > IT' auth='yes' name='Lotus Notes/Domino'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Lotus Notes 6.0 6.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='151 ' description='Skill > IT' auth='yes' name='Kofax Capture'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2005'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Ascent Capture</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='30 ' description='Skill > IT' auth='yes' name='Java 2 Enterprise Edition'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>J2EE</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='238 ' description='Skill > IT' auth='no' name='JSWDK 1.0.1'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>JSWDK 1.0.1 1.0.1</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='154 ' description='Skill > IT' auth='yes' name='Ipswitch WS_FTP Pro'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2005'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>WS_FTP Pro, 6.51 Pro, 6.51</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='92 ' description='Skill > IT' auth='yes' name='IBM WebSphere'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>WebSphere</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='267 ' description='Skill > IT' auth='yes' name='IBM RS6000 Hardware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1997'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>RS6000</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='10 ' description='Skill > IT' auth='yes' name='Extreme Programming'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Extreme Programming (XP) XP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='71 ' description='Skill > IT' auth='yes' name='EDI'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='Implementation'><StringValue>Implementation</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>EDI Implementation</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='219 ' description='Skill > IT' auth='no' name='Dinamo'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>23</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='103 ' description='Skill > IT' auth='yes' name='Data Centre'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Data Center II II</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='41 ' description='Skill > IT' auth='yes' name='DBase'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>dBase III Plus Plus</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='97 ' description='Skill > IT' auth='no' name='DB II v10'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>DB II v10 v10</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='124 ' description='Skill' auth='no' name='Created quality management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='220 ' description='Skill > IT' auth='yes' name='ColdFusion'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='172 ' description='Skill > IT' auth='yes' name='Cognos Impromptu'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Cognos Impromptu 7.0 7.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='251 ' description='Skill > IT' auth='yes' name='Client/Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1999'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>client-server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='105 ' description='Skill > IT' auth='yes' name='CICS/ESA'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>CICS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='27 ' description='Skill > IT' auth='yes' name='C++'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='236 ' description='Skill > IT' auth='yes' name='Borland JBuilder'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>JBuilder 3.5 3.5</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='28 ' description='Skill > IT' auth='yes' name='BASIC'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='100_1 201_1 ' description='Held Position' auth='no' name='team member'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>27</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>97</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='160_1 187_1 ' description='Held Position' auth='no' name='consultant'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='146_4_2 159_4_2 ' description='Held Position' auth='no' name='Test Lead'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2005'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>25</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='146_4_1 159_4_1 ' description='Held Position' auth='no' name='Test Coordinator'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2005'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>25</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='185_1 ' description='Held Position' auth='no' name='managers'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='249_2 ' description='Held Position' auth='no' name='a responsible team lead'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1999'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='153_1 ' description='Held Position' auth='no' name='Tibco Integration Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2005'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='107_1_2 ' description='Held Position' auth='no' name='Test Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>73</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='128_4_1 ' description='Held Position' auth='no' name='Sr. Quality Assurance Analyst'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>29</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>54</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='88_1 ' description='Held Position' auth='no' name='Sr. IT QA Consultant'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>97</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='215_4_1 ' description='Held Position' auth='no' name='Senior E-commerce Application Test Lead'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>25</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='93_1 ' description='Held Position' auth='no' name='RSA Federated Identity Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='262_4_1 ' description='Held Position' auth='no' name='Quality Assurance Specialist'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1997'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='225_1 ' description='Held Position' auth='no' name='QA Managers'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>25</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='107_1_1 ' description='Held Position' auth='no' name='Project Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>73</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='252_4_1 ' description='Held Position' auth='no' name='Programmer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1998'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='186_4_1 ' description='Held Position' auth='no' name='Lead System Test Analyst'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2003'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='234_1 ' description='Held Position' auth='no' name='Java Developer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='192_1 ' description='Held Position' auth='no' name='Enterprise Integration Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2003'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='106_1 ' description='Held Position' auth='no' name='Employee Retirement Service'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='243_4_1 ' description='Held Position' auth='no' name='Client-Server Test Lead'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1999'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='283_1 ' description='Held Position' auth='no' name='Associate Software Engineer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1997'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='81 83 84 ' description='Degree/Qualification > Professional' auth='yes' name='PMI Qualification'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Project Management Institute</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>PMI</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>36</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='2 76 ' description='Degree/Qualification' auth='yes' name='Masters Degree > Master of Business Administration'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MBA</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>M.B.A.</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='280 ' description='Degree/Qualification > Professional' auth='no' name='Received Outstanding Team Achievement Award'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='68 ' description='Degree/Qualification > Professional' auth='no' name='Oracle DBA Certification'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='80 ' description='Degree/Qualification > Professional' auth='no' name='Certified Project Management Professional'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Certified Project Management Professional (PMP)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='78_1 ' description='Degree/Qualification' auth='yes' name='Bachelors Degree > Bachelor of Engineering'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>B.E.</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency description='Industry' auth='yes' name='industry~it'>
+<CompetencyEvidence name='skillCount' typeDescription='skillCount'><NumericValue>10</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+</Competency>
+
+
+
+
+
+<Achievements>
+<Achievement><Description>- Outstanding Academic Achievement Award, Spring 2008, West Texas A&#38;M University, Canyon, TX</Description></Achievement>
+<Achievement><Description>- Achieved 45th ranking (7th percentile) out of 643 teams in the world wide Business Simulation competition (Spring 2008 Capstone &#38; Foundation Challenge) conducted by Capsim Management Simulations, Inc.</Description></Achievement>
+
+</Achievements>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<RevisionDate id='1'>2013-08-19</RevisionDate>
+</StructuredXMLResume>
+<NonXMLResume>
+
+<TextResume>
+
+
+
+<span inprof='n' id='1' class='date'>{{DOCUMENT_DATESTAMP}} 2013-8-19 {{END_DOCUMENT_DATESTAMP}}</span>
+
+
+PRAFULLA (<span inprof='y' id='2' class='qualif'>MBA</span>, PMP)
+<span inprof='y' id='3' class='email'>Email: alok@cedentinc.com</span>
+
+<span inprof='y' id='4' class='telephone'>Contact # 323.963.0149</span>
+
+<span inprof='n' id='5' class='work-hist-mark'>Professional Summary</span>
+
+Senior IT Professional with <span inprof='n' id='6' class='duration'>over 14 years</span> of experience in software industry. Extensive background, hands-on experience, and proficiency in <span inprof='y' id='7' class='skill'>implementation of Project and Testing Methodologies</span> from initiation to deployment.
+    *  Self-motivated, highly productive individual with strong interpersonal, communication and <span inprof='y' id='8' class='skill'>problem solving skills</span>. ; 
+    *  Demonstrated ability to manage, lead, and work within a team or independently. ; 
+    *  Good understanding of Project, <span inprof='y' id='9' class='skill'>Software Development</span> and Software Quality Life Cycles. ; 
+    *  Expertise in Software Development Methodologies such as Waterfall, Agile, <span inprof='y' id='10' class='sofwr'>Extreme Programming (XP)</span>, <span inprof='y' id='11' class='sofwr'>Rational Unified Process</span> <span inprof='y' id='12' class='sofwr'>(RUP)</span> and SEI CMM levels. ; 
+    *  Experience in <span inprof='y' id='13' class='skill'>business requirement analysis</span>, <span inprof='y' id='14' class='skill'>requirements gathering</span>, creation and execution of Smoke, Unit, Integration, Regression, Functional, System and <span inprof='y' id='15' class='skill'>User Acceptance testing</span>. ; 
+    *  Demonstrated ability in multitasking, providing good leadership and mentoring. ; 
+    *  Expertise in <span inprof='y' id='16' class='skill'>team management</span>, <span inprof='y' id='17' class='skill'>client management</span>, data and <span inprof='y' id='18' class='skill'>resource management</span>; release, <span inprof='y' id='19' class='skill'>configuration</span> and <span inprof='y' id='20' class='skill'>change management</span>. ; 
+    *  Expertise in Financial, Mortgage, <span inprof='n' id='21' class='qualif'>HealthCare and Risk Management industries</span>.
+<span inprof='n' id='22' class='skills-qualif-mark'>Technical Skills</span>
+
+<span inprof='n' id='23' class='skills-qualif-mark'>Languages:</span>
+<span inprof='y' id='24' class='sofwr'>XML</span>, <span inprof='y' id='25' class='sofwr'>VB</span>, <span inprof='y' id='26' class='sofwr'>C</span>/<span inprof='y' id='27' class='sofwr'>C++</span>, <span inprof='y' id='28' class='sofwr'>BASIC</span>, <span inprof='y' id='29' class='sofwr'>JAVA</span>, <span inprof='y' id='30' class='sofwr'>J2EE</span>, <span inprof='y' id='31' class='sofwr'>HTML</span>, <span inprof='y' id='32' class='sofwr'>Shell Scripts</span>, <span inprof='y' id='33' class='sofwr'>AS/400</span>
+SQL Tools:       <span inprof='y' id='34' class='sofwr'>SQL</span>, <span inprof='y' id='35' class='sofwr'>SQL*Plus</span>, <span inprof='y' id='36' class='sofwr'>PL/SQL</span>, Toad, Rapid SQL
+Databases:              DB II, <span inprof='y' id='37' class='sofwr'>Oracle 11g</span>, <span inprof='y' id='38' class='sofwr'>MS Access</span>, <span inprof='y' id='39' class='sofwr'>SQL Server</span>, <span inprof='y' id='40' class='sofwr'>Poet</span>, <span inprof='y' id='41' class='sofwr'>dBase III Plus</span>, <span inprof='y' id='42' class='sofwr'>Fox Pro</span>
+Platforms:              <span inprof='y' id='43' class='sofwr'>UNIX</span> - <span inprof='y' id='44' class='sofwr'>AIX 6</span>, <span inprof='y' id='45' class='sofwr'>Mac OS X</span>, <span inprof='y' id='46' class='sofwr'>Windows 7</span>/<span inprof='y' id='47' class='sofwr'>Vista</span>/<span inprof='y' id='48' class='sofwr'>XP</span>/ <span inprof='y' id='49' class='sofwr'>NT/2000</span>, <span inprof='y' id='50' class='sofwr'>UNIX</span>, <span inprof='y' id='51' class='sofwr'>Solaris</span>
+Middleware:             <span inprof='y' id='52' class='sofwr'>IBM WebSphere Portal Server</span>, <span inprof='y' id='53' class='sofwr'>IBM WebSphere Application Server</span>
+Tools:               <span inprof='y' id='54' class='sofwr'>QTP</span>, <span inprof='y' id='55' class='sofwr'>HP Quality Center</span>, <span inprof='y' id='56' class='sofwr'>Test director</span>, <span inprof='y' id='57' class='sofwr'>Clear Quest</span>, <span inprof='y' id='58' class='sofwr'>Rational Robot</span>
+Reports:           <span inprof='y' id='59' class='sofwr'>Crystal Reports</span>
+<span inprof='n' id='60' class='courses-mark'>Training:</span>                       <span inprof='y' id='61' class='sofwr'>Rational Suite</span> Test Studio from <span inprof='n' id='62' class='educational'>Rational University</span>
+                                <span inprof='y' id='63' class='sofwr'>Java Programming Language</span> from <span inprof='n' id='64' class='company'>Sun Educational Service</span>
+                                Introduction to <span inprof='y' id='65' class='sofwr'>Oracle</span>: <span inprof='y' id='66' class='sofwr'>SQL</span> and <span inprof='y' id='67' class='sofwr'>PL/SQL</span> (passed this exam for <span inprof='y' id='68' class='qualif'>Oracle DBA Certification</span>)
+                                Testing Computer Software
+                                <span inprof='y' id='69' class='skill'>Configuration Management</span>, Risks, and Incidents in Software Testing
+                                Introduction to Health Care EDI Standards by <span inprof='n' id='70' class='company'>EDI partners</span>
+                                (Mastering HIPAA <span inprof='y' id='71' class='sofwr'>EDI Implementation</span> Guides)
+SW Model:                       <span inprof='y' id='72' class='sofwr'>Capability Maturity Model</span> <span inprof='y' id='73' class='sofwr'>(CMM)</span> for Software by <span inprof='y' id='74_1' class='educational'>Software Engineering Institute (SEI)</span>
+<span inprof='y' id='74_2_1' class='subject'>Methodology</span>:                    <span inprof='n' id='74_3' class='qualif'>Rational Unified Process (RUP)</span> by IBM Rational
+<span inprof='n' id='75' class='edu-hist-mark'>Education</span>
+
+<span inprof='y' id='76' class='qualif'>M.B.A.</span>, <span inprof='y' id='77_1' class='educational'>West Texas A &#38; M University</span>, <span inprof='y' id='77_2' class='location'>Canyon, TX</span>, <span inprof='n' id='77_3_1_1' class='major'>Major</span> in <span inprof='y' id='77_3_1_2' class='subject'>Strategic Management</span>, <span inprof='y' id='77_4' class='date'>2008</span>, <span inprof='y' id='77_5_1' class='degree-measure'>4.0 GPA</span>
+<span inprof='y' id='78_1' class='qualif'>B.E.</span>, <span inprof='y' id='78_2' class='educational'>S. J. College of Engineering, Mysore University</span>, <span inprof='y' id='78_3' class='location'>INDIA</span>, <span inprof='y' id='78_4_1' class='subject'>Computer</span> <span inprof='n' id='78_4_2' class='subject'>Science and Engineering</span>
+<span inprof='n' id='79' class='skills-qualif-mark'>Certification</span>
+
+<span inprof='y' id='80' class='qualif'>Certified Project Management Professional (PMP)</span>, <span inprof='y' id='81' class='qualif'>Project Management Institute</span>, <span inprof='y' id='82' class='date'>2011</span>
+Membership
+
+<span inprof='y' id='83' class='qualif'>PMI</span> - <span inprof='y' id='84' class='qualif'>Project Management Institute</span> (Member <span inprof='y' id='85' class='date'>Since 2010</span>)
+
+Awards
+
+- Outstanding Academic Achievement Award, Spring 2008, West Texas A&#38;M University, Canyon, TX
+- Achieved 45th ranking (7th percentile) out of 643 teams in the world wide Business Simulation competition (Spring 2008 Capstone &#38; Foundation Challenge) conducted by Capsim Management Simulations, Inc.
+
+
+
+
+<span inprof='n' id='86' class='work-hist-mark'>Professional Experience</span>
+
+<span inprof='y' id='87_1' class='company'>BLUE CROSS BLUE SHIELD</span>           <span inprof='y' id='87_2_1' class='date'>10/2011</span> - <span inprof='y' id='87_2_2' class='date'>06/2013</span>
+
+<span inprof='y' id='88_1' class='role'>Sr. IT QA Consultant</span>
+
+ (<span inprof='y' id='89' class='sofwr'>HP Quality Center 10</span>, <span inprof='y' id='90' class='sofwr'>WebSphere Portal Server v6.1.5</span>, <span inprof='y' id='91' class='sofwr'>WebSphere Application Server v6.1</span>, <span inprof='y' id='92' class='sofwr'>WebSphere</span> Data Power, <span inprof='y' id='93_1' class='role'>RSA Federated Identity Manager</span> (FIM), Web Services Apache axis <span inprof='y' id='94' class='sofwr'>webservice version 1.4</span>, <span inprof='y' id='95' class='sofwr'>UNIX</span> - <span inprof='y' id='96' class='sofwr'>AIX 6</span>, <span inprof='y' id='97' class='sofwr'>DB II v10</span>, <span inprof='y' id='98' class='sofwr'>AS/400</span>, <span inprof='y' id='99' class='sofwr'>IE 8.0</span>, FireFox, Google Chrome)
+
+Responsible <span inprof='y' id='100_1' class='role'>team member</span> working on various complex assignments. 
+*  Worked on <span inprof='y' id='101' class='skill'>NGEN implementation</span> of Blue Access for Members (BAM) application. ; 
+*  Effectively and successfully worked on different phases of a major project implementation. ; 
+*  Involved in analysis of Business Requirements, System Requirements, Customer Requirements, X-Walks and Mapping documents. ; 
+*  Involved in writing test scenarios, executing test cases/test scripts and documenting and tracking defects. ; 
+*  Compared products in different environments for each business and project related code releases. ; 
+*  Involved in System Integration, Regression, Parallel, Production and <span inprof='y' id='102' class='skill'>UAT testing</span> of Blue Access for Members (BAM) redesign, <span inprof='y' id='103' class='sofwr'>Data Center II</span> (DC II) portal, Medicare Part D, and Medicare Advantage web based applications. ; 
+*  Verified Claims Spending Summary, Benefit Highlights, Spending Summary, My Health Summary, My Care Profile, Spending Accounts, User Profile, <span inprof='n' id='104' class='educational'>Health Care School</span> and Splash page. ; 
+*  Identified data in BlueStar and Mainframe (<span inprof='y' id='105' class='sofwr'>CICS</span>) and registered many members for testing purposes. ; 
+*  Verified and validated the members' eligibility to receive benefits based on their eligibility code. ; 
+*  Tested the <span inprof='y' id='106_1' class='role'>Employee Retirement Service</span> (ERS) - benefit agreement changes that has been used to handle split membership in coverage within BAM Web application.
+
+<span inprof='y' id='107_1_1' class='role'>Project Manager</span> / <span inprof='y' id='107_1_2' class='role'>Test Manager</span>          <span inprof='y' id='107_2_1' class='date'>08/2008</span> - <span inprof='y' id='107_2_2' class='date'>10/2011</span>
+
+<span inprof='n' id='108' class='company-accounts'>Clients worked for - Cross Net Inc, LSU Agricultural Center</span>, Land Stewardship Project
+
+(<span inprof='y' id='109' class='sofwr'>HP Quality Center</span>, <span inprof='y' id='110' class='sofwr'>SQL</span>, <span inprof='y' id='111' class='sofwr'>MS Office</span>, <span inprof='y' id='112' class='sofwr'>Windows 7</span>, <span inprof='y' id='113' class='sofwr'>QTP</span>, <span inprof='y' id='114' class='sofwr'>Oracle 11g</span>, <span inprof='y' id='115' class='sofwr'>IE</span>, <span inprof='y' id='116' class='sofwr'>MS Project</span>)
+
+Actively involved in business, <span inprof='y' id='117' class='skill'>project administration</span> and <span inprof='y' id='118' class='skill'>Software Testing</span> / <span inprof='y' id='119' class='sofwr'>QA</span> activities of the company.
+*  Effectively <span inprof='y' id='120' class='skill'>managed all the projects</span> from initiation to the closure. ; 
+*  <span inprof='y' id='121' class='skill'>Responsible for project selection</span>, defining project scope, <span inprof='y' id='122' class='skill'>develop project charter</span>, review documents with key stakeholders, get approval, identify and document risks, <span inprof='y' id='123' class='skill'>develop communication</span>, and contingency plan. ; 
+*  Responsible for creating, reviewing, and updating all project related documents as required. ; 
+*  Managed resource allocation, roles and responsibilities, changes to the project scope, and product delivery as scheduled. ; 
+*  <span inprof='y' id='124' class='skill'>Created quality management</span> plan and ensure deliverables conform to the quality standards. ; 
+*  Actively communicated the progress to key stakeholders of the project and received feedback. ; 
+*  Executed all the tasks defined in the project plan, implemented quality measurement plan, obtained acceptance, created and distributed final project report. ; 
+*  Led and performed all the SQA activities for all the projects. ; 
+*  Responsible for creating, reviewing, and updating all SQA related documents as required by ensuring deliverables conform to the quality standards. ; 
+*  Held fulltime responsibility in <span inprof='y' id='125' class='skill'>test planning</span>, test execution, <span inprof='y' id='126' class='skill'>defect management</span> and <span inprof='y' id='127' class='skill'>test coordination</span> from initiation to the closure. ; 
+*  Actively communicated the progress to key team members of the project and received feedback. ; 
+*  Developed and delivered numerous presentations to 20+ audiences. ; 
+*  Managed team of 15 or more  people. ; 
+*  Ensured the production and delivery of high quality product.
+
+
+
+<span inprof='y' id='128_1' class='company'>CS STARS</span>, <span inprof='y' id='128_2' class='location'>Amarillo, TX</span>                                                                                                                                                                                                                                                                                                               <span inprof='y' id='128_3_1' class='date'>01/2006</span> - <span inprof='y' id='128_3_2' class='date'>05/2008</span>
+<span inprof='y' id='128_4_1' class='role'>Sr. Quality Assurance Analyst</span>
+(<span inprof='y' id='129' class='sofwr'>Test Director 8.0</span>, <span inprof='y' id='130' class='sofwr'>Quality Center 9.0</span>, <span inprof='y' id='131' class='sofwr'>JAVA</span>, <span inprof='y' id='132' class='sofwr'>DB2</span>, <span inprof='y' id='133' class='sofwr'>Windows 2000</span>/<span inprof='y' id='134' class='sofwr'>XP</span>, <span inprof='y' id='135' class='sofwr'>IE</span> browser)
+Designed, developed and executed test plans for three projects. Insured the quality of <span inprof='y' id='136' class='skill'>software development</span>, timely delivery, accurate documentation, and <span inprof='y' id='137' class='skill'>streamlined testing</span> processes.
+*  Effectively and thoroughly performed functional and <span inprof='y' id='138' class='sofwr'>regression tests</span> for three different projects resulting in maintaining a &#x2264; <span inprof='n' id='139' class='percent'>1%</span> hot fix rate per feature implemented in production. ; 
+*  Provided positive impact to internal clients and maintained <span inprof='n' id='140' class='percent'>100%</span> support rate for projects being implemented per cycle by collaborating with members in other systems areas to clarify client requirements, specifications, <span inprof='y' id='141' class='skill'>technical design</span>, and system integration, and strictly adhering to the software processes. ; 
+*  Delivered high quality products by isolating and correcting defects prior to reaching the production environment, and by reviewing use cases, technical specifications and requirements' documents for testability and consistency. ; 
+*  Met or exceeded goals on multiple projects, completing them in before project deadlines and under budget by an average of <span inprof='n' id='142' class='percent'>5%</span>. ; 
+*  Cut testing time by <span inprof='n' id='143' class='percent'>11%</span> and increased customer satisfaction ratings by <span inprof='n' id='144' class='percent'>16%</span> by <span inprof='y' id='145' class='skill'>implementing testing</span> and business best practices.
+
+<span inprof='y' id='146_1' class='company'>WELLS FARGO HOME MORTGAGES</span>, <span inprof='y' id='146_2' class='location'>Minneapolis, MN</span>          <span inprof='y' id='146_3_1' class='date'>06/2004</span> - <span inprof='y' id='146_3_2' class='date'>06/2005</span>
+<span inprof='y' id='146_4_1' class='role'>Test Coordinator</span> / <span inprof='y' id='146_4_2' class='role'>Test Lead</span>
+
+(<span inprof='y' id='147' class='sofwr'>Oracle 9i</span>,<span inprof='y' id='148' class='sofwr'>TOAD VI 6.3</span>, <span inprof='y' id='149' class='sofwr'>Sybase</span>, <span inprof='y' id='150' class='sofwr'>Rapid SQL 7.2</span>, <span inprof='y' id='151' class='sofwr'>Ascent Capture</span>, <span inprof='y' id='152' class='sofwr'>6.1</span>, <span inprof='y' id='153_1' class='role'>Tibco Integration Manager</span>, Tibco SDK Adapters, XML CAN (Create, Archive and Notify) process, <span inprof='y' id='154' class='sofwr'>WS_FTP Pro, 6.51</span>, <span inprof='y' id='155' class='sofwr'>AS/400</span>)
+
+<span inprof='y' id='156' class='skill'>Managed a team</span> of 10 testers and coordinated overall SQA/testing activities of the major company product using best practices resulted in the delivery of outstanding client solutions. 
+*  Provided technical leadership in identifying, evaluating and resolving complex test problems. ; 
+*  Assisted with data identification, data creation, review of system and acceptance test scripts, defect resolution and <span inprof='y' id='157' class='skill'>User Acceptance Testing</span>. ; 
+*  Helped group/team to improve performance by eliminating unnecessary complexity and bureaucracy, resulting in optimized business processes and performance. ; 
+*  Performed ambiguity reviews of business requirements and functional specification documents. ; 
+*  Developed and maintained test strategy, test plan and documentation of all phases of QA process. ; 
+*  Worked with business team and clients to establish and maintain a consistent test methodology and to resolve questions during the testing process. ; 
+*  Shared professional insights, expertise and knowledge, developing critical thinking capability across business areas. ; 
+*  Managed client relationships and engagements, resulting in future sales due to trust-based relationships. ; 
+*  Inspired and motivated high performance in others by respecting the uniqueness of all colleagues, and valuing others' ideas and initiatives. ; 
+*  Earned commendation for tenacity <span inprof='n' id='158' class='bad-occupation'>by QA director</span>, management and customer relations' team.
+
+
+<span inprof='y' id='159_1' class='company'>BLUE CROSS BLUE SHIELD</span>, <span inprof='y' id='159_2' class='location'>Eagan, MN</span>                                          <span inprof='y' id='159_3_1' class='date'>06/2003</span> - <span inprof='y' id='159_3_2' class='date'>05/2004</span>
+<span inprof='y' id='159_4_1' class='role'>Test Coordinator</span> / <span inprof='y' id='159_4_2' class='role'>Test Lead</span> (<span inprof='y' id='160_1' class='role'>consultant</span> through TEK Systems, MN)
+(<span inprof='y' id='161' class='sofwr'>Oracle 9i</span>, <span inprof='y' id='162' class='sofwr'>Lotus Notes 6.0</span>, <span inprof='y' id='163' class='sofwr'>AS/400</span>, <span inprof='y' id='164' class='sofwr'>Rational ClearQuest3.1</span>, <span inprof='y' id='165' class='sofwr'>Windows 2000</span>; <span inprof='y' id='166' class='sofwr'>SUNOS 5.8</span> - <span inprof='y' id='167' class='sofwr'>Solaris 8</span>, Rational <span inprof='y' id='168' class='sofwr'>Clear Quest 3.1</span>, PuTTY R0.52, VITRIA Businessware Consol 3.1.7, <span inprof='n' id='169' class='nominal'>Tivoli Monitor</span> 3.6; <span inprof='y' id='170' class='sofwr'>TOAD VI 6.3.11</span>, <span inprof='y' id='171' class='sofwr'>TextPad 4.5</span>, <span inprof='y' id='172' class='sofwr'>Cognos Impromptu 7.0</span>, <span inprof='y' id='173' class='sofwr'>UltraEdit-32 4.3</span>, Hummingbird Neighborhood for <span inprof='y' id='174' class='sofwr'>Win32 7.1</span>, <span inprof='y' id='175' class='sofwr'>SSH</span> Secure Shell 3.2; <span inprof='y' id='176' class='sofwr'>Staffware 2000 8.1</span> , <span inprof='y' id='177' class='sofwr'>SQL*Plus 8.0</span>, <span inprof='y' id='178' class='sofwr'>Oracle 8.1.7</span>, <span inprof='y' id='179' class='sofwr'>VISIO Professional 5.0</span>, <span inprof='y' id='180' class='sofwr'>Access 2000</span>, Harvest 5.02 Client, <span inprof='y' id='181' class='sofwr'>Windows NT 4.0</span>, <span inprof='y' id='182' class='sofwr'>Novell Client 1.3</span>, J2SDK 1.3)
+
+Supervised a team of 15 testers and interfaced with all other members of the team. 
+*  Directed testing activities of more than 20 <span inprof='n' id='183' class='company'>Blue cross</span> affiliate and interfacing systems. ; 
+*  Led incident review board, user acceptance and final project implementation process.
+
+*  Earned recognition for high productivity and quality of testing. ; 
+*  Led all testing activities for HIPAA team `<span inprof='y' id='184' class='skill'>Production Management</span>' Reports. ; 
+*  Effectively trained testers, training team leads and <span inprof='y' id='185_1' class='role'>managers</span>. ; 
+*  Created, reviewed and updated test strategy, test plan, requirement validation matrices(RVMs), test cases, test scenarios, use cases and other testing documents. ; 
+*  Actively involved in determining and establishing applications' test environment, data setup requirements, identifying new test cases for critical applications, identifying gaps between use cases/requirements and test cases. ; 
+*  Facilitated QC walkthrough of all deliverables, provided work direction, managed and tracked workload and progress, resulting in efficient workflow. ; 
+*  Performed smoke, unit, functional, system, regression and also user acceptance tests of various applications. ; 
+*  Installed and configured various applications to support testing activities.
+
+<span inprof='y' id='186_1' class='company'>ANALYSTS INTERNATIONAL</span>, <span inprof='y' id='186_2' class='location'>Edina, MN</span>          <span inprof='y' id='186_3_1' class='date'>11/2002</span> - <span inprof='y' id='186_3_2' class='date'>04/2003</span>
+<span inprof='y' id='186_4_1' class='role'>Lead System Test Analyst</span> (<span inprof='y' id='187_1' class='role'>Consultant</span>, projects completed for <span inprof='y' id='188' class='company'>United Health Care and Cargill, Inc.</span>)
+ (<span inprof='y' id='189' class='sofwr'>Siebel Tools 6.3</span>, eScripts of ST 6.3, Siebel Applications 6.3, <span inprof='y' id='190' class='sofwr'>IBM DB2 7</span>, <span inprof='y' id='191' class='sofwr'>AS/400</span>, WinSQL 3.8, <span inprof='y' id='192_1' class='role'>Enterprise Integration Manager</span>, Actuate eReporting Suite 4.1, FullShot 7.0, <span inprof='y' id='193' class='sofwr'>Windows 2000</span>, <span inprof='y' id='194' class='sofwr'>Solaris 8</span>;<span inprof='y' id='195' class='sofwr'>Windows NT</span>, <span inprof='y' id='196' class='sofwr'>Power Builder6.5</span>, <span inprof='y' id='197' class='sofwr'>Crystal Reports 8.5</span>, <span inprof='y' id='198' class='sofwr'>Oracle 8</span>, <span inprof='y' id='199' class='sofwr'>MS Office</span> <span inprof='y' id='200' class='sofwr'>2000</span>)
+Performed various testing activities for two different clients. 
+*  Responsible <span inprof='y' id='201_1' class='role'>team member</span> for testing <span inprof='n' id='202' class='company'>United Health Care</span>- Key Accounts Sale Management tool (ATLAS). ; 
+*  An independent and <span inprof='n' id='203' class='bad-occupation'>only tester</span> <span inprof='y' id='204' class='skill'>responsible for testing client</span> server application (<span inprof='n' id='205' class='company'>Cargill</span> -<span inprof='n' id='206' class='location'>River Services</span>-Barge Tracking System) both front and back end. ; 
+*  <span inprof='y' id='207' class='skill'>Responsible for developing Test Scripts</span> and Test Steps by <span inprof='y' id='208' class='skill'>analyzing design and analysis</span> document. ; 
+*  <span inprof='y' id='209' class='skill'>Responsible for submitting reports</span> on incidents that result from testing by analyzing and assigning priority. ; 
+*  <span inprof='y' id='210' class='skill'>Responsible for backend testing</span> of <span inprof='y' id='211' class='sofwr'>Oracle database</span> using <span inprof='y' id='212' class='sofwr'>SQL</span>, <span inprof='y' id='213' class='sofwr'>SQL*Plus</span>, <span inprof='y' id='214' class='sofwr'>PL/SQL</span> commands and for executing and analyzing the reports.
+
+ADVANCED TECHNOLOGIES <span inprof='y' id='215_1' class='company'>INTEGRATION, INC.</span>, <span inprof='y' id='215_2' class='location'>Edina, MN</span>          <span inprof='y' id='215_3_1' class='date'>11/1999</span> - <span inprof='y' id='215_3_2' class='date'>06/2001</span>
+<span inprof='y' id='215_4_1' class='role'>Senior E-commerce Application Test Lead</span> (<span inprof='y' id='216' class='sofwr'>Windows 98</span>, <span inprof='y' id='217' class='sofwr'>Java</span>, <span inprof='y' id='218' class='sofwr'>HTML</span>, <span inprof='y' id='219' class='sofwr'>Dinamo</span>, <span inprof='y' id='220' class='sofwr'>Cold Fusion</span>, <span inprof='y' id='221' class='sofwr'>Oracle</span>, <span inprof='y' id='222' class='sofwr'>SQL Server</span>)
+Plan, schedule, prioritize, and <span inprof='y' id='223' class='skill'>monitor testing</span> needs of all <span inprof='y' id='224' class='sofwr'>Projects</span>.
+*  Coordinated with Project Managers, <span inprof='y' id='225_1' class='role'>QA Managers</span>, Developers and DBAs to <span inprof='y' id='226' class='skill'>manage expectations</span>, scope and risks. ; 
+*  <span inprof='y' id='227' class='skill'>Responsible for defect management</span>, documentation and <span inprof='y' id='228' class='skill'>change control</span>. ; 
+*  Tested and validated data stored in the backend <span inprof='y' id='229' class='sofwr'>Oracle database</span> using <span inprof='y' id='230' class='sofwr'>SQL</span>, <span inprof='y' id='231' class='sofwr'>SQL*Plus</span>, <span inprof='y' id='232' class='sofwr'>PL/SQL</span> commands. ; 
+*  Tested an <span inprof='y' id='233' class='skill'>e-commerce</span> application both front end and backend using different browsers.
+
+<span inprof='y' id='234_1' class='role'>Java Developer</span> (<span inprof='y' id='235' class='sofwr'>HTML</span>, <span inprof='y' id='236' class='sofwr'>JBuilder 3.5</span>, <span inprof='y' id='237' class='sofwr'>Java 1.2.2</span>, <span inprof='y' id='238' class='sofwr'>JSWDK 1.0.1</span>, <span inprof='y' id='239' class='sofwr'>Together 3.2</span>, <span inprof='y' id='240' class='sofwr'>Poet 6.0</span>)
+*  Researched and used shareware servlets, configured web server, and coded servlet API. ; 
+*  Designed and developed an <span inprof='y' id='241' class='sofwr'>object-oriented database</span> and schema.
+
+<span inprof='y' id='242' class='company'>WELLS FARGO (NORWEST)</span> <span inprof='y' id='243_1' class='company'>MORTGAGE, INC.</span>, <span inprof='y' id='243_2' class='location'>Minneapolis, MN</span>                                             <span inprof='y' id='243_3_1' class='date'>07/1998</span> &#xf8e7; <span inprof='y' id='243_3_2' class='date'>06/1999</span>
+<span inprof='y' id='243_4_1' class='role'>Client-Server Test Lead</span> (<span inprof='y' id='244' class='sofwr'>Windows 95</span>, <span inprof='y' id='245' class='sofwr'>Power Builder</span>, <span inprof='y' id='246' class='sofwr'>Sybase</span>, <span inprof='y' id='247' class='sofwr'>MS Access 97</span>, <span inprof='y' id='248' class='sofwr'>Test Director</span>)
+Managed complete testing needs alone and completed the assigned tasks on time.
+
+<span inprof='n' id='249_1' class='some-position'>*  Worked as</span> <span inprof='y' id='249_2' class='role'>a responsible team lead</span> for <span inprof='y' id='250' class='skill'>test planning</span> and test execution of three major business functions.
+
+
+*  Responsible for testing a new <span inprof='y' id='251' class='sofwr'>client-server</span> application;  by analyzing Test Plan and detailed specifications, for submitting reports on incidents that result from testing by analyzing and assigning priority. ; 
+*  Created and executed Test Scripts and Test Steps based on high level tests defined in the test plan. ; 
+*  Participated in all meetings to discuss testing problems and issues.
+
+<span inprof='y' id='252_1' class='company'>COMPROMPTER, INC.</span>, <span inprof='y' id='252_2' class='location'>La Crosse, WI</span>          <span inprof='y' id='252_3_1' class='date'>11/1997</span> - <span inprof='y' id='252_3_2' class='date'>04/1998</span>
+<span inprof='y' id='252_4_1' class='role'>Programmer</span>  (<span inprof='y' id='253' class='sofwr'>Windows95</span>/<span inprof='y' id='254' class='sofwr'>NT</span>, <span inprof='y' id='255' class='sofwr'>PVCS</span>, <span inprof='y' id='256' class='sofwr'>Visual Basic 5.0</span>, <span inprof='y' id='257' class='sofwr'>SQL Server</span><span inprof='y' id='258' class='sofwr'>6.5</span>)
+Responsible for maintaining and developing the utility program that enables the user to configure desktops to their specifications. 
+*  Studied and tested the existing utility programs' <span inprof='y' id='259' class='skill'>design and development</span>. ; 
+*  Increased functionality of the program by <span inprof='n' id='260' class='percent'>30%</span> by adding new features to make the utility programs more powerful and flexible. ; 
+*  Completely modified an existing utility program to make it precise and reliable. ; 
+*  Responsible for documenting the result of the data validation by retrieving the data using <span inprof='y' id='261' class='sofwr'>PL/SQL</span>.
+
+<span inprof='y' id='262_1' class='company'>FIRSTLOGIC, INC.</span>, <span inprof='y' id='262_2' class='location'>La Crosse, WI</span>            <span inprof='y' id='262_3_1' class='date'>10/1996</span> - <span inprof='y' id='262_3_2' class='date'>09/1997</span>
+<span inprof='y' id='262_4_1' class='role'>Quality Assurance Specialist</span> (<span inprof='y' id='263' class='sofwr'>Windows 95</span>/<span inprof='y' id='264' class='sofwr'>NT</span>, <span inprof='y' id='265' class='sofwr'>SUN</span>, <span inprof='y' id='266' class='sofwr'>Solaris</span>, <span inprof='y' id='267' class='sofwr'>RS6000</span>, <span inprof='y' id='268' class='sofwr'>MS-DOS</span>, <span inprof='y' id='269' class='sofwr'>FoxPro2.5</span>, <span inprof='y' id='270' class='sofwr'>SQL Server 6.5</span>, <span inprof='y' id='271' class='sofwr'>Oracle 7</span>, <span inprof='y' id='272' class='sofwr'>MS Access 2.0</span>)
+<span inprof='y' id='273' class='skill'>Responsible for testing</span> in-house software programs on multiple platforms. 
+*  Discovered errors in functionality, accuracy and usability of products, resulting in near perfect product releases. ; 
+*  Restructured and expanded scope of regression suite by developing new test cases that promote product stability and documentation of testing procedures. ; 
+*  Served as liaison <span inprof='n' id='274' class='bad-occupation'>between Technical Support</span> and <span inprof='y' id='275' class='skill'>Product Development</span> for researching and analyzing software problems. ; 
+*  Reformatted test suites from existing form allowing <span inprof='y' id='276' class='skill'>batch processing</span>, resulting in significant time savings and more efficient use of disk space. ; 
+*  <span inprof='y' id='277' class='skill'>Responsible for developing batch</span> files and <span inprof='y' id='278' class='sofwr'>shell scripts on DOS</span> and <span inprof='y' id='279' class='sofwr'>UNIX</span> platforms. ; 
+*  Developed complete test suite to monitor software performance relating to speed of product that was ultimately used for testing in more than 14 platforms. ; 
+*  <span inprof='y' id='280' class='qualif'>Received Outstanding Team Achievement Award</span> for meeting all specifications during release of major product into market place. ; 
+*  Supported <span inprof='y' id='281' class='sofwr'>Oracle</span> and <span inprof='y' id='282' class='sofwr'>SQL</span> Servers as the major databases with one of the company product.
+
+<span inprof='y' id='283_1' class='role'>Associate Software Engineer</span> (<span inprof='y' id='284' class='sofwr'>PVCS</span>, <span inprof='y' id='285' class='sofwr'>UNIX</span> and <span inprof='y' id='286' class='sofwr'>C</span>)
+*  <span inprof='y' id='287' class='skill'>Responsible for design</span>, development and implementation of in house product. ; 
+*  <span inprof='y' id='288' class='skill'>Responsible for technical trouble</span>-shooting, analysis and improvement of the product.
+
+</TextResume>
+
+</NonXMLResume>
+
+
+
+<UserArea>
+<DaxResumeUserArea>
+<AdditionalPersonalData>
+<ExperienceSummary>
+<TotalMonthsOfWorkExperience>169</TotalMonthsOfWorkExperience>
+<TotalYearsOfWorkExperience>14</TotalYearsOfWorkExperience>
+<TotalMonthsOfManagementWorkExperience>101</TotalMonthsOfManagementWorkExperience>
+<TotalYearsOfManagementWorkExperience>8.4</TotalYearsOfManagementWorkExperience>
+<TotalMonthsOfLowLevelManagementWorkExperience>101</TotalMonthsOfLowLevelManagementWorkExperience>
+<TotalYearsOfLowLevelManagementWorkExperience>8.4</TotalYearsOfLowLevelManagementWorkExperience>
+<ExecutiveBrief>This candidate has been working in the IT  occupational sector for more than 14 years. During this candidate's last employment this candidate was working as a Sr. IT QA Consultant at BLUE CROSS BLUE SHIELD. This candidate has extensive knowledge of SQL, Oracle, UNIX, Oracle PL/SQL, Java, IBM AS400 Hardware, Sun Solaris, SQLPlus, Microsoft SQL Server, Microsoft Access, Rational ClearQuest, Microsoft Office, Microsoft Internet Explorer, Mercury Interactive TestDirector, HTML, HP Quality Center, shell scripting, WebSphere MQ Portal, Visual FoxPro, Visual Basic, TOAD, Sybase, Seagate Crystal Reports, PowerBuilder, Poet, PVCS, Oracle 9i, Oracle 11g, Microsoft SQL Server 6.5, Microsoft DOS, Mercury Interactive Quicktest, IBM WebSphere Application Server, DB2, C Programming Language, AIX UNIX, Web Services, UltraEdit 32 4.3, Together, TextPad 4.5, SunOS, Staffware, Siebel Tools, Secure Shell, SUN Hardware, Regression Testing, Rapid SQL 7.2, Oracle Projects, Oracle 8, Oracle 7, Object Oriented Database, ORACLE QA, Novell Netware, Microsoft Visio, Microsoft Project, Mercury Quality Center, Lotus Notes/Domino, Kofax Capture, JSWDK 1.0.1, Ipswitch WS_FTP Pro, IBM WebSphere, IBM RS6000 Hardware, Dinamo, Data Centre, DB II v10, ColdFusion, Cognos Impromptu, Client/Server, CICS/ESA, Borland JBuilder. This candidate has an extensive management experience (8.4 years).</ExecutiveBrief>
+<ManagementRecord>Since 2008-08 for 39 months the candidate had experience at a lower grade management level working as a Project Manager/Test Manager.
+Since 2004-06 for 12 months the candidate had experience at a lower grade management level working as a Test Coordinator/Test Manager at WELLS FARGO HOME MORTGAGES.
+Since 2003-06 for 12 months the candidate had experience at a lower grade management level working as a Test Coordinator/Test Manager at BLUE CROSS BLUE SHIELD.
+Since 2002-11 for 6 months the candidate had experience at a lower grade management level working as a Lead System Test Analyst/Test Manager at ANALYSTS INTERNATIONAL.
+Since 1999-11 for 20 months the candidate had experience at a lower grade management level working as a Senior E-commerce Application Test Lead/Test Manager at INTEGRATION, INC..
+Since 1998-07 for 12 months the candidate had experience at a lower grade management level working as a Client-Server Test Lead/Test Manager at WELLS FARGO.
+</ManagementRecord>
+</ExperienceSummary>
+</AdditionalPersonalData>
+<TextZones>
+<Zone name='achievements'>
+Awards
+
+- Outstanding Academic Achievement Award, Spring 2008, West Texas A&#38;M University, Canyon, TX
+- Achieved 45th ranking (7th percentile) out of 643 teams in the world wide Business Simulation competition (Spring 2008 Capstone &#38; Foundation Challenge) conducted by Capsim Management Simulations, Inc.
+</Zone>
+</TextZones>
+<ParserInfo>
+<ParserConfiguration>{max_len=50000} {tel_flag=} {send_zip=} {fast_conv=} {DEF_LOCAL=} {sdate=0} {no_email_body=0} {do_clever_zoning=1} {keep_span=1} {complex=1} {accept_langs=} {not_accept_langs=} {prefer_lang_cv=EN} {pers_only=0} {turbo=0} {split_language=0} {picture=0} {picture_inline=0} {name_space=0} {charset=} {hrxml_upgrade_edu_hist=0}{hrxml_add_languages_section=0}{spool=} {docID=} {user=DEFAULT} </ParserConfiguration>
+<ParserRelease>0.12.3.32629</ParserRelease>
+<ParserReleaseDate>2014-06-18</ParserReleaseDate>
+<ParserSchema>2.0.29</ParserSchema>
+<ParserSchemaLocation>http://cvx.daxtra.com/cvts/xsd/candidate/2.0.29/Resume.xsd</ParserSchemaLocation>
+<ConverterRelease>0.5.2.32629</ConverterRelease>
+<ConverterReleaseDate>2014-06-18</ConverterReleaseDate>
+</ParserInfo>
+<FileStruct filename='/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/Prafulla.doc'>
+
+<attachment fname='Prafulla.doc' ftype='doc' conv='yes' doc_type='cv' lang='EN'>/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/Prafulla.doc</attachment>
+
+
+</FileStruct>
+</DaxResumeUserArea>
+</UserArea>
+</Resume>

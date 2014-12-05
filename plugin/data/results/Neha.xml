@@ -1,0 +1,1000 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Resume lang='en' src='DAXTRA-CVX schema:2.0.29 release:0.12.3.32629 rdate:2014-06-18'>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+</PersonName>
+<ContactMethod>
+<Telephone id='4' type='home'>
+<InternationalCountryCode>1</InternationalCountryCode>
+<SubscriberNumber>323 963-0149</SubscriberNumber>
+<FormattedNumber>+1 323 963-0149</FormattedNumber></Telephone>
+
+<InternetEmailAddress id='2' oids='2 3 ' type='main'>alok@cedentinc.com</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>*    Seasoned IT professional with almost 7 years of very strong experience in Business Intelligence and SQL Server development, Data-warehousing and Business Analysis ; 
+    *    Very strong experience in SQL Server, SQL Server Reporting Services (SSRS), SQL Server Integrations Services(SSIS) and Data Warehousing Good experience in SSAS. ; 
+    *    Expertise in developing reports using SQL Server 2005 Reporting Services (SSRS), SSAS, MS Access and Crystal Reports. Developed Finance, Payroll, Accounting and Operational reports ; 
+    *    Demonstrated experience building complex SQL scripts and working with large amounts of data and designing complex management reports ; 
+    *    Expert level SQL Server Management Studio (2008), Automation, SSRS, SSIS &#38; TFS ; 
+    *    Expert in database management and extensive experience in designing, modeling, developing and delivering various Business Intelligence projects(using Microsoft SSRS &#38; SSIS) ; 
+    *    Experienced in performing ETL procedure to load data from different sources into data warehouse using MS SQL Server SSIS ; 
+    *    Experienced in writing Parameterized Queries for generating Tabular reports, Matrix reports, Chart reports, Drill down reports, Formatting report layout, Expressions, Grouping, Sorting the data, defining data source and writing Stored procedures ; 
+    *    Performed lot of formatting, grouping, filtering, sorting on the reports ; 
+    *    Experience in designing Database Models using MS Visio and ER-Win. ;</ExecutiveSummary>
+
+
+<EmploymentHistory>
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='86_1'>Intermedia</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='86_2'>
+<Municipality>Mountain View</Municipality>
+<CountryCode>CA</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory>
+<Title id='87_1'>SQL Developer</Title>
+<OrgName id='86_1'>Intermedia</OrgName>
+
+
+
+<Description>*    Consulted with Directors, VPs and SVPs to analyze and identified business requirements to create financial reports for management. ; 
+    *    Installed and Configured SQL Server 2005/2008 and Reporting Server. ; 
+    *    Analyzed and developed financial reports using SQL Server Reporting services(SSRS), QA report logic and verified data for accuracy. ; 
+    *    Created tables, views, data sources, datasets &#38; stored procedures for the creation of SQL reports ; 
+    *    Used complex SQL queries to generate ad-hoc reports and deliver data as per client need. ; 
+    *    Helped in creating &#38; testing finance data mart. Performed Data modeling &#38; Data Remapping ; 
+    *    Analyze and troubleshoot technical issues related to existing reporting-Troubleshoot data issues, validate result sets, recommend and implement process improvements ; 
+    *    Perform tasks spanning the full lifecycle of BI development, including end-user interviews, business requirements analysis, analytic/report development, documentation, training and support ; 
+    *    Ensure timely execution of standard reports (daily, weekly, monthly reporting) ; 
+    *    Created SSIS packages to load data from various formats of files into SQL Server database ; 
+    *    Loaded XML/txt/csv/Excel files into SQL Server database using SSIS packages ; 
+    *    Managed SSIS packages, logged errors, and created notifications on errors ; 
+    *    Used various transformations in the SSIS packages. ; 
+    *    Converted SSIS packages from SQL Server 2005 to SQL Server 2008 ; 
+    *    Managed SQL Server Agent jobs and their notification on failure ; 
+    *    Created Stored Procedures and jobs to load data from staging environment to production environment.Used Activity Monitor to check the performance of SQL Server ; 
+    *    Analyzed business requirements and creates data models and automated SSIS process</Description>
+<StartDate id='86_3_1'><YearMonth>2013-01</YearMonth></StartDate>
+<EndDate id='86_3_2'>notApplicable</EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='86' last_id='109' border_id='110'></TLSPAN>
+<MonthsOfWork>8</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='110_1'>InfoSync</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='110_2'>
+<Municipality>Wichita</Municipality>
+<Region>KS</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='111_1'>SQL Developer</Title>
+<Title id='112_1'>Business analyst</Title>
+<OrgName id='110_1'>InfoSync</OrgName>
+
+
+
+<Description>Responsibilities:
+    *    Worked as Business analyst for designing, creating and delivering various reporting solutions. Worked with Internal and external clients to determine their custom need for reporting systems
+*    Coordinate meetings with business stakeholders (finance, sales, business owners, technology, etc.). Participated in daily scrum meeting for Agile environment ; 
+    *    Documented various processes used in the department for special clients with custom requirements such as turnover reporting ; 
+    *    Supported the business by writing SQL queries for a lot of ad-hoc reporting to pull out payroll information such as employee history, termination history or operational information such as Key indicators , Sales Variance ; 
+    *    Developed Payroll, Accounting and Operational SSRS Reports using Business intelligence Development Studio (BIDS) for major clients in restaurant industry ; 
+    *    Responsible for running the payroll reports as per the client schedule- monthly, quarterly or periodically or as desired and sending the requirements to the payroll department to make some custom manual changes to the Excel reports ; 
+    *    Provided technical support by making changes in the current system or reports as per client needs and understanding and solving any technical problems they are facing. ; 
+    *    Worked on changing an existing report system when a new client come onboard and have custom requirements. ; 
+    *    Responsible for setting up reports and security for web users for various kinds of reports on the internet based client specific reporting services tool RightViewWeb ; 
+    *    Created Tabular, Matrix, List &#38; Chart , Parameterized, Sub, Ad-hoc, and Drill down reports as well as interactive reports according to business requirements in time restricted environment ; 
+    *    Performed lot of formatting, grouping, filtering, sorting on the reports ; 
+    *    Implemented linking of reports and passed parameters between the reports. ; 
+    *    Performed lot of data analysis. Retrieved, analyzed and profiled the client data - the daily business transaction files of various restraint franchises. Analyzed and profiled the data and made the data models to help forecast the sales, net chicken head used, labor hours etc. ; 
+    *    Developed complex T-SQL queries, functions &#38; stored procedures ; 
+    *    Troubleshoot and resolve reporting issues as needed to support business users -Provide training and support to users with ad-hoc analysis as needed ; 
+    *    Experience with creating Entity relationship diagrams, dimensional modeling and data mapping ; 
+    *    Migrated data and tables between servers and databases, created and updated tables, indexes ; 
+    *    Built various packages in SSIS to load the data coming from various interfaces ; 
+    *    Used multiple transformations in SSIS to meet the business requirements by collecting data from various sources. ; 
+    *    Designed ETL packages dealing with data sources (SQL Server, Flat Files, and XMLs etc) and loaded the data into target data sources by performing different kinds of transformations using SQL Server Integration Services (SSIS) ; 
+    *    Transformed and loaded data into SQL Server database according to business requirements ; 
+    *    Analyzed the data loading process to improve performance and efficiency of the system ; 
+    *    Managed a project for developing Payroll self- service platform (like ADP) for a client. Worked as the project manager and business analyst on the project. Interacted with external project manager and developers of diverse background</Description>
+<StartDate id='110_3_1'><YearMonth>2010-07</YearMonth></StartDate>
+<EndDate id='110_3_2'><YearMonth>2012-04</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='110' last_id='136' border_id='137'></TLSPAN>
+<MonthsOfWork>22</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='137_1'>infoGROUP</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='137_2'>
+<Municipality>Omaha</Municipality>
+<Region>NE</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='137_4_1'>Software Engineer</Title>
+<Title id='137_4_2'>SQL Developer</Title>
+<OrgName id='137_1'>infoGROUP</OrgName>
+
+
+
+<Description>Responsibilities:
+    *    Translated requirements into functional and non-functional specifications for Business Intelligence reports and other applications ; 
+    *    Successfully completed and implemented the Hours Reporting project in SQL server environment, Analyzed &#38; Developed reports for managers to track employee hours for allocating resource. Worked on it individually from gathering requirement, analysis, development and testing ; 
+    *    Wrote complex SQL queries for back-end testing ;</Description>
+<StartDate id='137_3_1'><YearMonth>2006-05</YearMonth></StartDate>
+<EndDate id='137_3_2'><YearMonth>2010-06</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='137' last_id='143' border_id='0'></TLSPAN>
+<MonthsOfWork>50</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType='university'>
+<SchoolName id='83_1'>University of Nebraska</SchoolName>
+<LocationSummary id='83_2'>
+<Municipality>Omaha</Municipality>
+<Region>NE</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+
+
+<Degree degreeType='masters'>
+<DegreeName id='83_3'>Master of Business Administration</DegreeName>
+
+</Degree>
+<Major id='83_3'>Business Administration</Major>
+
+
+
+<Comments>Mody College of Engineering and Technology, India
+Bachelor of Engineering
+Major: Computer Science (Honors)</Comments>
+</SchoolOrInstitution>
+
+<SchoolOrInstitution schoolType='college'>
+<SchoolName id='84_1'>Mody College of Engineering and Technology</SchoolName>
+<LocationSummary id='84_2'>
+<CountryCode>IN</CountryCode>
+</LocationSummary>
+
+
+<Degree degreeType='bachelors'>
+<DegreeName id='84_3'>Bachelor of Engineering</DegreeName>
+
+</Degree>
+<Major id='84_3'>Computer Science</Major>
+
+
+
+
+</SchoolOrInstitution>
+
+</EducationHistory>
+
+
+
+
+
+
+
+
+
+
+
+<Competency oids='8 12 36 43 58 63 88 100 102 107 108 130 132 139 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>80</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='development'><StringValue>development</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installed'><StringValue>Installed</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Configured'><StringValue>Configured</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Server development</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Server</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS SQL Server</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installed and Configured SQL Server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='13 14 20 28 33 66 91 92 144 145 147 149 151 ' description='Skill > IT' auth='yes' name='SQL Server Reporting Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>(SSRS)</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SSRS</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Microsoft SSRS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>91</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='15 25 95 113 125 142 157 ' description='Skill > IT' auth='yes' name='SQL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>80</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL queries</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='24 114 116 120 121 134 ' description='Skill' auth='yes' name='Payroll'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='19 45 59 64 89 105 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server 2005'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Server 2005</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2005</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>93</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='44 60 65 90 106 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server 2008'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2008</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Server 2008</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='7 32 49 117 138 ' description='Skill' auth='yes' name='Business Intelligence'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>72</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>88</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='22 61 70 153 ' description='Skill > IT' auth='yes' name='Microsoft Access'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Access</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='29 34 103 ' description='Skill > IT' auth='yes' name='SQL Server Integration Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SSIS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='18 21 68 ' description='Skill > IT' auth='yes' name='SQL Server Analysis Services'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SSAS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>66</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='38 77 161 ' description='Skill > IT' auth='yes' name='Microsoft Visio'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Visio</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Visio</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='79 80 81 ' description='Skill > IT' auth='yes' name='Microsoft SharePoint'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Sharepoint</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2007</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2010</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='35 67 129 ' description='Skill > IT' auth='yes' name='ETL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>83</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='6 11 ' description='Skill' auth='no' name='very strong experience'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='YEAR'><NumericValue description='YEAR'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>7 years of very strong experience</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='143 162 ' description='Skill' auth='no' name='end testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>50</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>71</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='124 174 ' description='Skill' auth='no' name='data analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>83</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='37 42 ' description='Skill > IT' auth='yes' name='Stored Procedures'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='48 93 ' description='Skill > IT' auth='yes' name='Quality Assurance'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>QA</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>90</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='71 94 ' description='Skill > IT' auth='yes' name='Oracle Report'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Reports</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL reports</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='158 160 ' description='Skill > IT' auth='yes' name='OLAP Cubes'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Microsoft OLAP cubes</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='101 122 ' description='Skill > IT' auth='yes' name='Microsoft Excel'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>30</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Excel</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='9 17 ' description='Skill > IT' auth='yes' name='Data Warehousing'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Data Warehousing Good</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>66</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='10 47 ' description='Skill' auth='yes' name='Business Analysis'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='123 ' description='Skill' auth='no' name='technical support'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>83</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='99 ' description='Skill' auth='no' name='report development'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='54 ' description='Skill' auth='no' name='problem solving'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>problem solving skills</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>66</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='156 ' description='Skill' auth='no' name='managed report format'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='155 ' description='Skill' auth='no' name='manage the reports'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='165 ' description='Skill' auth='no' name='functionality testing'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='166 ' description='Skill' auth='yes' name='User Acceptance Testing'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='168 ' description='Skill' auth='no' name='UAT testing'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='55 ' description='Skill' auth='no' name='Team player'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>66</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='23 ' description='Skill > IT' auth='yes' name='Seagate Crystal Reports'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Crystal Reports</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='175 ' description='Skill' auth='yes' name='Sarbanes-Oxley'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='52 ' description='Skill' auth='yes' name='Requirements Gathering'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>gathering requirements</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='98 ' description='Skill' auth='yes' name='Requirements Analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='126 ' description='Skill' auth='no' name='Provide training and support'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>83</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='133 ' description='Skill' auth='yes' name='Project Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Managed a project</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>83</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='169 ' description='Skill' auth='no' name='Project Co-ordination support'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='96 ' description='Skill' auth='yes' name='Process Improvement'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>process improvements</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='172 ' description='Skill' auth='no' name='Possess excellent organizational skills'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='62 ' description='Skill > IT' auth='yes' name='Oracle'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='69 ' description='Skill > IT' auth='yes' name='OLAP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='72 ' description='Skill > IT' auth='yes' name='Microsoft Windows XP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='73 ' description='Skill > IT' auth='yes' name='Microsoft Windows Vista'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Vista</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='74 ' description='Skill > IT' auth='yes' name='Microsoft Windows 7'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows 7</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='40 ' description='Skill > IT' auth='yes' name='Microsoft Windows'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Win.</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='148 ' description='Skill > IT' auth='yes' name='Microsoft Visual Studio'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Visual Studio</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='30 ' description='Skill > IT' auth='yes' name='Microsoft Team Foundation Server'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>TFS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='46 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server 2000'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2000</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='76 ' description='Skill > IT' auth='yes' name='Microsoft Office 2007'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2007</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='75 ' description='Skill > IT' auth='yes' name='Microsoft Office'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Microsoft Office 2003</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='118 ' description='Skill > IT' auth='yes' name='Microsoft Developer Studio'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Development Studio</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='163 ' description='Skill > IT' auth='yes' name='Microsoft C-SHARP'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>C# .NET</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='50 ' description='Skill' auth='yes' name='Marketing'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>marketing services</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='26 ' description='Skill' auth='yes' name='Management Reporting'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>management reports</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='164 ' description='Skill > IT' auth='yes' name='GUI Applications'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>GUI</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='173 ' description='Skill' auth='yes' name='Forecasting'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='51 ' description='Skill' auth='no' name='Excellent communication skills'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='119 ' description='Skill > IT' auth='no' name='BIDS'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>(BIDS)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>84</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='97 ' description='Skill' auth='no' name='BI development'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='53 ' description='Skill' auth='no' name='Analytical skills'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Strong Analytical skills</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>66</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='39 ' description='Skill' auth='yes' name='Accident and Emergency'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ER</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='87_1 111_1 137_4_2 ' description='Held Position' auth='no' name='SQL Developer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>80</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='135_2 136_1 ' description='Held Position' auth='no' name='the project manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>project manager</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='112_1 135_3 ' description='Held Position' auth='no' name='Business analyst'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='171_1 ' description='Held Position' auth='no' name='Used a checklist'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='154_1 ' description='Held Position' auth='no' name='Used Report manager'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='150_1 ' description='Held Position' auth='no' name='Report Designer'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='152_1 ' description='Held Position' auth='no' name='Generic Query Designer'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='27_1_1 ' description='Held Position' auth='no' name='Expert level SQL'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='31_1 ' description='Held Position' auth='no' name='Expert in database management'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='137_4_1 ' description='Held Position' auth='yes' name='Analyst/Programmer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>50</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Software Engineer</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>73</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='56 ' description='Degree/Qualification' auth='yes' name='Masters Degree > Masters Degree Business administration'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='Business administration'><StringValue>Business administration</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>a Master's degree in Business administration</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='83_3 ' description='Degree/Qualification' auth='yes' name='Masters Degree > Master of Business Administration > Master of Business Administration Business Administration'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='Business Administration'><StringValue>Business Administration</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Master of Business Administration , Major: Business Administration</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='57 ' description='Degree/Qualification' auth='yes' name='Bachelors Degree > Bachelors Degree Computer Science and Engineering'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='Computer Science and Engineering'><StringValue>Computer Science and Engineering</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>a Bachelors degree in Computer Science and Engineering</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='84_3 ' description='Degree/Qualification' auth='yes' name='Bachelors Degree > Bachelor of Engineering > Bachelor of Engineering Computer Science'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='Computer Science'><StringValue>Computer Science</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Bachelor of Engineering , Major: Computer Science</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency description='Industry' auth='yes' name='industry~it'>
+<CompetencyEvidence name='skillCount' typeDescription='skillCount'><NumericValue>3</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+</Competency>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<RevisionDate id='1'>2013-08-19</RevisionDate>
+</StructuredXMLResume>
+<NonXMLResume>
+
+<TextResume>
+
+
+
+<span inprof='n' id='1' class='date'>{{DOCUMENT_DATESTAMP}} 2013-08-19 {{END_DOCUMENT_DATESTAMP}}</span> 
+
+Neha
+<span inprof='y' id='2' class='email'>Email: alok@cedentinc.com</span> - <span inprof='y' id='3' class='email'>email: alok@cedentinc.com</span>
+<span inprof='y' id='4' class='telephone'>Phone: (323) 963-0149</span>
+
+<span inprof='n' id='5' class='work-hist-mark'>PROFESSIONAL SUMMARY</span>
+
+    *    Seasoned IT professional with almost <span inprof='y' id='6' class='skill'>7 years of very strong experience</span> in <span inprof='y' id='7' class='skill'>Business Intelligence</span> and <span inprof='y' id='8' class='sofwr'>SQL Server development</span>, <span inprof='y' id='9' class='sofwr'>Data-warehousing</span> and <span inprof='y' id='10' class='skill'>Business Analysis</span> ; 
+    *    <span inprof='y' id='11' class='skill'>Very strong experience</span> in <span inprof='y' id='12' class='sofwr'>SQL Server</span>, <span inprof='y' id='13' class='sofwr'>SQL Server Reporting Services</span> <span inprof='y' id='14' class='sofwr'>(SSRS)</span>, <span inprof='y' id='15' class='sofwr'>SQL</span> <span inprof='n' id='16' class='company'>Server Integrations Services(SSIS)</span> and <span inprof='y' id='17' class='sofwr'>Data Warehousing Good</span> experience in <span inprof='y' id='18' class='sofwr'>SSAS</span>. ; 
+    *    Expertise in developing reports using <span inprof='y' id='19' class='sofwr'>SQL Server 2005</span> Reporting Services (<span inprof='y' id='20' class='sofwr'>SSRS</span>), <span inprof='y' id='21' class='sofwr'>SSAS</span>, <span inprof='y' id='22' class='sofwr'>MS Access</span> and <span inprof='y' id='23' class='sofwr'>Crystal Reports</span>. Developed Finance, <span inprof='y' id='24' class='skill'>Payroll</span>, Accounting and Operational reports ; 
+    *    Demonstrated experience building complex <span inprof='y' id='25' class='sofwr'>SQL</span> scripts and working with large amounts of data and designing complex <span inprof='y' id='26' class='skill'>management reports</span> ; 
+    *    <span inprof='y' id='27_1_1' class='role'>Expert level SQL</span> <span inprof='n' id='27_2' class='company'>Server Management Studio</span> (<span inprof='n' id='27_3' class='date'>2008</span>), Automation, <span inprof='y' id='28' class='sofwr'>SSRS</span>, <span inprof='y' id='29' class='sofwr'>SSIS</span> &#38; <span inprof='y' id='30' class='sofwr'>TFS</span> ; 
+    *    <span inprof='y' id='31_1' class='role'>Expert in database management</span> and extensive experience in designing, modeling, developing and delivering various <span inprof='y' id='32' class='skill'>Business Intelligence</span> projects(using <span inprof='y' id='33' class='sofwr'>Microsoft SSRS</span> &#38; <span inprof='y' id='34' class='sofwr'>SSIS</span>) ; 
+    *    Experienced in performing <span inprof='y' id='35' class='sofwr'>ETL</span> procedure to load data from different sources into data warehouse using <span inprof='y' id='36' class='sofwr'>MS SQL Server</span> SSIS ; 
+    *    Experienced in writing Parameterized Queries for generating Tabular reports, Matrix reports, Chart reports, Drill down reports, Formatting report layout, Expressions, Grouping, Sorting the data, defining data source and writing <span inprof='y' id='37' class='sofwr'>Stored procedures</span> ; 
+    *    Performed lot of formatting, grouping, filtering, sorting on the reports ; 
+    *    Experience in designing Database Models using <span inprof='y' id='38' class='sofwr'>MS Visio</span> and <span inprof='y' id='39' class='skill'>ER</span>-<span inprof='y' id='40' class='sofwr'>Win.</span> ; 
+    *    Excellent in Transforming Logical Database designs into Physical Databases. ; 
+    *    Experience in Building the Data Integration and Work Flow Applications using <span inprof='n' id='41' class='company'>SSIS (SQL Server Integration Services)</span>. ; 
+    *    Experience in writing <span inprof='y' id='42' class='sofwr'>Stored Procedures</span>, Functions on <span inprof='y' id='43' class='sofwr'>SQL Server</span> <span inprof='y' id='44' class='sofwr'>2008</span>/<span inprof='y' id='45' class='sofwr'>2005</span>/<span inprof='y' id='46' class='sofwr'>2000</span> ; 
+    *    Experience in working in the Agile software methodology environment ; 
+    *    Extensive experience in <span inprof='y' id='47' class='skill'>Business Analysis</span>, Financial, Data Analysis Requirement Gathering, Design, Development and <span inprof='y' id='48' class='skill'>quality assurance</span> of various <span inprof='y' id='49' class='skill'>Business Intelligence</span> solutions, software/web applications in various business domains such as IT, Finance, Sales, Customer service, Information and <span inprof='y' id='50' class='skill'>marketing services</span> and Restaurant industry ; 
+    *    <span inprof='y' id='51' class='skill'>Excellent communication skills</span>. Experience in <span inprof='y' id='52' class='skill'>gathering requirements</span> from both internal and external clients. Acted as a liaison between technical and non-technical people to analyze and solve problems in various business domains ; 
+    *    Managed &#38; delivered ad-hoc projects for million dollar clients- from gathering and documenting requirements, translating them to technical specifications for Data processing team and testing the resulting data before delivering it securely to the clients ; 
+    *    <span inprof='y' id='53' class='skill'>Strong Analytical skills</span> and <span inprof='y' id='54' class='skill'>problem solving skills</span>. <span inprof='y' id='55' class='skill'>Team player</span> who likes to work in fast paced challenging environment. Ability to work well under pressure and drive the projects from start to end in the most efficient manner. ; 
+    *    Possess <span inprof='y' id='56' class='qualif'>a Master's degree in Business administration</span> and <span inprof='y' id='57' class='qualif'>a Bachelors degree in Computer Science and Engineering</span>
+
+TECHNICAL EXPERTISE
+
+Databases: <span inprof='y' id='58' class='sofwr'>MS SQL Server</span> <span inprof='y' id='59' class='sofwr'>2005</span>/<span inprof='y' id='60' class='sofwr'>2008</span>, <span inprof='y' id='61' class='sofwr'>MS Access</span>, <span inprof='y' id='62' class='sofwr'>Oracle</span>
+Database Tools: <span inprof='y' id='63' class='sofwr'>MS SQL Server</span> <span inprof='y' id='64' class='sofwr'>2005</span>/<span inprof='y' id='65' class='sofwr'>2008</span>, <span inprof='y' id='66' class='sofwr'>SSRS</span>, <span inprof='y' id='67' class='sofwr'>ETL</span>, <span inprof='y' id='68' class='sofwr'>SSAS</span>, <span inprof='y' id='69' class='sofwr'>OLAP</span>, <span inprof='y' id='70' class='sofwr'>MS-Access</span>, Chrystal <span inprof='y' id='71' class='sofwr'>Reports</span>
+Methodologies: Waterfall, Agile and Scrum, Business Process Rengineering
+Operating Systems, Software and Tools: <span inprof='y' id='72' class='sofwr'>Microsoft Windows XP</span>/ <span inprof='y' id='73' class='sofwr'>Vista</span>/ <span inprof='y' id='74' class='sofwr'>Windows 7</span>, <span inprof='y' id='75' class='sofwr'>Microsoft Office 2003</span>, <span inprof='y' id='76' class='sofwr'>2007</span>, <span inprof='y' id='77' class='sofwr'>Visio</span>, <span inprof='n' id='78' class='internet-web-address'>Salesforce.com</span>,, <span inprof='y' id='79' class='sofwr'>Sharepoint</span> <span inprof='y' id='80' class='sofwr'>2007</span>/<span inprof='y' id='81' class='sofwr'>2010</span>
+
+
+<span inprof='n' id='82' class='edu-hist-mark'>EDUCATION</span>
+
+<span inprof='y' id='83_1' class='educational'>University of Nebraska</span> at <span inprof='y' id='83_2' class='location'>Omaha, NE, USA</span>
+<span inprof='y' id='83_3' class='qualif'>Master of Business Administration
+Major: Business Administration</span>
+<span inprof='y' id='84_1' class='educational'>Mody College of Engineering and Technology</span>, <span inprof='y' id='84_2' class='location'>India</span>
+<span inprof='y' id='84_3' class='qualif'>Bachelor of Engineering
+Major: Computer Science</span> (Honors)
+
+<span inprof='n' id='85' class='work-hist-mark'>PROFESSIONAL EXPERIENCE</span>
+
+<span inprof='y' id='86_1' class='company'>Intermedia</span>, <span inprof='y' id='86_2' class='location'>Mountain View, CA</span>                                                                                    <span inprof='y' id='86_3_1' class='date'>Jan 2013</span> - <span inprof='y' id='86_3_2' class='date'>Present</span>
+
+<span inprof='y' id='87_1' class='role'>SQL Developer</span>
+
+    *    Consulted with Directors, VPs and SVPs to analyze and identified business requirements to create financial reports for management. ; 
+    *    <span inprof='y' id='88' class='sofwr'>Installed and Configured SQL Server</span> <span inprof='y' id='89' class='sofwr'>2005</span>/<span inprof='y' id='90' class='sofwr'>2008</span> and Reporting Server. ; 
+    *    Analyzed and developed financial reports using <span inprof='y' id='91' class='sofwr'>SQL Server Reporting services</span><span inprof='y' id='92' class='sofwr'>(SSRS)</span>, <span inprof='y' id='93' class='sofwr'>QA</span> report logic and verified data for accuracy. ; 
+    *    Created tables, views, data sources, datasets &#38; stored procedures for the creation of <span inprof='y' id='94' class='sofwr'>SQL reports</span> ; 
+    *    Used complex <span inprof='y' id='95' class='sofwr'>SQL queries</span> to generate ad-hoc reports and deliver data as per client need. ; 
+    *    Helped in creating &#38; testing finance data mart. Performed Data modeling &#38; Data Remapping ; 
+    *    Analyze and troubleshoot technical issues related to existing reporting-Troubleshoot data issues, validate result sets, recommend and implement <span inprof='y' id='96' class='skill'>process improvements</span> ; 
+    *    Perform tasks spanning the full lifecycle of <span inprof='y' id='97' class='skill'>BI development</span>, including end-user interviews, business <span inprof='y' id='98' class='skill'>requirements analysis</span>, analytic/<span inprof='y' id='99' class='skill'>report development</span>, documentation, training and support ; 
+    *    Ensure timely execution of standard reports (daily, weekly, monthly reporting) ; 
+    *    Created SSIS packages to load data from various formats of files into <span inprof='y' id='100' class='sofwr'>SQL Server</span> database ; 
+    *    Loaded XML/txt/csv/<span inprof='y' id='101' class='sofwr'>Excel</span> files into <span inprof='y' id='102' class='sofwr'>SQL Server</span> database using <span inprof='y' id='103' class='sofwr'>SSIS</span> packages ; 
+    *    Managed SSIS packages, logged errors, and created notifications on errors ; 
+    *    Used various transformations in the <span inprof='n' id='104' class='company'>SSIS</span> packages. ; 
+    *    Converted SSIS packages from <span inprof='y' id='105' class='sofwr'>SQL Server 2005</span> to <span inprof='y' id='106' class='sofwr'>SQL Server 2008</span> ; 
+    *    Managed <span inprof='y' id='107' class='sofwr'>SQL Server</span> Agent jobs and their notification on failure ; 
+    *    Created Stored Procedures and jobs to load data from staging environment to production environment.Used Activity Monitor to check the performance of <span inprof='y' id='108' class='sofwr'>SQL Server</span> ; 
+    *    Analyzed business requirements and creates data models and automated <span inprof='n' id='109' class='company'>SSIS</span> process
+
+<span inprof='y' id='110_1' class='company'>InfoSync</span>, <span inprof='y' id='110_2' class='location'>Wichita, KS</span>                                                                                             <span inprof='y' id='110_3_1' class='date'>July 2010</span> - <span inprof='y' id='110_3_2' class='date'>April 2012</span>
+<span inprof='y' id='111_1' class='role'>SQL Developer</span>
+Responsibilities:
+    *    Worked as <span inprof='y' id='112_1' class='role'>Business analyst</span> for designing, creating and delivering various reporting solutions. Worked with Internal and external clients to determine their custom need for reporting systems ; 
+    *    Coordinate meetings with business stakeholders (finance, sales, business owners, technology, etc.). Participated in daily scrum meeting for Agile environment ; 
+    *    Documented various processes used in the department for special clients with custom requirements such as turnover reporting ; 
+    *    Supported the business by writing <span inprof='y' id='113' class='sofwr'>SQL queries</span> for a lot of ad-hoc reporting to pull out <span inprof='y' id='114' class='skill'>payroll</span> information <span inprof='n' id='115' class='bad-occupation'>such as employee</span> history, termination history or operational information such as Key indicators , Sales Variance ; 
+    *    Developed <span inprof='y' id='116' class='skill'>Payroll</span>, Accounting and Operational SSRS Reports using <span inprof='y' id='117' class='skill'>Business intelligence</span> <span inprof='y' id='118' class='sofwr'>Development Studio</span> <span inprof='y' id='119' class='sofwr'>(BIDS)</span> for major clients in restaurant industry ; 
+    *    Responsible for running the <span inprof='y' id='120' class='skill'>payroll</span> reports as per the client schedule- monthly, quarterly or periodically or as desired and sending the requirements to the <span inprof='y' id='121' class='skill'>payroll</span> department to make some custom manual changes to the <span inprof='y' id='122' class='sofwr'>Excel</span> reports ; 
+    *    Provided <span inprof='y' id='123' class='skill'>technical support</span> by making changes in the current system or reports as per client needs and understanding and solving any technical problems they are facing. ; 
+    *    Worked on changing an existing report system when a new client come onboard and have custom requirements. ; 
+    *    Responsible for setting up reports and security for web users for various kinds of reports on the internet based client specific reporting services tool RightViewWeb ; 
+    *    Created Tabular, Matrix, List &#38; Chart , Parameterized, Sub, Ad-hoc, and Drill down reports as well as interactive reports according to business requirements in time restricted environment ; 
+    *    Performed lot of formatting, grouping, filtering, sorting on the reports ; 
+    *    Implemented linking of reports and passed parameters between the reports. ; 
+    *    Performed lot of <span inprof='y' id='124' class='skill'>data analysis</span>. Retrieved, analyzed and profiled the client data - the daily business transaction files of various restraint franchises. Analyzed and profiled the data and made the data models to help forecast the sales, net chicken head used, labor hours etc. ; 
+    *    Developed complex T-<span inprof='y' id='125' class='sofwr'>SQL queries</span>, functions &#38; stored procedures ; 
+    *    Troubleshoot and resolve reporting issues as needed to support business users -<span inprof='y' id='126' class='skill'>Provide training and support</span> to users with ad-hoc analysis as needed ; 
+    *    Experience with creating Entity relationship diagrams, dimensional modeling and data mapping ; 
+    *    Migrated data and tables between servers and databases, created and updated tables, indexes ; 
+    *    Built various packages in <span inprof='n' id='127' class='company'>SSIS</span> to load the data coming from various interfaces ; 
+    *    Used multiple transformations in <span inprof='n' id='128' class='company'>SSIS</span> to meet the business requirements by collecting data from various sources. ; 
+    *    Designed <span inprof='y' id='129' class='sofwr'>ETL</span> packages dealing with data sources (<span inprof='y' id='130' class='sofwr'>SQL Server</span>, Flat Files, and XMLs etc) and loaded the data into target data sources by performing different kinds of transformations using <span inprof='n' id='131' class='company'>SQL Server Integration Services (SSIS)</span> ; 
+    *    Transformed and loaded data into <span inprof='y' id='132' class='sofwr'>SQL Server</span> database according to business requirements ; 
+    *    Analyzed the data loading process to improve performance and efficiency of the system ; 
+    *    <span inprof='y' id='133' class='skill'>Managed a project</span> for developing <span inprof='y' id='134' class='skill'>Payroll</span> self- service platform (like ADP) for a client. <span inprof='n' id='135_1' class='some-position'>Worked as</span> <span inprof='y' id='135_2' class='role'>the project manager</span> and <span inprof='y' id='135_3' class='role'>business analyst</span> on the project. Interacted with external <span inprof='y' id='136_1' class='role'>project manager</span> and developers of diverse background
+
+<span inprof='y' id='137_1' class='company'>infoGROUP</span> , <span inprof='y' id='137_2' class='location'>Omaha, NE</span>                                                                                         <span inprof='y' id='137_3_1' class='date'>May 2006</span> - <span inprof='y' id='137_3_2' class='date'>June 2010</span>
+<span inprof='y' id='137_4_1' class='role'>Software Engineer</span>/<span inprof='y' id='137_4_2' class='role'>SQL Developer</span>
+Responsibilities:
+    *    Translated requirements into functional and non-functional specifications for <span inprof='y' id='138' class='skill'>Business Intelligence</span> reports and other applications ; 
+    *    Successfully completed and implemented the Hours Reporting project in <span inprof='y' id='139' class='sofwr'>SQL server</span> environment, Analyzed &#38; Developed reports <span inprof='n' id='140' class='bad-occupation'>for managers</span> <span inprof='n' id='141' class='bad-occupation'>to track employee</span> hours for allocating resource. Worked on it individually from gathering requirement, analysis, development and testing ; 
+    *    Wrote complex <span inprof='y' id='142' class='sofwr'>SQL queries</span> for back-<span inprof='y' id='143' class='skill'>end testing</span> ; 
+    *    Created and managed complex reports using <span inprof='y' id='144' class='sofwr'>SQL Server Reporting Services</span> (<span inprof='y' id='145' class='sofwr'>SSRS</span> <span inprof='n' id='146' class='date-range'>2005/2008</span>). ; 
+    *    Created Tabular, Matrix, List &#38; Chart , Parameterized, Sub, Ad-hoc, and Drill down reports as well as interactive reports according to business requirements in time restricted environment ; 
+    *    Worked with report parameters and performed Parameterized and cascading parameterized reports using <span inprof='y' id='147' class='sofwr'>SSRS</span> in <span inprof='y' id='148' class='sofwr'>Visual Studio</span>. ; 
+    *    Generated various reporting services RDL'S using <span inprof='y' id='149' class='sofwr'>SSRS</span> for Financial DW reports. ; 
+    *    Developed reports by using Report Server Project Wizard, Report Server Projects and Report Model Project. ; 
+    *    Developed reports in <span inprof='y' id='150_1' class='role'>Report Designer</span> using Drill capabilities like group level and row level. ; 
+    *    Implemented Groups, Charts and Images in reports by using <span inprof='y' id='151' class='sofwr'>SSRS</span>. ; 
+    *    Used Filters, Sort, Aggregations, and Alias by using <span inprof='y' id='152_1' class='role'>Generic Query Designer</span>. ; 
+    *    Created reports using store procedures and <span inprof='y' id='153' class='sofwr'>MS Access</span> as data sources. ; 
+    *    Build and Deploy Reports Report Server. <span inprof='y' id='154_1' class='role'>Used Report manager</span> to <span inprof='y' id='155' class='skill'>manage the reports</span>. Created reports subscriptions, <span inprof='y' id='156' class='skill'>managed report format</span>, schedule and delivery ; 
+    *    Developed linking Reports, Book Mark, Table, Sub Reports and Matrix Reports ; 
+    *    Wrote and integrated stored procedures to generate the special reports based on client's need ; 
+    *    Scheduled the monthly/weekly/daily reports to run automatically ; 
+    *    Created Stored Procedures/ functions to reuse the code and functionality ; 
+    *    Developed complex T-<span inprof='y' id='157' class='sofwr'>SQL queries</span> (using various joins and sub queries) and stored procedures ; 
+    *    Assisted in development of analytical <span inprof='y' id='158' class='sofwr'>OLAP cubes</span> in <span inprof='n' id='159' class='company'>SQL Server Analysis Services (SSAS)</span>. ; 
+    *    Developed Crystal OLAP reports using Microsoft Analysis service as the Data Warehouse. ; 
+    *    Developed Crystal Reports from <span inprof='y' id='160' class='sofwr'>Microsoft OLAP cubes</span>. ; 
+    *    Designed workflow of the process using <span inprof='y' id='161' class='sofwr'>Visio</span> ; 
+    *    Expertise in preparing Business Requirement Document, User Stories, Functional Specification Document and End to <span inprof='y' id='162' class='skill'>End Testing</span> ; 
+    *    Completed the project for making major changes to the company's website ; 
+    *    Worked in a team on a major company project involving creation of Private label of a website in <span inprof='y' id='163' class='sofwr'>C# .NET</span> environment and performed <span inprof='y' id='164' class='sofwr'>GUI</span> and <span inprof='y' id='165' class='skill'>functionality testing</span> ; 
+    *    Documented workflows, Reviewed test plans, Performed <span inprof='y' id='166' class='skill'>user acceptance testing</span> ; 
+    *    Coordinated with work-force in <span inprof='y' id='167' class='location'>India</span> and helped in expanding off-shored work ; 
+    *    Performed UAT testing and ensured documentation and business requirements are being met throughout the Integration, System, and <span inprof='y' id='168' class='skill'>UAT testing</span> phases using Use cases ; 
+    *    Managed &#38; delivered ad-hoc projects for million dollar clients ; 
+    *    <span inprof='y' id='169' class='skill'>Project Co-ordination support</span> for SuperMedia/Idearc -supported the team in revenue growth of more than <span inprof='n' id='170' class='percent'>50%</span> ; 
+    *    Received requirements from clients on email or phone, analyzed and forwarded them to Data Processing Team (DP) in clear and proper format. ; 
+    *    Kept track of various projects -so that all deadline are met and to manage project assigned to the data processing team ; 
+    *    Checked the programs used by DP team to make sure that they are implementing the right criteria to pull the data for the client. <span inprof='y' id='171_1' class='role'>Used a checklist</span> in various points during the process to make sure that data is correct ; 
+    *    Received the data files from the DP team and performed quality check on them to make sure that we are sending the right number of records in right format to the client ; 
+    *    Never missed a deadline and have record of sending quality data to clients without any errors ; 
+    *    <span inprof='y' id='172' class='skill'>Possess excellent organizational skills</span> and have successfully prioritized various projects ; 
+    *    Helped in increasing team efficiency by developing well-defined and standard procedures ; 
+    *    Performed excellent level of Quality Check and ensuring accurate and timely data delivery ; 
+    *    Prepared Direct Cost Pro-forma and <span inprof='y' id='173' class='skill'>Forecasting</span> model for the Sales Genie ; 
+    *    Conducted research, performed <span inprof='y' id='174' class='skill'>data analysis</span>, prepared reports and interpreted financial data ; 
+    *    Updated the <span inprof='y' id='175' class='skill'>Sarbanes-Oxley</span> procedures used by InfoUSA ; 
+    *    Developed a model for compliance with Unclaimed Property Act
+
+</TextResume>
+
+</NonXMLResume>
+
+
+
+<UserArea>
+<DaxResumeUserArea>
+<AdditionalPersonalData>
+<ExperienceSummary>
+<TotalMonthsOfWorkExperience>80</TotalMonthsOfWorkExperience>
+<TotalYearsOfWorkExperience>7</TotalYearsOfWorkExperience>
+<ExecutiveBrief>This candidate has been working in the IT  occupational sector for more than 7 years. Currently this candidate is employed as a SQL Developer at Intermedia. This candidate has extensive knowledge of Microsoft SQL Server, SQL Server Reporting Services, SQL, Microsoft SQL Server 2005, Microsoft SQL Server 2008, SQL Server Integration Services, SQL Server Analysis Services, ETL, Quality Assurance, Oracle Report, Microsoft Excel, Data Warehousing, Microsoft Developer Studio, BIDS. So far this candidate has not gained any managerial experience.</ExecutiveBrief>
+</ExperienceSummary>
+</AdditionalPersonalData>
+<ParserInfo>
+<ParserConfiguration>{max_len=50000} {tel_flag=} {send_zip=} {fast_conv=} {DEF_LOCAL=} {sdate=0} {no_email_body=0} {do_clever_zoning=1} {keep_span=1} {complex=1} {accept_langs=} {not_accept_langs=} {prefer_lang_cv=EN} {pers_only=0} {turbo=0} {split_language=0} {picture=0} {picture_inline=0} {name_space=0} {charset=} {hrxml_upgrade_edu_hist=0}{hrxml_add_languages_section=0}{spool=} {docID=} {user=DEFAULT} </ParserConfiguration>
+<ParserRelease>0.12.3.32629</ParserRelease>
+<ParserReleaseDate>2014-06-18</ParserReleaseDate>
+<ParserSchema>2.0.29</ParserSchema>
+<ParserSchemaLocation>http://cvx.daxtra.com/cvts/xsd/candidate/2.0.29/Resume.xsd</ParserSchemaLocation>
+<ConverterRelease>0.5.2.32629</ConverterRelease>
+<ConverterReleaseDate>2014-06-18</ConverterReleaseDate>
+</ParserInfo>
+<FileStruct filename='/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/Neha.docx'>
+
+<attachment fname='Neha.docx' ftype='docx' conv='yes' doc_type='cv' lang='EN'>/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/Neha.docx</attachment>
+
+
+</FileStruct>
+</DaxResumeUserArea>
+</UserArea>
+</Resume>

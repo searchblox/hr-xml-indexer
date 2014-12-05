@@ -1,0 +1,1080 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Resume lang='en' src='DAXTRA-CVX schema:2.0.29 release:0.12.3.32629 rdate:2014-06-18'>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName id='2'>
+<FormattedName>Phanidhar Oruganti</FormattedName>
+<GivenName>Phanidhar</GivenName>
+<FamilyName>Oruganti</FamilyName>
+<sex>Male</sex>
+</PersonName>
+<ContactMethod>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>*  7 years of total IT experience as a Oracle DBA in Version 9i to 11gR2, Datawarehouse. ; 
+    *  Responsible for Installing oracle 9i, 10g, 11g and configuring software's on different platforms ; 
+    *  Creating databases using manually and dbca as per requirement. ;</ExecutiveSummary>
+
+
+<EmploymentHistory>
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='50_1'>Fiserv Inc</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='50_2'>
+<Municipality>Norcross</Municipality>
+<Region>GA</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='50_4_2'>Oracle DBA</Title>
+<OrgName id='50_1'>Fiserv Inc</OrgName>
+
+
+
+<Description>Description:
+    Worked in project of online fund transfer service with product as Pop-Money and Compass to banks like Bank of America, Citi Bank, Ally Bank, Wells Fargo etc. Worked through Fiserv to provide technical support in merger of Wachovia bank into Well Fargo.
+
+Responsibilities:
+    *  Provided Oracle DBA support, backup &#38; restore, performance monitoring and tuning; Experience of using Oracle Enterprise Manager (OEM),  and Data Guard. and maintenance activities ; 
+    *  Deployment of database packages / patches into bank server (Ally bank, Citi Bank, Bank Of    America)  as per planned/scheduled timeframe. ; 
+    *  Implemented Oracle Fail-Safe/Active-Passive setup for different clients. ; 
+    *  Export and import of database objects using Data pump utilities EXPDP and IMPDP. ; 
+    *  Optimized tuning of user sessions and system level performance using SQL_TRACE and gathered statistics using DBMS_STAT ; 
+    *  Performance tuning of database regularly, worked on developers request of general SQL-TUNING, Database tuning used Explain Plan, SQL*Trace and Statspack. ; 
+    *  Responsible for handling Red Hat Linux servers and setting up the security in database.Automated the monitoring of databases regularly using shell-scripts, HTML, Cron-jobs. ; 
+    *  Configuring of kernel-parameters of the environments according to the end-requirements. ; 
+    *  Oracle Database Administration experience on different flavours of UNIX. ; 
+    *  Performed Installation, Configuration, Upgrades, Migrations, Administration of Oracle Databases. ; 
+    *  Worked on logical backups, Hot/Cold Backup and Recovery and Cloning of databases. ; 
+    *  Experience in complete recovery, incomplete recovery, recovering data files, tablespaces, control files, block corruption. ; 
+    *  Performed database Performance Tuning and Network Trouble Shooting using TNS configuration, Listener settings, Sqlnet settings. ; 
+    *  Worked in Monitoring and Tuning system resources associated with the database performance, hit ratios, I/O, lock, and latch contention. ; 
+    *  Worked on various tools like SQL*LOADER, OEM, RMAN,  Export/Import, Materialized Views, Replication.
+
+Environments: UNIX, Red Hat Linux, AIX,RMAN</Description>
+<StartDate id='50_3_1'><YearMonth>2012-09</YearMonth></StartDate>
+<EndDate id='50_3_2'>notApplicable</EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='50' last_id='85' border_id='86'></TLSPAN>
+<MonthsOfWork>22</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='86_1'>GE Energy</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='86_2'>
+<Municipality>Marietta</Municipality>
+<Region>GA</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='86_4_2'>Oracle DBA</Title>
+<OrgName id='86_1'>GE Energy</OrgName>
+
+
+
+<Description>Description:
+    GE Energy is providing Digital Energy Industrial Solutions and Power Conversion methods. It research on Industrial Power generation using unconventional resources.
+    I worked as an Sr Oracle DBA in a Digital Energy Industrial Solution project of Global Digital Media team.
+
+Responsibilities:
+    *  Implemented and supported Oracle Active Dataguard, Oracle Snapshot Dataguard ; 
+    *  Provided Oracle DBA support, backup &#38; restore, performance monitoring and tuning; Experience of using Oracle Enterprise Manager (OEM),  and Data Guard. and maintenance activities ; 
+    *  Database upgradation from 10.2.0.3 to 11.2.0.2 using patchset for upgrading 11gR1 to 11gR2 ; 
+    *  Monitoring the database growth on daily basis, Modification of databases, Addition of tablespaces, datafiles and Modification of tablespaces, datafiles. Modification and addition of primary storage objects. ; 
+    *  Automated the monitoring of databases regularly using shell-scripts, HTML, Cron-jobs. ; 
+    *  Configuring of kernel-parameters of the environments according to the end-requirements. ; 
+    *  Experience in complete recovery, incomplete recovery, recovering data files, tablespaces, control files, block corruption. ; 
+    *  Good Programming Skills in SQL, PL/SQL, Shell Scripting, Partitioning, Data modeling, Logical and Physical Design, Backup and Recovery Procedures. ; 
+    *  Use dynamic performance views (data dictionary views) for the daily activities of the databases. Monitor the alert logs for Oracle internal errors ; 
+    *  Configure RMAN to make physical standby and use effectively considering performance perspective and CPU usages.
+
+Environments:  Oracle 11g, RMAN, Functions and Triggers,Linux Servers</Description>
+<StartDate id='86_3_1'><YearMonth>2011-02</YearMonth></StartDate>
+<EndDate id='86_3_2'><YearMonth>2012-09</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='86' last_id='107' border_id='108'></TLSPAN>
+<MonthsOfWork>20</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='108_1'>Redhat Inc</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='108_2'>
+<Municipality>Mountain View</Municipality>
+<CountryCode>CA</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='108_4_2'>Oracle DBA</Title>
+<OrgName id='108_1'>Redhat Inc</OrgName>
+
+
+
+<Description>Description:
+    Client Redhat is a rapidly growing company having well recognized product Linux operating system.
+    I worked as a Sr Oracle DBA to support multiple Production and development databases, including third party client's databases and have been part of the team of transferring data from 8 databases into a single Business Analytics Warehouse (BAW) using Informatica ETL and Datawarehouse Administrative Console (DAC).
+
+Responsibilities:
+    *  Implemented Oracle Fail-Safe/Active-Passive setup for different clients. ; 
+    *  Export and import of database objects using Data pump utilities EXPDP and IMPDP. ; 
+    *  Optimized tuning of user sessions and system level performance using SQL_TRACE and gathered statistics using DBMS_STAT ; 
+    *  Performance tuning of database regularly, worked on developers request of general SQL-TUNING, Database tuning used Explain Plan, SQL*Trace and Statspack. ; 
+    *  Responsible for handling Red Hat Linux servers and setting up the security in database. ; 
+    *  Automated the monitoring of databases regularly using shell-scripts, HTML, Cron-jobs. ; 
+    *  Configuring of kernel-parameters of the environments according to the end-requirements. ; 
+    *  Oracle Database Administration experience on different flavours of UNIX. ; 
+    *  Performed Installation, Configuration, Upgrades, Migrations, Administration of Oracle Databases. ; 
+    *  Worked on logical backups, Hot/Cold Backup and Recovery and Cloning of databases. ; 
+    *  Performed database Performance Tuning and Network Trouble Shooting using TNS configuration, Listener settings, Sqlnet settings. ; 
+    *  Worked in Monitoring and Tuning system resources associated with the database performance, hit ratios, I/O, lock, and latch contention. ; 
+    *  Worked on various tools like SQL*LOADER, OEM, RMAN,  Exportg/Import, Materialized Views, Replication. ; 
+    *  Oracle datawarehouse support third part client's datawarehouses. ; 
+    *  Cloning production data into Dev, QA, Stage, Test, Training datawarehouses. ; 
+    *  Using Informatica Power Centre to configure data transfer, Folders, Session, Tasks, Attributes, Mapping and transformation developer (Update Strategy, Filter, Aggregator, Lookup, Rank, Joiner and Custom Transformation) ; 
+    *  Using Informatica Repository Manager, Designer, Workflow Manager and Workflow Monitor. ; 
+    *  Supporting and Monitoring data loading, Creating /Analyzing /Scheduling reports, User management, performance tuning using Datawarehouse Administrative Control (DAgC). ; 
+    *  Database start-up and shutdown, alter database parameters, tablespace management, space monitoring and analyses, alter and move data files, table reorganization, index rebuild, export and import, manage database statistics, manage flashback database . ; 
+    *  Writing scripts for the system and database for the effective functionality and report generation, Automation of Start-up Shutdown on all Production and Development Database, Scripts for Start-up and Shutdown, Health Check of Databases, Analyzing of Tables, Cold Backups.
+
+Environments: UNIX, Red Hat Linux, AIX,OEL</Description>
+<StartDate id='108_3_1'><YearMonth>2009-08</YearMonth></StartDate>
+<EndDate id='108_3_2'><YearMonth>2011-02</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='108' last_id='143' border_id='146'></TLSPAN>
+<MonthsOfWork>19</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='146_1'>AT &#38; T Global Business Services Pvt Ltd</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='149'>
+<CountryCode>IN</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='146_3_2'>Database Administrator</Title>
+<OrgName id='146_1'>AT &#38; T Global Business Services Pvt Ltd</OrgName>
+
+
+
+<Description>Description  :
+    AT &#38; T is leading telecom Company having large potential customers all over world. All the Database and Application services for all customers is being served from various Data centers located at US, which hosts about 500+ Production Database instances serving the customers with multiple platforms . A team of 40 DBA's handles all the databases including Production, development, and Quality instances from India and US. GTO is service assurance team which supports the databases remotely from Hyderabad.
+Responsibilities:
+    *  Implemented installations and configured Oracle 9i, 10g and 11g databases. ; 
+    *  Creating Databases,cloning Databases and refresh Databases using Exp&#38;imp. ; 
+    *  Space management at table space level (increasing table space sizes and syncing, resizing data files whenever it comes maximum values). ; 
+    *  Scheduling various jobs using crontab. Maintaining cron jobs and monitoring jobs. ; 
+    *  Applying RDBMS Patches and Cloning . ; 
+    *  Regular checking alert log and trace files for errors. ; 
+    *  Transported the tablespace from Production database and plugged-in it in Development Database for the usage of Developers.    	 ; 
+    *  Using Flash Recovery Area to store RMAN backup files, backup auto control files, flashback database etc. ; 
+    *  Created and enhanced DB utilities needed for automation of system and unit tests and investigation of production issues, troubleshooting. ; 
+    *  Troubleshoot problems with Listeners. ; 
+    *  Closely monitoring backups (Rman Hot and Exp) and planning cronjobs accordingly. ; 
+    *  Implement and maintain Database Security (maintain users, roles, assign privileges, profiles). ; 
+    *  Space management at OS level for backups and archive destinations
+
+Environments: Oracle 9i/10g, LINUX, Windows 2003 server, SQL server</Description>
+<StartDate id='146_2_1'><YearMonth>2007-04</YearMonth></StartDate>
+<EndDate id='146_2_2'><YearMonth>2009-07</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='146' last_id='161' border_id='0'></TLSPAN>
+<MonthsOfWork>28</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType='university'>
+<SchoolName id='46_2'>Jawaharlal Nehru Technological University</SchoolName>
+<LocationSummary id='46_3'>
+<CountryCode>IN</CountryCode>
+</LocationSummary>
+
+
+<Degree degreeType='bachelors'>
+<DegreeName id='46_1'>Bachelor of Technology</DegreeName>
+
+</Degree>
+<Major id='46_1'>Electronics &#38; Communication Engineering</Major>
+
+
+
+<Comments>CERTIFICATION / TRAINING:
+
+    *  Certified as Redhat Certified System Administrator (RHCSA) ; 
+    *  Certified as Redhat Certified Engineer (RHCE) ;</Comments>
+</SchoolOrInstitution>
+
+</EducationHistory>
+
+
+
+
+
+
+
+
+
+
+
+<Competency oids='18 67 75 92 93 105 114 122 ' description='Skill > IT' auth='yes' name='Oracle'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>61</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='27 69 70 101 116 117 ' description='Skill > IT' auth='yes' name='SQL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>61</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='24 80 85 107 127 ' description='Skill > IT' auth='yes' name='Oracle Recovery Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>61</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>RMAN</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='74 82 121 141 ' description='Skill > IT' auth='yes' name='UNIX'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>41</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='10 12 152 154 ' description='Skill' auth='no' name='Space management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>52</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='61 79 97 126 ' description='Skill > IT' auth='yes' name='Original Equipment Manufacturer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>61</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>(OEM)</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>OEM</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>98</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='8 19 151 157 ' description='Skill > IT' auth='yes' name='Oracle 9i'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='configured'><StringValue>configured</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>9i 9i</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>configured Oracle 9i</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>53</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='26 78 125 ' description='Skill > IT' auth='yes' name='Microsoft SQL*Loader'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>41</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL*Loader</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='43 83 142 ' description='Skill > IT' auth='yes' name='Linux Red Hat'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>41</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Linux Radhat 5, 6 5, 6</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Red Hat Linux</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='29 112 134 ' description='Skill > IT' auth='yes' name='Informatica'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='72 99 119 ' description='Skill > IT' auth='yes' name='HTML'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>61</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='28 31 113 ' description='Skill > IT' auth='yes' name='ETL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='42 84 143 ' description='Skill > IT' auth='yes' name='AIX UNIX'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>41</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>UNIX AIX 4.1/4.2 4.1/4.2</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>AIX</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='20 103 ' description='Skill > IT' auth='yes' name='shell scripting'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Unix Shell Script</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='59 95 ' description='Skill' auth='no' name='performance monitoring'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>42</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='71 118 ' description='Skill' auth='no' name='Responsible for handling Red Hat Linux servers'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>41</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='77 124 ' description='Skill > IT' auth='yes' name='Oracle SQLNet'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>41</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Sqlnet</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='22 102 ' description='Skill > IT' auth='yes' name='Oracle PL/SQL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>PL/SQL</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='60 96 ' description='Skill > IT' auth='yes' name='Oracle Enterprise Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>42</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>99</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='73 120 ' description='Skill' auth='no' name='Oracle Database Administration experience'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>41</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='62 98 ' description='Skill > IT' auth='yes' name='Oracle Data Guard'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>42</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Data Guard</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>97</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='9 158 ' description='Skill > IT' auth='yes' name='Oracle 10G'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>10g 10g</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='76 123 ' description='Skill' auth='no' name='Network Trouble Shooting'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>41</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='36 37 ' description='Skill > IT' auth='yes' name='Microsoft Windows 9x'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>98</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>95</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='110 159 ' description='Skill > IT' auth='yes' name='Linux'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>47</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Linux operating system</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>73</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='16 ' description='Skill' auth='no' name='team player'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='138 ' description='Skill' auth='no' name='space monitoring'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='139 ' description='Skill' auth='no' name='manage flashback database'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='15 ' description='Skill' auth='no' name='manage crisis'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='137 ' description='Skill' auth='no' name='User management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='89 ' description='Skill' auth='yes' name='Unconventional Oil &#38; Gas'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>unconventional resources</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>70</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='13 ' description='Skill' auth='no' name='Security Administration'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='140 ' description='Skill' auth='yes' name='Scriptwriting'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Writing scripts</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='21 ' description='Skill > IT' auth='yes' name='SQLPlus'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL*Plus</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='14 ' description='Skill' auth='yes' name='Project Team Skills'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>part of a team</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='104 ' description='Skill' auth='no' name='Physical Design'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='128 ' description='Skill' auth='no' name='Oracle datawarehouse support'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='106 ' description='Skill > IT' auth='yes' name='Oracle 11g'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='129 ' description='Skill > IT' auth='no' name='ORACLE QA'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>QA</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='40 ' description='Skill > IT' auth='yes' name='Microsoft Windows XP'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>XP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='39 ' description='Skill > IT' auth='yes' name='Microsoft Windows Vista'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Vista</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='38 ' description='Skill > IT' auth='yes' name='Microsoft Windows NT'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>NT</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='34 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2008 Server'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2008</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='33 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2003 Server'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows Server 2003</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='160 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2000 Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows 2003 server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='35 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2000 Professional'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows 2000</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='161 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='41 ' description='Skill > IT' auth='yes' name='Microsoft DOS'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS-DOS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='81 ' description='Skill' auth='yes' name='Import/Export'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Export/Import</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='32 ' description='Skill > IT' auth='yes' name='IBM OS/2'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Operating System</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='100 ' description='Skill' auth='no' name='Good Programming Skills'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='63 ' description='Skill' auth='no' name='Deployment of database packages / patches'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='148 ' description='Skill' auth='yes' name='Database Administration'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>DBA</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>54</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='44 ' description='Skill' auth='yes' name='Civil Engineering'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='11 ' description='Skill' auth='no' name='Capacity Planning'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='23 ' description='Skill > IT' auth='yes' name='C Programming Language'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>C</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='5_1 50_4_2 86_4_2 108_4_2 ' description='Held Position' auth='no' name='a Oracle DBA'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>61</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Oracle DBA</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='90_2 111_2 ' description='Held Position' auth='no' name='an Sr Oracle DBA'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>a Sr Oracle DBA</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>72</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='132_1 ' description='Held Position' auth='no' name='developer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='136_1 ' description='Held Position' auth='no' name='Workflow Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='130_1 ' description='Held Position' auth='no' name='Stage'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='25_1 ' description='Held Position' auth='no' name='Server Manager'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='58_2 ' description='Held Position' auth='no' name='Provided Oracle DBA support'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='94_1 ' description='Held Position' auth='no' name='Provided Oracle DBA'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='133_1 ' description='Held Position' auth='no' name='Joiner'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>67</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='135_1 ' description='Held Position' auth='no' name='Designer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>66</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='146_3_2 ' description='Held Position' auth='yes' name='Database Administrator'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>54</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='47 ' description='Degree/Qualification > Professional' auth='no' name='Redhat Certified System Administrator'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Redhat Certified System Administrator (RHCSA)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='48 ' description='Degree/Qualification > Professional' auth='yes' name='Red Hat Certified Engineer'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Redhat Certified Engineer (RHCE)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='155 ' description='Degree/Qualification' auth='no' name='OS level'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='46_1 ' description='Degree/Qualification' auth='yes' name='Bachelors Degree > Bachelor of Technology > Bachelor of Technology Electronics &#38; Communication Engineering'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='Electronics &#38; Communication Engineering'><StringValue>Electronics &#38; Communication Engineering</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Bachelor of Technology in Electronics &#38; Communication Engineering</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency description='Industry' auth='yes' name='industry~it'>
+<CompetencyEvidence name='skillCount' typeDescription='skillCount'><NumericValue>4</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+</Competency>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<RevisionDate id='1'>2014-06-18</RevisionDate>
+</StructuredXMLResume>
+<NonXMLResume>
+
+<TextResume>
+
+
+
+<span inprof='n' id='1' class='date'>{{DOCUMENT_DATESTAMP}} 2014-6-18 {{END_DOCUMENT_DATESTAMP}}</span>
+
+
+<span inprof='y' id='2' class='nominal'>Phanidhar Oruganti</span>
+<span inprof='n' id='3' class='work-hist-mark'>PROFESSIONAL SUMMARY</span>
+
+    *  <span inprof='n' id='4' class='duration'>7 years</span> of total IT experience as <span inprof='y' id='5_1' class='role'>a Oracle DBA</span> in <span inprof='n' id='6' class='company'>Version</span> 9i to 11gR2, Datawarehouse. ; 
+    *  Responsible for Installing <span inprof='n' id='7' class='sofwr'>oracle</span> <span inprof='y' id='8' class='sofwr'>9i</span>, <span inprof='y' id='9' class='sofwr'>10g</span>, 11g and configuring software's on different platforms ; 
+    *  Creating databases using manually and dbca as per requirement. ; 
+    *  Health checks of the databases every day. ; 
+    *  Pro actively monitoring alerts on databases and fixing issues as per criticality. ; 
+    *  <span inprof='y' id='10' class='skill'>Space management</span> at table space level (increasing table space sizes and syncing, resizing data files whenever it comes maximum values). ; 
+    *  Closely monitoring archive destinations and file systems for backups. ; 
+    *  Working on backup failures(Rman, Hot, Cold Backups and exports ) and monitoring scheduled backups. Sending backup reports to the customer whenever required. ; 
+    *  Having experience on all backup strategies(physical and logical backups). ; 
+    *  Having experience cloning using Rman clone, Exp&#38;Imp and DB refreshments as per schedules ; 
+    *  Extensive experience with Database Cloning and Refreshing pre-prod/dev databases with prod/pre-production databases ; 
+    *  Experienced in <span inprof='y' id='11' class='skill'>Capacity Planning</span>, <span inprof='y' id='12' class='skill'>Space Management</span> and Snapshot setups and <span inprof='y' id='13' class='skill'>Security Administration</span>. ; 
+    *  Implement and maintain Database Security (maintain users, roles, assign privileges, profiles). ; 
+    *  Work as <span inprof='y' id='14' class='skill'>part of a team</span> and provide 24*7 supports when required ; 
+    *  Based on the situations encountered, refined my abilities to interact with peers and supervisors, and effectively <span inprof='y' id='15' class='skill'>manage crisis</span>, handle issues, resolve conflicts, and most importantly, be a productive <span inprof='y' id='16' class='skill'>team player</span>.
+
+
+<span inprof='n' id='17' class='skills-qualif-mark'>TECHNICAL SKILLS:</span>
+
+
+Database:               <span inprof='y' id='18' class='sofwr'>Oracle</span> Core <span inprof='y' id='19' class='sofwr'>9i</span> to 11gR2, Datawarehouse.
+Languages/Tools         <span inprof='y' id='20' class='sofwr'>Unix Shell Script</span>, <span inprof='y' id='21' class='sofwr'>SQL*Plus</span>, <span inprof='y' id='22' class='sofwr'>PL/SQL</span>, <span inprof='y' id='23' class='sofwr'>C</span>, OEM, dbconsole,  <span inprof='y' id='24' class='sofwr'>RMAN</span>, netbackup, Dataguard (Pysical &#38; Logical), <span inprof='y' id='25_1' class='role'>Server Manager</span>, <span inprof='y' id='26' class='sofwr'>SQL*Loader</span>, OUI, dbca, Logical/ Cold/ Hot backup, Data Pump, <span inprof='y' id='27' class='sofwr'>SQL</span>*Ne, Informatica <span inprof='y' id='28' class='sofwr'>ETL</span>, <span inprof='y' id='29' class='sofwr'>Informatica</span> <span inprof='n' id='30' class='company'>Power Centre</span>, Datawarehouse Administrative Console,Datastage <span inprof='y' id='31' class='sofwr'>ETL</span>
+
+<span inprof='y' id='32' class='sofwr'>Operating System</span>        <span inprof='y' id='33' class='sofwr'>Windows Server 2003</span>/<span inprof='y' id='34' class='sofwr'>2008</span>, <span inprof='y' id='35' class='sofwr'>Windows 2000</span>/<span inprof='y' id='36' class='sofwr'>98</span>/<span inprof='y' id='37' class='sofwr'>95</span>/<span inprof='y' id='38' class='sofwr'>NT</span>/<span inprof='y' id='39' class='sofwr'>Vista</span>/<span inprof='y' id='40' class='sofwr'>XP</span>, <span inprof='y' id='41' class='sofwr'>MS-DOS</span>, <span inprof='y' id='42' class='sofwr'>UNIX AIX 4.1/4.2</span>, <span inprof='y' id='43' class='sofwr'>Linux Radhat 5, 6</span>,
+
+Domain Knowledge        Banking, Finance, Retail, Travel, <span inprof='y' id='44' class='skill'>Civil Engineering</span>, Cloud Computing
+
+
+
+<span inprof='n' id='45' class='edu-hist-mark'>ACADEMIC BACKGROUND:</span>
+<span inprof='y' id='46_1' class='qualif'>Bachelor of Technology in Electronics &#38; Communication Engineering</span> at <span inprof='y' id='46_2' class='educational'>Jawaharlal Nehru Technological University (JNTU)</span> , <span inprof='y' id='46_3' class='location'>India</span>.
+
+CERTIFICATION / TRAINING:
+
+    *  Certified as <span inprof='y' id='47' class='qualif'>Redhat Certified System Administrator (RHCSA)</span> ; 
+    *  Certified as <span inprof='y' id='48' class='qualif'>Redhat Certified Engineer (RHCE)</span>
+
+<span inprof='n' id='49' class='work-hist-mark'>PROFESSIONAL EXPERIENCE</span>
+
+<span inprof='y' id='50_1' class='company'>Client      :   Fiserv Inc</span>       <span inprof='y' id='50_2' class='location'>Norcross, GA</span>                                             <span inprof='y' id='50_3_1' class='date'>Sep12</span>- <span inprof='y' id='50_3_2' class='date'>Till Date</span>
+<span inprof='n' id='50_4_1' class='some-position'>Designation</span>: <span inprof='y' id='50_4_2' class='role'>Oracle DBA</span>
+
+Description:
+       Worked in project of online fund transfer service with product as Pop-Money and Compass to banks like <span inprof='n' id='51' class='company'>Bank of America</span>, <span inprof='n' id='52' class='company'>Citi Bank</span>, <span inprof='n' id='53' class='company'>Ally Bank</span>, <span inprof='n' id='54' class='company'>Wells Fargo</span> etc. Worked through <span inprof='n' id='55' class='company'>Fiserv</span> <span inprof='n' id='56' class='bad-occupation'>to provide technical support</span> in merger of <span inprof='n' id='57' class='company'>Wachovia bank</span> into Well Fargo.
+
+<span inprof='n' id='58_1' class='some-position'>Responsibilities:
+    *</span>  <span inprof='y' id='58_2' class='role'>Provided Oracle DBA support</span>, backup &#38; restore, <span inprof='y' id='59' class='skill'>performance monitoring</span> and tuning; Experience of using <span inprof='y' id='60' class='sofwr'>Oracle Enterprise Manager</span> <span inprof='y' id='61' class='sofwr'>(OEM)</span>,  and <span inprof='y' id='62' class='sofwr'>Data Guard</span>. and maintenance activities ; 
+    *  <span inprof='y' id='63' class='skill'>Deployment of database packages / patches</span> into bank server (<span inprof='n' id='64' class='company'>Ally bank</span>, <span inprof='n' id='65' class='company'>Citi Bank</span>, Bank Of      <span inprof='n' id='66' class='location'>America</span>)  as per planned/scheduled timeframe. ; 
+    *  Implemented <span inprof='y' id='67' class='sofwr'>Oracle</span> Fail-Safe/Active-Passive setup for different clients. ; 
+    *  Export and import of database objects using Data pump utilities <span inprof='n' id='68' class='company'>EXPDP and IMPDP</span>. ; 
+    *  Optimized tuning of user sessions and system level performance using SQL_TRACE and gathered statistics using DBMS_STAT ; 
+    *  Performance tuning of database regularly, worked on developers request of general <span inprof='y' id='69' class='sofwr'>SQL</span>-TUNING, Database tuning used Explain Plan, <span inprof='y' id='70' class='sofwr'>SQL</span>*Trace and Statspack. ; 
+    *  <span inprof='y' id='71' class='skill'>Responsible for handling Red Hat Linux servers</span> and setting up the security in database.Automated the monitoring of databases regularly using shell-scripts, <span inprof='y' id='72' class='sofwr'>HTML</span>, Cron-jobs. ; 
+    *  Configuring of kernel-parameters of the environments according to the end-requirements. ; 
+    *  <span inprof='y' id='73' class='skill'>Oracle Database Administration experience</span> on different flavours of <span inprof='y' id='74' class='sofwr'>UNIX</span>. ; 
+    *  Performed Installation, Configuration, Upgrades, Migrations, Administration of <span inprof='y' id='75' class='sofwr'>Oracle</span> Databases. ; 
+    *  Worked on logical backups, Hot/Cold Backup and Recovery and Cloning of databases. ; 
+    *  Experience in complete recovery, incomplete recovery, recovering data files, tablespaces, control files, block corruption. ; 
+    *  Performed database Performance Tuning and <span inprof='y' id='76' class='skill'>Network Trouble Shooting</span> using TNS configuration, Listener settings, <span inprof='y' id='77' class='sofwr'>Sqlnet</span> settings. ; 
+    *  Worked in Monitoring and Tuning system resources associated with the database performance, hit ratios, I/O, lock, and latch contention. ; 
+    *  Worked on various tools like <span inprof='y' id='78' class='sofwr'>SQL*LOADER</span>, <span inprof='y' id='79' class='sofwr'>OEM</span>, <span inprof='y' id='80' class='sofwr'>RMAN</span>,  <span inprof='y' id='81' class='skill'>Export/Import</span>, Materialized Views, Replication.
+
+Environments: <span inprof='y' id='82' class='sofwr'>UNIX</span>, <span inprof='y' id='83' class='sofwr'>Red Hat Linux</span>, <span inprof='y' id='84' class='sofwr'>AIX</span>,<span inprof='y' id='85' class='sofwr'>RMAN</span>
+
+<span inprof='y' id='86_1' class='company'>Client      :  GE Energy</span>    <span inprof='y' id='86_2' class='location'>Marietta GA</span>                                             <span inprof='y' id='86_3_1' class='date'>Feb'11</span> - <span inprof='y' id='86_3_2' class='date'>Sep'12</span>
+<span inprof='n' id='86_4_1' class='some-position'>Designation</span>: <span inprof='y' id='86_4_2' class='role'>Oracle DBA</span>
+
+Description:
+       <span inprof='n' id='87' class='company'>GE Energy</span> is providing <span inprof='n' id='88' class='company'>Digital Energy Industrial Solutions</span> and Power Conversion methods. It research on Industrial Power generation using <span inprof='y' id='89' class='skill'>unconventional resources</span>.
+       I <span inprof='n' id='90_1' class='some-position'>worked as</span> <span inprof='y' id='90_2' class='role'>an Sr Oracle DBA</span> in a <span inprof='n' id='91' class='company'>Digital Energy Industrial</span> Solution project of Global Digital Media team.
+
+Responsibilities:
+    *  Implemented and supported <span inprof='y' id='92' class='sofwr'>Oracle</span> Active Dataguard, <span inprof='y' id='93' class='sofwr'>Oracle</span> Snapshot Dataguard ; 
+    *  <span inprof='y' id='94_1' class='role'>Provided Oracle DBA</span> support, backup &#38; restore, <span inprof='y' id='95' class='skill'>performance monitoring</span> and tuning; Experience of using <span inprof='y' id='96' class='sofwr'>Oracle Enterprise Manager</span> <span inprof='y' id='97' class='sofwr'>(OEM)</span>,  and <span inprof='y' id='98' class='sofwr'>Data Guard</span>. and maintenance activities ; 
+    *  Database upgradation from 10.2.0.3 to 11.2.0.2 using patchset for upgrading 11gR1 to 11gR2 ; 
+    *  Monitoring the database growth on daily basis, Modification of databases, Addition of tablespaces, datafiles and Modification of tablespaces, datafiles. Modification and addition of primary storage objects. ; 
+    *  Automated the monitoring of databases regularly using shell-scripts, <span inprof='y' id='99' class='sofwr'>HTML</span>, Cron-jobs. ; 
+    *  Configuring of kernel-parameters of the environments according to the end-requirements. ; 
+    *  Experience in complete recovery, incomplete recovery, recovering data files, tablespaces, control files, block corruption. ; 
+    *  <span inprof='y' id='100' class='skill'>Good Programming Skills</span> in <span inprof='y' id='101' class='sofwr'>SQL</span>, <span inprof='y' id='102' class='sofwr'>PL/SQL</span>, <span inprof='y' id='103' class='sofwr'>Shell Scripting</span>, Partitioning, Data modeling, Logical and <span inprof='y' id='104' class='skill'>Physical Design</span>, Backup and Recovery Procedures. ; 
+    *  Use dynamic performance views (data dictionary views) for the daily activities of the databases. Monitor the alert logs for <span inprof='y' id='105' class='sofwr'>Oracle</span> internal errors ; 
+    *  Configure RMAN to make physical standby and use effectively considering performance perspective and CPU usages.
+
+Environments:  <span inprof='y' id='106' class='sofwr'>Oracle 11g</span>, <span inprof='y' id='107' class='sofwr'>RMAN</span>, Functions and Triggers,Linux Servers
+
+<span inprof='y' id='108_1' class='company'>Client: Redhat Inc</span>        <span inprof='y' id='108_2' class='location'>Mountain View, CA</span>               <span inprof='y' id='108_3_1' class='date'>Aug'09</span> - <span inprof='y' id='108_3_2' class='date'>Feb'11</span>
+<span inprof='n' id='108_4_1' class='some-position'>Designation</span>:  <span inprof='y' id='108_4_2' class='role'>Oracle DBA</span>
+
+Description:
+       <span inprof='n' id='109' class='company'>Client Redhat is a rapidly growing company</span> having well recognized product <span inprof='y' id='110' class='sofwr'>Linux operating system</span>.
+       I <span inprof='n' id='111_1' class='some-position'>worked as</span> <span inprof='y' id='111_2' class='role'>a Sr Oracle DBA</span> to support multiple Production and development databases, including third party client's databases and have been part of the team of transferring data from 8 databases into a single Business Analytics Warehouse (BAW) using <span inprof='y' id='112' class='sofwr'>Informatica</span> <span inprof='y' id='113' class='sofwr'>ETL</span> and Datawarehouse Administrative Console (DAC).
+
+Responsibilities:
+    *  Implemented <span inprof='y' id='114' class='sofwr'>Oracle</span> Fail-Safe/Active-Passive setup for different clients. ; 
+    *  Export and import of database objects using Data pump utilities <span inprof='n' id='115' class='company'>EXPDP and IMPDP</span>. ; 
+    *  Optimized tuning of user sessions and system level performance using SQL_TRACE and gathered statistics using DBMS_STAT ; 
+    *  Performance tuning of database regularly, worked on developers request of general <span inprof='y' id='116' class='sofwr'>SQL</span>-TUNING, Database tuning used Explain Plan, <span inprof='y' id='117' class='sofwr'>SQL</span>*Trace and Statspack. ; 
+    *  <span inprof='y' id='118' class='skill'>Responsible for handling Red Hat Linux servers</span> and setting up the security in database. ; 
+    *  Automated the monitoring of databases regularly using shell-scripts, <span inprof='y' id='119' class='sofwr'>HTML</span>, Cron-jobs. ; 
+    *  Configuring of kernel-parameters of the environments according to the end-requirements. ; 
+    *  <span inprof='y' id='120' class='skill'>Oracle Database Administration experience</span> on different flavours of <span inprof='y' id='121' class='sofwr'>UNIX</span>. ; 
+    *  Performed Installation, Configuration, Upgrades, Migrations, Administration of <span inprof='y' id='122' class='sofwr'>Oracle</span> Databases. ; 
+    *  Worked on logical backups, Hot/Cold Backup and Recovery and Cloning of databases. ; 
+    *  Performed database Performance Tuning and <span inprof='y' id='123' class='skill'>Network Trouble Shooting</span> using TNS configuration, Listener settings, <span inprof='y' id='124' class='sofwr'>Sqlnet</span> settings. ; 
+    *  Worked in Monitoring and Tuning system resources associated with the database performance, hit ratios, I/O, lock, and latch contention. ; 
+    *  Worked on various tools like <span inprof='y' id='125' class='sofwr'>SQL*LOADER</span>, <span inprof='y' id='126' class='sofwr'>OEM</span>, <span inprof='y' id='127' class='sofwr'>RMAN</span>,  Exportg/Import, Materialized Views, Replication. ; 
+    *  <span inprof='y' id='128' class='skill'>Oracle datawarehouse support</span> third part client's datawarehouses. ; 
+    *  Cloning production data into Dev, <span inprof='y' id='129' class='sofwr'>QA</span>, <span inprof='y' id='130_1' class='role'>Stage</span>, Test, Training datawarehouses. ; 
+    *  Using <span inprof='n' id='131' class='company'>Informatica Power Centre</span> to configure data transfer, Folders, Session, Tasks, Attributes, Mapping and transformation <span inprof='y' id='132_1' class='role'>developer</span> (Update Strategy, Filter, Aggregator, Lookup, Rank, <span inprof='y' id='133_1' class='role'>Joiner</span> and Custom Transformation) ; 
+    *  Using <span inprof='y' id='134' class='sofwr'>Informatica</span> Repository Manager, <span inprof='y' id='135_1' class='role'>Designer</span>, <span inprof='y' id='136_1' class='role'>Workflow Manager</span> and Workflow Monitor. ; 
+    *  Supporting and Monitoring data loading, Creating /Analyzing /Scheduling reports, <span inprof='y' id='137' class='skill'>User management</span>, performance tuning using Datawarehouse Administrative Control (DAgC). ; 
+    *  Database start-up and shutdown, alter database parameters, tablespace management, <span inprof='y' id='138' class='skill'>space monitoring</span> and analyses, alter and move data files, table reorganization, index rebuild, export and import, manage database statistics, <span inprof='y' id='139' class='skill'>manage flashback database</span> . ; 
+    *  <span inprof='y' id='140' class='skill'>Writing scripts</span> for the system and database for the effective functionality and report generation, Automation of Start-up Shutdown on all Production and Development Database, Scripts for Start-up and Shutdown, Health Check of Databases, Analyzing of Tables, Cold Backups.
+
+Environments: <span inprof='y' id='141' class='sofwr'>UNIX</span>, <span inprof='y' id='142' class='sofwr'>Red Hat Linux</span>, <span inprof='y' id='143' class='sofwr'>AIX</span>,OEL
+
+<span inprof='n' id='144' class='company'>Company: Menzis Technologies Private Limited</span>,<span inprof='y' id='145' class='location'>India</span>
+<span inprof='y' id='146_1' class='company'>Client          :      AT &#38; T Global Business Services Pvt Ltd</span>                  <span inprof='y' id='146_2_1' class='date'>April `07</span> - <span inprof='y' id='146_2_2' class='date'>July `09</span>
+<span inprof='n' id='146_3_1' class='some-position'>Designation</span>:        <span inprof='y' id='146_3_2' class='role'>Database Administrator</span>
+
+Description  :
+       <span inprof='n' id='147' class='company'>AT &#38; T</span> is leading telecom Company having large potential customers all over world. All the Database and Application services for all customers is being served from various Data centers located at US, which hosts about 500+ Production Database instances serving the customers with multiple platforms . A team of 40 <span inprof='y' id='148' class='skill'>DBA</span>'s handles all the databases including Production, development, and Quality instances from <span inprof='y' id='149' class='location'>India</span> and US. GTO is service assurance team which supports the databases remotely from <span inprof='n' id='150' class='location'>Hyderabad</span>.
+Responsibilities:
+    *  Implemented installations and <span inprof='y' id='151' class='sofwr'>configured Oracle 9i</span>, 10g and 11g databases. ; 
+    *  Creating Databases,cloning Databases and refresh Databases using Exp&#38;imp. ; 
+    *  <span inprof='y' id='152' class='skill'>Space management</span> at table space level (increasing table space sizes and syncing, resizing data files whenever it comes maximum values). ; 
+    *  Scheduling various jobs using crontab. Maintaining cron jobs and monitoring jobs. ; 
+    *  Applying RDBMS Patches and Cloning . ; 
+    *  Regular checking alert log and trace files for errors. ; 
+    *  Transported the tablespace from Production database and plugged-in it in Development Database for the usage of Developers.          	 ; 
+    *  <span inprof='n' id='153' class='location'>Using Flash Recovery Area</span> to store RMAN backup files, backup auto control files, flashback database etc. ; 
+    *  Created and enhanced DB utilities needed for automation of system and unit tests and investigation of production issues, troubleshooting. ; 
+    *  Troubleshoot problems with Listeners. ; 
+    *  Closely monitoring backups (Rman Hot and Exp) and planning cronjobs accordingly. ; 
+    *  Implement and maintain Database Security (maintain users, roles, assign privileges, profiles). ; 
+    *  <span inprof='y' id='154' class='skill'>Space management</span> at <span inprof='y' id='155' class='qualif'>OS level</span> for backups and archive destinations
+
+Environments: <span inprof='n' id='156' class='sofwr'>Oracle</span> <span inprof='y' id='157' class='sofwr'>9i</span>/<span inprof='y' id='158' class='sofwr'>10g</span>, <span inprof='y' id='159' class='sofwr'>LINUX</span>, <span inprof='y' id='160' class='sofwr'>Windows 2003 server</span>, <span inprof='y' id='161' class='sofwr'>SQL server</span>
+
+
+
+
+
+
+
+
+{{FOOTER}}
+
+
+
+<span inprof='n' id='162' class='page'>Page 1</span>
+ of 4
+
+
+
+
+{{END_FOOTER}}
+
+</TextResume>
+
+</NonXMLResume>
+
+
+
+<UserArea>
+<DaxResumeUserArea>
+<AdditionalPersonalData>
+<ExperienceSummary>
+<TotalMonthsOfWorkExperience>89</TotalMonthsOfWorkExperience>
+<TotalYearsOfWorkExperience>7</TotalYearsOfWorkExperience>
+<ExecutiveBrief>Phanidhar Oruganti has been working in the IT  occupational sector for more than 7 years. Currently he is employed as an Oracle DBA at Fiserv Inc. Phanidhar has extensive knowledge of Oracle, SQL, Oracle Recovery Manager, UNIX, Original Equipment Manufacturer, Oracle 9i, Microsoft SQL*Loader, Linux Red Hat, Informatica, HTML, ETL, AIX UNIX, shell scripting, Oracle SQLNet, Oracle PL/SQL, Oracle Enterprise Manager, Oracle Data Guard, Oracle 10G, Linux, Oracle 11g, ORACLE QA, Microsoft SQL Server. So far Phanidhar has not gained any managerial experience.</ExecutiveBrief>
+</ExperienceSummary>
+</AdditionalPersonalData>
+<ParserInfo>
+<ParserConfiguration>{max_len=50000} {tel_flag=} {send_zip=} {fast_conv=} {DEF_LOCAL=} {sdate=0} {no_email_body=0} {do_clever_zoning=1} {keep_span=1} {complex=1} {accept_langs=} {not_accept_langs=} {prefer_lang_cv=EN} {pers_only=0} {turbo=0} {split_language=0} {picture=0} {picture_inline=0} {name_space=0} {charset=} {hrxml_upgrade_edu_hist=0}{hrxml_add_languages_section=0}{spool=} {docID=} {user=DEFAULT} </ParserConfiguration>
+<ParserRelease>0.12.3.32629</ParserRelease>
+<ParserReleaseDate>2014-06-18</ParserReleaseDate>
+<ParserSchema>2.0.29</ParserSchema>
+<ParserSchemaLocation>http://cvx.daxtra.com/cvts/xsd/candidate/2.0.29/Resume.xsd</ParserSchemaLocation>
+<ConverterRelease>0.5.2.32629</ConverterRelease>
+<ConverterReleaseDate>2014-06-18</ConverterReleaseDate>
+</ParserInfo>
+<FileStruct filename='/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/Phanidhar_ DBA.doc'>
+
+<attachment fname='Phanidhar_ DBA.doc' ftype='doc' conv='yes' doc_type='cv' lang='EN'>/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/Phanidhar_ DBA.doc</attachment>
+
+
+</FileStruct>
+</DaxResumeUserArea>
+</UserArea>
+</Resume>

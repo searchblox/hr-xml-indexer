@@ -1,0 +1,1910 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Resume lang='en' src='DAXTRA-CVX schema:2.0.29 release:0.12.3.32629 rdate:2014-06-18'>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName id='2'>
+<FormattedName>Dipansh Mehta</FormattedName>
+<GivenName>Dipansh</GivenName>
+<FamilyName>Mehta</FamilyName>
+</PersonName>
+<ContactMethod>
+<Telephone id='5' type='home'>
+<InternationalCountryCode>1</InternationalCountryCode>
+<SubscriberNumber>617 963-8407</SubscriberNumber>
+<Extension>8507</Extension>
+<FormattedNumber>+1 617 963-8407 ext. 8507</FormattedNumber></Telephone>
+
+<InternetEmailAddress id='3' oids='3 4 ' type='main'>ram@tanishasystems.com</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>*    9+ years of extensive experience as a Business Analyst in business requirement gathering and analysis, business process re-engineering, object-oriented design and modeling. ; 
+    *    Extensive experience in analyzing and requirements gathering and writing system functional specifications including use cases. ; 
+    *    Strong knowledge on the Systems Development Life Cycle (SDLC), Rational Unified Process Methodology (RUP), RAD, SWOT, and CRM. ; 
+    *    Strong skills in creating UML Diagrams and Data Models including Use Case Diagrams, Activity Diagrams, Deployment Diagrams, Data Flow Diagrams (DFD) and Entity-Relationship diagrams using Rational Rose and MS Visio. ; 
+    *    Strong knowledge of Project management skills includes time estimation, task identification, and scope management. ; 
+    *    Manage critical IT investments within a single, integrated platform: Portfolio and Investment Planning, Portfolio Management, Project Portfolio Management and Application Portfolio Management ; 
+    *    Organized Joint Application developments (JAD), Joint Application Requirements sessions (JAR), Interviews and Requirement Elicitation sessions.. ; 
+    *    Experience in preparing Systems Proposal Reports and performing GAP analysis. ; 
+    *    Experience and skills in creating design models and Extensive use of UML/RUP for modeling views using tools like Microsoft Visio. ; 
+    *    Experience working with HP quality center and Application life cycle management ;</ExecutiveSummary>
+
+
+<EmploymentHistory>
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='48_3'>Realogy Holdings Corp.</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='48_4'>
+<Municipality>Madison</Municipality>
+<Region>NJ</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory>
+<Title id='48_5_1'>Sr. Business Analyst</Title>
+<OrgName id='48_3'>Realogy Holdings Corp.</OrgName>
+
+
+
+<Description>Realogy Corporation, a global provider of real estate and relocation services mainly deal with real estate
+    franchising, brokerage, relocation and title services. Major brands of Realogy are Better Homes and
+    Gardens Real Estate®, CENTURY 21®, Coldwell Banker®, Coldwell Banker Commercial®, The Corcoran
+    Group®, ERA®, Sotheby's International Realty®, NRT LLC, Cartus and Title Resource Group
+
+    Vision:
+
+    *    Provide a simplified, unified platform for brokers to manage their offices, staff, listings and transaction related information in a simpler way ; 
+    *    Create a global, common platform which will be geography independent (US, Non-US) and business    model independent (Direct Franchise, Master Agreements) ; 
+    *    Create a foundation for further value added propositions such as Referrals Management, Back Office Support and    Agent CRM ; 
+    *    Consolidate and centralize various billing models and processes
+Responsibilities include but not limited to:
+
+    *    Migrate all the transaction and charges data to SOLO database ; 
+    *    Create new Transaction management application ; 
+    *    Migrate the Billing process to work against Solo system ; 
+    *    Create new Reports application for Brokers ; 
+    *    Create a new Franchise information application ; 
+    *    Create a Deployment Tracking application ; 
+    *    Create a new application that act as portal for brokers for launching applications like LMM, Transaction management module, C&#38;O, S&#38;T, ACP and Reports module ; 
+    *    Enhance the existing products/processes/interfaces like IC3PI, QOC, EAI, EzAudit, CGRN, SOLO Web services, C&#38;O, S&#38;T, ETL, LMM, AOM and ACP to fit the new system</Description>
+<StartDate id='48_2_1'><YearMonth>2014-03</YearMonth></StartDate>
+<EndDate id='48_2_2'>notApplicable</EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-mid</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>senior</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='48' last_id='61' border_id='62'></TLSPAN>
+<MonthsOfWork>5</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='62_2'>American Tower Corporation</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='62_3'>
+<Municipality>Woburn</Municipality>
+<Region>MA</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='62_4_1'>Sr. Business System Analyst</Title>
+<OrgName id='62_2'>American Tower Corporation</OrgName>
+
+
+
+<Description>Business System Analyst; Business Intelligence BA
+American Tower Corporation is a publicly held company that is a leading owner and operator of wireless and broadcast communications sites in North America. American Tower has local offices nationwide operates over 30,000 sites in the United States, Mexico, Brazil and India. ATC has multiple tracking systems to manage workload, employee performance metrics, forecasting, and project management status information. In order to gain an overall picture of performance, much of the information needs to be pulled from multiple sources and manually collated together. Oracle's 10g BPM OnTrack application is consolidate Project Management Tool integrates four phases Asset Development, Energy, Site Modification and Services of US Towers. OnTrack application is built increase efficiency and consistency of Project Management Role within US Tower and streamlined Cognos 8 existing reporting capabilities.
+    *    Extensive experience in executive dashboarding, data analysis, data modeling, data reporting, data processing and EDW ; 
+    *    Conducted JAD sessions/walkthrough with business analysts as well as client stakeholders in order to specify/prioritize user requirements into BI systems. ; 
+    *    Ability to mentor others and manage multiple projects simultaneously ; 
+    *    Demonstrated BI Architecture experience using IBM Cognos, and other BI products ; 
+    *    Created Data Warehouse solutions from the ground up ; 
+    *    Performed data extraction to analyze and determine the data points and KPI for Business ; 
+    *    Conceptualized solutions according to defined business problems, and then directed their creation ; 
+    *    Created technical summary and data mapping documents for ETL team to develop Asset Count Analysis Dashboard Report ; 
+    *    Worked with Database Architect, Developers on Dynamic Dashboard for executive level reporting ; 
+    *    Assisted in creating data model and business process models using Visio by following the best practice methodologies for building Business Process Flow models ; 
+    *    Conducted data investigations to verify accuracy in report data ; 
+    *    Assisted business teams with complex data analysis and ad-hoc queries ; 
+    *    Assisted Team in 3 layer (Oracle 10gDatabase, ETL, COGNOS 8) testing during testing phase ; 
+    *    Conducted data investigations and assist business partners with complex data analysis and ad-hoc queries.</Description>
+<StartDate id='62_1_1'><YearMonth>2013-03</YearMonth></StartDate>
+<EndDate id='62_1_2'><YearMonth>2014-03</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='62' last_id='93' border_id='94'></TLSPAN>
+<MonthsOfWork>12</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='94_2'>AT&#38;T Global Services</EmployerOrgName>
+
+<PositionHistory positionType='CONTRACT'>
+<Title id='94_3_1'>Sr. Business Analyst</Title>
+<OrgName id='94_2'>AT&#38;T Global Services</OrgName>
+
+
+
+<Description>Worked on a payroll billing application PTRS, that uses the Kronos application as a clock to capture time stamps and calculates duration with People tools as a development platform. In addition , this solution intact the core payroll solution- the integration of time reporting data from feeder system to e-link.
+    *    Get a clear understanding of the requirement on discussion with the Business. ; 
+    *    Detailing Functional requirements and creating a User Story for the scenario agreed. ; 
+    *    Prioritization of User Stories based on the impacts for a Release. ; 
+    *    Worked on Agile Methodology ; 
+    *    Provided an optimistic solution for the industry requirements ; 
+    *    Provided a feasible design solution compliant to the requirements. ; 
+    *    Provided a design that adheres to the Ofcom's Telecom Strategic Review and dispenses maximum customer satisfaction. ; 
+    *    Get a clear understanding on the end-to-end process of the system. ; 
+    *    Identified the process issues and get them resolved. ; 
+    *    Understand the significance of the components involved in the system. ; 
+    *    Get an understanding of the design across products like PSTN design, ISDN30, CPE Design etc. ; 
+    *    Identified the key data elements flowing across components. ; 
+    *    Worked with the Static and the Dynamic design and document the design components, interfaces and scenarios. ; 
+    *    Static design defines and emphasises on the components, capabilities and the interfaces involved in the system. ; 
+    *    Dynamic design describes the end-to-end solution in achieving the expected functionalities figuring out the various scenarios. ; 
+    *    Identified the issues and risks involved in the design. ; 
+    *    Be an active participant in the component and product line presentations. ; 
+    *    Get strong awareness of the capability driven model and Matrix Architecture</Description>
+<StartDate id='94_1_1'><YearMonth>2012-10</YearMonth></StartDate>
+<EndDate id='94_1_2'><YearMonth>2013-03</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-mid</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>senior</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='94' last_id='104' border_id='105'></TLSPAN>
+<MonthsOfWork>6</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='105_2'>State Street Global Services</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='105_4'>
+<Municipality>Boston</Municipality>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='CONTRACT'>
+<Title id='105_3_1'>Business System Analyst</Title>
+<OrgName id='105_2'>State Street Global Services</OrgName>
+
+
+
+<Description>Worked on a project called Dashboard, to create a standardize application across the globe. Project involves 3 transformation framework services:
+    Service Delivery Improvement-Responsibilities include
+    *    Clear understanding of customer needs and requirements followed by seamless execution. ; 
+    *    Technology focused on delivering real time or near real time information to both State Street and client ; 
+    *    Alignment between the level of customization and price/value.
+
+    Cost Restructing-Responsibilities include 
+    *    Standardization of both technology and processes leads to lower cost structure ; 
+    *    Optimal global footprint with appropriate local and global delivery strategy ; 
+    *    Clear accountability for cost in all BU's and functional areas ; 
+    *    Worked on creating dashboard and reporting platform Ad-hoc and Canned using SSRS and OBIEE.
+
+    Growth Orientation-Responsibilities include
+    *    Flexible technology platforms that allows rapid reaction to market and regulatory demands ; 
+    *    Creation of inherent scale that can be accessed ; 
+    *    Flexibility to come online quickly with more volume
+
+    *    The below framework services provide key dashboard capabilities leveraged by process areas to coordinate and orchestrate work ; 
+    *    Five Framework Services to provide core functionality are: 
+    *    Process Monitoring
+    *    Workflow Automation
+    *    Inquiry Management
+    *    Workforce Management
+    *    KPI and Metrics Monitoring</Description>
+<StartDate id='105_1_1'><YearMonth>2012-03</YearMonth></StartDate>
+<EndDate id='105_1_2'><YearMonth>2012-10</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='105' last_id='112' border_id='113'></TLSPAN>
+<MonthsOfWork>8</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='113_2'>Liberty Mutual Insurance</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='113_3'>
+<Region>NH</Region>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='CONTRACT'>
+<Title id='113_4_1'>Senior Business Analyst</Title>
+<OrgName id='113_2'>Liberty Mutual Insurance</OrgName>
+
+
+
+<Description>Business Problem: The current configuration of functionality does not fully support the business needs.
+    Redundant data entry into multiple systems. The program vision is to build a Next Generation Underwriting application to provide support across the Commercial Market business segments by improving process efficiency of underwriting organization Improve Underwriting effectiveness (quality of underwriting decisions) by enabling underwriting decisions using integrated knowledge management and decision support system by using CRM dashboard.
+    *    Lack of integration within the Underwriting tools ; 
+    *    Lack of support for underwriting decision making (Knowledge Management) ; 
+    *    Inconsistent User Interface ; 
+    *    Version control of tools (managed outside of the main application) ; 
+    *    Inability to efficiently manage workloads and team assignments ; 
+    *    Lack of flexibility and inefficiencies within proposal generation ; 
+    *    Inability to provide a Commercial Market account view ; 
+    *    Prepared an estimate of cost and effort involved completing the project ; 
+    *    Created a project initiation document with project scope, goals, execution methods. ; 
+    *    Worked with PM to prepare Project charter, Project plans, daily, weekly and monthly team deliverables for each phase, drafting WBS and RBS systematically using MS Project. ; 
+    *    Worked to enhance BI system can aid in decision support system (DSS) for existing Data warehousing. ; 
+    *    Gathered the business/user requirements through interactions, JAD sessions, Requirements interview ; 
+    *    Prepared a business/user requirements document, used HP quality centre to store, track and control the requirement gathering process. ; 
+    *    To compare AS IS and TO BE scenario dived into Business Intelligence systems data mining, process mining, statistical analysis, predictive analytics, predictive modeling, business process modeling, and complex event processing. ; 
+    *    Led requirements analysis and inspection, ensuring that requirement statements and business rules are complete, consistent, concise, comprehensible, traceable, feasible, unambiguous, and verifiable, and that they conform to standards. ; 
+    *    Created various analysis models such as business models, process models, data models and workflow models ; 
+    *    Developed Adhoc and Canned reports based on the level of authorization ; 
+    *    Create detailed profiles such as customer preferences ; 
+    *    Deliver instant, company-wide access to customer histories ; 
+    *    Provided technology support to multiline core processing: To provide an underwriting platform that effectively supports multiline core processing activities, status reporting and workload management &#38; forecasting ; 
+    *    Developed a traceability matrix to map where each Business Req. is mapped to Functional Req. and where each functional Req. is captured ; 
+    *    Managed the output requirement project for various Life Insurance Products. ; 
+    *    Played key role in System Development Life Cycle Process consisting of Design and Gap Analysis, Business Requirements, Systems Requirements, Test Criteria, and Implementation to have the outputs of project dealt with the automation of correspondence directed to Insurance policy owners. ; 
+    *    Involved in the process methodology of analyzing, developing and gathering technical requirements in a P&#38;C insurance setting.
+    Environment: iRise Manager, MS Visio, Concept Draw, Magic Draw, SnagIt, Crystal Reports, Rational Clear Quest and ALM to support on-going requirements, MS Project Professional , Clear case, Blueprint , and Extensively used Excel.</Description>
+<StartDate id='113_1_1'><YearMonth>2011-10</YearMonth></StartDate>
+<EndDate id='113_1_2'><YearMonth>2012-03</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-mid</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>insurance</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='113' last_id='150' border_id='151'></TLSPAN>
+<MonthsOfWork>6</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='151_2'>Deutsch Bank</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='151_3'>
+<Region>NY</Region>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='151_4_1'>Sr. Business Analyst</Title>
+<OrgName id='151_2'>Deutsch Bank</OrgName>
+
+
+
+<Description>Deutsche Bank is a leading global investment bank with a strong private client franchise. Its businesses are mutually reinforcing.
+    *    Effectively Managed over $1.5M annual budget over 4 small projects on annual basis.
+    CTM Broker Recertification:-
+    *    This Project involved making enhancement to Deustche Bank Matching component. Omgeo updated their systems allowing Brokers to make amendments to IM Trade. ; 
+    *    This involved updating system to be able to receive process and distribute messages from Brokers, both, new and existing. ; 
+    *    Identified new Processes and designed new workflows for receiving Amendments from Broker. ; 
+    *    Ensured new requirements add scalability to system for future enhancements.
+
+    GRS Portfolio Enhancement Project:
+    *    With new Funds introduced by Investment Managers, enhancements were made to existing Global Reference System to allow users to Set-up new Funds. Creating new UIs and processes for CDO, Term Deposits, Repos, Collaterals and Equity trades was requirement for this project. ; 
+    *    Created Business Rules for processing Fixed Income and Equity Trades. ; 
+    *    Ensured, all scenarios for receiving Amended/Cancelled trades from CTM are covered and documented. ; 
+    *    Worked on Business Intelligence 2.0 ; 
+    *    Worked with Omgeo to understand how Brokers shall behave in new environment. ; 
+    *    Coordinated with business groups and component owners and communicated changes needed in their systems to meet Omgeo Recertification requirements. ; 
+    *    Identified data set-up requirements, data gaps, new VET Rules by querying database and creating reports.
+
+    Interested Party Confirmation:-
+    *    With new investment types introduced in market, Deustche Bank had to update its system to meet industry standards. ; 
+    *    For Confirmation services provided to Clients, Prime Broker funds required different processing as for other Broker Funds. It was deemed necessary to upgrade our systems to process new Funds introduced. ; 
+    *    Identified new processes and workflows required to confirm Prime broker funds. ; 
+    *    Enlisted all new data elements and mapping required to process trades. ; 
+    *    Created new processes, leveraged existing flows by implementing business process management. Ensured all new process are in synch with overall design, Leveraging existing processes and supports Service Oriented Architecture adapted by organization. ; 
+    *    Detailed Rules for Calculation of Fees And Taxes at granular or rolled up level for fixed Income and equity trades. ; 
+    *    Enhanced Trade Blotter and Trade Monitor applications to get core and Client specific Reports ; 
+    *    Captured and detailed data requirements for Fixed Income Derivatives and Interest Rate Swaps. ; 
+    *    Identified counterparties involved in Fixed Income and Equity Trades and captured data set-up, maintenance and override requirements for each investment type.</Description>
+<StartDate id='151_1_1'><YearMonth>2010-04</YearMonth></StartDate>
+<EndDate id='151_1_2'><YearMonth>2011-09</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-mid</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>accountancy</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='151' last_id='177' border_id='178'></TLSPAN>
+<MonthsOfWork>18</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='178_2'>Citigroup</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='178_3'>
+<Municipality>Warren</Municipality>
+<Region>NJ</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='178_4_1'>Sr. Business Analyst</Title>
+<OrgName id='178_2'>Citigroup</OrgName>
+
+
+
+<Description>*    Actively participated in the resolution of day-to-day Production reporting needs and issue resolution requests from business users and worked with the development team to resolve the issue ; 
+    *    Project involved integration of People Soft Module. ; 
+    *    Partnered with the Project Manager, Project Sponsors and Business users to scope out the project objectives and determine impact and timeline of various deliverables and help build the project plan and Gantt Charts in Microsoft Project ; 
+    *    Worked on developing requirements for reporting on OTC Derivative, Equity Trades, Fixed Income Trades, Sales &#38; Asset from the in house Trading Tool onto the CRM Oracle Data Warehouse ; 
+    *    Gathered and analyzed Reporting requirements and formulated Business Rules for Securities Transaction, Position and Sales Reporting for the Institutional Services Group as part of the CRM Data Warehouse Initiative with BI Tool OBIEE as the front end reporting tool ; 
+    *    Worked on subjects like GL and PR ; 
+    *    Collaborated with the QA team to define test strategies and test plans and define test scenarios around critical business requirements ; 
+    *    Used Rational Unified Process (RUP) for requirements gathering, Rational Rose for UML Modeling and Rational Clear Quest for Defect Tracking ; 
+    *    Actively worked with the Business Users in the UAT phase by helping them build test scenarios and resolving any anomalies in the results of the reporting elements. ; 
+    *    Recommended a reporting solution in the CRM that would minimize the impact on the system from evolving business needs Gathered requirements and analyzed the Retirement Plan Selling Process and the reporting needs arising from the implementation of a new business process for Selling Retirement Plans. ; 
+    *    Documented Business processes and data flows using Process Flow and Data Flow diagrams in Microsoft Visio. Created ETL test data for all ETL mapping rules to test the functionality of the SSIS Mapping. Performed Validations on Data Extraction Logic, Data Transformation Logic, Data Loading Logic, ETL Error Logs and Data Quality.. ; 
+    *    Using Agile Methodology, the entire project was broken into sub tasks which were performed in parallel.</Description>
+<StartDate id='178_1_1'><YearMonth>2009-04</YearMonth></StartDate>
+<EndDate id='178_1_2'><YearMonth>2010-03</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-mid</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='178' last_id='200' border_id='201'></TLSPAN>
+<MonthsOfWork>12</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='201_2'>Gander Mountain Inc</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='201_3'>
+<Municipality>Minneapolis</Municipality>
+<Region>MN</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='201_4_1'>Sr. Business Analyst</Title>
+<OrgName id='201_2'>Gander Mountain Inc</OrgName>
+
+
+
+<Description>Gander Mountain Inc. is one of the leading retail stores in the state of Minnesota. Worked on a project involving implementation of a retail business solution to provide functionalities including Price Management, Promotion, Purchase Order, Inventory, Shipping,and Receiving. In the process, developed and implemented a Performance Management Platform for the retailers to streamline the Forecasting and Budgeting process, thus reducing associated costs.
+    *    Was responsible for defining the scope of the project, gathering Business Requirements and documenting them textually or within models. ; 
+    *    Developed prototype of new information processing application. ; 
+    *    Met with client groups to determine User Requirements and Goals, thus converting User Requirements into Business Requirements and User and Functional Requirement Specification. ; 
+    *    Interviewed Business Area Experts, asking detailed questions and carefully recording the requirements in a format that could be reviewed and understood by both business people and technical people. ; 
+    *    Followed the RUP guidelines and documented the requirements in Rational Requisite Pro. ; 
+    *    Analyzed business requirements and segregated them into high level and low level Use Cases, as well as activity diagrams / State Chart Diagrams and Robustness Diagrams using Rational Rose according to UML methodology, thus defining the Data Process Models. ; 
+    *    Grouped the Use Cases diagrams into Sequence and Collaboration Diagrams using Rational Rose based on UML methods, thereby defining the Business Process Model. ; 
+    *    Worked on a CRM platform on various applications like Customer service and support, data security, focused marketing efforts, automated analytics and reporting, and better coordination and cooperation. ; 
+    *    Documented Test Plans that contains test scripts, test cases, test data and expected results for the Integration, Functional, Performance, and User Acceptance Testing, using Rational Test Manager. ; 
+    *    Used Rational Clear Quest as the defect tracking tool, and Rational Clear Case for Version control and Configuration Management.</Description>
+<StartDate id='201_1_1'><YearMonth>2008-01</YearMonth></StartDate>
+<EndDate id='201_1_2'><YearMonth>2009-02</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-mid</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='201' last_id='220' border_id='221'></TLSPAN>
+<MonthsOfWork>14</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='221_2'>Providian Financial Inc.</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='221_3'>
+<Municipality>San Francisco</Municipality>
+<Region>CA</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='222_1'>Business Analyst</Title>
+<OrgName id='221_2'>Providian Financial Inc.</OrgName>
+
+
+
+<Description>Providian Financials is one of the leading financial institutions of the nation, offering broad range of financial services like lending, deposit and membership based products. It offers online services such as 24-hour online account access to credit card accounts by removing HR workload to 50 percent, instant online account opening for deposit accounts, and instant decisions for credit cards. The project involves implementing the 24-hour online access to credit cards, where customers could login and view their account information, make online payments, change their contact information, and contact customer service representatives for questions. 
+    *    Gathered Business Requirements, analyzed data/workflows, and defined the scope, financial projections and Cost/Benefit analysis. ; 
+    *    Developed the business case for the proposed Performance Management Platform. ; 
+    *    Facilitated collection of Functional Requirements from system users, and prepared Business Requirement documents using Rational Requisite Pro. ; 
+    *    Applied the RUP model throughout the entire development and testing process. ; 
+    *    Followed the UML based methods using Rational Rose to create Use Case Diagrams, Activity and State Chart Diagrams, Sequence Diagrams, and Collaboration Diagrams. ; 
+    *    Used Rational Clear Quest for Defect Tracking and Change Management purposes and Rational Clear Case for Version Control and Configuration Management. ; 
+    *    Interviewed Business Area Experts, asking detailed questions and carefully recording the requirements in a format that could be reviewed and understood by both business people and technical people. ; 
+    *    Led technical and business sessions, and acted as a liaison between user and stakeholders, thus converting business needs into software solutions of the highest quality</Description>
+<StartDate id='221_1_1'><YearMonth>2006-11</YearMonth></StartDate>
+<EndDate id='221_1_2'><YearMonth>2007-12</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>banking-finance</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='221' last_id='234' border_id='235'></TLSPAN>
+<MonthsOfWork>14</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='235_2'>Unity Inc.</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='235_3'>
+<Municipality>Milpitas</Municipality>
+<Region>CA</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='235_4_1'>Business Analyst</Title>
+<OrgName id='235_2'>Unity Inc.</OrgName>
+
+
+
+<Description>IP Unity delivers carrier grade services platform for enhanced voice and telephony applications over ATM, TDM and VoIP Networks. Worked on an Unified Messaging Suite that offers standard voicemail features with a familiar interface, but lets subscribers choose to integrate voicemail with email, receiving voice messages as WAV files in their email inbox and accessing emails through a telephone using text-to-speech technology
+*    Understood problems pertaining to development of new information systems to meet present and future business needs. ; 
+*    Met with client groups to determine user requirements and goals. Utilized RUP to configure and develop process, standards, and procedures. ; 
+*    Analyzed business requirements and segregated them into high level and low level Use Cases, and activity diagrams. ; 
+*    Created Use Cases, Collaboration, Object Sequence, Object Interaction and State Diagrams for new features using Rational Rose. ; 
+*    Understood and articulated business requirements from user interviews and then converted requirements into solutions. ; 
+*    Provided system analysis and support to the development team throughout the SDLC. ; 
+*    Conducted Functional requirement specification and User requirement specification reviews and walkthroughs with the designers, developers and stakeholders. ; 
+*    Set up definitions and process for test phases including integration test, functional test, performance test, and acceptance test using Rational Test Manager. ; 
+*    Updated the requirement and defect status as per the current status of the testing project using Rational Clear Quest.</Description>
+<StartDate id='235_1_1'><YearMonth>2004-09</YearMonth></StartDate>
+<EndDate id='235_1_2'><YearMonth>2006-11</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='235' last_id='244' border_id='0'></TLSPAN>
+<MonthsOfWork>27</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+</EmploymentHistory>
+
+
+
+
+
+
+
+
+
+
+
+
+<Competency oids='115 116 117 120 121 134 ' description='Skill' auth='yes' name='Underwriting'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='19 31 38 191 212 229 ' description='Skill > IT' auth='yes' name='UML/OMT'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>40</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>UML</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Unified Modeling Language (UML)</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Rational Rose for UML</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>UML methodology</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='21 191 211 213 230 241 ' description='Skill > IT' auth='yes' name='Rational Rose'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>67</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Rational Rose for UML</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='60 85 91 196 197 199 ' description='Skill > IT' auth='yes' name='ETL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>29</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='8 12 127 190 194 ' description='Skill' auth='yes' name='Requirements Gathering'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>requirement gathering</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Gathered requirements</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='147 192 218 231 244 ' description='Skill > IT' auth='yes' name='Rational ClearQuest'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>73</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Clear Quest</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='15 32 188 189 228 ' description='Skill > IT' auth='yes' name='RUP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Rational Unified Process</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>(RUP)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='22 33 88 142 195 ' description='Skill > IT' auth='yes' name='Microsoft Visio'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>30</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Visio</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Visio</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='159 161 173 177 182 ' description='Skill' auth='yes' name='Equities'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>30</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Equity</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>71</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='17 119 184 193 215 ' description='Skill' auth='yes' name='Customer Relationship Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>32</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>CRM</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='160 172 176 183 ' description='Skill' auth='yes' name='Fixed Income'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>30</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>70</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='20 39 210 240 ' description='Skill > IT' auth='yes' name='Activity Diagrams'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>41</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='149 219 233 ' description='Skill > IT' auth='yes' name='Rational ClearCase'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>34</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Clear case</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>67</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='23 75 77 ' description='Skill' auth='yes' name='Project Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Project management skills</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='76 90 185 ' description='Skill > IT' auth='yes' name='Oracle'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='124 148 181 ' description='Skill > IT' auth='yes' name='Microsoft Project'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Project</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Project Professional Professional</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='29 82 126 ' description='Skill > IT' auth='yes' name='JAD'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>91</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='74 135 207 ' description='Skill' auth='yes' name='Forecasting'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>32</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>97</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='89 93 ' description='Skill' auth='no' name='complex data analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='9 41 ' description='Skill' auth='no' name='analysis'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>analysis,</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Analysis and</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='13 242 ' description='Skill > IT' auth='yes' name='SDLC'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>27</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>23</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='209 227 ' description='Skill > IT' auth='yes' name='Rational RequisitePro'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='95 97 ' description='Skill' auth='yes' name='Payroll'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>83</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='46 150 ' description='Skill > IT' auth='yes' name='Microsoft Excel'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Proficient in Excel</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Excel</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>79</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='220 234 ' description='Skill' auth='yes' name='Configuration Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='79 92 ' description='Skill > IT' auth='yes' name='Cognos Impromptu'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Cognos 8 8</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>90</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='128 162 ' description='Skill' auth='yes' name='Business Intelligence'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='37 ' description='Skill' auth='no' name='verbal skills'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='36 ' description='Skill' auth='no' name='team building'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='130 ' description='Skill' auth='no' name='statistical analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>61</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='24 ' description='Skill' auth='no' name='scope management'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='30 ' description='Skill' auth='no' name='performing GAP analysis'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='170 ' description='Skill' auth='no' name='overall design'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='123 ' description='Skill' auth='no' name='manage workloads'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>61</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='55 ' description='Skill' auth='no' name='manage their offices'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>5</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='83 ' description='Skill' auth='no' name='manage multiple projects'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='118 ' description='Skill' auth='no' name='integrated knowledge management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>62</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='166 ' description='Skill' auth='no' name='different processing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='239 ' description='Skill' auth='no' name='develop process'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>27</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>25</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='86 ' description='Skill' auth='no' name='develop Asset Count Analysis Dashboard Report'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='80 ' description='Skill' auth='no' name='data analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='133 ' description='Skill' auth='no' name='core processing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>61</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='47 ' description='Skill' auth='no' name='conducting User Acceptance Testing'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='112 ' description='Skill' auth='no' name='Workforce Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='58 ' description='Skill > IT' auth='yes' name='Web Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>5</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>90</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='216 ' description='Skill' auth='yes' name='User Acceptance Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='214 ' description='Skill > IT' auth='no' name='UML methods'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='237 ' description='Skill > IT' auth='no' name='TDM'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>27</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>26</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='18 ' description='Skill' auth='no' name='Strong skills'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='103 ' description='Skill' auth='no' name='Static design'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>79</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='137 ' description='Skill > IT' auth='yes' name='Software Development Life Cycle'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>System Development Life Cycle</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>61</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='145 ' description='Skill > IT' auth='yes' name='SnagIt'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>61</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='171 ' description='Skill > IT' auth='yes' name='Service Oriented Architecture'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='146 ' description='Skill > IT' auth='yes' name='Seagate Crystal Reports'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Crystal Reports</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>61</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='43 ' description='Skill' auth='no' name='SWOT analysis'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='107 ' description='Skill > IT' auth='yes' name='SQL Server Reporting Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SSRS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>67</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='45 ' description='Skill' auth='yes' name='Risk Analysis'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='203 ' description='Skill' auth='yes' name='Retail Stores'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='131 ' description='Skill' auth='yes' name='Requirements Analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>61</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='56 ' description='Skill' auth='no' name='Referrals Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>5</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>91</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='14 ' description='Skill > IT' auth='no' name='Rational Unified Process Methodology'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='16 ' description='Skill > IT' auth='yes' name='Rapid Application Development RAD'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>RAD</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='206 ' description='Skill' auth='yes' name='Purchase Orders'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Purchase Order</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='100 ' description='Skill > IT' auth='yes' name='Public Switched Telephone Network'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='design'><StringValue>design</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>PSTN design</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>80</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='110 ' description='Skill' auth='no' name='Process Monitoring'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='27 ' description='Skill' auth='yes' name='Portfolio Administration'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Portfolio Management</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='179 ' description='Skill > IT' auth='yes' name='PeopleSoft'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='integration'><StringValue>integration</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>integration of People Soft</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='187 ' description='Skill > IT' auth='yes' name='Oracle CRM'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>CRM</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='108 ' description='Skill > IT' auth='yes' name='Oracle BI EE'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>OBIEE</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>66</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='226 ' description='Skill' auth='yes' name='Opening/Closing Accounts'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>account opening</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>23</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='11 ' description='Skill > IT' auth='yes' name='Object Oriented Analysis/Design'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>object-oriented design</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='136 ' description='Skill' auth='no' name='Managed the output requirement project'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>61</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='25 ' description='Skill' auth='no' name='Manage critical IT investments'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='144 ' description='Skill > IT' auth='yes' name='MagicDraw'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>61</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='96 ' description='Skill > IT' auth='yes' name='Kronos'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>82</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='122 ' description='Skill' auth='no' name='Knowledge Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>61</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='26 ' description='Skill' auth='no' name='Investment Planning'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='175 ' description='Skill' auth='yes' name='Interest Rate Swaps IRS'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Interest Rate Swaps</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='140 ' description='Skill' auth='yes' name='Insurance Policies'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Insurance policy</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>61</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='111 ' description='Skill' auth='no' name='Inquiry Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='42 ' description='Skill' auth='no' name='Impact Analysis'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='101 ' description='Skill > IT' auth='yes' name='ISDN'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ISDN30 30</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>80</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='84 ' description='Skill > IT' auth='yes' name='IBM Hardware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IBM</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='34 ' description='Skill > IT' auth='no' name='HP quality center'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>working with HP quality center</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>66</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='139 ' description='Skill' auth='no' name='Gap Analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>61</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='174 ' description='Skill' auth='yes' name='Fixed Income Derivatives'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='224 ' description='Skill' auth='yes' name='Financial Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='81 ' description='Skill > IT' auth='yes' name='EDW'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='104 ' description='Skill' auth='no' name='Dynamic design'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>79</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='138 ' description='Skill' auth='no' name='Design'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Design and</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>61</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='125 ' description='Skill' auth='yes' name='Data Warehousing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>61</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='129 ' description='Skill' auth='yes' name='Data Mining'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>61</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='114 ' description='Skill' auth='yes' name='Data Entry'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='132 ' description='Skill' auth='no' name='Created various analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>61</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='44 ' description='Skill' auth='no' name='Cost Benefit Analysis'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='143 ' description='Skill > IT' auth='no' name='Concept Draw'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>61</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='40 ' description='Skill > IT' auth='yes' name='Class Diagrams'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='232 ' description='Skill' auth='yes' name='Change Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='59 ' description='Skill > IT' auth='yes' name='C Programming Language'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>5</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>C</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='10 ' description='Skill' auth='yes' name='Business Process Reengineering'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='169 ' description='Skill' auth='yes' name='Business Process Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='208 ' description='Skill' auth='no' name='Budgeting'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>48</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='65 ' description='Skill' auth='yes' name='Broadcasting'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>broadcast</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='158 ' description='Skill' auth='yes' name='Bank Repos'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Repos</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='57 ' description='Skill' auth='no' name='Back Office Support'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>5</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>91</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='35 ' description='Skill' auth='no' name='Application life cycle management'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>66</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='98 ' description='Skill > IT' auth='yes' name='Agile Methodology'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>81</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='236 ' description='Skill > IT' auth='yes' name='ATM (Asynchronous Transfer Mode)'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>27</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ATM</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>27</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='48_5_1 94_3_1 151_4_1 178_4_1 201_4_1 ' description='Held Position' auth='no' name='Sr. Business Analyst'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>55</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='7_2 222_1 235_4_1 ' description='Held Position' auth='no' name='Business Analyst'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>41</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>28</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='217_1 243_1 ' description='Held Position' auth='no' name='Rational Test Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>41</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>54</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='64_2 ' description='Held Position' auth='no' name='operator of wireless'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>93</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='141_1 ' description='Held Position' auth='no' name='iRise Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='73_1 ' description='Held Position' auth='no' name='employee'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>91</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='64_1 ' description='Held Position' auth='no' name='a leading owner'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>93</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='62_4_1 ' description='Held Position' auth='no' name='Sr. Business System Analyst'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='113_4_1 ' description='Held Position' auth='no' name='Senior Business Analyst'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='165_1 ' description='Held Position' auth='no' name='Prime Broker'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>67</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='50_1 ' description='Held Position' auth='no' name='Coldwell Banker'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>5</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>91</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='154_1 ' description='Held Position' auth='no' name='CTM Broker'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='105_3_1 ' description='Held Position' auth='no' name='Business System Analyst'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>67</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='205 ' description='Degree/Qualification' auth='no' name='Promotion'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='246 ' description='Degree/Qualification' auth='yes' name='Masters Degree > Master of Business Administration'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Masters in Business Administration</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='102 ' description='Degree/Qualification' auth='yes' name='Common Professional Examination > Common Professional Examination Design'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='Design'><StringValue>Design</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>CPE Design</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='247 ' description='Degree/Qualification' auth='yes' name='Bachelors Degree > Bachelor of Business Administration'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Bachelor in Business Administration</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency description='Industry' auth='yes' name='industry~senior'>
+<CompetencyEvidence name='skillCount' typeDescription='skillCount'><NumericValue>2</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+</Competency>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<RevisionDate id='1'>2014-07-08</RevisionDate>
+</StructuredXMLResume>
+<NonXMLResume>
+
+<TextResume>
+
+
+
+{{FOOTER}}
+
+
+
+
+
+{{END_FOOTER}}
+
+
+<span inprof='n' id='1' class='date'>{{DOCUMENT_DATESTAMP}} 2014-07-08 {{END_DOCUMENT_DATESTAMP}}</span> 
+
+<span inprof='y' id='2' class='nominal-mb'>DIPANSH MEHTA</span>
+<span inprof='y' id='3' class='email'>ram@tanishasystems.com</span> - <span inprof='y' id='4' class='email'>email: ram@tanishasystems.com</span>
+<span inprof='y' id='5' class='telephone'>617-963-8407 EXT 8507</span>
+
+TECHNICAL
+<span inprof='n' id='6' class='objectives-mark'>SUMMARY:</span>
+
+               *    <span inprof='n' id='7_1' class='duration'>9+ years</span> of extensive experience as a <span inprof='y' id='7_2' class='role'>Business Analyst</span> in business <span inprof='y' id='8' class='skill'>requirement gathering</span> and <span inprof='y' id='9' class='skill'>analysis,</span> <span inprof='y' id='10' class='skill'>business process re-engineering</span>, <span inprof='y' id='11' class='sofwr'>object-oriented design</span> and modeling. ; 
+               *    Extensive experience in analyzing and <span inprof='y' id='12' class='skill'>requirements gathering</span> and writing system functional specifications including use cases. ; 
+               *    Strong knowledge on the Systems Development Life Cycle (<span inprof='y' id='13' class='sofwr'>SDLC</span>), <span inprof='y' id='14' class='sofwr'>Rational Unified Process Methodology</span> (<span inprof='y' id='15' class='sofwr'>RUP</span>), <span inprof='y' id='16' class='sofwr'>RAD</span>, SWOT, and <span inprof='y' id='17' class='skill'>CRM</span>. ; 
+               *    <span inprof='y' id='18' class='skill'>Strong skills</span> in creating <span inprof='y' id='19' class='sofwr'>UML</span> Diagrams and Data Models including Use Case Diagrams, <span inprof='y' id='20' class='sofwr'>Activity Diagrams</span>, Deployment Diagrams, Data Flow Diagrams (DFD) and Entity-Relationship diagrams using <span inprof='y' id='21' class='sofwr'>Rational Rose</span> and <span inprof='y' id='22' class='sofwr'>MS Visio</span>. ; 
+               *    Strong knowledge of <span inprof='y' id='23' class='skill'>Project management skills</span> includes time estimation, task identification, and <span inprof='y' id='24' class='skill'>scope management</span>. ; 
+               *    <span inprof='y' id='25' class='skill'>Manage critical IT investments</span> within a single, integrated platform: Portfolio and <span inprof='y' id='26' class='skill'>Investment Planning</span>, <span inprof='y' id='27' class='skill'>Portfolio Management</span>, <span inprof='n' id='28' class='qualif'>Project Portfolio Management and Application Portfolio Management</span> ; 
+               *    Organized Joint Application developments (<span inprof='y' id='29' class='sofwr'>JAD</span>), Joint Application Requirements sessions (JAR), Interviews and Requirement Elicitation sessions.. ; 
+               *    Experience in preparing Systems Proposal Reports and <span inprof='y' id='30' class='skill'>performing GAP analysis</span>. ; 
+               *    Experience and skills in creating design models and Extensive use of <span inprof='y' id='31' class='sofwr'>UML</span>/<span inprof='y' id='32' class='sofwr'>RUP</span> for modeling views using tools like <span inprof='y' id='33' class='sofwr'>Microsoft Visio</span>. ; 
+               *    Experience <span inprof='y' id='34' class='sofwr'>working with HP quality center</span> and <span inprof='y' id='35' class='skill'>Application life cycle management</span> ; 
+               *    Motivated self-starter with exceptional <span inprof='y' id='36' class='skill'>team building</span>, leadership, and <span inprof='y' id='37' class='skill'>verbal skills</span>. ; 
+               *    Competent in Creating <span inprof='y' id='38' class='sofwr'>Unified Modeling Language (UML)</span> diagrams such as Use Case Diagrams, <span inprof='y' id='39' class='sofwr'>Activity Diagrams</span>, <span inprof='y' id='40' class='sofwr'>Class Diagrams</span> and Sequence Diagrams. ; 
+               *    Extensive experience in developing Use Cases, creating Screen Mockups, conducting Gap <span inprof='y' id='41' class='skill'>Analysis and</span> <span inprof='y' id='42' class='skill'>Impact Analysis</span>, <span inprof='y' id='43' class='skill'>SWOT analysis</span>, <span inprof='y' id='44' class='skill'>Cost Benefit Analysis</span>, <span inprof='y' id='45' class='skill'>Risk Analysis</span>. ; 
+               *    <span inprof='y' id='46' class='sofwr'>Proficient in Excel</span> and PPT to prepare strategy and planning ; 
+               *    Strong experience in <span inprof='y' id='47' class='skill'>conducting User Acceptance Testing</span> (UAT) and documentation of Test Cases. Expertise in designing and developing Test Plans and Test Scripts.
+
+
+<span inprof='n' id='48_1' class='experience-title'>EXPERIENCE:</span>
+<span inprof='y' id='48_2_1' class='date'>03/14</span>-<span inprof='y' id='48_2_2' class='date'>Present</span>   <span inprof='y' id='48_3' class='company'>Realogy Holdings Corp.</span> <span inprof='y' id='48_4' class='location'>Madison NJ</span>
+                           <span inprof='y' id='48_5_1' class='role'>Sr. Business Analyst</span>
+             <span inprof='n' id='49' class='company'>Realogy Corporation, a global provider of real estate and relocation services</span> mainly deal with real estate
+             franchising, brokerage, relocation and title services. Major brands of Realogy are Better Homes and
+             Gardens Real Estate®, CENTURY 21®, <span inprof='y' id='50_1' class='role'>Coldwell Banker</span>®, Coldwell Banker Commercial®, The Corcoran
+              Group®, ERA®, <span inprof='n' id='51' class='company'>Sotheby's International</span> Realty®, <span inprof='n' id='52' class='company'>NRT LLC</span>, <span inprof='n' id='53' class='company'>Cartus</span> and <span inprof='n' id='54' class='company'>Title Resource Group</span>
+
+   Vision:
+
+    *    Provide a simplified, unified platform for brokers to <span inprof='y' id='55' class='skill'>manage their offices</span>, staff, listings and transaction related information in a simpler way ; 
+    *    Create a global, common platform which will be geography independent (US, Non-US) and business     model independent (Direct Franchise, Master Agreements) ; 
+    *    Create a foundation for further value added propositions such as <span inprof='y' id='56' class='skill'>Referrals Management</span>, <span inprof='y' id='57' class='skill'>Back Office Support</span> and   Agent CRM ; 
+    *    Consolidate and centralize various billing models and processes
+Responsibilities include but not limited to:
+
+                  *    Migrate all the transaction and charges data to SOLO database ; 
+                  *    Create new Transaction management application ; 
+                  *    Migrate the Billing process to work against Solo system ; 
+                  *    Create new Reports application for Brokers ; 
+                  *    Create a new Franchise information application ; 
+                  *    Create a Deployment Tracking application ; 
+                  *    Create a new application that act as portal for brokers for launching applications like LMM, Transaction management module, C&#38;O, S&#38;T, ACP and Reports module ; 
+                  *    Enhance the existing products/processes/interfaces like IC3PI, QOC, EAI, EzAudit, CGRN, SOLO <span inprof='y' id='58' class='sofwr'>Web services</span>, <span inprof='y' id='59' class='sofwr'>C</span>&#38;O, S&#38;T, <span inprof='y' id='60' class='sofwr'>ETL</span>, LMM, AOM and ACP to fit the <span inprof='n' id='61' class='company'>new system</span>
+
+
+<span inprof='y' id='62_1_1' class='date'>03/13</span> - <span inprof='y' id='62_1_2' class='date'>03/14</span>    <span inprof='y' id='62_2' class='company'>American Tower Corporation</span>, <span inprof='y' id='62_3' class='location'>Woburn, MA</span>
+               <span inprof='y' id='62_4_1' class='role'>Sr. Business System Analyst</span>; Business Intelligence BA
+               <span inprof='n' id='63' class='company'>American Tower Corporation is a publicly held company</span> that is <span inprof='y' id='64_1' class='role'>a leading owner</span> and <span inprof='y' id='64_2' class='role'>operator of wireless</span> and <span inprof='y' id='65' class='skill'>broadcast</span> communications sites in <span inprof='n' id='66' class='location'>North America</span>. <span inprof='n' id='67' class='company'>American Tower</span> has local offices <span inprof='n' id='68' class='company'>nationwide</span> operates over 30,000 sites in <span inprof='n' id='69' class='location'>the United States</span>, <span inprof='n' id='70' class='location'>Mexico</span>, <span inprof='n' id='71' class='location'>Brazil</span> and <span inprof='n' id='72' class='location'>India</span>. ATC has multiple tracking systems to manage workload, <span inprof='y' id='73_1' class='role'>employee</span> performance metrics, <span inprof='y' id='74' class='skill'>forecasting</span>, and <span inprof='y' id='75' class='skill'>project management</span> status information. In order to gain an overall picture of performance, much of the information needs to be pulled from multiple sources and manually collated together. <span inprof='y' id='76' class='sofwr'>Oracle</span>'s 10g BPM OnTrack application is consolidate <span inprof='y' id='77' class='skill'>Project Management</span> Tool integrates four phases Asset Development, Energy, Site Modification and Services of US Towers. OnTrack application is built increase efficiency and consistency <span inprof='n' id='78' class='bad-occupation'>of Project Management</span> Role within US Tower and streamlined <span inprof='y' id='79' class='sofwr'>Cognos 8</span> existing reporting capabilities.
+               *    Extensive experience in executive dashboarding, <span inprof='y' id='80' class='skill'>data analysis</span>, data modeling, data reporting, data processing and <span inprof='y' id='81' class='sofwr'>EDW</span> ; 
+               *    Conducted <span inprof='y' id='82' class='sofwr'>JAD</span> sessions/walkthrough with business analysts as well as client stakeholders in order to specify/prioritize user requirements into BI systems. ; 
+               *    Ability to mentor others and <span inprof='y' id='83' class='skill'>manage multiple projects</span> simultaneously ; 
+               *    Demonstrated BI Architecture experience using <span inprof='y' id='84' class='sofwr'>IBM</span> Cognos, and other BI products ; 
+               *    Created Data Warehouse solutions from the ground up ; 
+               *    Performed data extraction to analyze and determine the data points and KPI for Business ; 
+               *    Conceptualized solutions according to defined business problems, and then directed their creation ; 
+               *    Created technical summary and data mapping documents for <span inprof='y' id='85' class='sofwr'>ETL</span> team to <span inprof='y' id='86' class='skill'>develop Asset Count Analysis Dashboard Report</span> ; 
+               *    Worked <span inprof='n' id='87' class='bad-occupation'>with Database Architect</span>, Developers on Dynamic Dashboard for executive level reporting ; 
+               *    Assisted in creating data model and business process models using <span inprof='y' id='88' class='sofwr'>Visio</span> by following the best practice methodologies for building Business Process Flow models ; 
+               *    Conducted data investigations to verify accuracy in report data ; 
+               *    Assisted business teams with <span inprof='y' id='89' class='skill'>complex data analysis</span> and ad-hoc queries ; 
+               *    Assisted Team in 3 layer (<span inprof='y' id='90' class='sofwr'>Oracle</span> 10gDatabase, <span inprof='y' id='91' class='sofwr'>ETL</span>, <span inprof='y' id='92' class='sofwr'>COGNOS 8</span>) testing during testing phase ; 
+               *    Conducted data investigations and assist business partners with <span inprof='y' id='93' class='skill'>complex data analysis</span> and ad-hoc queries.
+
+<span inprof='y' id='94_1_1' class='date'>10/12</span> - <span inprof='y' id='94_1_2' class='date'>03/13</span>    <span inprof='y' id='94_2' class='company'>AT&#38;T Global Services</span>
+    <span inprof='y' id='94_3_1' class='role'>Sr. Business Analyst</span>
+               Worked on a <span inprof='y' id='95' class='skill'>payroll</span> billing application PTRS, that uses the <span inprof='y' id='96' class='sofwr'>Kronos</span> application as a clock to capture time stamps and calculates duration with People tools as a development platform. In addition , this solution intact the core <span inprof='y' id='97' class='skill'>payroll</span> solution- the integration of time reporting data from feeder system to e-link.
+               *    Get a clear understanding of the requirement on discussion with the Business. ; 
+               *    Detailing Functional requirements and creating a User Story for the scenario agreed. ; 
+               *    Prioritization of User Stories based on the impacts for a Release. ; 
+               *    Worked on <span inprof='y' id='98' class='sofwr'>Agile Methodology</span> ; 
+               *    Provided an optimistic solution for the industry requirements ; 
+               *    Provided a feasible design solution compliant to the requirements. ; 
+               *    Provided a design that adheres to <span inprof='n' id='99' class='company'>the Ofcom's Telecom</span> Strategic Review and dispenses maximum customer satisfaction. ; 
+               *    Get a clear understanding on the end-to-end process of the system. ; 
+               *    Identified the process issues and get them resolved. ; 
+               *    Understand the significance of the components involved in the system. ; 
+               *    Get an understanding of the design across products like <span inprof='y' id='100' class='sofwr'>PSTN design</span>, <span inprof='y' id='101' class='sofwr'>ISDN30</span>, <span inprof='y' id='102' class='qualif'>CPE Design</span> etc. ; 
+               *    Identified the key data elements flowing across components. ; 
+               *    Worked with the Static and the Dynamic design and document the design components, interfaces and scenarios. ; 
+               *    <span inprof='y' id='103' class='skill'>Static design</span> defines and emphasises on the components, capabilities and the interfaces involved in the system. ; 
+               *    <span inprof='y' id='104' class='skill'>Dynamic design</span> describes the end-to-end solution in achieving the expected functionalities figuring out the various scenarios. ; 
+               *    Identified the issues and risks involved in the design. ; 
+               *    Be an active participant in the component and product line presentations. ; 
+               *    Get strong awareness of the capability driven model and Matrix Architecture
+
+<span inprof='y' id='105_1_1' class='date'>03/12</span> - <span inprof='y' id='105_1_2' class='date'>10/12</span>    <span inprof='y' id='105_2' class='company'>State Street Global Services</span>
+               <span inprof='y' id='105_3_1' class='role'>Business System Analyst</span>, <span inprof='y' id='105_4' class='location'>Boston</span>
+               Worked on a project called Dashboard, to create a standardize application across the globe. Project involves 3 transformation framework services:
+               Service Delivery Improvement-Responsibilities include
+               *    Clear understanding of customer needs and requirements followed by seamless execution. ; 
+               *    Technology focused on delivering real time or near real time information to both <span inprof='n' id='106' class='location'>State Street</span> and client ; 
+               *    Alignment between the level of customization and price/value.
+
+               Cost Restructing-Responsibilities include 
+               *    Standardization of both technology and processes leads to lower cost structure ; 
+               *    Optimal global footprint with appropriate local and global delivery strategy ; 
+               *    Clear accountability for cost in all BU's and functional areas ; 
+               *    Worked on creating dashboard and reporting platform Ad-hoc and Canned using <span inprof='y' id='107' class='sofwr'>SSRS</span> and <span inprof='y' id='108' class='sofwr'>OBIEE</span>.
+
+               Growth Orientation-Responsibilities include
+               *    Flexible technology platforms that allows rapid reaction to market and regulatory demands ; 
+               *    Creation of inherent scale that can be accessed ; 
+               *    Flexibility to come online quickly with more volume
+
+               *    The below framework services provide key dashboard capabilities leveraged by process areas to coordinate and orchestrate work ; 
+               *    <span inprof='n' id='109' class='company'>Five Framework Services</span> to provide core functionality are: 
+                  *    <span inprof='y' id='110' class='skill'>Process Monitoring</span>
+                  *    Workflow Automation
+                  *    <span inprof='y' id='111' class='skill'>Inquiry Management</span>
+                  *    <span inprof='y' id='112' class='skill'>Workforce Management</span>
+                  *    KPI and Metrics Monitoring
+
+<span inprof='y' id='113_1_1' class='date'>10/11</span> - <span inprof='y' id='113_1_2' class='date'>03/12</span>    <span inprof='y' id='113_2' class='company'>Liberty Mutual Insurance</span>, <span inprof='y' id='113_3' class='location'>NH</span>
+               <span inprof='y' id='113_4_1' class='role'>Senior Business Analyst</span>
+    Business Problem: The current configuration of functionality does not fully support the business needs.
+               Redundant <span inprof='y' id='114' class='skill'>data entry</span> into multiple systems. The program vision is to build a Next Generation Underwriting application to provide support across the Commercial Market business segments by improving process efficiency of <span inprof='y' id='115' class='skill'>underwriting</span> organization Improve Underwriting effectiveness (quality of <span inprof='y' id='116' class='skill'>underwriting</span> decisions) by enabling <span inprof='y' id='117' class='skill'>underwriting</span> decisions using <span inprof='y' id='118' class='skill'>integrated knowledge management</span> and decision support system by using <span inprof='y' id='119' class='skill'>CRM</span> dashboard.
+               *    Lack of integration within the <span inprof='y' id='120' class='skill'>Underwriting</span> tools ; 
+               *    Lack of support for <span inprof='y' id='121' class='skill'>underwriting</span> decision making (<span inprof='y' id='122' class='skill'>Knowledge Management</span>) ; 
+               *    Inconsistent User Interface ; 
+               *    Version control of tools (managed outside of the main application) ; 
+               *    Inability to efficiently <span inprof='y' id='123' class='skill'>manage workloads</span> and team assignments ; 
+               *    Lack of flexibility and inefficiencies within proposal generation ; 
+               *    Inability to provide a Commercial Market account view ; 
+               *    Prepared an estimate of cost and effort involved completing the project ; 
+               *    Created a project initiation document with project scope, goals, execution methods. ; 
+               *    Worked with PM to prepare Project charter, Project plans, daily, weekly and monthly team deliverables for each phase, drafting WBS and RBS systematically using <span inprof='y' id='124' class='sofwr'>MS Project</span>. ; 
+               *    Worked to enhance BI system can aid in decision support system (DSS) for existing <span inprof='y' id='125' class='skill'>Data warehousing</span>. ; 
+               *    Gathered the business/user requirements through interactions, <span inprof='y' id='126' class='sofwr'>JAD</span> sessions, Requirements interview ; 
+               *    Prepared a business/user requirements document, used HP quality centre to store, track and control the <span inprof='y' id='127' class='skill'>requirement gathering</span> process. ; 
+               *    To compare AS IS and TO BE scenario dived into <span inprof='y' id='128' class='skill'>Business Intelligence</span> systems <span inprof='y' id='129' class='skill'>data mining</span>, process mining, <span inprof='y' id='130' class='skill'>statistical analysis</span>, predictive analytics, predictive modeling, business process modeling, and complex event processing. ; 
+               *    Led <span inprof='y' id='131' class='skill'>requirements analysis</span> and inspection, ensuring that requirement statements and business rules are complete, consistent, concise, comprehensible, traceable, feasible, unambiguous, and verifiable, and that they conform to standards. ; 
+               *    <span inprof='y' id='132' class='skill'>Created various analysis</span> models such as business models, process models, data models and workflow models ; 
+               *    Developed Adhoc and Canned reports based on the level of authorization ; 
+               *    Create detailed profiles such as customer preferences ; 
+               *    Deliver instant, company-wide access to customer histories ; 
+               *    Provided technology support to multiline <span inprof='y' id='133' class='skill'>core processing</span>: To provide an <span inprof='y' id='134' class='skill'>underwriting</span> platform that effectively supports multiline core processing activities, status reporting and workload management &#38; <span inprof='y' id='135' class='skill'>forecasting</span> ; 
+               *    Developed a traceability matrix to map where each Business Req. is mapped to Functional Req. and where each functional Req. is captured ; 
+               *    <span inprof='y' id='136' class='skill'>Managed the output requirement project</span> for various Life Insurance Products. ; 
+               *    Played key role in <span inprof='y' id='137' class='sofwr'>System Development Life Cycle</span> Process consisting of <span inprof='y' id='138' class='skill'>Design and</span> <span inprof='y' id='139' class='skill'>Gap Analysis</span>, Business Requirements, Systems Requirements, Test Criteria, and Implementation to have the outputs of project dealt with the automation of correspondence directed to <span inprof='y' id='140' class='skill'>Insurance policy</span> owners. ; 
+               *    Involved in the process methodology of analyzing, developing and gathering technical requirements in a P&#38;C insurance setting.
+               Environment: <span inprof='y' id='141_1' class='role'>iRise Manager</span>, <span inprof='y' id='142' class='sofwr'>MS Visio</span>, <span inprof='y' id='143' class='sofwr'>Concept Draw</span>, <span inprof='y' id='144' class='sofwr'>Magic Draw</span>, <span inprof='y' id='145' class='sofwr'>SnagIt</span>, <span inprof='y' id='146' class='sofwr'>Crystal Reports</span>, Rational <span inprof='y' id='147' class='sofwr'>Clear Quest</span> and ALM to support on-going requirements, <span inprof='y' id='148' class='sofwr'>MS Project Professional</span> , <span inprof='y' id='149' class='sofwr'>Clear case</span>, Blueprint , and Extensively used <span inprof='y' id='150' class='sofwr'>Excel</span>.
+
+<span inprof='y' id='151_1_1' class='date'>04/10</span> - <span inprof='y' id='151_1_2' class='date'>09/11</span>    <span inprof='y' id='151_2' class='company'>Deutsch Bank</span>, <span inprof='y' id='151_3' class='location'>NY</span>
+               <span inprof='y' id='151_4_1' class='role'>Sr. Business  Analyst</span>
+               <span inprof='n' id='152' class='company'>Deutsche Bank is a leading global investment bank</span> with a strong private client franchise. Its businesses are mutually reinforcing.
+               *    Effectively Managed over <span inprof='n' id='153' class='money'>$1.5M</span> annual budget over 4 small projects on annual basis.
+               <span inprof='y' id='154_1' class='role'>CTM Broker</span> Recertification:-
+               *    This Project involved making enhancement to <span inprof='n' id='155' class='company'>Deustche Bank</span> Matching component. Omgeo updated their systems allowing Brokers to make amendments to IM Trade. ; 
+               *    This involved updating system to be able to receive process and distribute messages from Brokers, both, new and existing. ; 
+               *    Identified new Processes and designed new workflows for receiving Amendments <span inprof='n' id='156' class='bad-occupation'>from Broker</span>. ; 
+               *    Ensured new requirements add scalability to system for future enhancements.
+
+               <span inprof='n' id='157' class='company'>GRS Portfolio</span> Enhancement Project:
+               *    With new Funds introduced by Investment Managers, enhancements were made to existing Global Reference System to allow users to Set-up new Funds. Creating new UIs and processes for CDO, Term Deposits, <span inprof='y' id='158' class='skill'>Repos</span>, Collaterals and <span inprof='y' id='159' class='skill'>Equity</span> trades was requirement for this project. ; 
+               *    Created Business Rules for processing <span inprof='y' id='160' class='skill'>Fixed Income</span> and <span inprof='y' id='161' class='skill'>Equity</span> Trades. ; 
+               *    Ensured, all scenarios for receiving Amended/Cancelled trades from CTM are covered and documented. ; 
+               *    Worked on <span inprof='y' id='162' class='skill'>Business Intelligence</span> 2.0 ; 
+               *    Worked with Omgeo to understand how Brokers shall behave in new environment. ; 
+               *    Coordinated with business groups and component owners and communicated changes needed in their systems to meet Omgeo Recertification requirements. ; 
+               *    Identified data set-up requirements, data gaps, new VET Rules by querying database and creating reports.
+
+    <span inprof='n' id='163' class='company'>Interested Party</span> Confirmation:-
+               *    With new investment types introduced in market, <span inprof='n' id='164' class='company'>Deustche Bank</span> had to update its system to meet industry standards. ; 
+               *    For Confirmation services provided to Clients, <span inprof='y' id='165_1' class='role'>Prime Broker</span> funds required <span inprof='y' id='166' class='skill'>different processing</span> as for <span inprof='n' id='167' class='bad-occupation'>other Broker</span> Funds. It was deemed necessary to upgrade our systems to process new Funds introduced. ; 
+               *    Identified new processes and workflows required <span inprof='n' id='168' class='bad-occupation'>to confirm Prime broker</span> funds. ; 
+               *    Enlisted all new data elements and mapping required to process trades. ; 
+               *    Created new processes, leveraged existing flows by implementing <span inprof='y' id='169' class='skill'>business process management</span>. Ensured all new process are in synch with <span inprof='y' id='170' class='skill'>overall design</span>, Leveraging existing processes and supports <span inprof='y' id='171' class='sofwr'>Service Oriented Architecture</span> adapted by organization. ; 
+               *    Detailed Rules for Calculation of Fees And Taxes at granular or rolled up level for <span inprof='y' id='172' class='skill'>fixed Income</span> and <span inprof='y' id='173' class='skill'>equity</span> trades. ; 
+               *    Enhanced Trade Blotter and Trade Monitor applications to get core and Client specific Reports ; 
+               *    Captured and detailed data requirements for <span inprof='y' id='174' class='skill'>Fixed Income Derivatives</span> and <span inprof='y' id='175' class='skill'>Interest Rate Swaps</span>. ; 
+               *    Identified counterparties involved in <span inprof='y' id='176' class='skill'>Fixed Income</span> and <span inprof='y' id='177' class='skill'>Equity</span> Trades and captured data set-up, maintenance and override requirements for each investment type.
+
+<span inprof='y' id='178_1_1' class='date'>04/09</span> - <span inprof='y' id='178_1_2' class='date'>03/10</span>    <span inprof='y' id='178_2' class='company'>Citigroup</span>, <span inprof='y' id='178_3' class='location'>Warren, NJ</span>
+               <span inprof='y' id='178_4_1' class='role'>Sr. Business Analyst</span>
+               *    Actively participated in the resolution of day-to-day Production reporting needs and issue resolution requests from business users and worked with the development team to resolve the issue ; 
+               *    Project involved <span inprof='y' id='179' class='sofwr'>integration of People Soft</span> Module. ; 
+               *    Partnered <span inprof='n' id='180' class='bad-occupation'>with the Project Manager</span>, Project Sponsors and Business users to scope out the project objectives and determine impact and timeline of various deliverables and help build the project plan and Gantt Charts in <span inprof='y' id='181' class='sofwr'>Microsoft Project</span> ; 
+               *    Worked on developing requirements for reporting on OTC Derivative, <span inprof='y' id='182' class='skill'>Equity</span> Trades, <span inprof='y' id='183' class='skill'>Fixed Income</span> Trades, Sales &#38; Asset from the in house Trading Tool onto the <span inprof='y' id='184' class='skill'>CRM</span> <span inprof='y' id='185' class='sofwr'>Oracle</span> Data Warehouse ; 
+               *    Gathered and analyzed Reporting requirements and formulated Business Rules for Securities Transaction, Position and Sales Reporting for <span inprof='n' id='186' class='company'>the Institutional Services Group</span> as part of the <span inprof='y' id='187' class='sofwr'>CRM</span> Data Warehouse Initiative with BI Tool OBIEE as the front end reporting tool ; 
+               *    Worked on subjects like GL and PR ; 
+               *    Collaborated with the QA team to define test strategies and test plans and define test scenarios around critical business requirements ; 
+               *    Used <span inprof='y' id='188' class='sofwr'>Rational Unified Process</span> <span inprof='y' id='189' class='sofwr'>(RUP)</span> for <span inprof='y' id='190' class='skill'>requirements gathering</span>, <span inprof='y' id='191' class='sofwr'>Rational Rose for UML</span> Modeling and Rational <span inprof='y' id='192' class='sofwr'>Clear Quest</span> for Defect Tracking ; 
+               *    Actively worked with the Business Users in the UAT phase by helping them build test scenarios and resolving any anomalies in the results of the reporting elements. ; 
+               *    Recommended a reporting solution in the <span inprof='y' id='193' class='skill'>CRM</span> that would minimize the impact on the system from evolving business needs <span inprof='y' id='194' class='skill'>Gathered requirements</span> and analyzed the Retirement Plan Selling Process and the reporting needs arising from the implementation of a new business process for Selling Retirement Plans. ; 
+               *    Documented Business processes and data flows using Process Flow and Data Flow diagrams in <span inprof='y' id='195' class='sofwr'>Microsoft Visio</span>. Created <span inprof='y' id='196' class='sofwr'>ETL</span> test data for all <span inprof='y' id='197' class='sofwr'>ETL</span> mapping rules to test the functionality of the SSIS Mapping. Performed Validations on <span inprof='n' id='198' class='qualif'>Data Extraction Logic, Data Transformation Logic, Data Loading Logic</span>, <span inprof='y' id='199' class='sofwr'>ETL</span> Error Logs and Data Quality.. ; 
+               *    <span inprof='n' id='200' class='qualif'>Using Agile Methodology</span>, the entire project was broken into sub tasks which were performed in parallel.
+
+
+<span inprof='y' id='201_1_1' class='date'>01/08</span> - <span inprof='y' id='201_1_2' class='date'>02/09</span>    <span inprof='y' id='201_2' class='company'>Gander Mountain Inc</span>, <span inprof='y' id='201_3' class='location'>Minneapolis, MN</span>
+    <span inprof='y' id='201_4_1' class='role'>Sr. Business Analyst</span>
+               <span inprof='n' id='202' class='company'>Gander Mountain Inc.</span> is one of the leading <span inprof='y' id='203' class='skill'>retail stores</span> in the state of <span inprof='n' id='204' class='location'>Minnesota</span>. Worked on a project involving implementation of a retail business solution to provide functionalities including Price Management, <span inprof='y' id='205' class='qualif'>Promotion</span>, <span inprof='y' id='206' class='skill'>Purchase Order</span>, Inventory, Shipping,and Receiving. In the process, developed and implemented a Performance Management Platform for the retailers to streamline the <span inprof='y' id='207' class='skill'>Forecasting</span> and <span inprof='y' id='208' class='skill'>Budgeting</span> process, thus reducing associated costs.
+               *    Was responsible for defining the scope of the project, gathering Business Requirements and documenting them textually or within models. ; 
+               *    Developed prototype of new information processing application. ; 
+               *    Met with client groups to determine User Requirements and Goals, thus converting User Requirements into Business Requirements and User and Functional Requirement Specification. ; 
+               *    Interviewed Business Area Experts, asking detailed questions and carefully recording the requirements in a format that could be reviewed and understood by both business people and technical people. ; 
+               *    Followed the RUP guidelines and documented the requirements in <span inprof='y' id='209' class='sofwr'>Rational Requisite Pro</span>. ; 
+               *    Analyzed business requirements and segregated them into high level and low level Use Cases, as well as <span inprof='y' id='210' class='sofwr'>activity diagrams</span> / State Chart Diagrams and Robustness Diagrams using <span inprof='y' id='211' class='sofwr'>Rational Rose</span> according to <span inprof='y' id='212' class='sofwr'>UML methodology</span>, thus defining the Data Process Models. ; 
+               *    Grouped the Use Cases diagrams into Sequence and Collaboration Diagrams using <span inprof='y' id='213' class='sofwr'>Rational Rose</span> based on <span inprof='y' id='214' class='sofwr'>UML methods</span>, thereby defining the Business Process Model. ; 
+               *    Worked on a <span inprof='y' id='215' class='skill'>CRM</span> platform on various applications like Customer service and support, data security, focused marketing efforts, automated analytics and reporting, and better coordination and cooperation. ; 
+               *    Documented Test Plans that contains test scripts, test cases, test data and expected results for the Integration, Functional, Performance, and <span inprof='y' id='216' class='skill'>User Acceptance Testing</span>, using <span inprof='y' id='217_1' class='role'>Rational Test Manager</span>. ; 
+               *    Used Rational <span inprof='y' id='218' class='sofwr'>Clear Quest</span> as the defect tracking tool, and Rational <span inprof='y' id='219' class='sofwr'>Clear Case</span> for Version control and <span inprof='y' id='220' class='skill'>Configuration Management</span>.
+
+<span inprof='y' id='221_1_1' class='date'>11/06</span> - <span inprof='y' id='221_1_2' class='date'>12/07</span>    <span inprof='y' id='221_2' class='company'>Providian Financial Inc.</span>, <span inprof='y' id='221_3' class='location'>San Francisco, CA</span>
+               <span inprof='y' id='222_1' class='role'>Business Analyst</span>
+               <span inprof='n' id='223' class='company'>Providian</span> Financials is one of the leading financial institutions of the nation, offering broad range of <span inprof='y' id='224' class='skill'>financial services</span> like lending, deposit and membership based products. It offers online services such as 24-hour online account access to credit card accounts by removing HR workload to <span inprof='n' id='225' class='percent'>50 percent</span>, instant online <span inprof='y' id='226' class='skill'>account opening</span> for deposit accounts, and instant decisions for credit cards. The project involves implementing the 24-hour online access to credit cards, where customers could login and view their account information, make online payments, change their contact information, and contact customer service representatives for questions. 
+               *    Gathered Business Requirements, analyzed data/workflows, and defined the scope, financial projections and Cost/Benefit analysis. ; 
+               *    Developed the business case for the proposed Performance Management Platform. ; 
+               *    Facilitated collection of Functional Requirements from system users, and prepared Business Requirement documents using <span inprof='y' id='227' class='sofwr'>Rational Requisite Pro</span>. ; 
+               *    Applied the <span inprof='y' id='228' class='sofwr'>RUP</span> model throughout the entire development and testing process. ; 
+               *    Followed the <span inprof='y' id='229' class='sofwr'>UML</span> based methods using <span inprof='y' id='230' class='sofwr'>Rational Rose</span> to create Use Case Diagrams, Activity and State Chart Diagrams, Sequence Diagrams, and Collaboration Diagrams. ; 
+               *    Used Rational <span inprof='y' id='231' class='sofwr'>Clear Quest</span> for Defect Tracking and <span inprof='y' id='232' class='skill'>Change Management</span> purposes and Rational <span inprof='y' id='233' class='sofwr'>Clear Case</span> for Version Control and <span inprof='y' id='234' class='skill'>Configuration Management</span>. ; 
+               *    Interviewed Business Area Experts, asking detailed questions and carefully recording the requirements in a format that could be reviewed and understood by both business people and technical people. ; 
+               *    Led technical and business sessions, and acted as a liaison between user and stakeholders, thus converting business needs into software solutions of the highest quality
+
+<span inprof='y' id='235_1_1' class='date'>09/04</span> - <span inprof='y' id='235_1_2' class='date'>11/06</span>    <span inprof='y' id='235_2' class='company'>Unity Inc.</span>, <span inprof='y' id='235_3' class='location'>Milpitas, CA</span>
+               <span inprof='y' id='235_4_1' class='role'>Business Analyst</span>
+               IP Unity delivers carrier grade services platform for enhanced voice and telephony applications over <span inprof='y' id='236' class='sofwr'>ATM</span>, <span inprof='y' id='237' class='sofwr'>TDM</span> and <span inprof='n' id='238' class='company'>VoIP Networks</span>. Worked on an Unified Messaging Suite that offers standard voicemail features with a familiar interface, but lets subscribers choose to integrate voicemail with email, receiving voice messages as WAV files in their email inbox and accessing emails through a telephone using text-to-speech technology
+*    Understood problems pertaining to development of new information systems to meet present and future business needs. ; 
+*    Met with client groups to determine user requirements and goals. Utilized RUP to configure and <span inprof='y' id='239' class='skill'>develop process</span>, standards, and procedures. ; 
+*    Analyzed business requirements and segregated them into high level and low level Use Cases, and <span inprof='y' id='240' class='sofwr'>activity diagrams</span>. ; 
+*    Created Use Cases, Collaboration, Object Sequence, Object Interaction and State Diagrams for new features using <span inprof='y' id='241' class='sofwr'>Rational Rose</span>. ; 
+*    Understood and articulated business requirements from user interviews and then converted requirements into solutions. ; 
+*    Provided system analysis and support to the development team throughout the <span inprof='y' id='242' class='sofwr'>SDLC</span>. ; 
+*    Conducted Functional requirement specification and User requirement specification reviews and walkthroughs with the designers, developers and stakeholders. ; 
+*    Set up definitions and process for test phases including integration test, functional test, performance test, and acceptance test using <span inprof='y' id='243_1' class='role'>Rational Test Manager</span>. ; 
+*    Updated the requirement and defect status as per the current status of the testing project using Rational <span inprof='y' id='244' class='sofwr'>Clear Quest</span>.
+
+
+<span inprof='n' id='245' class='edu-hist-mark'>EDUCATION:</span>
+               *    <span inprof='y' id='246' class='qualif'>Masters in Business Administration</span>
+               *    <span inprof='y' id='247' class='qualif'>Bachelor in Business Administration</span>
+
+</TextResume>
+
+</NonXMLResume>
+
+
+
+<UserArea>
+<DaxResumeUserArea>
+<AdditionalPersonalData>
+<ExperienceSummary>
+<TotalMonthsOfWorkExperience>122</TotalMonthsOfWorkExperience>
+<TotalYearsOfWorkExperience>10</TotalYearsOfWorkExperience>
+<ExecutiveBrief>Dipansh Mehta has been working in the Senior  occupational sector for more than 10 years. Currently this candidate is employed as a Sr. Business Analyst at Realogy Holdings Corp. So far Dipansh has not gained any managerial experience.</ExecutiveBrief>
+</ExperienceSummary>
+</AdditionalPersonalData>
+<ParserInfo>
+<ParserConfiguration>{max_len=50000} {tel_flag=} {send_zip=} {fast_conv=} {DEF_LOCAL=} {sdate=0} {no_email_body=0} {do_clever_zoning=1} {keep_span=1} {complex=1} {accept_langs=} {not_accept_langs=} {prefer_lang_cv=EN} {pers_only=0} {turbo=0} {split_language=0} {picture=0} {picture_inline=0} {name_space=0} {charset=} {hrxml_upgrade_edu_hist=0}{hrxml_add_languages_section=0}{spool=} {docID=} {user=DEFAULT} </ParserConfiguration>
+<ParserRelease>0.12.3.32629</ParserRelease>
+<ParserReleaseDate>2014-06-18</ParserReleaseDate>
+<ParserSchema>2.0.29</ParserSchema>
+<ParserSchemaLocation>http://cvx.daxtra.com/cvts/xsd/candidate/2.0.29/Resume.xsd</ParserSchemaLocation>
+<ConverterRelease>0.5.2.32629</ConverterRelease>
+<ConverterReleaseDate>2014-06-18</ConverterReleaseDate>
+</ParserInfo>
+<FileStruct filename='/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/Dipansh Mehta.docx'>
+
+<attachment fname='Dipansh Mehta.docx' ftype='docx' conv='yes' doc_type='cv' lang='EN'>/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/Dipansh Mehta.docx</attachment>
+
+
+</FileStruct>
+</DaxResumeUserArea>
+</UserArea>
+</Resume>

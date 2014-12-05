@@ -1,0 +1,2489 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Resume lang='en' src='DAXTRA-CVX schema:2.0.29 release:0.12.3.32629 rdate:2014-06-18'>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName id='2'>
+<FormattedName>Andrew Andrada</FormattedName>
+<GivenName>Andrew</GivenName>
+<FamilyName>Andrada</FamilyName>
+<sex>Male</sex>
+</PersonName>
+<ContactMethod>
+<Telephone id='4' type='home'>
+<InternationalCountryCode>1</InternationalCountryCode>
+<SubscriberNumber>973 500-8009</SubscriberNumber>
+<FormattedNumber>+1 973 500-8009</FormattedNumber></Telephone>
+
+<InternetEmailAddress id='5' type='main'>andrew_andrada@hotmail.com</InternetEmailAddress>
+<PostalAddress id='3' oids='3 10 ' type='main'>
+<CountryCode>US</CountryCode>
+<Region>NJ</Region>
+<Municipality>Parsippany</Municipality>
+
+</PostalAddress>
+</ContactMethod>
+</ContactInfo>
+
+
+<EmploymentHistory>
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='9_1'>Infosys - Daiichi Sankyo Pharmaceutical</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='10'>
+<Municipality>Parsippany</Municipality>
+<Region>NJ</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory>
+<Title id='11_1'>Program Validation Manager</Title>
+<OrgName id='9_1'>Infosys - Daiichi Sankyo Pharmaceutical</OrgName>
+
+
+
+<Description>The purpose of the SAP Serialization Project is to incorporate product serialization into the client's Supply Chain.  This includes serializing the pharmaceutical products at the time of manufacturing and developing a SAP system that will track the pharmaceutical products throughout the Supply Chain.  At the completion of the project, the SAP Serialization System will have the ability to track and trace the manufacturing of any product within the Supply Chain and look up the ePedigree of any delivered product.
+    *  Accountable for identifying, quantifying, negotiating and delivering the Validation documentation ; 
+    *  Accountable with partnering and working with QA-CSV on all Validation needs ; 
+    *  Accountable for the adherence to the client's Validation procedures and standards ; 
+    *  Accountable for the review of all Validation deliverables ; 
+    *  Accountable in providing Validation status and metrics ; 
+    *  Accountable for fielding all Validation questions ;</Description>
+<StartDate id='9_2_1'><YearMonth>2013-03</YearMonth></StartDate>
+<EndDate id='9_2_2'>notApplicable</EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>procurement</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='9' last_id='15' border_id='18'></TLSPAN>
+<MonthsOfWork>8</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='16'>Six Dimensions</EmployerOrgName>
+
+<PositionHistory positionType='CONTRACT'>
+<Title id='20_1'>Agile Tester</Title>
+<OrgName id='16'>Six Dimensions</OrgName>
+
+
+
+<Description>The purpose of the Adobe TRACE (Tracking Resource Allocation &#38; Contract Execution) application is provide the Consulting division a system for planning the resource needs of a contract or other types of work, that also takes into consideration resources' time off and training activities. Based on the contracts hours and rates that are associated with an assignment, Consulting is also able to provide their Revenue Forecast.  The application was developed using Scrum and the Agile software development methodology.  The application was developed in Adobe Flash Builder 4.6, Eclipse Juno and JBoss 5.1 with an Oracle backend.
+    *  Accountable for executing the Cycle Testing, Acceptance Testing and Platform Testing ; 
+    *  Accountable for developing the testing strategy for the project ; 
+    *  Participating in the Daily Scrum meetings ; 
+    *  Participating in the Sprint planning meeting, Sprint review meeting and the Sprint retrospective ; 
+    *  Accountable for writing the test cases for each story ; 
+    *  Utilizing Rally in managing the testing artifacts and testing execution ;</Description>
+<StartDate id='18_1'><YearMonth>2012-11</YearMonth></StartDate>
+<EndDate id='18_2'><YearMonth>2013-06</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='16' last_id='29' border_id='30'></TLSPAN>
+<MonthsOfWork>8</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='30_3'>Global Pharmaceutical Research &#38; Development (GPRD)</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='30_6'>
+<Municipality>Chicago</Municipality>
+<Region>IL</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='30_4_1'>Quality Assurance Validation Lead</Title>
+<OrgName id='37'>Abbott Laboratories</OrgName>
+
+
+
+<Description>Global Pharmaceutical Research &#38; Development (GPRD)
+AEGIS (Adverse Event Global Information System) is a cross-divisional program that provides harmonized tools and processes for adverse event reporting and analysis in the Pharmacovigilance space.  The AEGIS Upgrade 8.0.0 project is migrating from a client/server system to a web based system.  The Commercial-Off-the-Shelf system is based on components of Aris Global's Total Safety Suite (TSS) software package (ARISg 6.4s) configured to meet global Abbott Laboratories needs.
+    *  Accountable for creating the entire suite of testing artifacts for System Integration Testing, including the test plan for SIT, test scripts, traceability matrix ; 
+    *  Managing and executing System Integration Testing ; 
+    *  Conducting Smoke Testing of the system new builds and new development environments ; 
+    *  Accountable for writing the Test Plan document for the entire AEGIS Upgrade 8.0.0 project ; 
+    *  Consulting on the creation of the Test Strategy document ; 
+    *  Author test cases for the different testing efforts ; 
+    *  Conducting the review and approval of the testing documents ; 
+    *  Testing consultant on the various testing efforts ; 
+    *  Functioning in the pharmaceutical regulated testing and validation space, GCP, GLP &#38; GMP ; 
+    *  Utilize HP Quality Center 10 ;</Description>
+<StartDate id='30_5_1'><YearMonth>2011-10</YearMonth></StartDate>
+<EndDate id='30_5_2'><YearMonth>2012-09</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='30' last_id='43' border_id='45'></TLSPAN>
+<MonthsOfWork>12</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='44'>Fusion Alliance</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='46'>
+<Municipality>Indianapolis</Municipality>
+<Region>IN</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='47_1'>Quality Assurance Manager</Title>
+<OrgName id='44'>Fusion Alliance</OrgName>
+
+
+
+<Description>Herff Jones is upgrading their.NET ordering system to a web-based system utilizing Adobe Flex Builder.  Moving to a web-based approach will streamline the Sales Representative computing use, increase their ability to conduct business and enhanced their ability to interface with corporate.
+    *  Accountable for establishing the QA standards ; 
+    *  Accountable for creating and maintaining the testing artifacts ; 
+    *  Accountable for the testing metrics ; 
+    *  Accountable for all the testing deliverables ; 
+    *  Accountable for the entire testing phases
+    *  Accountable for the testing resources ; 
+    *  Accountable for the all the testing activities which include, defect management, test execution and test artifact generations ; 
+    *  Establishing the testing strategy, testing protocols and testing procedures ; 
+    *  Gathering, analyzing and documenting all the pertinent documentation for the testing effort ; 
+    *  Defining the testing scope ; 
+    *  Defining the RACI matrix for the testing effort ; 
+    *  Establishing testing deadlines ; 
+    *  Establishing the testing infrastructure ; 
+    *  Establishing an testing automation suite utilizing an open source tool, WATIR ; 
+    *  Also, functioning as a Senior Quality Assurance Engineer ;</Description>
+<StartDate id='45_1'><YearMonth>2010-01</YearMonth></StartDate>
+<EndDate id='45_2'><YearMonth>2011-06</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>engineering~manufacturing</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='44' last_id='52' border_id='54'></TLSPAN>
+<MonthsOfWork>18</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='53'>Indecon Solution</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='55'>
+<Municipality>Indianapolis</Municipality>
+<Region>IN</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='CONTRACT'>
+<Title id='56_1'>Program Quality Assurance Manager</Title>
+<OrgName id='53'>Indecon Solution</OrgName>
+
+
+
+<Description>Anthem's current call centers utilize several legacy systems to retrieve health care information. A phone call can take 45 minutes. The FEP WAW (Federal Employee Program - WellPoint Advocate Workstation) project provides a GUI front end layer on top of the legacy systems. This will streamline the exchange of information an average phone call will decrease to five to ten minutes.
+    *  Accountable for all the testing deliverables for the entire project ; 
+    *  Accountable for all the testing phases including the back end testing, system testing, integration testing, end to end testing, user acceptance testing and production verification ; 
+    *  Accountable for the testing deliverables for each testing phase, which includes a project plan, delivery dates, test plan/strategy, test cases/scripts, requirements/business scenario traceability, testing tools selection and test execution reporting ; 
+    *  Also accountable for the all the testing activities which include, defect management, test execution, test artifact generations and testing environment setup ; 
+    *  Manage the testing effort from the program level ; 
+    *  Answerable to the PMO for the entire testing effort ; 
+    *  Define RACI matrix for the entire testing effort ; 
+    *  Responsible for all testing deadlines and testing statuses ;</Description>
+<StartDate id='54_1'><YearMonth>2009-10</YearMonth></StartDate>
+<EndDate id='54_2'><YearMonth>2010-01</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='53' last_id='66' border_id='67'></TLSPAN>
+<MonthsOfWork>4</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='67_1'>TEKsystems - American</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='69'>
+<Municipality>Indianapolis</Municipality>
+<Region>IN</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='CONTRACT'>
+<Title id='71_1'>Engagement Manager</Title>
+<OrgName organizationType='unit' id='67_1'>International Group</OrgName>
+
+
+
+<Description>Group Management Division    Indianapolis, Indiana / Wilmington, Delaware - USA /
+Engagement Manager    Montreal, Quebec - Canada / Bangalore - India
+
+
+    The AIG GMD engagement was a multi-year project that was responsible for providing Incident Management and Change Management support.  TEKsystems was transitioning off-shore support and responsibility from AIG (AIA IT, AIG Southeaster Asia) to TEKsystems in Bangalore, India.
+    *  Engagement Manager:  Representing TEKsystems' interests with the client, responsible for all engagement level tasks, responsible for the engagement financials and creating processes for the engagement incorporating the  ITIL methodology and our contractual obligations ; 
+    *  Transition Manager:  Creating a Transition process for the engagement, creating Roles and Responsibilities, resource management, managing the Transition Phase of the engagement from AIA IT to TEKsystems, identifying gaps in the client's processes, introducing the new processes to the client, implementing the processes, training TEKsystems staff, orientating the new TEKsystems staff, training and mentoring the on-site TEKsystems lead.  The Transition process plan also detailed the way support was delivered by the client to a structured Incident Management and Change Management approach. ; 
+    *  Connectivity Manager:  Creating, coordinating and managing the Connectivity Solution that connects the Bangalore facility to the AIG in Wilmington facility.  Also, configuring and implementing the TEKsystems computing facility in Bangalore. ; 
+    *  Consultant:  Consulting on TEKsystems proposals to potential TEKsystems clients.  Consulting includes writing proposals, documenting the client's current processes, conducting a gap analysis, proposing Roles and Responsibilities and writing up TEKsystems proposed enhanced processes including the ITIL framework and Incident Management/Change Management methodology. ; 
+    *  Engagement utilizing Java, Oracle, MicroFocus COBOL ;</Description>
+<StartDate id='67_2_1'><YearMonth>2009-02</YearMonth></StartDate>
+<EndDate id='67_2_2'><YearMonth>2009-06</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='67' last_id='107' border_id='0'></TLSPAN>
+<MonthsOfWork>5</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='108_1'>TEKsystems</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='109'>
+<Municipality>Indianapolis</Municipality>
+<Region>IN</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='110_1'>Solution Deliver Manager</Title>
+<OrgName id='108_2'>Eli-Lilly Pharmaceuticals</OrgName>
+
+
+
+<Description>TEKsystems - Eli-Lilly Pharmaceuticals         Discovery IT Engagement                       
+Solution Deliver Manager    Montreal, Quebec - Canada
+
+
+    The DIT engagement was a six year project that was responsible for providing Incident Management and Change Management support for 350+ production applications (GxP and non GxP) formerly developed and maintained by Lilly's Discovery IT's Center of Excellence.  This support model entails utilizing near-shore resources in Montreal, Quebec to provide Incident Management, Change Management and technical support.  The Montreal staff was comprised of quality assurance testers, technical writers and developers. 
+    *  Responsible for the completion of production support work in the Montreal facility.  At the same time, complying with the client's established policies and procedures. ; 
+    *  Managing the entire DIT staff in Montreal, comprising of developers, quality assurance and technical writers. ; 
+    *  As Enhancement Manager , responsible for releasing Change Management work in Montreal ; 
+    *  Responsible for the execution of Incident Management in Montreal ; 
+    *  As Resource Manager, responsible for the roles &#38; responsibilities, assigning work to the technical staff, load balancing, assessing technical skill, conducting resource meetings to staff releases/projects and interviewing developers ; 
+    *  Mentoring the technical staff and technical leads in Montreal ; 
+    *  Coordinating SDLC operations between Montreal and the client site in Indianapolis ; 
+    *  Creating and maintaining processes for the engagement that maintains our pharmaceutical compliance, incorporate ITIL, and our contractual obligations ; 
+    *  Adhering and enforcing GxP (GLP, GMP&#38; GRP) quality guidelines and regulations ; 
+    *  Generating status reports reflecting Montreal's activities ; 
+    *  Engagement utilizing Java, Oracle, ETL, C#, .NET, ColdFusion technology ;</Description>
+<StartDate id='108_3_1'><YearMonth>2008-08</YearMonth></StartDate>
+<EndDate id='108_3_2'><YearMonth>2009-05</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='108' last_id='144' border_id='145'></TLSPAN>
+<MonthsOfWork>10</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='145_1'>TEKsystems</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='146'>
+<Municipality>Indianapolis</Municipality>
+<Region>IN</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='CONTRACT'>
+<Title id='147_1'>Transition Manager</Title>
+<OrgName id='145_2'>Eli-Lilly Pharmaceuticals</OrgName>
+
+
+
+<Description>TEKsystems - Eli-Lilly Pharmaceuticals              Global Medical and Regulatory IT Engagement        
+
+
+    GM&#38;R IT engagement was a five year project responsible for providing Incident Management and Change Management support for 100+ GxP production applications (GxP and non GxP) formerly developed and maintained by Lilly GM&#38;R IT.  TEKsystems was transitioning near-shore support and responsibility from Lilly to TEKsystems.  This support model entails utilizing near-shore resources in Montreal, Quebec to provide Incident Management, Change Management and technical support. 
+    *  Managing the Transition Phase of the engagement from Lilly GM&#38;R IT to TEKsystems ; 
+    *  Utilizing the Transition process developed in the transition of the DIT engagement ; 
+    *  On Boarding new TEKsystems staff, defining Roles and Responsibilities and training the on the Transition process and Steady State ; 
+    *  Training and mentoring the new TEKsystems staff to the Lilly environment and the GM&#38;R IT engagement.  Including training the staff on the policies and procedures of the client. ; 
+    *  Functioning as Project Manager for a Functional Business Area ; 
+    *  Managing the Connectivity Solution from the Montreal facility to Lilly Corporate ; 
+    *  Managing the GM&#38;R IT Total Connectivity Solution from our Montreal facilities to the Lilly facility in Indianapolis.  The connectivity solution included Citrix servers, remote connectivity to end user environments, point to point connections and implementing connectivity/security protocols. ; 
+    *  Creating processes for the engagement that incorporate ITIL and our contractual obligations ; 
+    *  Adhering and enforcing GxP (GLP, GMP&#38; GRP) quality guidelines and regulations ; 
+    *  Consulting on TEKsystems proposals to potential TEKsystems clients.  Consulting includes writing proposals, documenting the client's current processes, performing a gaps analysis, proposing Roles and Responsibilities and writing up TEKsystems proposed enhanced processes including the ITIL framework and Incident Management/Change Management methodology. ; 
+    *  Engagement utilizing Java, Oracle, ETL, C#, .NET, ColdFusion technology ;</Description>
+<StartDate id='145_3_1'><YearMonth>2008-02</YearMonth></StartDate>
+<EndDate id='145_3_2'><YearMonth>2008-08</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='145' last_id='181' border_id='182'></TLSPAN>
+<MonthsOfWork>7</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='182_1'>TEKsystems</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='183'>
+<Municipality>Indianapolis</Municipality>
+<Region>IN</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='CONTRACT'>
+<Title id='182_4_1'>Engagement Manager</Title>
+<OrgName id='182_2'>Liberty Mutual Insurance</OrgName>
+
+<OrgIndustry primaryIndicator='true'><IndustryDescription>insurance company</IndustryDescription></OrgIndustry>
+
+<Description>Liberty Mutual is a top 100 Fortune company.  The Specialty Testing group was Liberty Mutual's internal testing resourcing augmentation staff providing Change Management testing support. 
+    *  Managing the program level testing effort for the rebranding of a newly acquired insurance company.  The testing effort spans ten departments (Liberty Mutual and newly acquired Ohio Casualty Group). ; 
+    *  Creating program level status reports and metrics on the progress of testing ; 
+    *  Coordinating and mentoring the testing resources within the Liberty Mutual Specialty Testing group ; 
+    *  Functioning as the Engagement Manager for TEKsystems on the Liberty Mutual engagement ;</Description>
+<StartDate id='182_3_1'><YearMonth>2007-11</YearMonth></StartDate>
+<EndDate id='182_3_2'><YearMonth>2008-02</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>insurance</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='182' last_id='192' border_id='193'></TLSPAN>
+<MonthsOfWork>4</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='193_1'>TEKsystems</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='194'>
+<Municipality>Indianapolis</Municipality>
+<Region>IN</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='195_1'>Quality &#38; Validation Manager</Title>
+<OrgName id='193_2'>Eli-Lilly Pharmaceuticals</OrgName>
+
+
+
+<Description>TEKsystems - Eli-Lilly Pharmaceuticals         Discovery IT Engagement                       
+
+
+    The DRAS engagement evolved into the DIT engagement. The DIT engagement was a six year project that was responsible for providing Incident Management and Change Management support for 350+ production applications (GxP and non GxP) formerly developed and maintained by Lilly's Discovery IT's Center of Excellence. This support model entails utilizing near-shore resources in Montreal, Quebec to provide Incident Management, Change Management and technical support. The Montreal staff was comprised of quality assurance testers, technical writers and developers. 
+    *  Transition Phase: 
+    *  Transitioning the support and responsibility from the client to our facilities in Montreal. ; 
+    *  Principle architect to the current TEKsystems Transitioning process. ; 
+    *  Principle architect to the current TEKsystems Incident Management and Change Management process. ; 
+    *  Responsible for training the new TEKsystems staff on the Incident Management and Change Management process.  Also, training the staff on the policy and procedures of the client. ; 
+    *  On Boarding the new TEKsystems quality assurance testers and the technical writing staff. ; 
+    *  Managing the transition of key components of the engagement. ; 
+    *  Managing the technical writer and testing resources' responsibilities through the Transition processes. ; 
+    *  Implementing a connectivity solution from our Montreal facilities to the Lilly facility in Indianapolis.  The connectivity solution included Citrix servers, remote connectivity to end user environments, point to point connections and implementing connectivity/security protocols. ; 
+    *  Adhering and enforcing GxP (GLP, GMP&#38; GRP) quality guidelines and regulations. ; 
+    *  Engagement utilizing Java, Oracle, ETL, C#, .NET, ColdFusion technology. ; 
+    *  Connectivity Manager:  Defining, designing, configuring &#38; implementing  (a) our remote offshore/near-shore computing facilities; (b) our secure remote connectivity from our offshore/near-shore facilities to our domestic clients) ; 
+    *  Stabilization State/Steady State: 
+    *  Managing the connectivity between the Montreal facilities to the Lilly facilities. ; 
+    *  Managing eight near shore resources in our Montreal facilities, comprised of quality assurance testers and technical writers.  Defining Roles and Responsibilities. ; 
+    *  Managing the quality assurance engagement deliverables and ensuring compliance with our contractual obligations. ; 
+    *  Managing the quality assurance process, quality assurance ad hear to the Incident Management/Change Management process, managing the validation process, configuration manager and functioning as the Director in the absence of the Project Director.  Including training the quality assurance testers and technical writers on the process, procedures and protocol of the client and TEKsystems support procedures. ; 
+    *  Once the connectivity solution stabilized, transitioning the accountability and responsibility for connectivity and moved in to a consulting role. ; 
+    *  Facilitating Lilly's audit of our Montreal facility. ; 
+    *  The findings derived from the client audit evolved into managing a project to comply with the client's findings, utilizing the Montreal staff. ; 
+    *  Adhering and enforcing GxP (GLP, GMP&#38; GRP) quality guidelines and regulations. ; 
+    *  Engagement utilizing Java, Oracle, ETL, C#, .NET, ColdFusion technology ; 
+    *  Consulting:  Consulting on TEKsystems proposals to potential TEKsystems clients.  Consulting includes writing proposals, documenting the client's current processes, performing a gaps analysis, proposing Roles and Responsibilities and writing up TEKsystems proposed enhanced processes including the ITIL framework and Incident Management/Change Management methodology. ;</Description>
+<StartDate id='193_3_1'><YearMonth>2007-01</YearMonth></StartDate>
+<EndDate id='193_3_2'><YearMonth>2007-11</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>engineering~manufacturing</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='193' last_id='256' border_id='260'></TLSPAN>
+<MonthsOfWork>11</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='264'>the Discovery IT's Center of Excellence</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='261'>
+<Municipality>Indianapolis</Municipality>
+<Region>IN</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='259_1'>Quality &#38; Validation Mgr</Title>
+<Title id='259_2'>Quality Assurance Consultant</Title>
+<OrgName id='264'>the Discovery IT's Center of Excellence</OrgName>
+
+
+
+<Description>The DRAS engagement was responsible for providing Incident Management and Change Management support for post production applications formerly maintained by the Discovery IT's Center of Excellence.
+    *  Managing the on-site and near shore Montreal resources.  Including training and mentoring the staff on the client's policies and procedures. ; 
+    *  Managing the testing effort, following the Incident Management processes and verifying the documentation meets our contractual obligation and compliant with our client's obligations ; 
+    *  Management responsibilities include meetings, presentations and reports to Lilly senior management ; 
+    *  Managing the engagement as the Deputy of Engagement, functioning as the Director in the absence of the Engagement Director and PMO duties as a part of the on site vendor for Eli-Lilly Pharmaceuticals ; 
+    *  Recent milestone include 20,000 hours of technology delivery with zero hours of rework ; 
+    *  Functioning as a Quality Assurance Consultant for other projects ; 
+    *  Adhering and enforcing GxP (GLP, GMP&#38; GRP) quality guidelines and regulations ; 
+    *  Engagement utilizing Java, Oracle, ETL, C#, .NET, ColdFusion technology ;</Description>
+<StartDate id='260_1'><YearMonth>2006-04</YearMonth></StartDate>
+<EndDate id='260_2'><YearMonth>2006-12</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='259' last_id='277' border_id='280'></TLSPAN>
+<MonthsOfWork>9</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='291'>the Validation Department</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='280_3'>
+<Municipality>Indianapolis</Municipality>
+<Region>IN</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='280_1_1'>Software Quality Assurance Manager / Software Quality Assurance Consultant</Title>
+<OrgName id='291'>the Validation Department</OrgName>
+
+
+
+<Description>The goal of Optimizing Lead Optimization (OLO) project was to reduce lead generation time by using a new information technology infrastructure to speed the process. The OLO project will standardize and automate sample handling, results analysis and management though information technology. The front-end interface was comprised of web applications, various researching source systems and Excel workbooks. The back end was housed in Oracle. The QA effort validates the OLO developed applications while observing GxP (GLP &#38; GCP) protocols (FDA 21 CFR).
+    *  Quality Assurance Manager: 
+    *  Managing testing resources, resource management, Change Management, Incident Management, scheduling projects, configuration management, approving testing artifacts and determining the testing scope for eight OLO projects. ; 
+    *  Mentoring the staff on the client's policies and procedures &#38; QA processes. ; 
+    *  Adhering to a QA processes to ensure compliance ; 
+    *  Writing testing validation documents (e.g. Test Plan, Test Execution Report and Test Summary Report), creating traceability matrixes, executing manual &#38; automated test scripts and the successful submission of the testing deliverables to the Validation Department ; 
+    *  Utilizing the RUP methodology and Rational testing tools (TestManager, Robot, ClearQuest, RequisitePro, SoDA, ManualTest) ; 
+    *  Adhering and enforcing GxP (GLP, GMP&#38; GRP) quality guidelines and regulations ; 
+    *  Quality Assurance Consultant: 
+    *  Performing analysis on testing projects within Eli-Lilly Pharmaceutical ; 
+    *  Providing assessments on testing situations (gap analysis report, modifying testing strategy, resourcing recommendations and interviewing prospective testing candidates) ; 
+    *  Providing suggestive course of actions to fulfill their deadlines while maintaining their quality commitments ; 
+    *  Adhering and enforcing GxP (GLP, GMP&#38; GRP) quality guidelines and regulations ; 
+    *  Engagement utilizing Java, Oracle, ETL, .NET technology ;</Description>
+<StartDate id='280_2_1'><YearMonth>2004-05</YearMonth></StartDate>
+<EndDate id='280_2_2'><YearMonth>2006-03</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='280' last_id='304' border_id='305'></TLSPAN>
+<MonthsOfWork>23</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='305_1'>Sapphire Staffing - Liberty Mutual Insurance</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='306'>
+<Municipality>Indianapolis</Municipality>
+<Region>IN</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='CONTRACT'>
+<Title id='305_3_1'>Software Quality Assurance Engineer</Title>
+<OrgName id='305_1'>Sapphire Staffing - Liberty Mutual Insurance</OrgName>
+
+
+
+<Description>Liberty Mutual is a top 100 Fortune company.  Liberty Mutual's Regional Agency Management and Planning (RAMP) application houses the agencies and agents throughout the Liberty Mutual organization, budget and planning for the various agencies and their commissions. 
+    *  Creating automated test scripts utilizing Rational Robot and executing regression test suites with Rational TestAgent ; 
+    *  Documenting use cases, scripting manual test scripts, creating a comprehensive test plan, project planning, performing gap analysis and conducting Performance Testing utilizing Mercury LoadRunner ; 
+    *  Enhancing the automated test scripts developed in a framework architecture ; 
+    *  Utilizing Rational testing tools include Robot, TestManager, ClearQuest and RequisitePro ;</Description>
+<StartDate id='305_2_1'><YearMonth>2004-04</YearMonth></StartDate>
+<EndDate id='305_2_2'><YearMonth>2004-05</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>engineering~manufacturing</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='305' last_id='321' border_id='322'></TLSPAN>
+<MonthsOfWork>2</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='322_1'>Accenture</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='323'>
+<Municipality>Columbus</Municipality>
+<Region>GA</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='322_4_1'>Senior Software Quality Assurance</Title>
+<OrgName id='322_2'>Total Systems</OrgName>
+
+
+
+<Description>The U.S. Department of Education commissioned the creation and development of the Education Common Origination &#38; Disbursement (https://cod.ed.gov/cod
+), a web-based system.  This system performs a variety of functions relating to student/award/disbursement data for Pell, Direct Loan and Campus-Based student financial aid programs.
+    *  Project managing, Change Management, managing the testing group, mentoring, test lead and documenting processes ; 
+    *  Responsibilities spanned the SDLC, Change Management, automated/manual testing, documenting requirements and writing test scripts ; 
+    *  Performing End to End Testing, Systems Integration Testing, Functionality Testing, Unit Testing, User Acceptance Testing, defect tracking (Netman &#38; Test Director), creating test execution reports and technical documentation ; 
+    *  Recent projects involve testing of the conversion of the RFMS data to the COD system ; 
+    *  Technology utilizing:
+    *  Web front end on an IBM mainframe platform ; 
+    *  MVS operating system couple with MQ Series Middleware and utilizes DB2/IMS databases ; 
+    *  Student information was format in XML ; 
+    *  Utilizing tool sets including TS2, TSO/ISPF, Test Director, Winrunner, Fileaid DB2/IMS, Netman, CICS and MS Access ;</Description>
+<StartDate id='322_3_1'><YearMonth>2002-06</YearMonth></StartDate>
+<EndDate id='322_3_2'><YearMonth>2004-03</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='322' last_id='349' border_id='350'></TLSPAN>
+<MonthsOfWork>22</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='350_1'>Volt Technical Services</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='351'>
+<Municipality>Indianapolis</Municipality>
+<Region>IN</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='350_4_1'>Senior Software Quality Assurance Engineer</Title>
+<OrgName id='350_2'>Eli-Lilly Pharmaceuticals</OrgName>
+
+
+
+<Description>Volt Technical Services - Eli-Lilly Pharmaceuticals         
+
+
+    Utilizing FDA 21 CFR Part 11 (GLP, GCP and GMP), the DocMan project was developing and implementing a computerize system that electronically submits pharmaceutical compounds for FDA approval.  The system was a compilation of Lilly proprietary software programs. 
+    *  Managing the testing group for the DocMan testing effort, Change Management, advising the test lead, complying with the FDA guidelines, scheduling resources, monitoring test process flow, mentoring &#38; overseeing new testers ; 
+    *  Ensuring the staff ad hears to the client's policies and procedures &#38; QA standards ; 
+    *  Creating Test Summary Reports, Test Execution Reports, completion reports, validation testing documents and testing status reports for each software release ; 
+    *  Documenting the testing process and coordinating testing projects ; 
+    *  Coordinating Client Testing ; 
+    *  Demonstrating Rational Robot &#38; our automate process to other departments ; 
+    *  Utilizing Rational to test the quality and functionality of each software release ; 
+    *  Utilizing the Rational Unified Process (RUP) methodology ; 
+    *  Creating testing requirements, requirements traceability matrix, test cases and executing automated test cases utilizing Rational TeamTest 7.5 &#38; 2000 &#38; Rational RequisitePro ; 
+    *  Perform defect tracking using Rational ClearQuest ; 
+    *  Adhering and enforcing GxP (GLP, GMP&#38; GRP) quality guidelines and regulations ;</Description>
+<StartDate id='350_3_1'><YearMonth>2000-07</YearMonth></StartDate>
+<EndDate id='350_3_2'><YearMonth>2001-12</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='350' last_id='361' border_id='362'></TLSPAN>
+<MonthsOfWork>18</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='362_1'>Micro-Mega Databases, Inc</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='363'>
+<Municipality>Houston</Municipality>
+<Region>TX</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='362_3_1'>Software Quality Assurance Manager</Title>
+<Title id='362_3_2'>Crystal Report Designer</Title>
+<OrgName id='362_1'>Micro-Mega Databases, Inc</OrgName>
+
+
+
+
+<StartDate id='362_2_1'><YearMonth>1998-06</YearMonth></StartDate>
+<EndDate id='362_2_2'><YearMonth>2001-12</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='362' last_id='363' border_id='0'></TLSPAN>
+<MonthsOfWork>43</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='362_1'>Micro-Mega Databases, Inc</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='378'>
+<Municipality>West Palm Beach</Municipality>
+<Region>FL</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PROJECT'>
+<Title id='377_3_1'>Senior Software Quality Assurance Engineer</Title>
+<OrgName id='377_1'>Ocwen Financial Corporation</OrgName>
+
+
+
+<Description>Ocwen was developing a mortgage software system, REAL-e.
+    *  Participating in the various aspects of the SDLC.  For example, creating &#38; implementing test procedures, defining design scopes, creating functional requirements, working on the End to End project, Processes Testing, Unit Testing, conducting Joint Application Design (JAD) sessions and creating a System Ready QA Check List ; 
+    *  Creating technical requirements, specifications, procedures and documents ; 
+    *  Identifying and creating User Acceptance Tests for different aspects of  REAL-e ;</Description>
+<StartDate id='377_2_1'><YearMonth>1999-07</YearMonth></StartDate>
+<EndDate id='377_2_2'><YearMonth>1999-11</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>engineering~manufacturing</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='377' last_id='384' border_id='385'></TLSPAN>
+<MonthsOfWork>5</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='362_1'>Micro-Mega Databases, Inc</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='386'>
+<Municipality>Winston-Salem</Municipality>
+<Region>NC</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PROJECT'>
+<Title id='385_3_1'>Senior Software Quality Assurance Engineer</Title>
+<Title id='385_3_2'>Business Analyst</Title>
+<OrgName id='385_1'>modis - Wachovia Bank</OrgName>
+
+
+
+<Description>The Distributed Technology Refresh Initiative (DTRI) Project was a subset of the Year 2000 Project.  This project converted 1,800 PC based applications, residing on a variety of platforms and migrated them to a standardized Windows NT Workstation 4.0 platform.
+    *  Quality Assurance Engineer:  Creating test cases, writing manual/automated test scripts and generating Wachovia installation scripts, with the DTRI technical group ; 
+    *  Business Analyst:  Liaison between the DTRI technical group and the Business Units ; 
+    *  Documenting the technical specifications, requirements and documentation (including test objects, UAT objects, custom installation instructions, application dependencies and application analysis) ; 
+    *  Conducting JAD sessions and assisting in the creation of the DTRI processes ; 
+    *  Performing Hardware Sanitation, creating automated installation scripts for the hardware device drivers ; 
+    *  Attending SQA Suite Product Training class
+
+
+Clearance    5-C Security Clearance ,</Description>
+<StartDate id='385_2_1'><YearMonth>1998-06</YearMonth></StartDate>
+<EndDate id='385_2_2'><YearMonth>1999-07</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>engineering~manufacturing</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='385' last_id='397' border_id='0'></TLSPAN>
+<MonthsOfWork>14</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType='university'>
+<SchoolName id='6'>TEXAS A&#38;M UNIVERSITY</SchoolName>
+
+
+
+<Degree degreeType='some post-graduate'>
+<DegreeName id='7'>B.S.</DegreeName>
+
+</Degree>
+<Major id='7'>Computer Science</Major>
+
+
+
+<Comments>(Class of 1986) * B.S. in Computer Science with a Minor in Accounting</Comments>
+</SchoolOrInstitution>
+
+</EducationHistory>
+
+
+
+
+
+
+
+
+
+
+
+<Competency oids='74 103 113 117 130 149 156 174 197 201 255 262 289 ' description='Skill' auth='no' name='Incident Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>65</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>56</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='104 118 157 175 202 235 256 288 328 332 354 ' description='Skill' auth='yes' name='Change Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>96</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>52</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='121 125 205 213 231 232 233 234 239 ' description='Skill' auth='yes' name='Quality Assurance'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>21</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='24 106 140 177 220 246 273 283 302 ' description='Skill > IT' auth='yes' name='Oracle'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>73</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='105 139 176 219 245 272 301 ' description='Skill > IT' auth='yes' name='Java'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>65</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>52</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='143 180 223 249 276 304 ' description='Skill > IT' auth='yes' name='Microsoft .NET Technology'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>60</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>.NET</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>.NET technology</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>52</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='141 178 221 247 274 303 ' description='Skill > IT' auth='yes' name='ETL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>60</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>52</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='142 179 222 248 275 ' description='Skill > IT' auth='yes' name='Microsoft C-SHARP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>37</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>C#</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>52</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='102 137 169 173 254 ' description='Skill > IT' auth='yes' name='ITIL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>33</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='144 181 224 250 277 ' description='Skill > IT' auth='yes' name='ColdFusion'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>37</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>52</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='75 114 150 198 263 ' description='Skill' auth='no' name='Change Management support'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>42</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>56</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='134 331 365 380 ' description='Skill > IT' auth='yes' name='SDLC'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>37</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Coordinating'><StringValue>Coordinating</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Coordinating SDLC</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>52</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='295 320 361 371 ' description='Skill > IT' auth='yes' name='Rational ClearQuest'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>43</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ClearQuest</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>25</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='358 359 369 370 ' description='Skill > IT' auth='yes' name='RUP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Rational Unified Process</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>(RUP)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='119 158 203 ' description='Skill' auth='no' name='technical support'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>52</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='60 63 334 ' description='Skill' auth='no' name='end testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>73</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='12 14 15 ' description='Skill' auth='yes' name='Supply Chain'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='296 321 360 ' description='Skill > IT' auth='yes' name='Rational RequisitePro'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>43</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>RequisitePro</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>25</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='383 384 395 ' description='Skill > IT' auth='yes' name='JAD'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1999'><NumericValue description='MONTH'>19</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Joint Application Design</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>(JAD)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='31 34 40 ' description='Skill > IT' auth='yes' name='AEGIS'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Upgrade'><StringValue>Upgrade</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>AEGIS Upgrade</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='86 287 ' description='Skill' auth='no' name='resource management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='51 65 ' description='Skill' auth='no' name='defect management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>71</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='64 338 ' description='Skill' auth='yes' name='User Acceptance Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>70</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='337 382 ' description='Skill' auth='no' name='Unit Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>27</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>23</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='226 227 ' description='Skill' auth='yes' name='Offshore Oil &#38; Gas'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>offshore</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='314 333 ' description='Skill > IT' auth='yes' name='Manual Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>manual test</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>25</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='168 218 ' description='Skill > IT' auth='yes' name='Citrix Winframe'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Citrix</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='241 243 ' description='Skill' auth='yes' name='Audit'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='356 ' description='Skill' auth='no' name='validation testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>23</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='152 ' description='Skill' auth='no' name='shore support'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='281 ' description='Skill' auth='no' name='sample handling'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>23</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>26</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='132 ' description='Skill' auth='no' name='responsible for the roles'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>10</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='83 ' description='Skill' auth='no' name='responsible for the engagement financials'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>5</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='127 ' description='Skill' auth='no' name='responsible for releasing Change Management work'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>10</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='82 ' description='Skill' auth='no' name='responsible for all engagement'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>5</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='286 ' description='Skill' auth='no' name='resources Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>23</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>resources</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>23</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='315 ' description='Skill' auth='no' name='project planning'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>2</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>19</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='77 ' description='Skill' auth='no' name='off-shore support'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>5</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='62 ' description='Skill' auth='no' name='integration testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>4</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='39 ' description='Skill' auth='no' name='executing System Integration Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>82</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='372 ' description='Skill' auth='yes' name='eCommerce'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='357 ' description='Skill' auth='no' name='coordinating testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='317 ' description='Skill' auth='no' name='conducting Performance Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>2</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='394 ' description='Skill' auth='no' name='application analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1999'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>23</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='316 ' description='Skill' auth='no' name='analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>2</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>analysis and</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='387 ' description='Skill' auth='yes' name='Y2K'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1999'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Year 2000</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>25</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='344 ' description='Skill > IT' auth='yes' name='XML'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='352 ' description='Skill' auth='yes' name='Title 21 CFR Part 11'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>21 CFR Part 11</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>25</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='345 ' description='Skill > IT' auth='yes' name='TSO > TSO ISPF'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>TSO/ISPF</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='335 ' description='Skill' auth='no' name='Systems Integration Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='61 ' description='Skill' auth='yes' name='System Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>4</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>66</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='38 ' description='Skill' auth='no' name='System Integration Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>82</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='400 ' description='Skill' auth='no' name='Software Testing'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='375 ' description='Skill > IT' auth='yes' name='Seagate Crystal Reports'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Crystal Reports</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='21 ' description='Skill > IT' auth='yes' name='Scrum Methodology'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Scrum</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='13 ' description='Skill > IT' auth='yes' name='SAP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='129 ' description='Skill' auth='no' name='Responsible for the execution'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>10</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='122 ' description='Skill' auth='no' name='Responsible for the completion'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>10</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='66 ' description='Skill' auth='no' name='Responsible for all testing deadlines and testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>4</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>62</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='313 ' description='Skill > IT' auth='yes' name='Regression Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>2</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>regression test</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='293 ' description='Skill' auth='no' name='Rational testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>23</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='312 ' description='Skill > IT' auth='yes' name='Rational Robot'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>2</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='292 ' description='Skill > IT' auth='no' name='RUP methodology'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>23</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='381 ' description='Skill' auth='no' name='Processes Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1999'><NumericValue description='MONTH'>5</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='26 ' description='Skill' auth='no' name='Platform Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='33 ' description='Skill' auth='yes' name='Pharmacovigilance'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='298 ' description='Skill' auth='no' name='Performing analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>23</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='284 ' description='Skill > IT' auth='no' name='ORACLE QA'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>23</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>QA</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='388 ' description='Skill > IT' auth='yes' name='Microsoft Windows NT > Microsoft Windows NT Workstation'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1999'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows NT Workstation 4.0 4.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='282 ' description='Skill > IT' auth='yes' name='Microsoft Excel'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>23</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Excel</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>25</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='349 ' description='Skill > IT' auth='yes' name='Microsoft Access'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Access</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='347 ' description='Skill > IT' auth='yes' name='Mercury Interactive WinRunner'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Winrunner</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='346 ' description='Skill > IT' auth='yes' name='Mercury Interactive TestDirector'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Test Director</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='318 ' description='Skill > IT' auth='yes' name='Mercury Interactive LoadRunner'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>2</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Mercury LoadRunner</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>17</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='341 ' description='Skill > IT' auth='yes' name='MVS'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MVS operating system</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='266 ' description='Skill' auth='no' name='Lilly senior management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='23 ' description='Skill > IT' auth='yes' name='Jboss'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>JBoss 5.1 5.1</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='84 ' description='Skill > IT' auth='no' name='ITIL methodology'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>5</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='340 ' description='Skill > IT' auth='yes' name='IBM Mainframe Hardware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IBM mainframe</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='336 ' description='Skill' auth='no' name='Functionality Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='368 ' description='Skill' auth='no' name='Documenting testing'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='342 ' description='Skill > IT' auth='yes' name='DB2'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='290 ' description='Skill' auth='yes' name='Configuration Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>23</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='35 ' description='Skill' auth='yes' name='Client/Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>client/server system</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>84</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='186 ' description='Skill' auth='no' name='Change Management testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>4</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='107 ' description='Skill > IT' auth='yes' name='COBOL 2 MicroFocus'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>5</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MicroFocus COBOL</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>44</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='348 ' description='Skill > IT' auth='yes' name='CICS/ESA'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>CICS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='32 ' description='Skill' auth='yes' name='Adverse Events'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>adverse event</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='17 ' description='Skill > IT' auth='no' name='Adobe'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='25 ' description='Skill' auth='no' name='Acceptance Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>93</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='36 ' description='Skill' auth='yes' name='ARISg'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>83</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='47_1 285_1 366_2 367_1 ' description='Held Position' auth='no' name='Quality Assurance Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>41</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>75</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='71_1 81_1 182_4_1 190_1 ' description='Held Position' auth='no' name='Engagement Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>the Engagement Manager</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='350_4_1 377_3_1 385_3_1 ' description='Held Position' auth='no' name='Senior Software Quality Assurance Engineer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>37</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>29</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='259_2 271_2 297_1 ' description='Held Position' auth='no' name='Quality Assurance Consultant'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>32</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>a Quality Assurance Consultant</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>28</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='330_1 355_1 ' description='Held Position' auth='no' name='test lead'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>40</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>the test lead</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>28</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='85_1 147_1 ' description='Held Position' auth='no' name='Transition Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='294_1 319_1 ' description='Held Position' auth='no' name='TestManager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>25</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>26</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='195_1 259_1 ' description='Held Position' auth='no' name='Quality &#38; Validation Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Quality &#38; Validation Manager</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Quality &#38; Validation Mgr</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>26</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='362_3_3 376_1 ' description='Held Position' auth='no' name='Programmer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>43</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>29</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='207_1 208_1 ' description='Held Position' auth='no' name='Principle architect'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='237_1 267_1 ' description='Held Position' auth='no' name='Director in the absence'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='362_3_2 373_1 ' description='Held Position' auth='no' name='Crystal Report Designer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>43</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>29</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='93_1 225_1 ' description='Held Position' auth='no' name='Connectivity Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='385_3_2 392_1 ' description='Held Position' auth='no' name='Business Analyst'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1999'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>25</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='50_1 ' description='Held Position' auth='no' name='the Sales Representative'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='366_1 ' description='Held Position' auth='no' name='project management'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='236_1 ' description='Held Position' auth='no' name='configuration manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>19</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='52_2 ' description='Held Position' auth='no' name='a Senior Quality Assurance Engineer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='42_1 ' description='Held Position' auth='no' name='Testing consultant'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='343_1 ' description='Held Position' auth='no' name='Student'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>23</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='110_1 ' description='Held Position' auth='no' name='Solution Deliver Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>10</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='280_1_1 ' description='Held Position' auth='no' name='Software Quality Assurance Manager / Software Quality Assurance Consultant'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>23</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>26</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='362_3_1 ' description='Held Position' auth='no' name='Software Quality Assurance Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2001'><NumericValue description='MONTH'>43</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>29</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='305_3_1 ' description='Held Position' auth='no' name='Software Quality Assurance Engineer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>2</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='322_4_1 ' description='Held Position' auth='no' name='Senior Software Quality Assurance'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>26</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='30_4_1 ' description='Held Position' auth='no' name='Quality Assurance Validation Lead'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='389_1 ' description='Held Position' auth='no' name='Quality Assurance Engineer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='1999'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>23</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='163_2 ' description='Held Position' auth='no' name='Project Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='11_1 ' description='Held Position' auth='no' name='Program Validation Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='56_1 ' description='Held Position' auth='no' name='Program Quality Assurance Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>4</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>67</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='401_1 ' description='Held Position' auth='no' name='Organizer &#38; Facilitator'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Organizer &#38; Facilitator</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='339_1 ' description='Held Position' auth='no' name='Netman &#38; Test Director'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Netman &#38; Test Director</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='214_1 ' description='Held Position' auth='no' name='Managing the technical writer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='126_2 ' description='Held Position' auth='no' name='Enhancement Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>10</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='98_1 ' description='Held Position' auth='no' name='Consultant'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>5</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='327_1 ' description='Held Position' auth='no' name='Campus-Based student'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>25</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='41_1 ' description='Held Position' auth='no' name='Author'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='20_1 ' description='Held Position' auth='no' name='Agile Tester'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='49_1 ' description='Held Position' auth='no' name='Adobe Flex Builder'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='22_1 ' description='Held Position' auth='no' name='Adobe Flash Builder'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='78 87 ' description='Degree/Qualification > Professional' auth='yes' name='Association of International Accountants'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>AIA</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='397 ' description='Degree/Qualification > Professional' auth='yes' name='Security Clearance > Security Clearance CONFIDENTIAL'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>C Security Clearance</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='399 ' description='Degree/Qualification > Professional' auth='no' name='ITIL Foundation Certification'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='7 8 ' description='Degree/Qualification' auth='yes' name='Bachelors Degree > Bachelor of Science > Bachelor of Science Computer Science'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='Computer Science'><StringValue>Computer Science</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>B.S. in Computer Science</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency description='Industry' auth='yes' name='industry~it'>
+<CompetencyEvidence name='skillCount' typeDescription='skillCount'><NumericValue>11</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+</Competency>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<RevisionDate id='1'>2013-10-26</RevisionDate>
+</StructuredXMLResume>
+<NonXMLResume>
+
+<TextResume>
+
+
+
+<span inprof='n' id='1' class='date'>{{DOCUMENT_DATESTAMP}} 2013-10-26 {{END_DOCUMENT_DATESTAMP}}</span>
+
+
+
+
+<span inprof='y' id='2' class='nominal'>ANDREW ANDRADA</span>
+<span inprof='y' id='3' class='location'>Parsippany, New Jersey</span>
+<span inprof='y' id='4' class='telephone'>(973) 500-8009</span>
+
+<span inprof='y' id='5' class='email'>andrew_andrada@hotmail.com</span>
+<span inprof='y' id='6' class='educational'>TEXAS A&#38;M UNIVERSITY</span> (Class of 1986) * <span inprof='y' id='7' class='qualif'>B.S. in Computer Science</span> with a <span inprof='y' id='8' class='qualif'>Minor in Accounting</span>
+
+
+
+<span inprof='y' id='9_1' class='company'>Infosys - Daiichi Sankyo Pharmaceutical</span>        <span inprof='y' id='9_2_1' class='date'>March 2013</span> - <span inprof='y' id='9_2_2' class='date'>Present</span>
+Global IT                                      <span inprof='y' id='10' class='location'>Parsippany, New Jersey</span>
+<span inprof='y' id='11_1' class='role'>Program Validation Manager</span>
+
+
+   The purpose of the SAP Serialization Project is to incorporate product serialization into the client's <span inprof='y' id='12' class='skill'>Supply Chain</span>.  This includes serializing the pharmaceutical products at the time of manufacturing and developing a <span inprof='y' id='13' class='sofwr'>SAP</span> system that will track the pharmaceutical products throughout the <span inprof='y' id='14' class='skill'>Supply Chain</span>.  At the completion of the project, the SAP Serialization System will have the ability to track and trace the manufacturing of any product within the <span inprof='y' id='15' class='skill'>Supply Chain</span> and look up the ePedigree of any delivered product.
+   *  Accountable for identifying, quantifying, negotiating and delivering the Validation documentation ; 
+   *  Accountable with partnering and working with QA-CSV on all Validation needs ; 
+   *  Accountable for the adherence to the client's Validation procedures and standards ; 
+   *  Accountable for the review of all Validation deliverables ; 
+   *  Accountable in providing Validation status and metrics ; 
+   *  Accountable for fielding all Validation questions
+
+
+<span inprof='y' id='16' class='company'>Six Dimensions</span> - <span inprof='y' id='17' class='sofwr'>Adobe</span>        <span inprof='y' id='18_1' class='date'>November 2012</span> - <span inprof='y' id='18_2' class='date'>June 2013</span>
+Adobe Consulting              <span inprof='y' id='19' class='location'>Silicon Valley</span> (remote)
+<span inprof='y' id='20_1' class='role'>Agile Tester</span>
+
+
+   The purpose of the Adobe TRACE (Tracking Resource Allocation &#38; Contract Execution) application is provide the Consulting division a system for planning the resource needs of a contract or other types of work, that also takes into consideration resources' time off and training activities. Based on the contracts hours and rates that are associated with an assignment, Consulting is also able to provide their Revenue Forecast.  The application was developed using <span inprof='y' id='21' class='sofwr'>Scrum</span> and the Agile software development methodology.  The application was developed in <span inprof='y' id='22_1' class='role'>Adobe Flash Builder</span> 4.6, Eclipse Juno and <span inprof='y' id='23' class='sofwr'>JBoss 5.1</span> with an <span inprof='y' id='24' class='sofwr'>Oracle</span> backend.
+   *  Accountable for executing the Cycle Testing, <span inprof='y' id='25' class='skill'>Acceptance Testing</span> and <span inprof='y' id='26' class='skill'>Platform Testing</span> ; 
+   *  Accountable for developing the testing strategy for the project ; 
+   *  Participating in the Daily Scrum meetings ; 
+   *  Participating in <span inprof='n' id='27' class='company'>the Sprint</span> planning meeting, <span inprof='n' id='28' class='company'>Sprint</span> review meeting and <span inprof='n' id='29' class='company'>the Sprint</span> retrospective ; 
+   *  Accountable for writing the test cases for each story ; 
+   *  Utilizing Rally in managing the testing artifacts and testing execution
+
+
+<span inprof='n' id='30_1' class='company'>Deloitte Consulting LLC</span> - <span inprof='n' id='30_2' class='company'>Abbott Laboratories</span>
+<span inprof='y' id='30_3' class='company'>Global Pharmaceutical Research &#38; Development (GPRD)</span>
+<span inprof='y' id='30_4_1' class='role'>Quality Assurance Validation Lead</span>
+<span inprof='y' id='30_5_1' class='date'>October 2011</span> - <span inprof='y' id='30_5_2' class='date'>September 2012</span>
+<span inprof='y' id='30_6' class='location'>Chicago, Illinois</span>
+   <span inprof='y' id='31' class='sofwr'>AEGIS</span> (Adverse Event Global Information System) is a cross-divisional program that provides harmonized tools and processes for <span inprof='y' id='32' class='skill'>adverse event</span> reporting and analysis in the <span inprof='y' id='33' class='skill'>Pharmacovigilance</span> space.  The <span inprof='y' id='34' class='sofwr'>AEGIS Upgrade</span> 8.0.0 project is migrating from a <span inprof='y' id='35' class='skill'>client/server system</span> to a web based system.  The Commercial-Off-the-Shelf system is based on components of Aris Global's Total Safety Suite (TSS) software package (<span inprof='y' id='36' class='skill'>ARISg</span> 6.4s) configured to meet global <span inprof='y' id='37' class='company'>Abbott Laboratories</span> needs.
+   *  Accountable for creating the entire suite of testing artifacts for <span inprof='y' id='38' class='skill'>System Integration Testing</span>, including the test plan for SIT, test scripts, traceability matrix ; 
+   *  Managing and <span inprof='y' id='39' class='skill'>executing System Integration Testing</span> ; 
+   *  Conducting Smoke Testing of the system new builds and new development environments ; 
+   *  Accountable for writing the Test Plan document for the entire <span inprof='y' id='40' class='sofwr'>AEGIS Upgrade</span> 8.0.0 project ; 
+   *  Consulting on the creation of the Test Strategy document ; 
+   *  <span inprof='y' id='41_1' class='role'>Author</span> test cases for the different testing efforts ; 
+   *  Conducting the review and approval of the testing documents ; 
+   *  <span inprof='y' id='42_1' class='role'>Testing consultant</span> on the various testing efforts ; 
+   *  Functioning in the pharmaceutical regulated testing and validation space, GCP, GLP &#38; GMP ; 
+   *  <span inprof='n' id='43' class='company'>Utilize HP Quality Center</span> 10
+
+
+<span inprof='y' id='44' class='company'>Fusion Alliance</span> - Herff Jones                  <span inprof='y' id='45_1' class='date'>January 2010</span> - <span inprof='y' id='45_2' class='date'>June 2011</span>
+Fine Papers, Cap &#38; Gown &#38; Rings        <span inprof='y' id='46' class='location'>Indianapolis, Indiana</span>
+<span inprof='y' id='47_1' class='role'>Quality Assurance Manager</span>
+
+
+   Herff Jones is upgrading <span inprof='n' id='48' class='internet-web-address'>their.NET</span> ordering system to a web-based system utilizing <span inprof='y' id='49_1' class='role'>Adobe Flex Builder</span>.  Moving to a web-based approach will streamline <span inprof='y' id='50_1' class='role'>the Sales Representative</span> computing use, increase their ability to conduct business and enhanced their ability to interface with corporate.
+   *  Accountable for establishing the QA standards ; 
+   *  Accountable for creating and maintaining the testing artifacts ; 
+   *  Accountable for the testing metrics ; 
+   *  Accountable for all the testing deliverables ; 
+   *  Accountable for the entire testing phases
+   *  Accountable for the testing resources ; 
+   *  Accountable for the all the testing activities which include, <span inprof='y' id='51' class='skill'>defect management</span>, test execution and test artifact generations ; 
+   *  Establishing the testing strategy, testing protocols and testing procedures ; 
+   *  Gathering, analyzing and documenting all the pertinent documentation for the testing effort ; 
+   *  Defining the testing scope ; 
+   *  Defining the RACI matrix for the testing effort ; 
+   *  Establishing testing deadlines ; 
+   *  Establishing the testing infrastructure ; 
+   *  Establishing an testing automation suite utilizing an open source tool, WATIR ; 
+   *  Also, functioning <span inprof='n' id='52_1' class='some-position'>as</span> <span inprof='y' id='52_2' class='role'>a Senior Quality Assurance Engineer</span>
+
+
+<span inprof='y' id='53' class='company'>Indecon Solution</span> - WellPoint/Anthem        <span inprof='y' id='54_1' class='date'>October 2009</span> - <span inprof='y' id='54_2' class='date'>January 2010</span>
+Federal Employee Program                   <span inprof='y' id='55' class='location'>Indianapolis, Indiana</span>
+<span inprof='y' id='56_1' class='role'>Program Quality Assurance Manager</span>
+
+
+   Anthem's current call centers utilize several legacy systems to retrieve health care information. A phone call can take <span inprof='n' id='57' class='duration'>45 minutes</span>. The FEP WAW (Federal Employee Program - WellPoint Advocate Workstation) project provides a <span inprof='n' id='58' class='company'>GUI front</span> end layer on top of the legacy systems. This will streamline the exchange of information an average phone call will decrease to <span inprof='n' id='59' class='duration'>five to ten minutes</span>.
+   *  Accountable for all the testing deliverables for the entire project ; 
+   *  Accountable for all the testing phases including the back <span inprof='y' id='60' class='skill'>end testing</span>, <span inprof='y' id='61' class='skill'>system testing</span>, <span inprof='y' id='62' class='skill'>integration testing</span>, end to <span inprof='y' id='63' class='skill'>end testing</span>, <span inprof='y' id='64' class='skill'>user acceptance testing</span> and production verification ; 
+   *  Accountable for the testing deliverables for each testing phase, which includes a project plan, delivery dates, test plan/strategy, test cases/scripts, requirements/business scenario traceability, testing tools selection and test execution reporting ; 
+   *  Also accountable for the all the testing activities which include, <span inprof='y' id='65' class='skill'>defect management</span>, test execution, test artifact generations and testing environment setup ; 
+   *  Manage the testing effort from the program level ; 
+   *  Answerable to the PMO for the entire testing effort ; 
+   *  Define RACI matrix for the entire testing effort ; 
+   *  <span inprof='y' id='66' class='skill'>Responsible for all testing deadlines and testing</span> statuses
+
+
+<span inprof='y' id='67_1' class='company'>TEKsystems - American International Group</span>        <span inprof='y' id='67_2_1' class='date'>February 2009</span> - <span inprof='y' id='67_2_2' class='date'>June 2009</span>
+<span inprof='n' id='68' class='company'>Group Management Division</span>                        <span inprof='y' id='69' class='location'>Indianapolis, Indiana</span> / <span inprof='n' id='70' class='location'>Wilmington, Delaware - USA</span> /
+<span inprof='y' id='71_1' class='role'>Engagement Manager</span>                               <span inprof='n' id='72' class='location'>Montreal, Quebec - Canada</span> / <span inprof='n' id='73' class='location'>Bangalore - India</span>
+
+
+   The AIG GMD engagement was a multi-year project that was responsible for providing <span inprof='y' id='74' class='skill'>Incident Management</span> and <span inprof='y' id='75' class='skill'>Change Management support</span>.  <span inprof='n' id='76' class='company'>TEKsystems</span> was transitioning <span inprof='y' id='77' class='skill'>off-shore support</span> and responsibility from AIG (<span inprof='y' id='78' class='qualif'>AIA</span> IT, AIG Southeaster Asia) to <span inprof='n' id='79' class='company'>TEKsystems</span> in <span inprof='n' id='80' class='location'>Bangalore, India</span>.
+   *  <span inprof='y' id='81_1' class='role'>Engagement Manager</span>:  Representing TEKsystems' interests with the client, <span inprof='y' id='82' class='skill'>responsible for all engagement</span> level tasks, <span inprof='y' id='83' class='skill'>responsible for the engagement financials</span> and creating processes for the engagement incorporating the  <span inprof='y' id='84' class='sofwr'>ITIL methodology</span> and our contractual obligations ; 
+   *  <span inprof='y' id='85_1' class='role'>Transition Manager</span>:  Creating a Transition process for the engagement, creating Roles and Responsibilities, <span inprof='y' id='86' class='skill'>resource management</span>, managing the Transition Phase of the engagement from <span inprof='y' id='87' class='qualif'>AIA</span> IT to <span inprof='n' id='88' class='company'>TEKsystems</span>, identifying gaps in the client's processes, introducing the new processes to the client, implementing the processes, training <span inprof='n' id='89' class='company'>TEKsystems</span> staff, orientating the new <span inprof='n' id='90' class='company'>TEKsystems</span> staff, training and mentoring the on-site <span inprof='n' id='91' class='company'>TEKsystems</span> lead.  The Transition process plan also detailed the way support was delivered by the client to a structured <span inprof='n' id='92' class='qualif'>Incident Management and Change Management</span> approach. ; 
+   *  <span inprof='y' id='93_1' class='role'>Connectivity Manager</span>:  Creating, coordinating and managing the Connectivity Solution that connects <span inprof='n' id='94' class='location'>the Bangalore</span> facility to the AIG in <span inprof='n' id='95' class='location'>Wilmington</span> facility.  Also, configuring and implementing the <span inprof='n' id='96' class='company'>TEKsystems</span> computing facility in <span inprof='n' id='97' class='location'>Bangalore</span>. ; 
+   *  <span inprof='y' id='98_1' class='role'>Consultant</span>:  Consulting on <span inprof='n' id='99' class='company'>TEKsystems</span> proposals to potential <span inprof='n' id='100' class='company'>TEKsystems</span> clients.  Consulting includes writing proposals, documenting the client's current processes, conducting a gap analysis, proposing Roles and Responsibilities and writing up <span inprof='n' id='101' class='company'>TEKsystems</span> proposed enhanced processes including the <span inprof='y' id='102' class='sofwr'>ITIL</span> framework and <span inprof='y' id='103' class='skill'>Incident Management</span>/<span inprof='y' id='104' class='skill'>Change Management</span> methodology. ; 
+   *  Engagement utilizing <span inprof='y' id='105' class='sofwr'>Java</span>, <span inprof='y' id='106' class='sofwr'>Oracle</span>, <span inprof='y' id='107' class='sofwr'>MicroFocus COBOL</span>
+
+
+<span inprof='y' id='108_1' class='company'>TEKsystems</span> - <span inprof='y' id='108_2' class='company'>Eli-Lilly Pharmaceuticals</span>        <span inprof='y' id='108_3_1' class='date'>August 2008</span> - <span inprof='y' id='108_3_2' class='date'>May 2009</span>
+Discovery IT Engagement                       <span inprof='y' id='109' class='location'>Indianapolis, Indiana - USA</span> /
+<span inprof='y' id='110_1' class='role'>Solution Deliver Manager</span>                      <span inprof='n' id='111' class='location'>Montreal, Quebec - Canada</span>
+
+
+   The DIT engagement was a <span inprof='n' id='112' class='duration'>six year</span> project that was responsible for providing <span inprof='y' id='113' class='skill'>Incident Management</span> and <span inprof='y' id='114' class='skill'>Change Management support</span> for 350+ production applications (GxP and non GxP) formerly developed and maintained by <span inprof='n' id='115' class='educational'>Lilly's Discovery IT's Center of Excellence</span>.  This support model entails utilizing near-shore resources in <span inprof='n' id='116' class='location'>Montreal, Quebec</span> to provide <span inprof='y' id='117' class='skill'>Incident Management</span>, <span inprof='y' id='118' class='skill'>Change Management</span> and <span inprof='y' id='119' class='skill'>technical support</span>.  <span inprof='n' id='120' class='location'>The Montreal</span> staff was comprised of <span inprof='y' id='121' class='skill'>quality assurance</span> testers, technical writers and developers. 
+   *  <span inprof='y' id='122' class='skill'>Responsible for the completion</span> of production support work in <span inprof='n' id='123' class='location'>the Montreal</span> facility.  At the same time, complying with the client's established policies and procedures. ; 
+   *  Managing the entire DIT staff in <span inprof='n' id='124' class='location'>Montreal</span>, comprising of developers, <span inprof='y' id='125' class='skill'>quality assurance</span> and technical writers. ; 
+   <span inprof='n' id='126_1' class='some-position'>*  As</span> <span inprof='y' id='126_2' class='role'>Enhancement Manager</span> , <span inprof='y' id='127' class='skill'>responsible for releasing Change Management work</span> in <span inprof='n' id='128' class='location'>Montreal</span> ; 
+   *  <span inprof='y' id='129' class='skill'>Responsible for the execution</span> of <span inprof='y' id='130' class='skill'>Incident Management</span> in <span inprof='n' id='131' class='location'>Montreal</span> ; 
+   *  As Resource Manager, <span inprof='y' id='132' class='skill'>responsible for the roles</span> &#38; responsibilities, assigning work to the technical staff, load balancing, assessing technical skill, conducting resource meetings to staff releases/projects and interviewing developers ; 
+   *  Mentoring the technical staff and technical leads in <span inprof='n' id='133' class='location'>Montreal</span> ; 
+   *  <span inprof='y' id='134' class='sofwr'>Coordinating SDLC</span> operations between <span inprof='n' id='135' class='location'>Montreal</span> and the client site in <span inprof='n' id='136' class='location'>Indianapolis</span> ; 
+   *  Creating and maintaining processes for the engagement that maintains our pharmaceutical compliance, incorporate <span inprof='y' id='137' class='sofwr'>ITIL</span>, and our contractual obligations ; 
+   *  Adhering and enforcing GxP (GLP, GMP&#38; GRP) quality guidelines and regulations ; 
+   *  Generating status reports reflecting <span inprof='n' id='138' class='location'>Montreal</span>'s activities ; 
+   *  Engagement utilizing <span inprof='y' id='139' class='sofwr'>Java</span>, <span inprof='y' id='140' class='sofwr'>Oracle</span>, <span inprof='y' id='141' class='sofwr'>ETL</span>, <span inprof='y' id='142' class='sofwr'>C#</span>, <span inprof='y' id='143' class='sofwr'>.NET</span>, <span inprof='y' id='144' class='sofwr'>ColdFusion</span> technology
+
+
+<span inprof='y' id='145_1' class='company'>TEKsystems</span> - <span inprof='y' id='145_2' class='company'>Eli-Lilly Pharmaceuticals</span>             <span inprof='y' id='145_3_1' class='date'>February 2008</span> - <span inprof='y' id='145_3_2' class='date'>August 2008</span>
+Global Medical and Regulatory IT Engagement        <span inprof='y' id='146' class='location'>Indianapolis, Indiana</span>
+<span inprof='y' id='147_1' class='role'>Transition Manager</span>
+
+
+   GM&#38;R IT engagement was a <span inprof='n' id='148' class='duration'>five year</span> project responsible for providing <span inprof='y' id='149' class='skill'>Incident Management</span> and <span inprof='y' id='150' class='skill'>Change Management support</span> for 100+ GxP production applications (GxP and non GxP) formerly developed and maintained by Lilly GM&#38;R IT.  <span inprof='n' id='151' class='company'>TEKsystems</span> was transitioning near-<span inprof='y' id='152' class='skill'>shore support</span> and responsibility from <span inprof='n' id='153' class='company'>Lilly</span> to <span inprof='n' id='154' class='company'>TEKsystems</span>.  This support model entails utilizing near-shore resources in <span inprof='n' id='155' class='location'>Montreal, Quebec</span> to provide <span inprof='y' id='156' class='skill'>Incident Management</span>, <span inprof='y' id='157' class='skill'>Change Management</span> and <span inprof='y' id='158' class='skill'>technical support</span>. 
+   *  Managing the Transition Phase of the engagement from Lilly GM&#38;R IT to <span inprof='n' id='159' class='company'>TEKsystems</span> ; 
+   *  Utilizing the Transition process developed in the transition of the DIT engagement ; 
+   *  On Boarding new <span inprof='n' id='160' class='company'>TEKsystems</span> staff, defining Roles and Responsibilities and training the on the Transition process and Steady State ; 
+   *  Training and mentoring the new <span inprof='n' id='161' class='company'>TEKsystems</span> staff to the <span inprof='n' id='162' class='company'>Lilly</span> environment and the GM&#38;R IT engagement.  Including training the staff on the policies and procedures of the client. ; 
+   *  Functioning <span inprof='n' id='163_1' class='some-position'>as</span> <span inprof='y' id='163_2' class='role'>Project Manager</span> for a Functional Business Area ; 
+   *  Managing the Connectivity Solution from <span inprof='n' id='164' class='location'>the Montreal</span> facility to Lilly Corporate ; 
+   *  Managing the GM&#38;R IT Total Connectivity Solution from our <span inprof='n' id='165' class='location'>Montreal</span> facilities to the <span inprof='n' id='166' class='company'>Lilly</span> facility in <span inprof='n' id='167' class='location'>Indianapolis</span>.  The connectivity solution included <span inprof='y' id='168' class='sofwr'>Citrix</span> servers, remote connectivity to end user environments, point to point connections and implementing connectivity/security protocols. ; 
+   *  Creating processes for the engagement that incorporate <span inprof='y' id='169' class='sofwr'>ITIL</span> and our contractual obligations ; 
+   *  Adhering and enforcing GxP (GLP, GMP&#38; GRP) quality guidelines and regulations ; 
+   *  Consulting on <span inprof='n' id='170' class='company'>TEKsystems</span> proposals to potential <span inprof='n' id='171' class='company'>TEKsystems</span> clients.  Consulting includes writing proposals, documenting the client's current processes, performing a gaps analysis, proposing Roles and Responsibilities and writing up <span inprof='n' id='172' class='company'>TEKsystems</span> proposed enhanced processes including the <span inprof='y' id='173' class='sofwr'>ITIL</span> framework and <span inprof='y' id='174' class='skill'>Incident Management</span>/<span inprof='y' id='175' class='skill'>Change Management</span> methodology. ; 
+   *  Engagement utilizing <span inprof='y' id='176' class='sofwr'>Java</span>, <span inprof='y' id='177' class='sofwr'>Oracle</span>, <span inprof='y' id='178' class='sofwr'>ETL</span>, <span inprof='y' id='179' class='sofwr'>C#</span>, <span inprof='y' id='180' class='sofwr'>.NET</span>, <span inprof='y' id='181' class='sofwr'>ColdFusion</span> technology
+
+
+<span inprof='y' id='182_1' class='company'>TEKsystems</span> - <span inprof='y' id='182_2' class='company'>Liberty Mutual Insurance</span>        <span inprof='y' id='182_3_1' class='date'>November 2007</span> - <span inprof='y' id='182_3_2' class='date'>February 2008</span>
+<span inprof='y' id='182_4_1' class='role'>Engagement Manager</span>                           <span inprof='y' id='183' class='location'>Indianapolis, Indiana</span>
+
+
+   Liberty Mutual is a top 100 <span inprof='n' id='184' class='company'>Fortune company</span>.  The <span inprof='n' id='185' class='company'>Specialty Testing group</span> was Liberty Mutual's internal testing resourcing augmentation staff providing <span inprof='y' id='186' class='skill'>Change Management testing</span> support. 
+   *  Managing the program level testing effort for the rebranding of a newly acquired <span inprof='n' id='187' class='industry-sector'>insurance company</span>.  The testing effort spans ten departments (Liberty Mutual and newly acquired <span inprof='n' id='188' class='company'>Ohio Casualty Group</span>). ; 
+   *  Creating program level status reports and metrics on the progress of testing ; 
+   *  Coordinating and mentoring the testing resources within the <span inprof='n' id='189' class='company'>Liberty Mutual Specialty Testing group</span> ; 
+   *  Functioning as <span inprof='y' id='190_1' class='role'>the Engagement Manager</span> for <span inprof='n' id='191' class='company'>TEKsystems</span> on the <span inprof='n' id='192' class='company'>Liberty Mutual</span> engagement
+
+
+<span inprof='y' id='193_1' class='company'>TEKsystems</span> - <span inprof='y' id='193_2' class='company'>Eli-Lilly Pharmaceuticals</span>        <span inprof='y' id='193_3_1' class='date'>January 2007</span> - <span inprof='y' id='193_3_2' class='date'>November 2007</span>
+Discovery IT Engagement                       <span inprof='y' id='194' class='location'>Indianapolis, Indiana</span>
+<span inprof='y' id='195_1' class='role'>Quality &#38; Validation Manager</span>
+
+
+   The DRAS engagement evolved into the DIT engagement. The DIT engagement was a <span inprof='n' id='196' class='duration'>six year</span> project that was responsible for providing <span inprof='y' id='197' class='skill'>Incident Management</span> and <span inprof='y' id='198' class='skill'>Change Management support</span> for 350+ production applications (GxP and non GxP) formerly developed and maintained by <span inprof='n' id='199' class='educational'>Lilly's Discovery IT's Center of Excellence</span>. This support model entails utilizing near-shore resources in <span inprof='n' id='200' class='location'>Montreal, Quebec</span> to provide <span inprof='y' id='201' class='skill'>Incident Management</span>, <span inprof='y' id='202' class='skill'>Change Management</span> and <span inprof='y' id='203' class='skill'>technical support</span>. <span inprof='n' id='204' class='location'>The Montreal</span> staff was comprised of <span inprof='y' id='205' class='skill'>quality assurance</span> testers, technical writers and developers. 
+   *  Transition Phase: 
+      *  Transitioning the support and responsibility from the client to our facilities in <span inprof='n' id='206' class='location'>Montreal</span>. ; 
+      *  <span inprof='y' id='207_1' class='role'>Principle architect</span> to the current TEKsystems Transitioning process. ; 
+      *  <span inprof='y' id='208_1' class='role'>Principle architect</span> to the current TEKsystems <span inprof='n' id='209' class='qualif'>Incident Management and Change Management</span> process. ; 
+      *  Responsible for training the new <span inprof='n' id='210' class='company'>TEKsystems</span> staff on the <span inprof='n' id='211' class='qualif'>Incident Management and Change Management</span> process.  Also, training the staff on the policy and procedures of the client. ; 
+      *  On Boarding the new <span inprof='n' id='212' class='company'>TEKsystems</span> <span inprof='y' id='213' class='skill'>quality assurance</span> testers and the technical writing staff. ; 
+      *  Managing the transition of key components of the engagement. ; 
+      *  <span inprof='y' id='214_1' class='role'>Managing the technical writer</span> and testing resources' responsibilities through the Transition processes. ; 
+      *  Implementing a connectivity solution from our <span inprof='n' id='215' class='location'>Montreal</span> facilities to the <span inprof='n' id='216' class='company'>Lilly</span> facility in <span inprof='n' id='217' class='location'>Indianapolis</span>.  The connectivity solution included <span inprof='y' id='218' class='sofwr'>Citrix</span> servers, remote connectivity to end user environments, point to point connections and implementing connectivity/security protocols. ; 
+      *  Adhering and enforcing GxP (GLP, GMP&#38; GRP) quality guidelines and regulations. ; 
+      *  Engagement utilizing <span inprof='y' id='219' class='sofwr'>Java</span>, <span inprof='y' id='220' class='sofwr'>Oracle</span>, <span inprof='y' id='221' class='sofwr'>ETL</span>, <span inprof='y' id='222' class='sofwr'>C#</span>, <span inprof='y' id='223' class='sofwr'>.NET</span>, <span inprof='y' id='224' class='sofwr'>ColdFusion</span> technology. ; 
+      *  <span inprof='y' id='225_1' class='role'>Connectivity Manager</span>:  Defining, designing, configuring &#38; implementing  (a) our remote <span inprof='y' id='226' class='skill'>offshore</span>/near-shore computing facilities; (b) our secure remote connectivity from our <span inprof='y' id='227' class='skill'>offshore</span>/near-shore facilities to our domestic clients) ; 
+   *  Stabilization State/Steady State: 
+      *  Managing the connectivity between <span inprof='n' id='228' class='location'>the Montreal</span> facilities to the <span inprof='n' id='229' class='company'>Lilly</span> facilities. ; 
+      *  Managing eight near shore resources in our <span inprof='n' id='230' class='location'>Montreal</span> facilities, comprised of <span inprof='y' id='231' class='skill'>quality assurance</span> testers and technical writers.  Defining Roles and Responsibilities. ; 
+      *  Managing the <span inprof='y' id='232' class='skill'>quality assurance</span> engagement deliverables and ensuring compliance with our contractual obligations. ; 
+      *  Managing the <span inprof='y' id='233' class='skill'>quality assurance</span> process, <span inprof='y' id='234' class='skill'>quality assurance</span> ad hear to the Incident Management/<span inprof='y' id='235' class='skill'>Change Management</span> process, managing the validation process, <span inprof='y' id='236_1' class='role'>configuration manager</span> and functioning as the <span inprof='y' id='237_1' class='role'>Director in the absence</span> <span inprof='n' id='238' class='bad-occupation'>of the Project Director</span>.  Including training the <span inprof='y' id='239' class='skill'>quality assurance</span> testers and technical writers on the process, procedures and protocol of the client and <span inprof='n' id='240' class='company'>TEKsystems</span> support procedures. ; 
+      *  Once the connectivity solution stabilized, transitioning the accountability and responsibility for connectivity and moved in to a consulting role. ; 
+      *  Facilitating Lilly's <span inprof='y' id='241' class='skill'>audit</span> of our <span inprof='n' id='242' class='location'>Montreal</span> facility. ; 
+      *  The findings derived from the client <span inprof='y' id='243' class='skill'>audit</span> evolved into managing a project to comply with the client's findings, utilizing <span inprof='n' id='244' class='location'>the Montreal</span> staff. ; 
+      *  Adhering and enforcing GxP (GLP, GMP&#38; GRP) quality guidelines and regulations. ; 
+      *  Engagement utilizing <span inprof='y' id='245' class='sofwr'>Java</span>, <span inprof='y' id='246' class='sofwr'>Oracle</span>, <span inprof='y' id='247' class='sofwr'>ETL</span>, <span inprof='y' id='248' class='sofwr'>C#</span>, <span inprof='y' id='249' class='sofwr'>.NET</span>, <span inprof='y' id='250' class='sofwr'>ColdFusion</span> technology ; 
+   *  Consulting:  Consulting on <span inprof='n' id='251' class='company'>TEKsystems</span> proposals to potential <span inprof='n' id='252' class='company'>TEKsystems</span> clients.  Consulting includes writing proposals, documenting the client's current processes, performing a gaps analysis, proposing Roles and Responsibilities and writing up <span inprof='n' id='253' class='company'>TEKsystems</span> proposed enhanced processes including the <span inprof='y' id='254' class='sofwr'>ITIL</span> framework and <span inprof='y' id='255' class='skill'>Incident Management</span>/<span inprof='y' id='256' class='skill'>Change Management</span> methodology.
+
+
+<span inprof='n' id='257' class='company'>Computer Horizons Corporation</span> - <span inprof='y' id='258' class='company'>Eli-Lilly Pharmaceuticals</span>
+DRAS Engagement
+Deputy of Engagement / <span inprof='y' id='259_1' class='role'>Quality &#38; Validation Mgr</span> / <span inprof='y' id='259_2' class='role'>Quality Assurance Consultant</span>
+<span inprof='y' id='260_1' class='date'>April 2006</span> - <span inprof='y' id='260_2' class='date'>December 2006</span>
+<span inprof='y' id='261' class='location'>Indianapolis, Indiana</span>
+   The DRAS engagement was responsible for providing <span inprof='y' id='262' class='skill'>Incident Management</span> and <span inprof='y' id='263' class='skill'>Change Management support</span> for post production applications formerly maintained by <span inprof='y' id='264' class='educational'>the Discovery IT's Center of Excellence</span>.
+   *  Managing the on-site and near shore <span inprof='n' id='265' class='location'>Montreal</span> resources.  Including training and mentoring the staff on the client's policies and procedures. ; 
+   *  Managing the testing effort, following the Incident Management processes and verifying the documentation meets our contractual obligation and compliant with our client's obligations ; 
+   *  Management responsibilities include meetings, presentations and reports to <span inprof='y' id='266' class='skill'>Lilly senior management</span> ; 
+   *  Managing the engagement as the Deputy of Engagement, functioning as the <span inprof='y' id='267_1' class='role'>Director in the absence</span> <span inprof='n' id='268' class='bad-occupation'>of the Engagement Director</span> and PMO duties as a part of the on site vendor for <span inprof='y' id='269' class='company'>Eli-Lilly Pharmaceuticals</span> ; 
+   *  Recent milestone include 20,<span inprof='n' id='270' class='duration'>000 hours</span> of technology delivery with zero hours of rework ; 
+   *  Functioning <span inprof='n' id='271_1' class='some-position'>as</span> <span inprof='y' id='271_2' class='role'>a Quality Assurance Consultant</span> for other projects ; 
+   *  Adhering and enforcing GxP (GLP, GMP&#38; GRP) quality guidelines and regulations ; 
+   *  Engagement utilizing <span inprof='y' id='272' class='sofwr'>Java</span>, <span inprof='y' id='273' class='sofwr'>Oracle</span>, <span inprof='y' id='274' class='sofwr'>ETL</span>, <span inprof='y' id='275' class='sofwr'>C#</span>, <span inprof='y' id='276' class='sofwr'>.NET</span>, <span inprof='y' id='277' class='sofwr'>ColdFusion</span> technology
+
+
+<span inprof='n' id='278' class='company'>Computer Horizons Corporation</span> - <span inprof='y' id='279' class='company'>Eli-Lilly Pharmaceuticals</span>
+Optimizing Lead Optimization Project
+<span inprof='y' id='280_1_1' class='role'>Software Quality Assurance Manager / Software Quality Assurance Consultant</span>
+<span inprof='y' id='280_2_1' class='date'>May 2004</span> - <span inprof='y' id='280_2_2' class='date'>March 2006</span>
+<span inprof='y' id='280_3' class='location'>Indianapolis, Indiana</span>
+   The goal of Optimizing Lead Optimization (OLO) project was to reduce lead generation time by using a new information technology infrastructure to speed the process. The OLO project will standardize and automate <span inprof='y' id='281' class='skill'>sample handling</span>, results analysis and management though information technology. The front-end interface was comprised of web applications, various researching source systems and <span inprof='y' id='282' class='sofwr'>Excel</span> workbooks. The back end was housed in <span inprof='y' id='283' class='sofwr'>Oracle</span>. The <span inprof='y' id='284' class='sofwr'>QA</span> effort validates the OLO developed applications while observing GxP (GLP &#38; GCP) protocols (FDA 21 CFR).
+   *  <span inprof='y' id='285_1' class='role'>Quality Assurance Manager</span>: 
+      *  Managing testing <span inprof='y' id='286' class='skill'>resources</span>, <span inprof='y' id='287' class='skill'>resource management</span>, <span inprof='y' id='288' class='skill'>Change Management</span>, <span inprof='y' id='289' class='skill'>Incident Management</span>, scheduling projects, <span inprof='y' id='290' class='skill'>configuration management</span>, approving testing artifacts and determining the testing scope for eight OLO projects. ; 
+      *  Mentoring the staff on the client's policies and procedures &#38; QA processes. ; 
+      *  Adhering to a QA processes to ensure compliance ; 
+      *  Writing testing validation documents (e.g. Test Plan, Test Execution Report and Test Summary Report), creating traceability matrixes, executing manual &#38; automated test scripts and the successful submission of the testing deliverables to <span inprof='y' id='291' class='educational'>the Validation Department</span> ; 
+      *  Utilizing the <span inprof='y' id='292' class='sofwr'>RUP methodology</span> and <span inprof='y' id='293' class='skill'>Rational testing</span> tools (<span inprof='y' id='294_1' class='role'>TestManager</span>, Robot, <span inprof='y' id='295' class='sofwr'>ClearQuest</span>, <span inprof='y' id='296' class='sofwr'>RequisitePro</span>, SoDA, ManualTest) ; 
+      *  Adhering and enforcing GxP (GLP, GMP&#38; GRP) quality guidelines and regulations ; 
+   *  <span inprof='y' id='297_1' class='role'>Quality Assurance Consultant</span>: 
+      *  <span inprof='y' id='298' class='skill'>Performing analysis</span> on testing projects within <span inprof='n' id='299' class='company'>Eli</span>-<span inprof='n' id='300' class='nominal'>Lilly Pharmaceutical</span> ; 
+      *  Providing assessments on testing situations (gap analysis report, modifying testing strategy, resourcing recommendations and interviewing prospective testing candidates) ; 
+      *  Providing suggestive course of actions to fulfill their deadlines while maintaining their quality commitments ; 
+      *  Adhering and enforcing GxP (GLP, GMP&#38; GRP) quality guidelines and regulations ; 
+      *  Engagement utilizing <span inprof='y' id='301' class='sofwr'>Java</span>, <span inprof='y' id='302' class='sofwr'>Oracle</span>, <span inprof='y' id='303' class='sofwr'>ETL</span>, <span inprof='y' id='304' class='sofwr'>.NET technology</span>
+
+
+<span inprof='y' id='305_1' class='company'>Sapphire Staffing - Liberty Mutual Insurance</span>        <span inprof='y' id='305_2_1' class='date'>April 2004</span> - <span inprof='y' id='305_2_2' class='date'>May 2004</span>
+<span inprof='y' id='305_3_1' class='role'>Software Quality Assurance Engineer</span>                 <span inprof='y' id='306' class='location'>Indianapolis, Indiana</span>
+
+
+   <span inprof='n' id='307' class='company'>Liberty Mutual</span> is a top 100 <span inprof='n' id='308' class='company'>Fortune company</span>.  <span inprof='n' id='309' class='company'>Liberty Mutual</span>'s <span inprof='n' id='310' class='qualif'>Regional Agency Management and Planning</span> (RAMP) application houses the agencies and agents throughout the <span inprof='n' id='311' class='company'>Liberty Mutual</span> organization, budget and planning for the various agencies and their commissions. 
+   *  Creating automated test scripts utilizing <span inprof='y' id='312' class='sofwr'>Rational Robot</span> and executing <span inprof='y' id='313' class='sofwr'>regression test</span> suites with Rational TestAgent ; 
+   *  Documenting use cases, scripting <span inprof='y' id='314' class='sofwr'>manual test</span> scripts, creating a comprehensive test plan, <span inprof='y' id='315' class='skill'>project planning</span>, performing gap <span inprof='y' id='316' class='skill'>analysis and</span> <span inprof='y' id='317' class='skill'>conducting Performance Testing</span> utilizing <span inprof='y' id='318' class='sofwr'>Mercury LoadRunner</span> ; 
+   *  Enhancing the automated test scripts developed in a framework architecture ; 
+   *  Utilizing Rational testing tools include Robot, <span inprof='y' id='319_1' class='role'>TestManager</span>, <span inprof='y' id='320' class='sofwr'>ClearQuest</span> and <span inprof='y' id='321' class='sofwr'>RequisitePro</span>
+
+
+<span inprof='y' id='322_1' class='company'>Accenture</span> / <span inprof='y' id='322_2' class='company'>Total Systems</span>                <span inprof='y' id='322_3_1' class='date'>June 2002</span> - <span inprof='y' id='322_3_2' class='date'>March 2004</span>
+<span inprof='y' id='322_4_1' class='role'>Senior Software Quality Assurance</span>        <span inprof='y' id='323' class='location'>Columbus, Georgia</span>
+
+
+   <span inprof='n' id='324' class='educational'>The U.S. Department of Education</span> commissioned the creation and development of the Education Common Origination &#38; Disbursement (<span inprof='n' id='325' class='internet-web-address'>https://cod.ed.gov/cod</span>
+), a web-based system.  This system performs a variety of functions relating <span inprof='n' id='326' class='bad-occupation'>to student</span>/award/disbursement data for Pell, Direct Loan and <span inprof='y' id='327_1' class='role'>Campus-Based student</span> financial aid programs.
+   *  Project managing, <span inprof='y' id='328' class='skill'>Change Management</span>, managing the testing group, <span inprof='n' id='329' class='company'>mentoring</span>, <span inprof='y' id='330_1' class='role'>test lead</span> and documenting processes ; 
+   *  Responsibilities spanned the <span inprof='y' id='331' class='sofwr'>SDLC</span>, <span inprof='y' id='332' class='skill'>Change Management</span>, automated/<span inprof='y' id='333' class='sofwr'>manual testing</span>, documenting requirements and writing test scripts ; 
+   *  Performing End to <span inprof='y' id='334' class='skill'>End Testing</span>, <span inprof='y' id='335' class='skill'>Systems Integration Testing</span>, <span inprof='y' id='336' class='skill'>Functionality Testing</span>, <span inprof='y' id='337' class='skill'>Unit Testing</span>, <span inprof='y' id='338' class='skill'>User Acceptance Testing</span>, defect tracking (<span inprof='y' id='339_1' class='role'>Netman &#38; Test Director</span>), creating test execution reports and technical documentation ; 
+   *  Recent projects involve testing of the conversion of the RFMS data to the COD system ; 
+   *  Technology utilizing:
+      *  Web front end on an <span inprof='y' id='340' class='sofwr'>IBM mainframe</span> platform ; 
+      *  <span inprof='y' id='341' class='sofwr'>MVS operating system</span> couple with MQ Series Middleware and utilizes <span inprof='y' id='342' class='sofwr'>DB2</span>/IMS databases ; 
+      *  <span inprof='y' id='343_1' class='role'>Student</span> information was format in <span inprof='y' id='344' class='sofwr'>XML</span> ; 
+      *  Utilizing tool sets including TS2, <span inprof='y' id='345' class='sofwr'>TSO/ISPF</span>, <span inprof='y' id='346' class='sofwr'>Test Director</span>, <span inprof='y' id='347' class='sofwr'>Winrunner</span>, Fileaid DB2/IMS, Netman, <span inprof='y' id='348' class='sofwr'>CICS</span> and <span inprof='y' id='349' class='sofwr'>MS Access</span>
+
+
+<span inprof='y' id='350_1' class='company'>Volt Technical Services</span> - <span inprof='y' id='350_2' class='company'>Eli-Lilly Pharmaceuticals</span>        <span inprof='y' id='350_3_1' class='date'>July 2000</span> - <span inprof='y' id='350_3_2' class='date'>December 2001</span>
+<span inprof='y' id='350_4_1' class='role'>Senior Software Quality Assurance Engineer</span>                 <span inprof='y' id='351' class='location'>Indianapolis, Indiana</span>
+
+
+   Utilizing FDA <span inprof='y' id='352' class='skill'>21 CFR Part 11</span> (GLP, GCP and GMP), the DocMan project was developing and implementing a computerize system that electronically submits pharmaceutical compounds for FDA approval.  The system was a compilation of <span inprof='n' id='353' class='company'>Lilly</span> proprietary software programs. 
+   *  Managing the testing group for the DocMan testing effort, <span inprof='y' id='354' class='skill'>Change Management</span>, advising <span inprof='y' id='355_1' class='role'>the test lead</span>, complying with the FDA guidelines, scheduling resources, monitoring test process flow, mentoring &#38; overseeing new testers ; 
+   *  Ensuring the staff ad hears to the client's policies and procedures &#38; QA standards ; 
+   *  Creating Test Summary Reports, Test Execution Reports, completion reports, <span inprof='y' id='356' class='skill'>validation testing</span> documents and testing status reports for each software release ; 
+   *  Documenting the testing process and <span inprof='y' id='357' class='skill'>coordinating testing</span> projects ; 
+   *  Coordinating Client Testing ; 
+   *  Demonstrating Rational Robot &#38; our automate process to other departments ; 
+   *  Utilizing Rational to test the quality and functionality of each software release ; 
+   *  Utilizing the <span inprof='y' id='358' class='sofwr'>Rational Unified Process</span> <span inprof='y' id='359' class='sofwr'>(RUP)</span> methodology ; 
+   *  Creating testing requirements, requirements traceability matrix, test cases and executing automated test cases utilizing Rational TeamTest 7.5 &#38; 2000 &#38; <span inprof='y' id='360' class='sofwr'>Rational RequisitePro</span> ; 
+   *  Perform defect tracking using <span inprof='y' id='361' class='sofwr'>Rational ClearQuest</span> ; 
+   *  Adhering and enforcing GxP (GLP, GMP&#38; GRP) quality guidelines and regulations
+
+
+<span inprof='y' id='362_1' class='company'>Micro-Mega Databases, Inc</span>                                                        <span inprof='y' id='362_2_1' class='date'>June 1998</span> - <span inprof='y' id='362_2_2' class='date'>December 2001</span>
+<span inprof='y' id='362_3_1' class='role'>Software Quality Assurance Manager</span> / <span inprof='y' id='362_3_2' class='role'>Crystal Report Designer</span> / <span inprof='y' id='362_3_3' class='role'>Programmer</span>        <span inprof='y' id='363' class='location'>Houston, Texas</span>
+
+
+   <span inprof='n' id='364' class='company'>Micro-Mega Databases was a software company</span> developing a rail management system.  Responsibilities span the entire <span inprof='y' id='365' class='sofwr'>SDLC</span>, <span inprof='y' id='366_1' class='role'>project management</span> and <span inprof='y' id='366_2' class='role'>Quality Assurance Manager</span>.
+   *  <span inprof='y' id='367_1' class='role'>Quality Assurance Manager</span>:
+      *  Expanding and managing the testing team ; 
+      *  <span inprof='y' id='368' class='skill'>Documenting testing</span> processes ; 
+      *  Documenting SDLC procedures, technical changes, technical specifications, technical requirements and instructions ; 
+      *  Utilizing Rational products to manage the testing artifacts ; 
+      *  Utilizing <span inprof='y' id='369' class='sofwr'>Rational Unified Process</span> <span inprof='y' id='370' class='sofwr'>(RUP)</span> for testing methodology ; 
+      *  <span inprof='y' id='371' class='sofwr'>Rational ClearQuest</span> for defect tracking ; 
+      *  Testing the <span inprof='y' id='372' class='skill'>e-Commerce</span> division products ; 
+   *  <span inprof='y' id='373_1' class='role'>Crystal Report Designer</span>:  Developing the report module of the rail management system in <span inprof='n' id='374' class='location'>Seagate</span>'s <span inprof='y' id='375' class='sofwr'>Crystal Reports</span> ; 
+   *  <span inprof='y' id='376_1' class='role'>Programmer</span>:  Utilizing Visual Basic 6.0 to integrate the reporting module with the rail management system
+
+
+<span inprof='y' id='377_1' class='company'>Ocwen Financial Corporation</span>                             <span inprof='y' id='377_2_1' class='date'>July 1999</span> - <span inprof='y' id='377_2_2' class='date'>November 1999</span>
+<span inprof='y' id='377_3_1' class='role'>Senior Software Quality Assurance Engineer</span> / UAT        <span inprof='y' id='378' class='location'>West Palm Beach, Florida</span>
+
+
+   <span inprof='n' id='379' class='company'>Ocwen</span> was developing a mortgage software system, REAL-e.
+   *  Participating in the various aspects of the <span inprof='y' id='380' class='sofwr'>SDLC</span>.  For example, creating &#38; implementing test procedures, defining design scopes, creating functional requirements, working on the End to End project, <span inprof='y' id='381' class='skill'>Processes Testing</span>, <span inprof='y' id='382' class='skill'>Unit Testing</span>, conducting <span inprof='y' id='383' class='sofwr'>Joint Application Design</span> <span inprof='y' id='384' class='sofwr'>(JAD)</span> sessions and creating a System Ready QA Check List ; 
+   *  Creating technical requirements, specifications, procedures and documents ; 
+   *  Identifying and creating User Acceptance Tests for different aspects of  REAL-e
+
+
+<span inprof='y' id='385_1' class='company'>modis - Wachovia Bank</span>                                                <span inprof='y' id='385_2_1' class='date'>June 1998</span> - <span inprof='y' id='385_2_2' class='date'>July 1999</span>
+<span inprof='y' id='385_3_1' class='role'>Senior Software Quality Assurance Engineer</span> / <span inprof='y' id='385_3_2' class='role'>Business Analyst</span>        <span inprof='y' id='386' class='location'>Winston-Salem, North Carolina</span>
+
+
+   The Distributed Technology Refresh Initiative (DTRI) Project was a subset of the <span inprof='y' id='387' class='skill'>Year 2000</span> Project.  This project converted 1,800 PC based applications, residing on a variety of platforms and migrated them to a standardized <span inprof='y' id='388' class='sofwr'>Windows NT Workstation 4.0</span> platform.
+   *  <span inprof='y' id='389_1' class='role'>Quality Assurance Engineer</span>:  Creating test cases, writing manual/automated test scripts and generating <span inprof='n' id='390' class='company'>Wachovia</span> installation scripts, with the <span inprof='n' id='391' class='company'>DTRI technical group</span> ; 
+   *  <span inprof='y' id='392_1' class='role'>Business Analyst</span>:  Liaison between the <span inprof='n' id='393' class='company'>DTRI technical group</span> and the Business Units ; 
+      *  Documenting the technical specifications, requirements and documentation (including test objects, UAT objects, custom installation instructions, application dependencies and <span inprof='y' id='394' class='skill'>application analysis</span>) ; 
+      *  Conducting <span inprof='y' id='395' class='sofwr'>JAD</span> sessions and assisting in the creation of the <span inprof='n' id='396' class='company'>DTRI</span> processes ; 
+      *  Performing Hardware Sanitation, creating automated installation scripts for the hardware device drivers ; 
+      *  Attending SQA Suite Product Training class
+
+
+
+Clearance            5-<span inprof='y' id='397' class='qualif'>C Security Clearance</span>
+<span inprof='n' id='398' class='skills-qualif-mark'>Certification</span>        <span inprof='y' id='399' class='qualif'>ITIL Foundation Certification</span> v3.0
+Memberships          Indianapolis Workshop on <span inprof='y' id='400' class='skill'>Software Testing</span> (<span inprof='y' id='401_1' class='role'>Organizer &#38; Facilitator</span>)
+                     <span inprof='n' id='402' class='company'>Indianapolis Quality Assurance Association, Inc.</span>
+
+
+</TextResume>
+
+</NonXMLResume>
+
+
+
+<UserArea>
+<DaxResumeUserArea>
+<AdditionalPersonalData>
+<ExperienceSummary>
+<TotalMonthsOfWorkExperience>223</TotalMonthsOfWorkExperience>
+<TotalYearsOfWorkExperience>18</TotalYearsOfWorkExperience>
+<TotalMonthsOfManagementWorkExperience>145</TotalMonthsOfManagementWorkExperience>
+<TotalYearsOfManagementWorkExperience>12</TotalYearsOfManagementWorkExperience>
+<TotalMonthsOfLowLevelManagementWorkExperience>145</TotalMonthsOfLowLevelManagementWorkExperience>
+<TotalYearsOfLowLevelManagementWorkExperience>12</TotalYearsOfLowLevelManagementWorkExperience>
+<ExecutiveBrief>Andrew Andrada is a resident of Parsippany, NJ, US. He has been working in the IT  occupational sector for more than 18 years. Currently he is employed as a Program Validation Manager at Infosys - Daiichi Sankyo Pharmaceutical. Andrew has extensive knowledge of Oracle, Java, Microsoft .NET Technology, ETL, Microsoft C-SHARP, ITIL, ColdFusion, SDLC, Rational ClearQuest, RUP, Rational RequisitePro, JAD, AEGIS, Manual Testing, Citrix Winframe, XML, TSO > TSO ISPF, Scrum Methodology, SAP, Regression Testing, Rational Robot, RUP methodology, ORACLE QA, Microsoft Excel, Microsoft Access, Mercury Interactive WinRunner, Mercury Interactive TestDirector, Mercury Interactive LoadRunner, MVS, Jboss, ITIL methodology, IBM Mainframe Hardware, DB2, COBOL 2 MicroFocus, CICS/ESA, Adobe. Andrew has an extensive management experience (12 years).</ExecutiveBrief>
+<ManagementRecord>Currently since 2013-03 the candidate had experience at a lower grade management level working as a Program Validation Manager/Quality Assurance Consultant at Infosys - Daiichi Sankyo Pharmaceutical.
+Since 2011-10 for 12 months the candidate had experience at a lower grade management level working as a Quality Assurance Validation Lead/Quality Assurance Consultant at Global Pharmaceutical Research &amp; Development (GPRD).
+Since 2010-01 for 18 months the candidate had experience at a lower grade management level working as a Quality Assurance Manager/Quality Assurance Consultant at Fusion Alliance.
+Since 2009-10 for 4 months the candidate had experience at a lower grade management level working as a Program Quality Assurance Manager/Quality Assurance Consultant at Indecon Solution.
+Since 2009-02 for 5 months the candidate had experience at a lower grade management level working as a Engagement Manager/Quality Assurance Consultant at TEKsystems - American.
+Since 2008-08 for 10 months the candidate had experience at a lower grade management level working as a Solution Deliver Manager/Quality Assurance Consultant at TEKsystems.
+Since 2008-02 for 7 months the candidate had experience at a lower grade management level working as a Transition Manager/Quality Assurance Consultant at TEKsystems.
+Since 2007-11 for 4 months the candidate had experience at a lower grade management level working as a Engagement Manager/Quality Assurance Consultant at TEKsystems.
+Since 2007-01 for 11 months the candidate had experience at a lower grade management level working as a Quality &amp; Validation Manager/Quality Assurance Consultant at TEKsystems.
+Since 2004-05 for 23 months the candidate had experience at a lower grade management level working as a Software Quality Assurance Manager / Software Quality Assurance Consultant/Quality Assurance Consultant at the Validation Department.
+Since 1998-06 for 43 months the candidate had experience at a lower grade management level working as a Software Quality Assurance Manager/Quality Assurance Consultant at Micro-Mega Databases, Inc.
+</ManagementRecord>
+</ExperienceSummary>
+</AdditionalPersonalData>
+<ParserInfo>
+<ParserConfiguration>{max_len=50000} {tel_flag=} {send_zip=} {fast_conv=} {DEF_LOCAL=} {sdate=0} {no_email_body=0} {do_clever_zoning=1} {keep_span=1} {complex=1} {accept_langs=} {not_accept_langs=} {prefer_lang_cv=EN} {pers_only=0} {turbo=0} {split_language=0} {picture=0} {picture_inline=0} {name_space=0} {charset=} {hrxml_upgrade_edu_hist=0}{hrxml_add_languages_section=0}{spool=} {docID=} {user=DEFAULT} </ParserConfiguration>
+<ParserRelease>0.12.3.32629</ParserRelease>
+<ParserReleaseDate>2014-06-18</ParserReleaseDate>
+<ParserSchema>2.0.29</ParserSchema>
+<ParserSchemaLocation>http://cvx.daxtra.com/cvts/xsd/candidate/2.0.29/Resume.xsd</ParserSchemaLocation>
+<ConverterRelease>0.5.2.32629</ConverterRelease>
+<ConverterReleaseDate>2014-06-18</ConverterReleaseDate>
+</ParserInfo>
+<FileStruct filename='/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/resume.NJ.doc'>
+
+<attachment fname='resume.NJ.doc' ftype='doc' conv='yes' doc_type='cv' lang='EN'>/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/resume.NJ.doc</attachment>
+
+
+</FileStruct>
+</DaxResumeUserArea>
+</UserArea>
+</Resume>

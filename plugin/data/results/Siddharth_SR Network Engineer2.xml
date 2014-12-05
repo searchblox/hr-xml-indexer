@@ -1,0 +1,1436 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Resume lang='en' src='DAXTRA-CVX schema:2.0.29 release:0.12.3.32629 rdate:2014-06-18'>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName id='1'>
+<FormattedName>Siddharth Raj</FormattedName>
+<GivenName>Siddharth</GivenName>
+<FamilyName>Raj</FamilyName>
+<sex>Male</sex>
+</PersonName>
+<ContactMethod>
+<Telephone id='2' type='home'>
+<InternationalCountryCode>1</InternationalCountryCode>
+<SubscriberNumber>732 796-3917</SubscriberNumber>
+<FormattedNumber>+1 732 796-3917</FormattedNumber></Telephone>
+
+<InternetEmailAddress id='4' type='main'>siddsraj@gmail.com</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>*    CCNP Certified Professional with 7 years strong experience in routing, switching, firewall technologies, Load balancing, system network, implementation and troubleshooting of complex network systems ; 
+*    Strong hands on experience in installing, configuring , and troubleshooting  of Cisco 7600, 7200, 3800, 3600, 2800, 2600, 2500 and 1800 series Routers, Cisco Catalyst 6500, 4500, 3750, 2950 and 3500XL series switches ; 
+*    Extensive experience in configuring and troubleshooting of routing protocols EIGRP, BGP ; 
+*    Worked on network topologies and configurations, TCP/IP, UDP, bridges, routers, hubs and Switches ; 
+*    Switching tasks include VTP, ISL/ 802.1q, VLANs, Ether- Channel, Trunking , Port Security, STP and RSTP ; 
+*    Network security including NAT/PAT, ACL ; 
+*    Experience working with Nexus 7K , 5K and 2k devices ; 
+*    Worked on ACE load balancers. ; 
+*    A highly organized individual who adopts a systematic approach to problem solving, effectively analyzes results and implements solutions ; 
+*    Highly motivated with the ability to work independently or as an integral part of a team and Committed to the highest level of professionalism ;</ExecutiveSummary>
+
+
+<EmploymentHistory>
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='109_1'>Valence health</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='109_2'>
+<Municipality>Chicago</Municipality>
+<Region>IL</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='109_4_1'>SR Network Engineer</Title>
+<OrgName id='109_1'>Valence health</OrgName>
+
+
+
+<Description>Responsibilities
+*    Experience working with data center deployment where we converted from Cisco 6500 to Nexus. ; 
+*    Experience with configuring FCOE using Cisco nexus 5548. ; 
+*    Experience working with Juniper devices like EX-2200,EX-4200, EX-4500, MX-480, M Series, SRX650, SRX240 ; 
+*    Experience in trouble-shooting transport networks; T3, SONET, DWDM, DCS, and Ethernet. ; 
+*    Oversaw capacity planning and device regimen reporting for routers, switches, proxies, load balancers (F5, CSM, and Foundry devices), DNS-DHCP devices. ; 
+*    Troubleshoot wan related problems including OSPF, EIGRP, BGP and RIP routing and design ; 
+*    Supporting EIGRP, OSPF and BGP based  network by resolving level 2 &#38; 3 problems of internal teams &#38; external customers of all locations ; 
+*    Experience with configuring BGP, OSPF in Juniper M and MX series routers ; 
+*    Experience with setting up IPSEC VPN on Cisco 5505 Firewalls towards the multiple Customer ; 
+*    Experience working with F5 LTM and GTM in data center ; 
+*    Experience working with Converting Cisco ACE load balancer to F5 Load Balancer. ; 
+*    Experience working with Nexus 7010/Nexus 7018, 5020, 2148, 2248 devices ; 
+*    Installed and configured CISCO ASA and Checkpoint firewall. ; 
+*    Configured Cisco 3502 wireless access points. ; 
+*    Implemented Net Scout Service Delivery Manager and Analytics for alarming and alerting for business critical applications. ; 
+*    Supplied documentation, escalation, training and standard operating procedures as needed to allow for a smooth transition within the NOC. ; 
+*    Experience with configuring Nexus 2000 Fabric Extender (FEX) which acts as a remote line card (module) for the Nexus 5000 ; 
+*    In F5 I did configure Virtual Servers, Configure Nodes, and configuring the load balancing Pools and also used to work with configuring load balancing algorithms. ; 
+*    In F5, I also did configured Session based persistence and I have leant configuring writing i-Rules  for specific redirection purpose @and also i-rules for persistence ; 
+*    Experience working with Cisco Nexus 2148 Fabric Extender and Nexus 5000 series to provide a Flexible Access Solution for a datacenter access architecture ; 
+*    Modified internal infrastructure by adding switches to support server farms and added servers to existing DMZ environments to support new and existing application platforms. ; 
+*    Designed and installed new Branch network systems. Resolved network issues, ran test scripts and prepared network documentation. ; 
+*    Performed switching technology administration including VLANs, inter-VLAN routing, Trucking, STP, RSTP, port aggregation &#38; link negotiation. ; 
+*    Configuration of Access List ACL (STD, Ext, Named) to allow users all over the company to access different applications and blocking others. ; 
+*    Worked on F5 LTM series like 6400, 6800, 8800 for the corporate applications and their availability ; 
+*    Dealt with creating VIP(virtual servers), pools, nodes and applying I Rules for the virtual servers like cookie persistency, redirection of the URL ; 
+*    Involved in configuring IP Quality of service (QOS) ; 
+*    Worked on Layer 2 protocols such as STP, VTP, STP, RSTP, PVSTP+, MST and other VLAN troubleshooting issues and configuring switches from scratch and deployment ; 
+*    Primary responsibility is to design and deploy various network security &#38; High Availability products lick Cisco ASA other security products ; 
+*    Support customer with the configuration and maintenance of PIX and ASA firewall systems ; 
+*    Worked on Extensively on Cisco Firewalls, Cisco PIX &#38; ASA 5500(5510/5540) Series ; 
+*    Experience with Firewall Administration, Rule Analysis, Rule Modification ; 
+*    Experience configuring  VPC(Virtual Port Channel), VDC(Virtual Device Context) in Nexus 7010/7018 ; 
+*    Ensure problems are satisfactorily resolved in a timely manner with focus on providing a high level of support for all customers. ; 
+*    Coordinating with service providers for WAN link outages. ; 
+*    Experience in Configuring, upgrading and verifying the NX-OS operation system ; 
+*    Responsibilities also include technical documentation of all upgrades done. Attending meetings and technical discussions related to current project. ; 
+*    Task with being the local Tools administration of Network Monitoring tools such as: Net Scout HPNA, Opsware and CA Concord E-Health and working through the integration with Spectrum for reporting the alarms from E-Health ; 
+*    Used Solar winds Orion for backing up device configurations and monitoring bandwidth</Description>
+<StartDate id='109_3_1'><YearMonth>2013-06</YearMonth></StartDate>
+<EndDate id='109_3_2'>notApplicable</EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-mid</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='109' last_id='153' border_id='154'></TLSPAN>
+<MonthsOfWork>12</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='154_1'>Blue green Corp</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='154_2'>
+<Municipality>Boca Raton</Municipality>
+<Region>FL</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='154_4_1'>SR Network Engineer</Title>
+<OrgName id='154_1'>Blue green Corp</OrgName>
+
+
+
+<Description>Responsibilities
+    *    Configured Routing protocols such as RIP, OSPF, EIGRP, static routing and policy based routing. ; 
+    *    Team member of Configuration of Cisco 7206 router with VPN and Configuration of Catalyst switches. ; 
+    *    Configuration 7609, 7606 with OSPF and catalyst 6505, 4500, 3550 switches with various VLAN. ; 
+    *    Create and test Cisco router and switching operations using OSPF routing protocol, ASA Firewalls, and MPLS switching for stable VPNs. ; 
+    *    Configuration and troubleshooting link state protocols like OSPF in single area and multiple areas. ; 
+    *    Redesign of Internet connectivity infrastructure for meeting bandwidth requirements. ; 
+    *    Configured HSRP and VLAN trucking 802.1Q, VLAN Routing on Catalyst 6500 switches. ; 
+    *    Optimized performance of the WAN network consisting of Cisco 3550/4500/6500 switches by configuring VLANs. ; 
+    *    Configured VLANs with 802.1q tagging. Configured Trunk groups, ether channels, and Spanning tree for creating Access/distribution and core layer switching architecture. ; 
+    *    Worked with Cisco nexus series router and switches ; 
+    *    Configured BPDU Guard, port-fast, uplink fast and other spanning tree features. ; 
+    *    Configuration and troubleshooting of Cisco 2500, 2600, 3000, 6500, 7500, 7200 Series routers. ; 
+    *    Providing Technical Support and solutions for Network Problems. ; 
+    *    Implementing NAT solution's on wan applications. ; 
+    *    Planned, tested and evaluated various equipments, systems, IOSs and procedures for use within the Network / security infrastructure. ; 
+    *    Worked with F5 load balancer ; 
+    *    Upgrading IOS, troubleshooting network outages. ; 
+    *    Continually monitor, assess and improve network security, test and implement new security technologies. ; 
+    *    Participate in all technical aspects of LAN, WAN, VPN and security Internet Service projects including, short and long term planning, implementation, project management and operations support as required. ; 
+    *    Worked on Cisco Routers, Active /Passive Hubs, Switches, Cisco PIX Firewall, NAT and Checkpoint ESX/GSX firewall. ; 
+    *    Having Data Center Design Experience, installing and Configuring Network Devices in a Data Center including patching the cables in the Patch Panel. Design and implemented network infrastructure and configured the entire network Infrastructure devices including Network Printers and Register. ; 
+    *    Deploy and support network load balancers, such as Netscaler, F5 LTM/GTM, Cisco ACE, etc. ; 
+    *    Hands-on experience in the network management of circuits using TDM and Frame Relay network, performing configuration and provisioning management, fault management and performance monitoring</Description>
+<StartDate id='154_3_1'><YearMonth>2011-03</YearMonth></StartDate>
+<EndDate id='154_3_2'><YearMonth>2013-05</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-mid</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='154' last_id='191' border_id='192'></TLSPAN>
+<MonthsOfWork>27</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='192_1'>Scotts</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='192_2'>
+<Municipality>Columbus</Municipality>
+<Region>OH</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='192_4_1'>Network Engineer</Title>
+<OrgName id='192_1'>Scotts</OrgName>
+
+
+
+<Description>Responsibilities:    -
+    *    Configuring objects such as Load Balancer pools for local traffic management on F5 Load Balancers. ; 
+    *    Extensively used TCP/IP tool like TELNET for remote login to the routers and SSH for secure login. ; 
+    *    Has expertise in LAN/WAN technologies (fast Ethernet, Layer2 &#38; 3 switched/routed LAN, and Frame Relay). ; 
+    *    Enabled GSR RPR+ mode, installed Engine 5 SIP cards, Upgraded Cisco GSR routers GRP-Bs to PRPs (RPP+), PRP 1 to PRP 2 and IOS levels as well. ; 
+    *    Tested various BGP features like local-preference, MED, Weight and replicated customer issue problems in the testing environment lab. ; 
+    *    Performed various Line card memory upgrades, PRP memory upgrades and fabric upgrades on Cisco 12000 series routers. ; 
+    *    Handle customer escalations related to Internet connectivity issues, VPN issues (OSPF sync issues), etc; work with various technical teams to find a resolution in a timely fashion. ; 
+    *    Created load balancing policies using BGP attributes such as Local Preference, AS-Path, MED, Community etc. ; 
+    *    Managed fast Layer 3 switched/routed LAN/WAN infrastructure as a part of Network team. The LAN consisted of Cisco campus model of Cisco 3550 at access layer, Cisco 6513 at distribution/core layer. ; 
+    *    Installed and maintained Cisco and F5 Load Balancer and documentation. ; 
+    *    Improving OSPF convergence by controlling SPF algorithm, LSA/SPF throttling. ; 
+    *    Participate in all technical aspects of LAN, WAN, VPN and security internetworking projects including, short and long term planning, implementation, project management and operations support as required. ; 
+    *    Experience working with SONET controller interfaces in the Cisco IOS-XR . ; 
+    *    Writing rules in such a way that they append various properties that define pool selection process. ; 
+    *    Configured policy maps, class maps and access lists on GSRs. ; 
+    *    Worked with JTAC and Cisco to troubleshoot various problems.</Description>
+<StartDate id='192_3_1'><YearMonth>2010-01</YearMonth></StartDate>
+<EndDate id='192_3_2'><YearMonth>2011-02</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='192' last_id='225' border_id='226'></TLSPAN>
+<MonthsOfWork>14</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='226_1'>Wyeth</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='226_2'>
+<Region>Pennsylvania</Region>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='226_4_1'>JR Network Engineer</Title>
+<OrgName id='226_1'>Wyeth</OrgName>
+
+
+
+<Description>Responsibilities:
+
+    *    Configuration, Management, Troubleshooting of Network devices (Routers, Switches). Maintained the Telecommunication Connectivity using DSL and T1 Lines. ; 
+    *    Worked on Routers Cisco 2620, Cisco 3750, and Cisco 2950 Switches &#38; Link sys wireless access points. ; 
+    *    Maintained complex LAN/WAN networks with several VLANS and provided support for routing protocols. ; 
+    *    Managed IP addressing and implemented IP Access Lists ; 
+    *    Configured and troubleshoot VLAN, VTP, STP and Trunks. ; 
+    *    Configuring and Maintaining TACACS+ for AAA. ; 
+    *    Installing and configuring protocols like TCP/IP and Internet protocols including Local Area Networking, routing and HTTP. ; 
+    *    RMA's and provided 24x7 support</Description>
+<StartDate id='226_3_1'><YearMonth>2007-08</YearMonth></StartDate>
+<EndDate id='226_3_2'><YearMonth>2009-12</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='226' last_id='237' border_id='0'></TLSPAN>
+<MonthsOfWork>29</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+</EmploymentHistory>
+
+
+
+
+
+
+
+
+
+
+
+
+<Competency oids='36 112 133 164 170 181 204 212 213 214 230 231 ' description='Skill > IT' auth='yes' name='Cisco Switches/Routers'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>82</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Configured'><StringValue>Configured</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Upgraded'><StringValue>Upgraded</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Cisco</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Configured Cisco</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Cisco router</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Cisco Routers</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Upgraded Cisco</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>99</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='16 46 140 141 144 163 168 171 172 233 234 ' description='Skill > IT' auth='yes' name='LAN/WAN > VLAN'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>68</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='troubleshooting'><StringValue>troubleshooting</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='configuring'><StringValue>configuring</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Configured'><StringValue>Configured</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VLANs</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VLAN</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VLAN troubleshooting</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>configuring VLANs</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Configured VLANs</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='63 121 125 128 155 162 165 167 208 ' description='Skill > IT' auth='yes' name='OSPF (Open Shortest Path First)'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>53</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>OSPF</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='13 64 123 126 127 206 209 ' description='Skill > IT' auth='yes' name='BGP (Border Gateway Protocol)'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='configuring'><StringValue>configuring</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>BGP</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>configuring BGP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='176 198 201 211 218 236 ' description='Skill > IT' auth='yes' name='LAN/WAN > LAN'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>70</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>LAN</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Local Area Networking</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='28 55 160 178 220 ' description='Skill > IT' auth='yes' name='VPN'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>41</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='12 62 122 124 156 ' description='Skill > IT' auth='yes' name='EIGRP (Enhanced Interior Gateway Routing Protocol)'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Supporting'><StringValue>Supporting</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>EIGRP</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Supporting EIGRP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='14 65 194 235 ' description='Skill > IT' auth='yes' name='TCP/IP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>43</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>72</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='152 169 177 219 ' description='Skill > IT' auth='yes' name='LAN/WAN > WAN'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>53</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>WAN</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='10 196 227 ' description='Skill > IT' auth='yes' name='Router'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>43</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Routers</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>71</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='9 57 95 ' description='Skill > IT' auth='yes' name='Load Balancing'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='48 188 202 ' description='Skill > IT' auth='yes' name='Frame Relay'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>41</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='26 67 120 ' description='Skill > IT' auth='yes' name='Dynamic Host Control protocol'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>DHCP server</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>DHCP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='25 68 119 ' description='Skill > IT' auth='yes' name='Domain Name Server Protocol'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='installing'><StringValue>installing</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='configuring'><StringValue>configuring</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>installing and configuring DNS</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>DNS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='147 189 ' description='Skill' auth='no' name='configuration'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>configuration and</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='75 195 ' description='Skill > IT' auth='yes' name='Telnet'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>67</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='216 217 ' description='Skill > IT' auth='yes' name='Sender Policy Framework'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SPF</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='74 197 ' description='Skill > IT' auth='yes' name='Secure Shell'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SSH</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='113 222 ' description='Skill > IT' auth='yes' name='SONET'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>working with SONET</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>70</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='20 34 ' description='Skill' auth='yes' name='Project Team Skills'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>part of a team</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='180 221 ' description='Skill' auth='yes' name='Project Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>41</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='22 50 ' description='Skill > IT' auth='yes' name='PPP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='27 54 ' description='Skill > IT' auth='yes' name='PAT'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='52 166 ' description='Skill > IT' auth='yes' name='MPLS (MultiProtocol Label Switching)'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>27</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MPLS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='210 232 ' description='Skill > IT' auth='yes' name='LAN/WAN'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>43</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='49 80 ' description='Skill > IT' auth='yes' name='ISDN'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='116 200 ' description='Skill > IT' auth='yes' name='Ethernet'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='184 185 ' description='Skill > IT' auth='yes' name='Data Centre'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>27</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Design'><StringValue>Design</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Data Center Design</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Data Center</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='79 229 ' description='Skill > IT' auth='yes' name='DS1'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>29</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>T1</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>52</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='11 161 ' description='Skill > IT' auth='yes' name='Cisco Switches/Routers > Catalyst Switches'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>27</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Configuration'><StringValue>Configuration</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Cisco Catalyst</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Configuration of Catalyst switches</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='131 146 ' description='Skill > IT' auth='yes' name='Cisco ASA'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installed'><StringValue>Installed</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='configured'><StringValue>configured</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installed and configured CISCO ASA</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='100 106 ' description='Skill > IT' auth='yes' name='CAD/CAM > CAD'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>CAD</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='190 ' description='Skill' auth='no' name='provisioning management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>27</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='19 ' description='Skill' auth='no' name='problem solving'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='224 ' description='Skill' auth='no' name='pool selection'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='148 ' description='Skill' auth='no' name='maintenance of PIX and ASA firewall systems'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='193 ' description='Skill' auth='no' name='local traffic management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='142 ' description='Skill' auth='no' name='link negotiation'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='191 ' description='Skill' auth='no' name='fault management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>27</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='39 ' description='Skill' auth='no' name='communication skills'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='110 ' description='Skill' auth='no' name='center deployment'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='117 ' description='Skill' auth='no' name='capacity planning'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='92 ' description='Skill > IT' auth='yes' name='WiMAX'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='91 ' description='Skill > IT' auth='yes' name='Wi-Fi'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='78 ' description='Skill > IT' auth='yes' name='VoIP (Voice over IP)'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VOIP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='107 ' description='Skill > IT' auth='yes' name='VBScript'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='88 ' description='Skill > IT' auth='yes' name='UNIX'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='15 ' description='Skill > IT' auth='yes' name='UDP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='175 ' description='Skill' auth='no' name='Technical Support'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>27</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='41 ' description='Skill' auth='no' name='Team Player'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='72 ' description='Skill > IT' auth='yes' name='TFTP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='30 ' description='Skill > IT' auth='yes' name='Switching technologies'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='135 ' description='Skill' auth='yes' name='Standard Operating Procedure'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>standard operating procedures</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='73 ' description='Skill > IT' auth='yes' name='SNMP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='69 ' description='Skill > IT' auth='yes' name='SMTP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='203 ' description='Skill > IT' auth='yes' name='SIP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='151 ' description='Skill' auth='no' name='Rule Analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='143 ' description='Skill > IT' auth='yes' name='QoS (Quality of Service)'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>(QOS)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='139 ' description='Skill' auth='no' name='Performed switching technology administration'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='186 ' description='Skill > IT' auth='yes' name='Patch Panels'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>27</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Patch Panel</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='70 ' description='Skill > IT' auth='yes' name='POP'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>POP3</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='23 ' description='Skill > IT' auth='yes' name='PAP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='82 ' description='Skill > IT' auth='no' name='Operating Systems'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='137 ' description='Skill > IT' auth='yes' name='Nexus Technology'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='configuring'><StringValue>configuring</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>configuring Nexus 2000 2000</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='153 ' description='Skill' auth='no' name='Network Monitoring'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='136 ' description='Skill > IT' auth='yes' name='NOC'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='84 ' description='Skill > IT' auth='yes' name='Microsoft Windows XP'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>XP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='83 ' description='Skill > IT' auth='yes' name='Microsoft Windows Vista'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows Vista</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='85 ' description='Skill > IT' auth='yes' name='Microsoft Windows NT'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>NT</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='86 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2003 Server'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2003</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='26 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2000 Server'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>DHCP server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='98 ' description='Skill > IT' auth='yes' name='Microsoft Visual Studio.NET'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2008</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='97 ' description='Skill > IT' auth='yes' name='Microsoft Visual Studio'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Visual Studio</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='33 ' description='Skill > IT' auth='yes' name='Microsoft Visio'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VISIO</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='32 ' description='Skill > IT' auth='yes' name='Microsoft Excel'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Excel</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='87 ' description='Skill > IT' auth='yes' name='Microsoft DOS'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS DOS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='138 ' description='Skill > IT' auth='yes' name='Microsoft Access'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>access</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='99 ' description='Skill > IT' auth='yes' name='Matlab'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='101 ' description='Skill > IT' auth='yes' name='Macromedia Flash'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Flash</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='102 ' description='Skill > IT' auth='yes' name='Macromedia Dreamweaver'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Dream weaver</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='89 ' description='Skill > IT' auth='yes' name='Linux'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='59 ' description='Skill > IT' auth='yes' name='Intrusion Prevention System'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IPS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='58 ' description='Skill > IT' auth='yes' name='Intrusion Detection System'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IDS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='40 ' description='Skill' auth='no' name='Interpersonal skills'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='179 ' description='Skill > IT' auth='yes' name='Internet Service'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>27</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='105 ' description='Skill > IT' auth='yes' name='Intel Assembler'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Assembly</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='66 ' description='Skill > IT' auth='yes' name='IPX/SPX'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='60 ' description='Skill > IT' auth='yes' name='IPSec'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='77 ' description='Skill > IT' auth='yes' name='IP Telephony'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='223 ' description='Skill > IT' auth='yes' name='IOS'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Cisco IOS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='61 ' description='Skill > IT' auth='yes' name='IGRP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='21 ' description='Skill > IT' auth='no' name='IGMP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='76 ' description='Skill > IT' auth='yes' name='ICMP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='145 ' description='Skill > IT' auth='yes' name='High Availability'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='237 ' description='Skill > IT' auth='yes' name='HTTP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>29</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='118 ' description='Skill' auth='yes' name='Foundry'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='150 ' description='Skill' auth='no' name='Firewall Administration'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='56 ' description='Skill > IT' auth='no' name='Filtering'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='71 ' description='Skill > IT' auth='yes' name='FTP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='17 ' description='Skill > IT' auth='yes' name='ETHER'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='115 ' description='Skill > IT' auth='yes' name='Digital Cross-Connect'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>DCS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>91</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='114 ' description='Skill > IT' auth='yes' name='DWDM'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>91</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='228 ' description='Skill > IT' auth='yes' name='DSL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>29</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>53</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='182 ' description='Skill > IT' auth='yes' name='Cisco Pix Firewall'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>27</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='132 ' description='Skill > IT' auth='yes' name='CheckPoint Firewall'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='31 ' description='Skill' auth='yes' name='Change Management'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='24 ' description='Skill > IT' auth='no' name='CHAP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='93 ' description='Skill > IT' auth='yes' name='CDMA'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='104 ' description='Skill > IT' auth='yes' name='C++'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='103 ' description='Skill > IT' auth='yes' name='C Programming Language'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>C</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='51 ' description='Skill > IT' auth='yes' name='ATM (Asynchronous Transfer Mode)'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ATM</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='90 ' description='Skill > IT' auth='yes' name='ARP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='94 ' description='Skill > IT' auth='yes' name='3G Networks'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>3G</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='3_1 109_4_1 154_4_1 ' description='Held Position' auth='no' name='SR Network Engineer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='157_1 ' description='Held Position' auth='no' name='Team member'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>27</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>88</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='192_4_1 ' description='Held Position' auth='no' name='Network Engineer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>14</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='226_4_1 ' description='Held Position' auth='no' name='JR Network Engineer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>29</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>54</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='134_1 ' description='Held Position' auth='no' name='Implemented Net Scout Service Delivery Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>93</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='81_1 ' description='Held Position' auth='no' name='Call manager'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='96 130 187 ' description='Degree/Qualification > Professional' auth='yes' name='Adobe Certified Expert'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Cisco ACE</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>36</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='42 ' description='Degree/Qualification > Professional' auth='yes' name='Cisco Certified Network Professional'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Cisco Certified Network Professional (CCNP)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='43 ' description='Degree/Qualification > Professional' auth='yes' name='Cisco Certified Network Associate'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Cisco Certified Network Associate (CCNA)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='7 ' description='Degree/Qualification > Professional' auth='no' name='CCNP Certified Professional'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency description='Industry' auth='yes' name='industry~it'>
+<CompetencyEvidence name='skillCount' typeDescription='skillCount'><NumericValue>4</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+</Competency>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<RevisionDate id='5'>2014-06-20</RevisionDate>
+</StructuredXMLResume>
+<NonXMLResume>
+
+<TextResume>
+
+
+
+{{HEADER}}
+
+<span inprof='y' id='1' class='nominal'>Siddharth Raj</span>
+<span inprof='y' id='2' class='telephone'>732-796-3917</span>
+<span inprof='y' id='3_1' class='role'>SR Network Engineer</span>
+<span inprof='y' id='4' class='email'>siddsraj@gmail.com</span>
+
+
+
+{{END_HEADER}}
+
+
+<span inprof='n' id='5' class='date'>{{DOCUMENT_DATESTAMP}} 2014-06-20 {{END_DOCUMENT_DATESTAMP}}</span> 
+
+         -----
+
+<span inprof='n' id='6' class='objectives-mark'>SUMMARY</span>
+
+*    <span inprof='y' id='7' class='qualif'>CCNP Certified Professional</span> with <span inprof='n' id='8' class='duration'>7 years</span> strong experience in routing, switching, firewall technologies, <span inprof='y' id='9' class='sofwr'>Load balancing</span>, system network, implementation and troubleshooting of complex network systems ; 
+*    Strong hands on experience in installing, configuring , and troubleshooting  of Cisco 7600, 7200, 3800, 3600, 2800, 2600, 2500 and 1800 series <span inprof='y' id='10' class='sofwr'>Routers</span>, <span inprof='y' id='11' class='sofwr'>Cisco Catalyst</span> 6500, 4500, 3750, 2950 and 3500XL series switches ; 
+*    Extensive experience in configuring and troubleshooting of routing protocols <span inprof='y' id='12' class='sofwr'>EIGRP</span>, <span inprof='y' id='13' class='sofwr'>BGP</span> ; 
+*    Worked on network topologies and configurations, <span inprof='y' id='14' class='sofwr'>TCP/IP</span>, <span inprof='y' id='15' class='sofwr'>UDP</span>, bridges, routers, hubs and Switches ; 
+*    Switching tasks include VTP, ISL/ 802.1q, <span inprof='y' id='16' class='sofwr'>VLANs</span>, <span inprof='y' id='17' class='sofwr'>Ether</span>- Channel, Trunking , <span inprof='n' id='18' class='location'>Port Security</span>, STP and RSTP ; 
+*    Network security including NAT/PAT, ACL ; 
+*    Experience working with Nexus 7K , 5K and 2k devices ; 
+*    Worked on ACE load balancers. ; 
+*    A highly organized individual who adopts a systematic approach to <span inprof='y' id='19' class='skill'>problem solving</span>, effectively analyzes results and implements solutions ; 
+*    Highly motivated with the ability to work independently or as an integral <span inprof='y' id='20' class='skill'>part of a team</span> and Committed to the highest level of professionalism ; 
+*    Well Experienced in configuring protocols HSRP, GLBP, ICMP, <span inprof='y' id='21' class='sofwr'>IGMP</span>, <span inprof='y' id='22' class='sofwr'>PPP</span>, <span inprof='y' id='23' class='sofwr'>PAP</span>, <span inprof='y' id='24' class='sofwr'>CHAP</span>, and SNMP ; 
+*    Experience in <span inprof='y' id='25' class='sofwr'>installing and configuring DNS</span>, <span inprof='y' id='26' class='sofwr'>DHCP server</span> ; 
+*    In depth understanding of IPV4and IPV6and implementation of Subnetting ; 
+*    Configured Security policies including NAT, <span inprof='y' id='27' class='sofwr'>PAT</span>, <span inprof='y' id='28' class='sofwr'>VPN</span>, Route-maps, prefix lists and Access Control Lists ; 
+*    Extensive Experience in <span inprof='n' id='29' class='company'>WAN Technologies</span>, <span inprof='y' id='30' class='sofwr'>Switching Technologies</span> along with Failover Mechanisms &#38;Inter VLAN Routing types ; 
+*    Experience with <span inprof='y' id='31' class='skill'>Change management</span> process and Project documentation tools like <span inprof='y' id='32' class='sofwr'>Excel</span> and <span inprof='y' id='33' class='sofwr'>VISIO</span> ; 
+*    Played various customer interaction roles in various capacities, in different areas ; 
+*    Provides technical leadership for problem escalation and resolution. ; 
+*    Highly motivated with the ability to work independently or as an integral <span inprof='y' id='34' class='skill'>part of a team</span> and Committed to highest levels of professional. ; 
+*    Hands on experience on Up-gradation of <span inprof='n' id='35' class='company'>Cisco IOS &#38; Firmware</span> of different <span inprof='y' id='36' class='sofwr'>Cisco</span> devices &#38; modules ; 
+*    Moderate knowledge in configuring and troubleshooting <span inprof='n' id='37' class='company'>Cisco Wireless Networks</span>: LWAPP, WLC, WCS, <span inprof='n' id='38' class='company'>Standalone APs</span>, Roaming, Wireless Security Basics, IEEE 802.11 a/b/g, RF spectrum characteristics. ; 
+*    Excellent Verbal, written <span inprof='y' id='39' class='skill'>communication skills</span> and <span inprof='y' id='40' class='skill'>Interpersonal skills</span> with ability to work with large teams as well as independently with minimum supervision &#38; <span inprof='y' id='41' class='skill'>Team Player</span>
+
+PROFESSIONAL CERTIFIACTIONS:
+    *    <span inprof='y' id='42' class='qualif'>Cisco Certified Network Professional (CCNP)</span> ; 
+    *    <span inprof='y' id='43' class='qualif'>Cisco Certified Network Associate (CCNA)</span>
+
+
+
+
+<span inprof='n' id='44' class='skills-qualif-mark'>TECHNICAL SKILLS:</span>
+
+
+
+<span inprof='n' id='45' class='company'>LAN Technologies</span>               <span inprof='y' id='46' class='sofwr'>VLAN</span>, VTP, Inter-Vlan routing, STP, RSTP, PVST, 802.1x
+<span inprof='n' id='47' class='company'>WAN Technologies</span>               <span inprof='y' id='48' class='sofwr'>Frame Relay</span>, <span inprof='y' id='49' class='sofwr'>ISDN</span>, <span inprof='y' id='50' class='sofwr'>PPP</span>, <span inprof='y' id='51' class='sofwr'>ATM</span>, <span inprof='y' id='52' class='sofwr'>MPLS</span>, Channel &#38; Leased lines
+Network Securities             <span inprof='n' id='53' class='company'>NAT</span>/<span inprof='y' id='54' class='sofwr'>PAT</span>, <span inprof='y' id='55' class='sofwr'>VPN</span>, <span inprof='y' id='56' class='sofwr'>Filtering</span>, <span inprof='y' id='57' class='sofwr'>Load Balancing</span>, <span inprof='y' id='58' class='sofwr'>IDS</span>/<span inprof='y' id='59' class='sofwr'>IPS</span>, <span inprof='y' id='60' class='sofwr'>IPSec</span>, ACL
+Routing Protocols              RIP, <span inprof='y' id='61' class='sofwr'>IGRP</span>, <span inprof='y' id='62' class='sofwr'>EIGRP</span>, <span inprof='y' id='63' class='sofwr'>OSPF</span>, <span inprof='y' id='64' class='sofwr'>BGP</span>, IS-IS, HSRP, IPv6
+Routed Protocols               <span inprof='y' id='65' class='sofwr'>TCP/IP</span>, <span inprof='y' id='66' class='sofwr'>IPX/SPX</span>
+Infrastructure Services        <span inprof='y' id='67' class='sofwr'>DHCP</span>, <span inprof='y' id='68' class='sofwr'>DNS</span>, <span inprof='y' id='69' class='sofwr'>SMTP</span>, <span inprof='y' id='70' class='sofwr'>POP3</span>, <span inprof='y' id='71' class='sofwr'>FTP</span>, <span inprof='y' id='72' class='sofwr'>TFTP</span>
+Network Managements            <span inprof='y' id='73' class='sofwr'>SNMP</span>, <span inprof='y' id='74' class='sofwr'>SSH</span>, <span inprof='y' id='75' class='sofwr'>Telnet</span>, <span inprof='y' id='76' class='sofwr'>ICMP</span>
+<span inprof='y' id='77' class='sofwr'>IP Telephony</span>                   <span inprof='y' id='78' class='sofwr'>VOIP</span>, FXO/FXS/E&#38;M/<span inprof='y' id='79' class='sofwr'>T1</span>/<span inprof='y' id='80' class='sofwr'>ISDN</span>/ PRI, <span inprof='y' id='81_1' class='role'>Call manager</span> Express.
+<span inprof='y' id='82' class='sofwr'>Operating Systems</span>              <span inprof='y' id='83' class='sofwr'>Windows Vista</span>/<span inprof='y' id='84' class='sofwr'>XP</span>/<span inprof='y' id='85' class='sofwr'>NT</span>/<span inprof='y' id='86' class='sofwr'>2003</span>, <span inprof='y' id='87' class='sofwr'>MS DOS</span>, <span inprof='y' id='88' class='sofwr'>UNIX</span>, <span inprof='y' id='89' class='sofwr'>Linux</span>
+Comm. Protocols                <span inprof='y' id='90' class='sofwr'>ARP</span>, <span inprof='y' id='91' class='sofwr'>Wi-Fi</span>, <span inprof='y' id='92' class='sofwr'>WiMax</span>, <span inprof='y' id='93' class='sofwr'>CDMA</span>, <span inprof='y' id='94' class='sofwr'>3G</span>
+<span inprof='y' id='95' class='sofwr'>Load balancing</span>                 f5, <span inprof='y' id='96' class='qualif'>Cisco ACE</span> load balancers
+Packages                       <span inprof='y' id='97' class='sofwr'>Visual Studio</span> <span inprof='y' id='98' class='sofwr'>2008</span>, OPNET, <span inprof='y' id='99' class='sofwr'>MATLAB</span>, <span inprof='y' id='100' class='sofwr'>CAD</span>, <span inprof='y' id='101' class='sofwr'>Flash</span>, <span inprof='y' id='102' class='sofwr'>Dream weaver</span>.
+Languages/ Tools               <span inprof='y' id='103' class='sofwr'>C</span>, <span inprof='y' id='104' class='sofwr'>C++</span>, <span inprof='y' id='105' class='sofwr'>Assembly</span> 8085 and 8951/2, MIPS, <span inprof='y' id='106' class='sofwr'>CAD</span>, <span inprof='y' id='107' class='sofwr'>VBScript</span>
+
+
+
+
+
+<span inprof='n' id='108' class='work-hist-mark'>PROFESSIONAL EXPERIENCE</span>
+
+<span inprof='y' id='109_1' class='company'>Valence health</span>, <span inprof='y' id='109_2' class='location'>Chicago IL</span>                                                                                                    <span inprof='y' id='109_3_1' class='date'>June 2013</span> - <span inprof='y' id='109_3_2' class='date'>Present</span>
+<span inprof='y' id='109_4_1' class='role'>SR Network Engineer</span>
+
+Responsibilities
+*    Experience working with data <span inprof='y' id='110' class='skill'>center deployment</span> where we converted from <span inprof='n' id='111' class='company'>Cisco</span> 6500 to Nexus. ; 
+*    Experience with configuring FCOE using <span inprof='y' id='112' class='sofwr'>Cisco</span> nexus 5548. ; 
+*    Experience working with Juniper devices like EX-2200,EX-4200, EX-4500, MX-480, M Series, SRX650, SRX240 ; 
+*    Experience in trouble-shooting transport networks; T3, <span inprof='y' id='113' class='sofwr'>SONET</span>, <span inprof='y' id='114' class='sofwr'>DWDM</span>, <span inprof='y' id='115' class='sofwr'>DCS</span>, and <span inprof='y' id='116' class='sofwr'>Ethernet</span>. ; 
+*    Oversaw <span inprof='y' id='117' class='skill'>capacity planning</span> and device regimen reporting for routers, switches, proxies, load balancers (F5, CSM, and <span inprof='y' id='118' class='skill'>Foundry</span> devices), <span inprof='y' id='119' class='sofwr'>DNS</span>-<span inprof='y' id='120' class='sofwr'>DHCP</span> devices. ; 
+*    Troubleshoot wan related problems including <span inprof='y' id='121' class='sofwr'>OSPF</span>, <span inprof='y' id='122' class='sofwr'>EIGRP</span>, <span inprof='y' id='123' class='sofwr'>BGP</span> and RIP routing and design ; 
+*     <span inprof='y' id='124' class='sofwr'>Supporting EIGRP</span>, <span inprof='y' id='125' class='sofwr'>OSPF</span> and <span inprof='y' id='126' class='sofwr'>BGP</span> based  network by resolving level 2 &#38; 3 problems of internal teams &#38; external customers of all locations ; 
+*    Experience with <span inprof='y' id='127' class='sofwr'>configuring BGP</span>, <span inprof='y' id='128' class='sofwr'>OSPF</span> in Juniper M and MX series routers ; 
+*    Experience with setting up IPSEC VPN on <span inprof='n' id='129' class='company'>Cisco</span> 5505 Firewalls towards the multiple Customer ; 
+*    Experience working with F5 LTM and GTM in data center ; 
+*    Experience working with Converting <span inprof='y' id='130' class='qualif'>Cisco ACE</span> load balancer to F5 Load Balancer. ; 
+*    Experience working with Nexus 7010/Nexus 7018, 5020, 2148, 2248 devices ; 
+*    <span inprof='y' id='131' class='sofwr'>Installed and configured CISCO ASA</span> and <span inprof='y' id='132' class='sofwr'>Checkpoint firewall</span>. ; 
+*    <span inprof='y' id='133' class='sofwr'>Configured Cisco</span> 3502 wireless access points. ; 
+*    <span inprof='y' id='134_1' class='role'>Implemented Net Scout Service Delivery Manager</span> and Analytics for alarming and alerting for business critical applications. ; 
+*    Supplied documentation, escalation, training and <span inprof='y' id='135' class='skill'>standard operating procedures</span> as needed to allow for a smooth transition within the <span inprof='y' id='136' class='sofwr'>NOC</span>. ; 
+*    Experience with <span inprof='y' id='137' class='sofwr'>configuring Nexus 2000</span> Fabric Extender (FEX) which acts as a remote line card (module) for the Nexus 5000 ; 
+*    In F5 I did configure Virtual Servers, Configure Nodes, and configuring the load balancing Pools and also used to work with configuring load balancing algorithms. ; 
+*    In F5, I also did configured Session based persistence and I have leant configuring writing i-Rules  for specific redirection purpose @and also i-rules for persistence ; 
+*    Experience working with Cisco Nexus 2148 Fabric Extender and Nexus 5000 series to provide a Flexible Access Solution for a datacenter <span inprof='y' id='138' class='sofwr'>access</span> architecture ; 
+*    Modified internal infrastructure by adding switches to support server farms and added servers to existing DMZ environments to support new and existing application platforms. ; 
+*    Designed and installed new Branch network systems. Resolved network issues, ran test scripts and prepared network documentation. ; 
+*    <span inprof='y' id='139' class='skill'>Performed switching technology administration</span> including <span inprof='y' id='140' class='sofwr'>VLANs</span>, inter-<span inprof='y' id='141' class='sofwr'>VLAN</span> routing, Trucking, STP, RSTP, port aggregation &#38; <span inprof='y' id='142' class='skill'>link negotiation</span>. ; 
+*    Configuration of Access List ACL (STD, Ext, Named) to allow users all over the company to access different applications and blocking others. ; 
+*    Worked on F5 LTM series like 6400, 6800, 8800 for the corporate applications and their availability ; 
+*    Dealt with creating VIP(virtual servers), pools, nodes and applying I Rules for the virtual servers like cookie persistency, redirection of the URL ; 
+*    Involved in configuring IP Quality of service <span inprof='y' id='143' class='sofwr'>(QOS)</span> ; 
+*    Worked on Layer 2 protocols such as STP, VTP, STP, RSTP, PVSTP+, MST and other <span inprof='y' id='144' class='sofwr'>VLAN troubleshooting</span> issues and configuring switches from scratch and deployment ; 
+*    Primary responsibility is to design and deploy various network security &#38; <span inprof='y' id='145' class='sofwr'>High Availability</span> products lick <span inprof='y' id='146' class='sofwr'>Cisco ASA</span> other security products ; 
+*    Support customer with the <span inprof='y' id='147' class='skill'>configuration and</span> <span inprof='y' id='148' class='skill'>maintenance of PIX and ASA firewall systems</span> ; 
+*    Worked on Extensively on Cisco <span inprof='n' id='149' class='company'>Firewalls, Cisco PIX &#38; ASA</span> 5500(5510/5540) Series ; 
+*    Experience with <span inprof='y' id='150' class='skill'>Firewall Administration</span>, <span inprof='y' id='151' class='skill'>Rule Analysis</span>, Rule Modification ; 
+*    Experience configuring  VPC(Virtual Port Channel), VDC(Virtual Device Context) in Nexus 7010/7018 ; 
+*    Ensure problems are satisfactorily resolved in a timely manner with focus on providing a high level of support for all customers. ; 
+*    Coordinating with service providers for <span inprof='y' id='152' class='sofwr'>WAN</span> link outages. ; 
+*    Experience in Configuring, upgrading and verifying the NX-OS operation system ; 
+*    Responsibilities also include technical documentation of all upgrades done. Attending meetings and technical discussions related to current project. ; 
+*    Task with being the local Tools administration of <span inprof='y' id='153' class='skill'>Network Monitoring</span> tools such as: Net Scout HPNA, Opsware and CA Concord E-Health and working through the integration with Spectrum for reporting the alarms from E-Health ; 
+*    Used Solar winds Orion for backing up device configurations and monitoring bandwidth
+
+<span inprof='y' id='154_1' class='company'>Blue green Corp</span>, <span inprof='y' id='154_2' class='location'>Boca Raton, FL</span>                                                                                      <span inprof='y' id='154_3_1' class='date'>March 2011</span>-<span inprof='y' id='154_3_2' class='date'>May 2013</span>
+<span inprof='y' id='154_4_1' class='role'>SR Network Engineer</span>
+
+Responsibilities
+    *    Configured Routing protocols such as RIP, <span inprof='y' id='155' class='sofwr'>OSPF</span>, <span inprof='y' id='156' class='sofwr'>EIGRP</span>, static routing and policy based routing. ; 
+    *    <span inprof='y' id='157_1' class='role'>Team member</span> of <span inprof='n' id='158' class='company'>Configuration</span> of <span inprof='n' id='159' class='company'>Cisco</span> 7206 router with <span inprof='y' id='160' class='sofwr'>VPN</span> and <span inprof='y' id='161' class='sofwr'>Configuration of Catalyst switches</span>. ; 
+    *    Configuration 7609, 7606 with <span inprof='y' id='162' class='sofwr'>OSPF</span> and catalyst 6505, 4500, 3550 switches with various <span inprof='y' id='163' class='sofwr'>VLAN</span>. ; 
+    *    Create and test <span inprof='y' id='164' class='sofwr'>Cisco router</span> and switching operations using <span inprof='y' id='165' class='sofwr'>OSPF</span> routing protocol, ASA Firewalls, and <span inprof='y' id='166' class='sofwr'>MPLS</span> switching for stable VPNs. ; 
+    *    Configuration and troubleshooting link state protocols like <span inprof='y' id='167' class='sofwr'>OSPF</span> in single area and multiple areas. ; 
+    *    Redesign of Internet connectivity infrastructure for meeting bandwidth requirements. ; 
+    *     Configured HSRP and <span inprof='y' id='168' class='sofwr'>VLAN</span> trucking 802.1Q, VLAN Routing on Catalyst 6500 switches. ; 
+    *    Optimized performance of the <span inprof='y' id='169' class='sofwr'>WAN</span> network consisting of <span inprof='y' id='170' class='sofwr'>Cisco</span> 3550/4500/6500 switches by <span inprof='y' id='171' class='sofwr'>configuring VLANs</span>. ; 
+    *    <span inprof='y' id='172' class='sofwr'>Configured VLANs</span> with 802.1q tagging. Configured Trunk groups, ether channels, and Spanning tree for creating Access/distribution and core layer switching architecture. ; 
+    *    Worked with <span inprof='n' id='173' class='company'>Cisco</span> nexus series router and switches ; 
+    *    Configured BPDU Guard, port-fast, uplink fast and other spanning tree features. ; 
+    *    Configuration and troubleshooting of <span inprof='n' id='174' class='company'>Cisco</span> 2500, 2600, 3000, 6500, 7500, 7200 Series routers. ; 
+    *    Providing <span inprof='y' id='175' class='skill'>Technical Support</span> and solutions for Network Problems. ; 
+    *     Implementing NAT solution's on wan applications. ; 
+    *     Planned, tested and evaluated various equipments, systems, IOSs and procedures for use within the Network / security infrastructure. ; 
+    *    Worked with F5 load balancer ; 
+    *    Upgrading IOS, troubleshooting network outages. ; 
+    *    Continually monitor, assess and improve network security, test and implement new security technologies. ; 
+    *    Participate in all technical aspects of <span inprof='y' id='176' class='sofwr'>LAN</span>, <span inprof='y' id='177' class='sofwr'>WAN</span>, <span inprof='y' id='178' class='sofwr'>VPN</span> and security <span inprof='y' id='179' class='sofwr'>Internet Service</span> projects including, short and long term planning, implementation, <span inprof='y' id='180' class='skill'>project management</span> and operations support as required. ; 
+    *    Worked on <span inprof='y' id='181' class='sofwr'>Cisco Routers</span>, Active /Passive Hubs, Switches, <span inprof='y' id='182' class='sofwr'>Cisco PIX Firewall</span>, <span inprof='n' id='183' class='company'>NAT</span> and Checkpoint ESX/GSX firewall. ; 
+    *    Having <span inprof='y' id='184' class='sofwr'>Data Center Design</span> Experience, installing and Configuring Network Devices in a <span inprof='y' id='185' class='sofwr'>Data Center</span> including patching the cables in the <span inprof='y' id='186' class='sofwr'>Patch Panel</span>. Design and implemented network infrastructure and configured the entire network Infrastructure devices including Network Printers and Register. ; 
+    *    Deploy and support network load balancers, such as Netscaler, F5 LTM/GTM, <span inprof='y' id='187' class='qualif'>Cisco ACE</span>, etc. ; 
+    *    Hands-on experience in the network management of circuits using TDM and <span inprof='y' id='188' class='sofwr'>Frame Relay</span> network, performing <span inprof='y' id='189' class='skill'>configuration and</span> <span inprof='y' id='190' class='skill'>provisioning management</span>, <span inprof='y' id='191' class='skill'>fault management</span> and performance monitoring
+
+
+<span inprof='y' id='192_1' class='company'>Scotts</span>, <span inprof='y' id='192_2' class='location'>Columbus, OH</span>                                                                                                            <span inprof='y' id='192_3_1' class='date'>Jan 2010</span> - <span inprof='y' id='192_3_2' class='date'>Feb 2011</span>
+<span inprof='y' id='192_4_1' class='role'>Network Engineer</span>
+
+Responsibilities:                                                            -
+    *    Configuring objects such as Load Balancer pools for <span inprof='y' id='193' class='skill'>local traffic management</span> on F5 Load Balancers. ; 
+    *    Extensively used <span inprof='y' id='194' class='sofwr'>TCP/IP</span> tool like <span inprof='y' id='195' class='sofwr'>TELNET</span> for remote login to the <span inprof='y' id='196' class='sofwr'>routers</span> and <span inprof='y' id='197' class='sofwr'>SSH</span> for secure login. ; 
+    *    Has expertise in <span inprof='y' id='198' class='sofwr'>LAN</span>/<span inprof='n' id='199' class='company'>WAN technologies</span> (fast <span inprof='y' id='200' class='sofwr'>Ethernet</span>, Layer2 &#38; 3 switched/routed <span inprof='y' id='201' class='sofwr'>LAN</span>, and <span inprof='y' id='202' class='sofwr'>Frame Relay</span>). ; 
+    *    Enabled GSR RPR+ mode, installed Engine 5 <span inprof='y' id='203' class='sofwr'>SIP</span> cards, <span inprof='y' id='204' class='sofwr'>Upgraded Cisco</span> GSR routers GRP-Bs to PRPs (RPP+), PRP 1 to PRP 2 and <span inprof='n' id='205' class='company'>IOS</span> levels as well. ; 
+    *    Tested various <span inprof='y' id='206' class='sofwr'>BGP</span> features like local-preference, MED, Weight and replicated customer issue problems in the testing environment lab. ; 
+    *    Performed various Line card memory upgrades, PRP memory upgrades and fabric upgrades on <span inprof='n' id='207' class='company'>Cisco</span> 12000 series routers. ; 
+    *    Handle customer escalations related to Internet connectivity issues, VPN issues (<span inprof='y' id='208' class='sofwr'>OSPF</span> sync issues), etc; work with various technical teams to find a resolution in a timely fashion. ; 
+    *    Created load balancing policies using <span inprof='y' id='209' class='sofwr'>BGP</span> attributes such as Local Preference, AS-Path, MED, Community etc. ; 
+    *    Managed fast Layer 3 switched/routed <span inprof='y' id='210' class='sofwr'>LAN/WAN</span> infrastructure as a part of Network team. The <span inprof='y' id='211' class='sofwr'>LAN</span> consisted of <span inprof='y' id='212' class='sofwr'>Cisco</span> campus model of <span inprof='y' id='213' class='sofwr'>Cisco</span> 3550 at access layer, <span inprof='y' id='214' class='sofwr'>Cisco</span> 6513 at distribution/core layer. ; 
+    *    Installed and maintained <span inprof='n' id='215' class='company'>Cisco</span> and F5 Load Balancer and documentation. ; 
+    *    Improving OSPF convergence by controlling <span inprof='y' id='216' class='sofwr'>SPF</span> algorithm, LSA/<span inprof='y' id='217' class='sofwr'>SPF</span> throttling. ; 
+    *    Participate in all technical aspects of <span inprof='y' id='218' class='sofwr'>LAN</span>, <span inprof='y' id='219' class='sofwr'>WAN</span>, <span inprof='y' id='220' class='sofwr'>VPN</span> and security internetworking projects including, short and long term planning, implementation, <span inprof='y' id='221' class='skill'>project management</span> and operations support as required. ; 
+    *    Experience <span inprof='y' id='222' class='sofwr'>working with SONET</span> controller interfaces in the <span inprof='y' id='223' class='sofwr'>Cisco IOS</span>-XR . ; 
+    *    Writing rules in such a way that they append various properties that define <span inprof='y' id='224' class='skill'>pool selection</span> process. ; 
+    *    Configured policy maps, class maps and access lists on GSRs. ; 
+    *    Worked with JTAC and <span inprof='n' id='225' class='company'>Cisco</span> to troubleshoot various problems.
+
+
+
+<span inprof='y' id='226_1' class='company'>Wyeth</span>, <span inprof='y' id='226_2' class='location'>Pennsylvania</span>                                                                                                  <span inprof='y' id='226_3_1' class='date'>Aug 2007</span> - <span inprof='y' id='226_3_2' class='date'>Dec 2009</span>                                            <span inprof='y' id='226_4_1' class='role'>JR Network Engineer</span>
+
+Responsibilities:
+
+    *    Configuration, Management, Troubleshooting of Network devices (<span inprof='y' id='227' class='sofwr'>Routers</span>, Switches). Maintained the Telecommunication Connectivity using <span inprof='y' id='228' class='sofwr'>DSL</span> and <span inprof='y' id='229' class='sofwr'>T1</span> Lines. ; 
+    *    Worked on Routers Cisco 2620, <span inprof='y' id='230' class='sofwr'>Cisco</span> 3750, and <span inprof='y' id='231' class='sofwr'>Cisco</span> 2950 Switches &#38; Link sys wireless access points. ; 
+    *    Maintained complex <span inprof='y' id='232' class='sofwr'>LAN/WAN</span> networks with several <span inprof='y' id='233' class='sofwr'>VLANS</span> and provided support for routing protocols. ; 
+    *    Managed IP addressing and implemented IP Access Lists ; 
+    *    Configured and troubleshoot <span inprof='y' id='234' class='sofwr'>VLAN</span>, VTP, STP and Trunks. ; 
+    *    Configuring and Maintaining TACACS+ for AAA. ; 
+    *    Installing and configuring protocols like <span inprof='y' id='235' class='sofwr'>TCP/IP</span> and Internet protocols including <span inprof='y' id='236' class='sofwr'>Local Area Networking</span>, routing and <span inprof='y' id='237' class='sofwr'>HTTP</span>. ; 
+    *    RMA's and provided 24x7 support
+
+</TextResume>
+
+</NonXMLResume>
+
+
+
+<UserArea>
+<DaxResumeUserArea>
+<AdditionalPersonalData>
+<ExperienceSummary>
+<TotalMonthsOfWorkExperience>82</TotalMonthsOfWorkExperience>
+<TotalYearsOfWorkExperience>7</TotalYearsOfWorkExperience>
+<ExecutiveBrief>Siddharth Raj has been working in the IT  occupational sector for more than 7 years. Currently he is employed as a SR Network Engineer at Valence health. Siddharth has extensive knowledge of Cisco Switches/Routers, LAN/WAN > VLAN, OSPF (Open Shortest Path First), BGP (Border Gateway Protocol), LAN/WAN > LAN, VPN, EIGRP (Enhanced Interior Gateway Routing Protocol), TCP/IP, LAN/WAN > WAN, Router, Frame Relay, Dynamic Host Control protocol, Domain Name Server Protocol, Telnet, Sender Policy Framework, Secure Shell, SONET, MPLS (MultiProtocol Label Switching), LAN/WAN, Ethernet, Data Centre, DS1, Cisco Switches/Routers > Catalyst Switches, Cisco ASA, SIP, QoS (Quality of Service), Patch Panels, Nexus Technology, NOC, Microsoft Access, Internet Service, IOS, High Availability, HTTP, Digital Cross-Connect, DWDM, DSL, Cisco Pix Firewall, CheckPoint Firewall. So far Siddharth has not gained any managerial experience.</ExecutiveBrief>
+</ExperienceSummary>
+</AdditionalPersonalData>
+<ParserInfo>
+<ParserConfiguration>{max_len=50000} {tel_flag=} {send_zip=} {fast_conv=} {DEF_LOCAL=} {sdate=0} {no_email_body=0} {do_clever_zoning=1} {keep_span=1} {complex=1} {accept_langs=} {not_accept_langs=} {prefer_lang_cv=EN} {pers_only=0} {turbo=0} {split_language=0} {picture=0} {picture_inline=0} {name_space=0} {charset=} {hrxml_upgrade_edu_hist=0}{hrxml_add_languages_section=0}{spool=} {docID=} {user=DEFAULT} </ParserConfiguration>
+<ParserRelease>0.12.3.32629</ParserRelease>
+<ParserReleaseDate>2014-06-18</ParserReleaseDate>
+<ParserSchema>2.0.29</ParserSchema>
+<ParserSchemaLocation>http://cvx.daxtra.com/cvts/xsd/candidate/2.0.29/Resume.xsd</ParserSchemaLocation>
+<ConverterRelease>0.5.2.32629</ConverterRelease>
+<ConverterReleaseDate>2014-06-18</ConverterReleaseDate>
+</ParserInfo>
+<FileStruct filename='/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/Siddharth_SR Network Engineer2.docx'>
+
+<attachment fname='Siddharth_SR Network Engineer2.docx' ftype='docx' conv='yes' doc_type='cv' lang='EN'>/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/Siddharth_SR Network Engineer2.docx</attachment>
+
+
+</FileStruct>
+</DaxResumeUserArea>
+</UserArea>
+</Resume>

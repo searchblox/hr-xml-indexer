@@ -1,0 +1,885 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Resume lang='en' src='DAXTRA-CVX schema:2.0.29 release:0.12.3.32629 rdate:2014-06-18'>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName id='2'>
+<FormattedName>Daniel L. Nowacinski</FormattedName>
+<GivenName>Daniel</GivenName>
+<MiddleName>L.</MiddleName>
+<FamilyName>Nowacinski</FamilyName>
+<sex>Male</sex>
+</PersonName>
+<ContactMethod>
+<Telephone id='4' type='home'>
+<InternationalCountryCode>1</InternationalCountryCode>
+<SubscriberNumber>479 715.2589</SubscriberNumber>
+<FormattedNumber>+1 479 715.2589</FormattedNumber></Telephone>
+
+<InternetEmailAddress id='5' type='main'>DanNowacinski@gmail.com</InternetEmailAddress>
+<PostalAddress id='3' type='main'>
+<CountryCode>US</CountryCode>
+<PostalCode>72719</PostalCode>
+<Region>AR</Region>
+<Municipality>Centerton</Municipality>
+<DeliveryAddress>
+<AddressLine>121 Coopers Farm Rd</AddressLine>
+<StreetName>Coopers Farm Rd.</StreetName>
+<BuildingNumber>121</BuildingNumber>
+</DeliveryAddress>
+
+</PostalAddress>
+</ContactMethod>
+</ContactInfo>
+
+
+<EmploymentHistory>
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='7_1'>Walmart</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='7_3'>
+<Municipality>Bentonville</Municipality>
+<Region>AR</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='7_2_1'>Risk/Intelligence Analyst</Title>
+<OrgName id='7_1'>Walmart</OrgName>
+
+
+
+<Description>Cyber intelligence, data loss prevention, vulnerability assessments, social media, insider threats.</Description>
+<StartDate id='7_4_1'><YearMonth>2011-05</YearMonth></StartDate>
+<EndDate id='7_4_2'>notApplicable</EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>banking-finance</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='7' last_id='8' border_id='11'></TLSPAN>
+<MonthsOfWork>30</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+
+<PositionHistory positionType='PERMANENT'>
+<Title id='10_1'>Internet Security Specialist</Title>
+
+
+
+
+<Description>National writer for online content researching trends and topics about Internet security.</Description>
+<StartDate id='11_1'><YearMonth>2009-05</YearMonth></StartDate>
+<EndDate id='11_2'>notApplicable</EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='9' last_id='12' border_id='13'></TLSPAN>
+<MonthsOfWork>54</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='38_2'>CHFI</EmployerOrgName>
+
+<PositionHistory positionType='CONTRACT'>
+<Title id='38_1_1'>EC-Council Computer Hacking Forensic Investigator</Title>
+<OrgName id='38_2'>CHFI</OrgName>
+
+
+
+
+<StartDate id='38_3'><Year>2013</Year></StartDate>
+<EndDate id='38_3'><Year>2013</Year></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>legal</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='38' last_id='38' border_id='40'></TLSPAN>
+<MonthsOfWork>7</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='39'>SANS Global Certified Enterprise</EmployerOrgName>
+
+<PositionHistory positionType='CONTRACT'>
+
+<OrgName id='39'>SANS Global Certified Enterprise</OrgName>
+
+
+
+
+<StartDate id='40'><Year>2013</Year></StartDate>
+<EndDate id='40'><Year>2013</Year></EndDate>
+
+
+
+
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='39' last_id='40' border_id='44'></TLSPAN>
+<MonthsOfWork>7</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+
+<PositionHistory positionType='CONTRACT'>
+
+
+
+
+
+<Description>*  BackUp Academy Certified Professional (VMware/Hyper-V)</Description>
+<StartDate id='44'><Year>2012</Year></StartDate>
+<EndDate id='44'><Year>2012</Year></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='41' last_id='44' border_id='45'></TLSPAN>
+<MonthsOfWork>7</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='45_1'>Proofpoint Enterprise</EmployerOrgName>
+
+<PositionHistory positionType='CONTRACT'>
+<Title id='45_2_1'>Security Engineer</Title>
+<OrgName id='45_1'>Proofpoint Enterprise</OrgName>
+
+
+
+
+<StartDate id='45_3'><Year>2012</Year></StartDate>
+<EndDate id='45_3'><Year>2012</Year></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='45' last_id='45' border_id='0'></TLSPAN>
+<MonthsOfWork>7</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='13_1'>Intellectual Property Services</EmployerOrgName>
+
+<PositionHistory positionType='PERMANENT'>
+<Title id='13_2_1'>Investigative Analyst</Title>
+<OrgName id='13_1'>Intellectual Property Services</OrgName>
+
+<OrgIndustry primaryIndicator='true'><IndustryDescription>Microsoft vendor</IndustryDescription></OrgIndustry>
+
+<Description>Anti-fraud, anti-piracy, anti-spam investigations/analysis, Digital Crimes Unit</Description>
+<StartDate id='13_3_1'><YearMonth>2010-09</YearMonth></StartDate>
+<EndDate id='13_3_2'><YearMonth>2011-05</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>social-services~public-sector</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='13' last_id='14' border_id='15'></TLSPAN>
+<MonthsOfWork>9</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='15_1'>Erie SeaWolves</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='15_3'>
+<Municipality>Erie</Municipality>
+<Region>PA</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='15_2_1'>Operations Assistant</Title>
+<OrgName id='15_1'>Erie SeaWolves</OrgName>
+
+
+
+
+<StartDate id='15_4_1'><YearMonth>2007-03</YearMonth></StartDate>
+<EndDate id='15_4_2'><YearMonth>2010-09</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='15' last_id='15' border_id='17'></TLSPAN>
+<MonthsOfWork>43</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+
+<PositionHistory positionType='CONTRACT'>
+<Title id='16_1'>Damage Prevention Specialist</Title>
+
+
+
+
+
+<StartDate id='17_1'><YearMonth>2008-05</YearMonth></StartDate>
+<EndDate id='17_2'><YearMonth>2008-12</YearMonth></EndDate>
+
+
+
+
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='16' last_id='17' border_id='20'></TLSPAN>
+<MonthsOfWork>8</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='18'>DHL</EmployerOrgName>
+
+<PositionHistory positionType='PERMANENT'>
+<Title id='19_1'>Route Manager</Title>
+<Title id='19_2'>PA</Title>
+<OrgName id='18'>DHL</OrgName>
+
+
+
+
+<StartDate id='20_1'><YearMonth>2004-10</YearMonth></StartDate>
+<EndDate id='20_2'><YearMonth>2007-12</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>secretarial</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='18' last_id='20' border_id='21'></TLSPAN>
+<MonthsOfWork>39</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='21_1'>Pennzoil</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='21_3'>
+<Municipality>Erie</Municipality>
+<Region>PA</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='21_2_1'>Assistant Manager</Title>
+<OrgName id='21_1'>Pennzoil</OrgName>
+
+
+
+
+<StartDate id='21_4_1'><YearMonth>2002-03</YearMonth></StartDate>
+<EndDate id='21_4_2'><YearMonth>2004-10</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='21' last_id='21' border_id='34'></TLSPAN>
+<MonthsOfWork>32</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='34_2'>Worldwide</EmployerOrgName>
+
+<PositionHistory positionType='PERMANENT'>
+<Title id='34_1_1'>MILITARY U.S. Army - Section Leader</Title>
+<OrgName id='34_2'>Worldwide</OrgName>
+
+
+
+<Description>SGT, E-5 - Promotable status
+    Deployments to: Bosnia, Macedonia, Kosovo, Afghanistan</Description>
+<StartDate id='34_3_1'><YearMonth>1996-02</YearMonth></StartDate>
+<EndDate id='34_3_2'><YearMonth>2002-12</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='34' last_id='37' border_id='38'></TLSPAN>
+<MonthsOfWork>83</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType='university'>
+<SchoolName id='23_1'>Capella University</SchoolName>
+<LocationSummary id='24_2'>
+<Municipality>Erie</Municipality>
+<Region>PA</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+
+<OrganizationUnit organizationType='mainco'>Tri-State Business Institute</OrganizationUnit>
+<Degree degreeType='bachelors'>
+<DegreeName id='23_2'>Bachelor's Degree</DegreeName>
+
+</Degree>
+<Major id='23_2'>IT</Major>
+
+
+
+<Comments>Associate Degree - Computer Security &#38; Forensics
+    *  Central High School - Erie, PA
+    Diploma - Building Trades Maintenance certificate</Comments>
+</SchoolOrInstitution>
+
+<SchoolOrInstitution schoolType='college'>
+<SchoolName id='25_1'>Central High School</SchoolName>
+<LocationSummary id='25_2'>
+<Municipality>Erie</Municipality>
+<Region>PA</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+
+
+<Degree degreeType='associates'>
+<DegreeName id='24_3'>Associate Degree</DegreeName>
+
+</Degree>
+<Major id='24_3'>Computer Security &#38; Forensics</Major>
+
+
+
+<Comments>Diploma - Building Trades Maintenance certificate</Comments>
+</SchoolOrInstitution>
+
+<SchoolOrInstitution schoolType='college'>
+
+
+
+
+<Degree degreeType='some college'>
+<DegreeName id='54'>Global PCI Compliance Award</DegreeName>
+<DegreeDate id='55'><Year>2013</Year></DegreeDate>
+</Degree>
+
+
+
+
+
+</SchoolOrInstitution>
+
+<SchoolOrInstitution schoolType='college'>
+
+
+
+
+<Degree degreeType='some college'>
+<DegreeName id='46_1'>Walmart Secure Code Certification</DegreeName>
+<DegreeDate id='46_2'><Year>2012</Year></DegreeDate>
+</Degree>
+
+
+
+
+
+</SchoolOrInstitution>
+
+<SchoolOrInstitution schoolType='college'>
+<SchoolName id='47_1'>Walmart Project Management College</SchoolName>
+
+
+
+
+
+
+
+<DatesOfAttendance>
+<StartDate><AnyDate>notKnown</AnyDate></StartDate>
+<EndDate id='47_2'><Year>2012</Year></EndDate>
+</DatesOfAttendance>
+
+</SchoolOrInstitution>
+
+</EducationHistory>
+
+
+
+
+
+
+
+
+
+
+
+<Competency oids='42 ' description='Skill > IT' auth='yes' name='VMware'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='27 ' description='Skill > IT' auth='yes' name='UNIX'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='33 ' description='Skill > IT' auth='yes' name='Penetration Testing'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='29 ' description='Skill > IT' auth='yes' name='Microsoft Windows'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='8 ' description='Skill' auth='yes' name='Loss Prevention'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>30</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>98</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='28 ' description='Skill > IT' auth='yes' name='Linux'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='31 ' description='Skill > IT' auth='yes' name='IBM OS/2'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>OS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='43 ' description='Skill > IT' auth='yes' name='Hyper-V'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>84</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='30 ' description='Skill > IT' auth='yes' name='Apple Mac'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Mac</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='45_2_1 ' description='Held Position' auth='no' name='Security Engineer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='19_1 ' description='Held Position' auth='no' name='Route Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>28</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='7_2_1 ' description='Held Position' auth='no' name='Risk/Intelligence Analyst'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>30</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>98</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='19_2 ' description='Held Position' auth='no' name='PA'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>39</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>28</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='15_2_1 ' description='Held Position' auth='no' name='Operations Assistant'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>43</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>73</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='12_1 ' description='Held Position' auth='no' name='National writer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>54</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>99</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='34_1_1 ' description='Held Position' auth='no' name='MILITARY , U.S. Army - Section Leader'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2002'><NumericValue description='MONTH'>83</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>28</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='13_2_1 ' description='Held Position' auth='no' name='Investigative Analyst'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>67</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='10_1 ' description='Held Position' auth='no' name='Internet Security Specialist'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>54</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='38_1_1 ' description='Held Position' auth='no' name='EC-Council Computer Hacking Forensic Investigator'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='16_1 ' description='Held Position' auth='no' name='Damage Prevention Specialist'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='21_2_1 ' description='Held Position' auth='no' name='Assistant Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2004'><NumericValue description='MONTH'>32</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>27</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='46_1 ' description='Degree/Qualification > Professional' auth='no' name='Walmart Secure Code Certification'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='54 ' description='Degree/Qualification > Professional' auth='no' name='Global PCI Compliance Award'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='25_3 ' description='Degree/Qualification > Professional' auth='no' name='Building Trades Maintenance certificate'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Diploma - Building Trades Maintenance certificate</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='41 ' description='Degree/Qualification > Professional' auth='no' name='BackUp Academy Certified Professional'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='23_2 ' description='Degree/Qualification' auth='yes' name='Bachelors Degree > Bachelors Degree Project Management'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='Project Management'><StringValue>Project Management</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Bachelor's Degree - IT Project Management</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='23_2 ' description='Degree/Qualification' auth='yes' name='Bachelors Degree > Bachelors Degree IT'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='IT'><StringValue>IT</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Bachelor's Degree - IT Project Management</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='24_3 ' description='Degree/Qualification' auth='yes' name='Associate Degree > Associate Degree Computer Security &#38; Forensics'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='Computer Security &#38; Forensics'><StringValue>Computer Security &#38; Forensics</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Associate Degree - Computer Security &#38; Forensics</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency description='Industry' auth='yes' name='industry~it'>
+<CompetencyEvidence name='skillCount' typeDescription='skillCount'><NumericValue>5</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+</Competency>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<RevisionDate id='1'>2013-10-05</RevisionDate>
+</StructuredXMLResume>
+<NonXMLResume>
+
+<TextResume>
+
+
+
+<span inprof='n' id='1' class='date'>{{DOCUMENT_DATESTAMP}} 2013-10-5 {{END_DOCUMENT_DATESTAMP}}</span>
+
+
+<span inprof='y' id='2' class='nominal'>DANIEL L. NOWACINSKI</span>
+<span inprof='y' id='3' class='location'>121 Coopers Farm Rd.
+Centerton, AR  72719</span>
+<span inprof='y' id='4' class='telephone'>479.715.2589</span>
+            <span inprof='y' id='5' class='email'>DanNowacinski@gmail.com</span>
+
+<span inprof='n' id='6' class='work-hist-mark'>EXPERIENCE</span>
+    *  <span inprof='y' id='7_1' class='company'>Walmart</span> - <span inprof='y' id='7_2_1' class='role'>Risk/Intelligence Analyst</span> - <span inprof='y' id='7_3' class='location'>Bentonville, AR</span>         	                            <span inprof='y' id='7_4_1' class='date'>5/11</span> to <span inprof='y' id='7_4_2' class='date'>Present</span>
+       Cyber intelligence, data <span inprof='y' id='8' class='skill'>loss prevention</span>, vulnerability assessments, social media, insider threats.
+    *  <span inprof='n' id='9' class='internet-web-address'>Examiner.com</span> - <span inprof='y' id='10_1' class='role'>Internet Security Specialist</span> - Home office          	          	  <span inprof='y' id='11_1' class='date'>5/09</span> to <span inprof='y' id='11_2' class='date'>Present</span>
+       <span inprof='y' id='12_1' class='role'>National writer</span> for online content researching trends and topics about Internet security.
+    *  <span inprof='y' id='13_1' class='company'>Intellectual Property Services (Microsoft vendor)</span> - <span inprof='y' id='13_2_1' class='role'>Investigative Analyst</span>	      <span inprof='y' id='13_3_1' class='date'>9/10</span> to <span inprof='y' id='13_3_2' class='date'>5/11</span>
+       Anti-fraud, anti-piracy, anti-spam investigations/analysis, <span inprof='n' id='14' class='company'>Digital Crimes Unit</span>
+    *  <span inprof='y' id='15_1' class='company'>Erie SeaWolves</span> - <span inprof='y' id='15_2_1' class='role'>Operations Assistant</span> - <span inprof='y' id='15_3' class='location'>Erie, PA</span>                         	     	      <span inprof='y' id='15_4_1' class='date'>3/07</span> to <span inprof='y' id='15_4_2' class='date'>9/10</span>
+
+    *  USIC - <span inprof='y' id='16_1' class='role'>Damage Prevention Specialist</span>/Utility Locator - NW PA    	            	    <span inprof='y' id='17_1' class='date'>5/08</span> to <span inprof='y' id='17_2' class='date'>12/08</span>
+
+    *  <span inprof='y' id='18' class='company'>DHL</span> - <span inprof='y' id='19_1' class='role'>Route Manager</span> - <span inprof='y' id='19_2' class='role'>PA</span>, NY, OH, FL 	                                    <span inprof='y' id='20_1' class='date'>10/04</span> to <span inprof='y' id='20_2' class='date'>12/07</span>
+
+    *  <span inprof='y' id='21_1' class='company'>Pennzoil</span> - <span inprof='y' id='21_2_1' class='role'>Assistant Manager</span> - <span inprof='y' id='21_3' class='location'>Erie, PA</span>                                         	           	    <span inprof='y' id='21_4_1' class='date'>3/02</span> to <span inprof='y' id='21_4_2' class='date'>10/04</span>
+
+
+<span inprof='n' id='22' class='edu-hist-mark'>EDUCATION</span>
+    *  <span inprof='y' id='23_1' class='educational'>Capella University</span>
+       <span inprof='y' id='23_2' class='qualif'>Bachelor's Degree - IT Project Management</span>
+    *  <span inprof='y' id='24_1' class='educational'>Tri-State Business Institute</span> - <span inprof='y' id='24_2' class='location'>Erie, PA</span>
+       <span inprof='y' id='24_3' class='qualif'>Associate Degree - Computer Security &#38; Forensics</span>
+    *  <span inprof='y' id='25_1' class='educational'>Central High School</span> - <span inprof='y' id='25_2' class='location'>Erie, PA</span>
+       <span inprof='y' id='25_3' class='qualif'>Diploma - Building Trades Maintenance certificate</span>
+
+<span inprof='n' id='26' class='skills-qualif-mark'>SKILLS</span>
+
+
+    *  Cyber Intel / Vulnerability SME
+    *  <span inprof='y' id='27' class='sofwr'>Unix</span> / <span inprof='y' id='28' class='sofwr'>Linux</span>
+    *  <span inprof='y' id='29' class='sofwr'>Windows</span> / <span inprof='y' id='30' class='sofwr'>Mac</span> <span inprof='y' id='31' class='sofwr'>OS</span>
+    *  NetWitness / Wireshark
+    *  Research / Technical Writing
+    *  Deepweb / <span inprof='n' id='32' class='company'>Darknet Research</span>
+    *  EnCase / FTK Forensics
+    *  Virtual Machines / Cloud Computing
+    *  Social Networking / Engineering
+    *  Ethical Hacking / <span inprof='y' id='33' class='sofwr'>Penetration Testing</span>
+
+
+
+
+<span inprof='y' id='34_1_1' class='role'>MILITARY
+       U.S. Army - Section Leader</span> - <span inprof='y' id='34_2' class='company'>Worldwide</span>                                                	           <span inprof='y' id='34_3_1' class='date'>2/96</span> to <span inprof='y' id='34_3_2' class='date'>12/02</span>
+       SGT, E-5 - Promotable status
+       Deployments to: <span inprof='y' id='35' class='location'>Bosnia</span>, <span inprof='n' id='36' class='location'>Macedonia</span>, Kosovo, <span inprof='n' id='37' class='location'>Afghanistan</span>
+
+RELATED TRAINING
+    *  <span inprof='y' id='38_1_1' class='role'>EC-Council Computer Hacking Forensic Investigator</span>  (<span inprof='y' id='38_2' class='company'>CHFI</span>)                                                 <span inprof='y' id='38_3' class='date'>2013</span>
+
+    *  <span inprof='y' id='39' class='company'>SANS Global Certified Enterprise</span> Defender Course (GCED)              <span inprof='y' id='40' class='date'>2013</span>
+
+    *  <span inprof='y' id='41' class='qualif'>BackUp Academy Certified Professional</span> (<span inprof='y' id='42' class='sofwr'>VMware</span>/<span inprof='y' id='43' class='sofwr'>Hyper-V</span>)	                      <span inprof='y' id='44' class='date'>2012</span>
+
+    *  <span inprof='y' id='45_1' class='company'>Proofpoint Enterprise</span> <span inprof='y' id='45_2_1' class='role'>Security Engineer</span> 	                                          <span inprof='y' id='45_3' class='date'>2012</span>
+
+    *  <span inprof='y' id='46_1' class='qualif'>Walmart Secure Code Certification</span>	                                           <span inprof='y' id='46_2' class='date'>2012</span>
+
+    *  <span inprof='y' id='47_1' class='educational'>Walmart Project Management College</span>	                                                <span inprof='y' id='47_2' class='date'>2012</span>
+
+    *  Advanced Internet Investigations	                                      <span inprof='n' id='48' class='date'>2012</span>
+
+    *  <span inprof='n' id='49' class='company'>SANS Global</span> <span inprof='n' id='50' class='qualif'>Certified Forensic Analyst Course</span>	(GCFA)                               <span inprof='n' id='51' class='date'>2011</span>
+
+    *  FTK/EnCase Computer Forensics Training	                                      <span inprof='n' id='52' class='date'>2011</span>
+
+    *  Cyber Terrorism Intelligence Training   	                                          <span inprof='n' id='53' class='date'>2011</span>
+
+
+ISD YBM Excellence in Collaboration for <span inprof='y' id='54' class='qualif'>Global PCI Compliance Award</span>          <span inprof='y' id='55' class='date'>2013</span>
+
+
+SANS Digital Lethal Forensicator                                             <span inprof='n' id='56' class='date'>2011</span>
+
+
+<span inprof='n' id='57' class='committee'>Cyber Terrorism Committee</span> of NW PA                                           <span inprof='n' id='58' class='date-range'>2010 - Present</span>
+
+</TextResume>
+
+</NonXMLResume>
+
+
+
+<UserArea>
+<DaxResumeUserArea>
+<AdditionalPersonalData>
+<ExperienceSummary>
+<TotalMonthsOfWorkExperience>326</TotalMonthsOfWorkExperience>
+<TotalYearsOfWorkExperience>27</TotalYearsOfWorkExperience>
+<TotalMonthsOfManagementWorkExperience>154</TotalMonthsOfManagementWorkExperience>
+<TotalYearsOfManagementWorkExperience>12.8</TotalYearsOfManagementWorkExperience>
+<TotalMonthsOfLowLevelManagementWorkExperience>154</TotalMonthsOfLowLevelManagementWorkExperience>
+<TotalYearsOfLowLevelManagementWorkExperience>12.8</TotalYearsOfLowLevelManagementWorkExperience>
+<ExecutiveBrief>Daniel L. Nowacinski is a resident of Centerton, AR, US. He has been working in the IT  occupational sector for more than 27 years. Currently he is employed as a Risk/Intelligence Analyst at Walmart. Daniel has extensive knowledge of VMware, Hyper-V. Daniel has an extensive management experience (12.8 years).</ExecutiveBrief>
+<ManagementRecord>Since 2004-10 for 39 months the candidate had experience at a lower grade management level working as a Route Manager/PA at DHL.
+Since 2002-03 for 32 months the candidate had experience at a lower grade management level working as a Assistant Manager/PA at Pennzoil.
+Since 1996-02 for 83 months the candidate had experience at a lower grade management level working as a MILITARY U.S. Army - Section Leader/PA at Worldwide.
+</ManagementRecord>
+</ExperienceSummary>
+</AdditionalPersonalData>
+<ParserInfo>
+<ParserConfiguration>{max_len=50000} {tel_flag=} {send_zip=} {fast_conv=} {DEF_LOCAL=} {sdate=0} {no_email_body=0} {do_clever_zoning=1} {keep_span=1} {complex=1} {accept_langs=} {not_accept_langs=} {prefer_lang_cv=EN} {pers_only=0} {turbo=0} {split_language=0} {picture=0} {picture_inline=0} {name_space=0} {charset=} {hrxml_upgrade_edu_hist=0}{hrxml_add_languages_section=0}{spool=} {docID=} {user=DEFAULT} </ParserConfiguration>
+<ParserRelease>0.12.3.32629</ParserRelease>
+<ParserReleaseDate>2014-06-18</ParserReleaseDate>
+<ParserSchema>2.0.29</ParserSchema>
+<ParserSchemaLocation>http://cvx.daxtra.com/cvts/xsd/candidate/2.0.29/Resume.xsd</ParserSchemaLocation>
+<ConverterRelease>0.5.2.32629</ConverterRelease>
+<ConverterReleaseDate>2014-06-18</ConverterReleaseDate>
+</ParserInfo>
+<FileStruct filename='/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/NowacinskiResume.doc'>
+
+<attachment fname='NowacinskiResume.doc' ftype='doc' conv='yes' doc_type='cv' lang='EN'>/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/NowacinskiResume.doc</attachment>
+
+
+</FileStruct>
+</DaxResumeUserArea>
+</UserArea>
+</Resume>

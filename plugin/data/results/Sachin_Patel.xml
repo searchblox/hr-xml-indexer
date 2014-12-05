@@ -1,0 +1,1243 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Resume lang='en' src='DAXTRA-CVX schema:2.0.29 release:0.12.3.32629 rdate:2014-06-18'>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName id='2'>
+<FormattedName>Sachin Patel</FormattedName>
+<GivenName>Sachin</GivenName>
+<FamilyName>Patel</FamilyName>
+<sex>Male</sex>
+</PersonName>
+<ContactMethod>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>Energetic and enthusiastic professional seeks a career as an Information Technology Analyst to utilize skills and experience in a challenging environment.    *    Having 7+ years of total experience in ETL (Extraction, Transformation, Loading) of data from various sources into Data Warehouses and Data Marts using Informatica Power Center 7.1/7.1.3/8.1 with client tools like Designer (Source Analyzer, Warehouse designer, Mapping designer, Mapplet Designer, Transformation Developer), Repository Manager, and Workflow Manager &#38; Workflow Monitor . ; 
+    *    Expert in implementing Type 1, Type 2 and Type 3Slowly Changing Dimensions as per the business requirements to maintain full historical information. ; 
+    *    Excellent Working Knowledge in Dimensional modeling using multi-dimensional models (Star, Snow Flake schema). ; 
+    *    Proficient in implementing complex business rules by creating re-usable transformations, Workletsand Maplets. ; 
+    *    Experience in integrating various data sources with Multiple Relational Databases like Oracle, MySQL and SQL Server, MS Excel, XML, and flat files like fixed length and delimited. ; 
+    *    Extensive experience in designing and developing complex Mappings, Mapplets, Transformations, Workflows, Worklets, scheduling the Workflows and sessions. ; 
+    *    Designed and developed complex mappings using various transformation logic like Source Qualifier, Router, Filter, Expression, Sorter, Aggregator, Joiner, Union, Connected/Unconnected lookups, Update Strategy and Normalizer. ; 
+    *    Implemented performance tuning of sessions by identifying bottlenecks in Sources, Targets &#38; Mappings, Performed unit testing &#38; used Debugger to debug the complex mappings and fix them. ;</ExecutiveSummary>
+
+
+<EmploymentHistory>
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='85_1'>Merrill Lynch</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='85_2'>
+<Municipality>Pennington</Municipality>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='85_4_2'>ETL /Informatica Developer</Title>
+<OrgName id='85_1'>Merrill Lynch</OrgName>
+
+
+
+<Description>Merrill Lynch is the wealth management division of Bank of America providing corporate finance &#38; investment banking services. The objective of the project was to build data Warehouse for Customers Investment Deposit, funding accounts and Corporate Services. The data for Customers, Accounts and Transactional related information were extracted from multiple sources, transformed and loaded into the target database using ETL tool.
+
+Roles and Responsibilities:
+    *    Understanding the Business requirements based on Functional specification to design the ETL methodology in technical specifications. ; 
+    *    Developed data conversion/quality/cleansing rules and executed data cleansing activities such as data consolidation, standardization, matching Trillium for the unstructured flat file data. ; 
+    *    Responsible for developing, support and maintenance for the ETL (Extract, Transform and Load) processes using Informatica Power Center 8.5. ; 
+    *    Experience in integration of heterogeneous data sources like Oracle, Sybase, Teradata, DB2, SQL Server and Flat Files (Fixed &#38; delimited) into Staging Area. ; 
+    *    Wrote SQL-Overrides and used filter conditions in source qualifier thereby improving the performance of the mapping. ; 
+    *    Designed and developed mappings using Source Qualifier, Expression, Lookup, Router, Aggregator, Filter, Sequence Generator, Stored Procedure, Update Strategy, joiner and Rank transformations. ; 
+    *    Managed the Metadata associated with the ETL processes used to populate the Data Warehouse. ; 
+    *    Implemented complex business rules in Informatica Power Center by creating re-usable transformations, and robust Mapplets. ; 
+    *    Implemented performance tuning of Sources, Targets, Mappings and Sessions by identifying bottlenecks and used Debugger to debug the complex mappings and fix them. ; 
+    *    Improved session Performance by enabling property incremental aggregation to load incremental data into target table. ; 
+    *    Worked with Functional team to make sure required data has been extracted and loaded and performed the Unit Testing and fixed the errors to meet the requirements. ; 
+    *    Copied/ Exported/ Imported the mappings/ sessions/ worklets/ workflows from development to Test Repository and promoted to Production. ; 
+    *    Used Session parameters, Mapping variable/parameters and created Parameter files for imparting flexible runs of workflows based on changing variable values. ; 
+    *    Worked with Static, Dynamic and Persistent Cache in lookup transformation for better throughput of Sessions. ; 
+    *    Used PMCMD command to automate the Power Center sessions and workflows through UNIX.
+
+Environment:
+Informatica Power Center 8.5, Oracle 10g, SQL Server 2005, DB2, Teradata, SQL*Plus, SQL Loader ,SQL Developer, Autosys, COBOL files, Flat files, UNIX, Windows 2000</Description>
+<StartDate id='85_3_1'><YearMonth>2012-02</YearMonth></StartDate>
+<EndDate id='85_3_2'><YearMonth>2014-01</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='85' last_id='118' border_id='119'></TLSPAN>
+<MonthsOfWork>24</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='119_1'>AXA Equitable</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='119_2'>
+<Region>NY</Region>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='119_4_2'>ETL /Informatica Developer</Title>
+<OrgName id='119_1'>AXA Equitable</OrgName>
+
+<OrgIndustry primaryIndicator='true'><IndustryDescription>a leading financial protection company</IndustryDescription></OrgIndustry>
+
+<Description>Description:
+AXA Equitable is a leading financial protection company and a premier provider of life insurance, annuities and related financial services. AXA Equitable Company wanted to implement business strategies to do well with the business and give better service to the customers. AXA Equitable initiated this data migration project to migrate data from its legacy systems to Teradata environment, which involved extracting DB2 tables into flat files and then loading into Teradata. The aim of the project was to develop and implement a Data warehouse called as Renewals System Department (RSD) which will be an integral part of the processing services for managing all AXA Equitable insurance policies.
+
+Responsibilities:
+    *    Interacted with the Functional Analysts to understand the process flow and the business. ; 
+    *    Involved in gathering the business requirements from Business Analyst. ; 
+    *    Analyzing Source to Target mapping Excel document. ; 
+    *    Coordinating the team and assigning dependencies tasks to team. ; 
+    *    Created Data Flow Mappings to extract data from source system and Loading to staging area. ; 
+    *    Analyzed the AR data and developed the code to extract the data for the AR module and implemented in the informatica. ; 
+    *    Developed the strategy for the incremental loads. ; 
+    *    Worked on various tasks like Session, E-Mail task, Command task, etc. ; 
+    *    Worked on Informatica Scheduler for scheduling the delta loads and master loads. ; 
+    *    Created and used various re-usable tasks, workflows, Worklets, mapplets, and re-usable transformations. ; 
+    *    Worked on slowly changing dimension Type1 and Type2. ; 
+    *    Used the Dynamic look up to implement the CDC. ; 
+    *    Involved in performance tuning of the process at mapping, session and database level. ; 
+    *    Used parameter files and variables to design ETL process. ; 
+    *    Performed Functionality, Back-end and Regression testing during the various phases of the application and Data Integrity/back end testing by executing SQL statements. ; 
+    *    Fixed issues in Test, QA and Production. ; 
+    *    Developed Fast Load and Multiload Scripts in Teradata. ; 
+    *    Prepared the Low Level documents/mapping documents for the tasks assigned to me. ; 
+    *    Mode code from DEV to TEST to PROD using deployment groups.
+
+Environment: Informatica 9.1/8.6, Erwin, Oracle 11g, Toad, DB2, Teradata, PL/SQL, SQL Developer , Tidal Software, Windows XP, PL/SQL, Sybase, SQL Server 2005/2008.</Description>
+<StartDate id='119_3_1'><YearMonth>2010-11</YearMonth></StartDate>
+<EndDate id='119_3_2'><YearMonth>2012-02</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='119' last_id='154' border_id='155'></TLSPAN>
+<MonthsOfWork>16</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='155_1'>Glance Finance Ltd</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='155_2'>
+<Municipality>Bangalore</Municipality>
+<Region>Karnataka</Region>
+<CountryCode>IN</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='155_4_2'>ETL /Informatica Developer</Title>
+<OrgName id='155_1'>Glance Finance Ltd</OrgName>
+
+
+
+<Description>Description: It's a merger project between two major banks of their credentials and respective applications with data and enrollments migrations of the existing companies and users. To arrive at a unified set of applications that will be offered to all the customers of both banks. Migration of application data from source (database of application being merged) into existing target (existing database of application being continued in future) is one of the core activities in this initiative.
+
+Responsibilities:
+    *    Worked with power center tools like Designer, Workflow Manager, Workflow Monitor, and Repository Manager. ; 
+    *    Used Informatica data services to profile and document the structure and quality of all data. ; 
+    *    Extensively used Informatica Transformation like Source Qualifier, Rank, SQL, Router, Filter, Lookup, Joiner, Aggregator, Normalizer, Sorter etc. and all transformation properties. ; 
+    *    Extensively used Various Data Cleansing and Data Conversion Functions in various transformations. ; 
+    *    Translated Business processes into Informatica mappings for building Data marts by using Informatica Designer which populated the Data into the Target Star Schema on Oracle 9i Instance. ; 
+    *    Followed the required client security policies and required approvals to move the code from one environment to other. ; 
+    *    Developed ETL mappings, transformations using Informatica Power center 8.6 ; 
+    *    Deployed the Informatica code and worked on code merge between two difference development teams. ; 
+    *    Extensively used PL/SQL programming in backend and front-end functions, procedures, packages to implement business rules. ; 
+    *    Created Informatica complex mappings with PL/SQL procedures/functions to build business rules to load data. ; 
+    *    Identified the bottlenecks in the sources, targets, mappings, sessions and resolved the problems. ; 
+    *    Created automated scripts to perform data cleansing and data loading. ; 
+    *    Performed complex defect fixes in various environments like UAT, SIT etc to ensure the proper delivery of the developed jobs into the production environment. ; 
+    *    Attended daily status call with internal team and weekly calls with client and updated the status report.
+
+Environment: Informatica Power Center (Repository Manager, Designer, Workflow Manager, Workflow Monitor),SQL Server, Oracle 10g, Toad, UNIX Shell Scripting, Flat Files, SQL Developer, and Windows XP Professional.</Description>
+<StartDate id='155_3_1'><YearMonth>2009-06</YearMonth></StartDate>
+<EndDate id='155_3_2'><YearMonth>2010-10</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='155' last_id='181' border_id='182'></TLSPAN>
+<MonthsOfWork>17</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='182_1'>Tech Mahindra Limited</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='182_2'>
+<Municipality>Ahmadabad</Municipality>
+<CountryCode>IN</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='182_4_2'>ETL / Data Warehousing Developer</Title>
+<OrgName id='182_1'>Tech Mahindra Limited</OrgName>
+
+
+
+<Description>Description: This project was developed for the marketing and controlling staff enabling them to easily analyze marketing and sales data. The application is used by hundreds of users around the globe which helps them make better decisions. Managers are now able to determine market share, easily explore cost and profit data, and track performance of new products.
+
+Responsibilities:
+    *    Developed number of Complex Informatica Mappings, Mapplets and Reusable Transformations to facilitate one time, Daily, Monthly and Yearly loading of Data. ; 
+    *    Created Informatica mapping to insert, delete and update data from the dimension tables. ; 
+    *    Involved in creation of ETL Technical Design and Process Documents for the Fact and Dimension Loads. Developed ETL Mappings using InformaticaPowerCenter 7.1/6.2 involving extraction and loading of data from relational databases like MS SQL Server and Oracle9i. · ; 
+    *    Developed complex Functions, packages, Cursors, Tables, Views, Indexes and other SQL joins and statements for applications. ; 
+    *    Managed all indexing, debugging, optimization and performance tuning using SQL Profiler and SQL Server Agent. ; 
+    *    Coordinated with source system owners, day-to-day ETL progress monitoring, Data warehouse target schema design (Star Schema) and maintenance. ; 
+    *    Compressed data files by removing empty database pages and updating index statistics. ; 
+    *    Created Mapplets to load Session Control Tables used for updating Mapping Parameters and Variables in Parameter Files. · ; 
+    *    Implemented stored procedures and functions, as per requirements, in PL/SQL. · ; 
+    *    Was actively involved in the Migration process of ETL Mappings, Workflows and Sessions from Informatica 6.x to 7.x version. ; 
+    *    Involved in unit and integration testing of mappings in ETL Test environments. · Performed Debugging procedures and Performance Tuning on bottlenecks encountered. · Worked very closely with the Oracle to improve the performance of the stored procedures.
+
+Environment:InformaticaPowerCenter 7.1/6.2, Oracle9i, MS SQL Server 2000, DTS, PL/SQL, MS SQL Server 2005, T-SQL, SSRS/SSIS, Excel,  Window 2003/XP, SQL Plus.</Description>
+<StartDate id='182_3_1'><YearMonth>2006-08</YearMonth></StartDate>
+<EndDate id='182_3_2'><YearMonth>2009-05</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='182' last_id='209' border_id='0'></TLSPAN>
+<MonthsOfWork>34</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+</EmploymentHistory>
+
+
+
+
+
+
+
+
+
+
+
+
+<Competency oids='5 26 39 42 90 93 94 104 136 165 185 190 193 196 ' description='Skill > IT' auth='yes' name='ETL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='YEAR' lastUsed='2014'><NumericValue description='YEAR'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='support'><StringValue>support</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='maintenance'><StringValue>maintenance</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='design'><StringValue>design</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>7+ years of total experience in ETL</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ETL Tools</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ETL tool</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>support and maintenance for the ETL</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>(Extract, Transform and Load)</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>design ETL</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>98</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='6 22 27 44 95 105 108 166 170 ' description='Skill > IT' auth='yes' name='Informatica Analytics Package > Informatica PowerCenter'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>41</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Installation'><StringValue>Installation</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Configuration'><StringValue>Configuration</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='Administration'><StringValue>Administration</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Informatica Power Center 7.1/7.1.3/8.1 7.1/7.1.3/8.1</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Installation, Configuration, and Administration of Informatica Power Center</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Informatica Power Center</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Power Center 9.x/8.x/7.1.2/6.1 9.x/8.x/7.1.2/6.1</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Informatica Power Center 8.5 8.5</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Informatica Power center 8.6 8.6</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='32 58 147 150 168 169 192 201 ' description='Skill > IT' auth='yes' name='Oracle PL/SQL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>67</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='programming'><StringValue>programming</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>PL/SQL</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>PL/SQL programming</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='55 98 112 126 128 140 146 ' description='Skill > IT' auth='yes' name='Teradata'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>40</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='14 28 48 49 96 175 197 ' description='Skill > IT' auth='yes' name='Oracle'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>75</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Oracle 8.1.7 8.1.7</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='16 29 75 100 152 174 186 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>91</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Server</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS SQL Server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='30 53 99 111 127 145 ' description='Skill > IT' auth='yes' name='DB2'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>40</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>DB2 8.1 8.1</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='57 139 159 188 189 ' description='Skill > IT' auth='yes' name='SQL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>67</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='17 77 133 206 207 ' description='Skill > IT' auth='yes' name='Microsoft Excel'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>50</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Excel</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Excel</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2003</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='64 70 107 117 ' description='Skill > IT' auth='yes' name='UNIX'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='50 164 187 198 ' description='Skill > IT' auth='yes' name='Oracle 9i'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>51</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>9i 9i</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>53</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='46 110 153 202 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server 2005'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>74</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Server 2005</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2005</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS SQL Server 2005</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='43 141 167 194 ' description='Skill > IT' auth='yes' name='Informatica'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>67</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Informatica 9.1/8.6 9.1/8.6</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Informatica 6.x to 7.x 6.x to 7.x</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='59 62 178 ' description='Skill > IT' auth='yes' name='shell scripting'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>17</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>shell script</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>UNIX Shell Scripting</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='80 113 209 ' description='Skill > IT' auth='yes' name='SQLPlus'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>58</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL*Plus</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='51 109 176 ' description='Skill > IT' auth='yes' name='Oracle 10G'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>41</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>10g 10g</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='18 71 ' description='Skill > IT' auth='yes' name='XML'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='73 144 ' description='Skill > IT' auth='yes' name='TOAD'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='97 151 ' description='Skill > IT' auth='yes' name='Sybase'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>40</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='36 54 ' description='Skill > IT' auth='yes' name='OLTP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='15 52 ' description='Skill > IT' auth='yes' name='MySQL'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='68 149 ' description='Skill > IT' auth='yes' name='Microsoft Windows XP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>XP</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows XP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='81 114 ' description='Skill > IT' auth='yes' name='Microsoft SQL*Loader'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL*LOADER</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Loader</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='47 154 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server 2008'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Server 2008</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2008</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='45 199 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server 2000'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>34</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Server 2000</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS SQL Server 2000</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='82 142 ' description='Skill > IT' auth='yes' name='Logic Works ERwin/ERX'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Erwin 4.0 4.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Erwin</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='195 ' description='Skill' auth='no' name='integration testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>34</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='138 ' description='Skill' auth='no' name='end testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='24 ' description='Skill > IT' auth='yes' name='VSAM (Virtual Storage Access Method)'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VSAM</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='102 ' description='Skill > IT' auth='yes' name='Stored Procedures'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Stored Procedure</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='33 ' description='Skill > IT' auth='yes' name='Software Development Life Cycle'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='74 ' description='Skill > IT' auth='no' name='SQL Trace'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='204 ' description='Skill > IT' auth='yes' name='SQL Server Reporting Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>34</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SSRS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='205 ' description='Skill > IT' auth='yes' name='SQL Server Integration Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>34</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SSIS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='160 ' description='Skill > IT' auth='yes' name='Router'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>17</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='34 ' description='Skill' auth='yes' name='Requirements Analysis'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Requirement Analysis</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='137 ' description='Skill > IT' auth='yes' name='Regression Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='177 ' description='Skill > IT' auth='yes' name='Oracle Toad'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>17</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Toad Toad</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='143 ' description='Skill > IT' auth='yes' name='Oracle 11g'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='37 ' description='Skill > IT' auth='yes' name='OLAP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='181 ' description='Skill > IT' auth='yes' name='Microsoft Windows XP Professional'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>17</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows XP Professional</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='67 ' description='Skill > IT' auth='yes' name='Microsoft Windows NT'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows NT</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='66 ' description='Skill > IT' auth='yes' name='Microsoft Windows 9x'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>98</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='118 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2000 Professional'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows 2000</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='65 ' description='Skill > IT' auth='yes' name='Microsoft Windows'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows 2007</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='83 ' description='Skill > IT' auth='yes' name='Microsoft Visio'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Visio 2003</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='203 ' description='Skill > IT' auth='yes' name='Microsoft Transact-SQL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>34</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>T-SQL</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='78 ' description='Skill > IT' auth='yes' name='Microsoft PowerPoint'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>PowerPoint</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='79 ' description='Skill > IT' auth='yes' name='Microsoft Access'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS Access</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='103 ' description='Skill' auth='no' name='Managed the Metadata'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='208 ' description='Skill > IT' auth='no' name='MS-Excel XP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>34</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>XP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='69 ' description='Skill > IT' auth='yes' name='Linux'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='121 ' description='Skill' auth='yes' name='Life Insurance'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='89 ' description='Skill' auth='yes' name='Investment Banking'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='131 ' description='Skill' auth='yes' name='Insurance Policies'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='25 ' description='Skill > IT' auth='yes' name='Informatica Analytics Package > Informatica PowerExchange'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Informatica Power Exchange 5.6 / 8.6 5.6 / 8.6</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='158 ' description='Skill > IT' auth='yes' name='Informatica Analytics Package'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>17</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Informatica data</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='179 ' description='Skill > IT' auth='no' name='Flat Files'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>17</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='122 ' description='Skill' auth='yes' name='Financial Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='23 ' description='Skill' auth='no' name='Error handling and Troubleshooting'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='91 ' description='Skill > IT' auth='no' name='ETL methodology'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='design'><StringValue>design</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>design the ETL methodology</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='184 ' description='Skill' auth='no' name='ETL Technical Design'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>34</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>54</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='35 ' description='Skill' auth='no' name='Design'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>, Design</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='191 ' description='Skill' auth='no' name='Data warehouse target schema design'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>34</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='200 ' description='Skill > IT' auth='yes' name='Data Transformation Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>34</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>DTS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='125 ' description='Skill > IT' auth='yes' name='Data Migration'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>67</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='38 ' description='Skill' auth='no' name='Data Analysis'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='72 ' description='Skill > IT' auth='yes' name='DHTML'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>HTML/DHTML</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='88 ' description='Skill' auth='yes' name='Corporate Finance'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>97</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='92 ' description='Skill' auth='yes' name='Consolidations'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>consolidation</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='116 ' description='Skill > IT' auth='yes' name='COBOL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='61 ' description='Skill > IT' auth='yes' name='C++'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='60 ' description='Skill > IT' auth='yes' name='C Programming Language'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>C</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='63 ' description='Skill > IT' auth='no' name='AutosysScripting'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='76_1 115_1 148_1 180_1 ' description='Held Position' auth='no' name='SQL Developer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>57</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>99</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='12_1 157_2 171_1 ' description='Held Position' auth='no' name='Repository Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>17</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='85_4_2 119_4_2 155_4_2 ' description='Held Position' auth='no' name='ETL /Informatica Developer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>57</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='7_1 156_1 172_1 ' description='Held Position' auth='no' name='Designer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>17</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='12_2 173_1 ' description='Held Position' auth='no' name='Workflow Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>17</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='19_1 162_1 ' description='Held Position' auth='no' name='Sorter'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>17</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='20_1 161_1 ' description='Held Position' auth='no' name='Joiner'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>17</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>48</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='40_1 ' description='Held Position' auth='no' name='team member'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='3_2 ' description='Held Position' auth='no' name='an Information Technology Analyst'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='157_1 ' description='Held Position' auth='no' name='Workflow Manager, Workflow Monitor'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>17</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>49</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='8_1 ' description='Held Position' auth='no' name='Warehouse designer'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='11_1 ' description='Held Position' auth='no' name='Transformation Developer'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='10_1 ' description='Held Position' auth='no' name='Mapplet Designer'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='9_1 ' description='Held Position' auth='no' name='Mapping designer'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='183_1 ' description='Held Position' auth='no' name='Managers'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>34</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>53</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='134_1 ' description='Held Position' auth='no' name='Informatica Scheduler'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='163_1 ' description='Held Position' auth='no' name='Informatica Designer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>17</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>46</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='13_1 ' description='Held Position' auth='no' name='Expert in implementing Type'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='31_1 ' description='Held Position' auth='no' name='Expert in RDBMS concepts'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='182_4_2 ' description='Held Position' auth='no' name='ETL / Data Warehousing Developer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>34</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>54</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency description='Industry' auth='yes' name='industry~it'>
+<CompetencyEvidence name='skillCount' typeDescription='skillCount'><NumericValue>4</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+</Competency>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<RevisionDate id='1'>2014-05-29</RevisionDate>
+</StructuredXMLResume>
+<NonXMLResume>
+
+<TextResume>
+
+
+
+<span inprof='n' id='1' class='date'>{{DOCUMENT_DATESTAMP}} 2014-05-29 {{END_DOCUMENT_DATESTAMP}}</span> 
+
+<span inprof='y' id='2' class='nominal'>SACHIN PATEL</span>
+
+
+Objective
+Energetic and enthusiastic professional seeks a career <span inprof='n' id='3_1' class='some-position'>as</span> <span inprof='y' id='3_2' class='role'>an Information Technology Analyst</span> to utilize skills and experience in a challenging environment.
+<span inprof='n' id='4' class='objectives-mark'>Summary:</span>
+    *    Having <span inprof='y' id='5' class='sofwr'>7+ years of total experience in ETL</span> (Extraction, Transformation, Loading) of data from various sources into Data Warehouses and Data Marts using <span inprof='y' id='6' class='sofwr'>Informatica Power Center 7.1/7.1.3/8.1</span> with client tools like <span inprof='y' id='7_1' class='role'>Designer</span> (Source Analyzer, <span inprof='y' id='8_1' class='role'>Warehouse designer</span>, <span inprof='y' id='9_1' class='role'>Mapping designer</span>, <span inprof='y' id='10_1' class='role'>Mapplet Designer</span>, <span inprof='y' id='11_1' class='role'>Transformation Developer</span>), <span inprof='y' id='12_1' class='role'>Repository Manager</span>, and <span inprof='y' id='12_2' class='role'>Workflow Manager</span> &#38; Workflow Monitor . ; 
+    *    <span inprof='y' id='13_1' class='role'>Expert in implementing Type</span> 1, Type 2 and Type 3Slowly Changing Dimensions as per the business requirements to maintain full historical information. ; 
+    *     Excellent Working Knowledge in Dimensional modeling using multi-dimensional models (Star, Snow Flake schema). ; 
+    *     Proficient in implementing complex business rules by creating re-usable transformations, Workletsand Maplets. ; 
+    *    Experience in integrating various data sources with Multiple Relational Databases like <span inprof='y' id='14' class='sofwr'>Oracle</span>, <span inprof='y' id='15' class='sofwr'>MySQL</span> and <span inprof='y' id='16' class='sofwr'>SQL Server</span>, <span inprof='y' id='17' class='sofwr'>MS Excel</span>, <span inprof='y' id='18' class='sofwr'>XML</span>, and flat files like fixed length and delimited. ; 
+    *    Extensive experience in designing and developing complex Mappings, Mapplets, Transformations, Workflows, Worklets, scheduling the Workflows and sessions. ; 
+    *    Designed and developed complex mappings using various transformation logic like Source Qualifier, Router, Filter, Expression, <span inprof='y' id='19_1' class='role'>Sorter</span>, Aggregator, <span inprof='y' id='20_1' class='role'>Joiner</span>, Union, Connected/Unconnected lookups, Update Strategy and Normalizer. ; 
+    *    Implemented performance tuning of sessions by identifying bottlenecks in Sources, Targets &#38; Mappings, Performed unit testing &#38; used Debugger to debug the complex mappings and fix them. ; 
+    *    Proficiency working <span inprof='n' id='21' class='bad-occupation'>with Informatica Repository Manager, Designer, Workflow Manager</span>, and Workflow Monitor. ; 
+   *    Expertise in <span inprof='y' id='22' class='sofwr'>Installation, Configuration, and Administration of Informatica Power Center</span>. ; 
+   *    Applying patches, taking backup and restore repositories. ; 
+   *    Experience in creating Informatica Tasks such as Sessions, Command, Email, Decision, Event Wait, Event Raise, Timer, Assignment, Worklet, Control, etc. ; 
+    *     Experienced in doing <span inprof='y' id='23' class='skill'>Error handling and Troubleshooting</span> using various log files. ; 
+    *    Extensively work with Push Down Optimization (PDO) in transformation through the integration service and also work on the Parallel Portioning. ; 
+    *    Experienced with reading/writing Mainframe datasets, <span inprof='y' id='24' class='sofwr'>VSAM</span> files, and COBOL Sources using <span inprof='y' id='25' class='sofwr'>Informatica Power Exchange 5.6 / 8.6</span>. ; 
+   *    Created <span inprof='y' id='26' class='sofwr'>ETL</span> Mappings using <span inprof='y' id='27' class='sofwr'>Informatica Power Center</span> to move information from multiple sources into a common target area such as Data Marts and Data Warehouse. ; 
+   *    Extensively worked with ODS and staging area to perform data cleansing, data profiling, data consolidating, and data standardization process ; 
+    *    Experience in integration of various Operational Data Sources (ODS) with Multiple Relational Databases like <span inprof='y' id='28' class='sofwr'>Oracle</span>, <span inprof='y' id='29' class='sofwr'>SQL Server</span> and <span inprof='y' id='30' class='sofwr'>DB2</span>. Worked on integrating data from flat files like fixed width and delimited. <span inprof='y' id='31_1' class='role'>Expert in RDBMS concepts</span>, <span inprof='y' id='32' class='sofwr'>PL/SQL</span> Stored Procedures, Functions and creating database objects like Tables, Indexes, Views, synonyms and sequences. ; 
+    *    Experience in complete <span inprof='y' id='33' class='sofwr'>Software Development Life Cycle</span> SDLC (<span inprof='y' id='34' class='skill'>Requirement Analysis</span><span inprof='y' id='35' class='skill'>, Design</span>, Development and Testing). ; 
+*    Proficient in database architecture for <span inprof='y' id='36' class='sofwr'>OLTP</span> and <span inprof='y' id='37' class='sofwr'>OLAP</span> applications, <span inprof='y' id='38' class='skill'>Data Analysis</span>, <span inprof='y' id='39' class='sofwr'>ETL</span> processes in developing Data Marts and Data Warehouse. ; 
+*    Developed UNIX shell scripts for automation of sessions as well used in command task to handle requirements like dropping and building indexes, flat file archiving/dropping process. ; 
+   *    Highly motivated to take independent responsibility as well as ability to contribute and be a productive <span inprof='y' id='40_1' class='role'>team member</span>. Ability to learn new tools, concepts and environments.
+
+<span inprof='n' id='41' class='skills-qualif-mark'>Technical Skills:</span>
+<span inprof='y' id='42' class='sofwr'>ETL Tools</span>        :    <span inprof='y' id='43' class='sofwr'>Informatica</span> (<span inprof='y' id='44' class='sofwr'>Power Center 9.x/8.x/7.1.2/6.1</span>).
+Database        :    <span inprof='y' id='45' class='sofwr'>SQL Server 2000</span>, <span inprof='y' id='46' class='sofwr'>SQL Server 2005</span>, <span inprof='y' id='47' class='sofwr'>SQL Server 2008</span>.
+                             <span inprof='y' id='48' class='sofwr'>Oracle 8.1.7</span>, <span inprof='y' id='49' class='sofwr'>Oracle</span> <span inprof='y' id='50' class='sofwr'>9i</span>/<span inprof='y' id='51' class='sofwr'>10g</span>/11g, <span inprof='y' id='52' class='sofwr'>MySQL</span>., <span inprof='y' id='53' class='sofwr'>DB2 8.1</span>, <span inprof='y' id='54' class='sofwr'>OLTP</span>, <span inprof='y' id='55' class='sofwr'>Teradata</span>
+<span inprof='n' id='56' class='skills-qualif-mark'>Languages :</span>
+<span inprof='y' id='57' class='sofwr'>SQL</span> and <span inprof='y' id='58' class='sofwr'>PL/SQL</span>, Korn <span inprof='y' id='59' class='sofwr'>shell script</span>,<span inprof='y' id='60' class='sofwr'>C</span>,<span inprof='y' id='61' class='sofwr'>C++</span>, <span inprof='y' id='62' class='sofwr'>UNIX Shell Scripting</span>, <span inprof='y' id='63' class='sofwr'>AutosysScripting</span>,html
+Operating System    :    <span inprof='y' id='64' class='sofwr'>UNIX</span>, <span inprof='y' id='65' class='sofwr'>Windows 2007</span>/00/<span inprof='y' id='66' class='sofwr'>98</span>, <span inprof='y' id='67' class='sofwr'>Windows NT</span>/<span inprof='y' id='68' class='sofwr'>XP</span>, <span inprof='y' id='69' class='sofwr'>Linux</span>,<span inprof='y' id='70' class='sofwr'>Unix</span>
+Web Technologies    :    <span inprof='y' id='71' class='sofwr'>XML</span>, <span inprof='y' id='72' class='sofwr'>HTML/DHTML</span>.
+Software Tools        :    <span inprof='y' id='73' class='sofwr'>TOAD</span>, <span inprof='y' id='74' class='sofwr'>SQL Trace</span>, <span inprof='y' id='75' class='sofwr'>SQL server</span> Management studio, <span inprof='y' id='76_1' class='role'>SQL
+                             Developer</span>, <span inprof='y' id='77' class='sofwr'>Excel</span> and <span inprof='y' id='78' class='sofwr'>PowerPoint</span>, <span inprof='y' id='79' class='sofwr'>MS Access</span>, <span inprof='y' id='80' class='sofwr'>SQL*Plus</span>
+                             <span inprof='y' id='81' class='sofwr'>SQL*LOADER</span>.
+Data Modeling Tool    :    <span inprof='y' id='82' class='sofwr'>Erwin 4.0</span>, <span inprof='y' id='83' class='sofwr'>Visio 2003</span>
+
+<span inprof='n' id='84' class='work-hist-mark'>Professional Experience:</span>
+
+<span inprof='y' id='85_1' class='company'>Client: Merrill Lynch</span>, <span inprof='y' id='85_2' class='location'>Pennington</span>,                     <span inprof='y' id='85_3_1' class='date'>Feb, 2012</span> - <span inprof='y' id='85_3_2' class='date'>Jan, 2014</span>
+<span inprof='n' id='85_4_1' class='some-position'>Role</span>: <span inprof='y' id='85_4_2' class='role'>ETL /Informatica Developer</span>
+
+<span inprof='n' id='86' class='company'>Merrill Lynch</span> is the wealth management division of <span inprof='n' id='87' class='company'>Bank of America</span> providing <span inprof='y' id='88' class='skill'>corporate finance</span> &#38; <span inprof='y' id='89' class='skill'>investment banking</span> services. The objective of the project was to build data Warehouse for Customers Investment Deposit, funding accounts and Corporate Services. The data for Customers, Accounts and Transactional related information were extracted from multiple sources, transformed and loaded into the target database using <span inprof='y' id='90' class='sofwr'>ETL tool</span>.
+
+Roles and Responsibilities:
+    *    Understanding the Business requirements based on Functional specification to <span inprof='y' id='91' class='sofwr'>design the ETL methodology</span> in technical specifications. ; 
+    *    Developed data conversion/quality/cleansing rules and executed data cleansing activities such as data <span inprof='y' id='92' class='skill'>consolidation</span>, standardization, matching Trillium for the unstructured flat file data. ; 
+    *    Responsible for developing, <span inprof='y' id='93' class='sofwr'>support and maintenance for the ETL</span> <span inprof='y' id='94' class='sofwr'>(Extract, Transform and Load)</span> processes using <span inprof='y' id='95' class='sofwr'>Informatica Power Center 8.5</span>. ; 
+    *    Experience in integration of heterogeneous data sources like <span inprof='y' id='96' class='sofwr'>Oracle</span>, <span inprof='y' id='97' class='sofwr'>Sybase</span>, <span inprof='y' id='98' class='sofwr'>Teradata</span>, <span inprof='y' id='99' class='sofwr'>DB2</span>, <span inprof='y' id='100' class='sofwr'>SQL Server</span> and Flat Files (Fixed &#38; delimited) into <span inprof='n' id='101' class='location'>Staging Area</span>. ; 
+    *    Wrote SQL-Overrides and used filter conditions in source qualifier thereby improving the performance of the mapping. ; 
+    *    Designed and developed mappings using Source Qualifier, Expression, Lookup, Router, Aggregator, Filter, Sequence Generator, <span inprof='y' id='102' class='sofwr'>Stored Procedure</span>, Update Strategy, joiner and Rank transformations. ; 
+    *    <span inprof='y' id='103' class='skill'>Managed the Metadata</span> associated with the <span inprof='y' id='104' class='sofwr'>ETL</span> processes used to populate the Data Warehouse. ; 
+    *    Implemented complex business rules in <span inprof='y' id='105' class='sofwr'>Informatica Power Center</span> by creating re-usable transformations, and robust Mapplets. ; 
+    *    Implemented performance tuning of Sources, Targets, Mappings and Sessions by identifying bottlenecks and used Debugger to debug the complex mappings and fix them. ; 
+    *    Improved session Performance by enabling property incremental aggregation to load incremental data into target table. ; 
+    *    Worked with Functional team to make sure required data has been extracted and loaded and performed the Unit Testing and fixed the errors to meet the requirements. ; 
+    *    Copied/ Exported/ Imported the mappings/ sessions/ worklets/ workflows from development to Test Repository and promoted to Production. ; 
+    *    Used Session parameters, Mapping variable/parameters and created Parameter files for imparting flexible runs of workflows based on changing variable values. ; 
+    *    Worked with Static, Dynamic and Persistent Cache in lookup transformation for better throughput of Sessions. ; 
+    *    Used PMCMD command to automate <span inprof='n' id='106' class='company'>the Power Center</span> sessions and workflows through <span inprof='y' id='107' class='sofwr'>UNIX</span>.
+
+Environment:
+<span inprof='y' id='108' class='sofwr'>Informatica Power Center 8.5</span>, <span inprof='y' id='109' class='sofwr'>Oracle 10g</span>, <span inprof='y' id='110' class='sofwr'>SQL Server 2005</span>, <span inprof='y' id='111' class='sofwr'>DB2</span>, <span inprof='y' id='112' class='sofwr'>Teradata</span>, <span inprof='y' id='113' class='sofwr'>SQL*Plus</span>, <span inprof='y' id='114' class='sofwr'>SQL Loader</span> ,<span inprof='y' id='115_1' class='role'>SQL Developer</span>, Autosys, <span inprof='y' id='116' class='sofwr'>COBOL</span> files, Flat files, <span inprof='y' id='117' class='sofwr'>UNIX</span>, <span inprof='y' id='118' class='sofwr'>Windows 2000</span>
+
+<span inprof='y' id='119_1' class='company'>Client: AXA Equitable</span>, <span inprof='y' id='119_2' class='location'>NY</span>                             <span inprof='y' id='119_3_1' class='date'>Nov, 2010</span> - <span inprof='y' id='119_3_2' class='date'>Feb, 2012</span>
+<span inprof='n' id='119_4_1' class='some-position'>Role</span>: <span inprof='y' id='119_4_2' class='role'>ETL /Informatica Developer</span>
+
+Description:
+<span inprof='n' id='120' class='company'>AXA Equitable is a leading financial protection company</span> and a premier provider of <span inprof='y' id='121' class='skill'>life insurance</span>, annuities and related <span inprof='y' id='122' class='skill'>financial services</span>. <span inprof='n' id='123' class='company'>AXA Equitable Company</span> wanted to implement business strategies to do well with the business and give better service to the customers. <span inprof='y' id='124' class='company'>AXA Equitable</span> initiated this <span inprof='y' id='125' class='sofwr'>data migration</span> project to migrate data from its legacy systems to <span inprof='y' id='126' class='sofwr'>Teradata</span> environment, which involved extracting <span inprof='y' id='127' class='sofwr'>DB2</span> tables into flat files and then loading into <span inprof='y' id='128' class='sofwr'>Teradata</span>. The aim of the project was to develop and implement a Data warehouse called as <span inprof='n' id='129' class='company'>Renewals System Department (RSD)</span> which will be an integral part of the processing services for managing all <span inprof='y' id='130' class='company'>AXA Equitable</span> <span inprof='y' id='131' class='skill'>insurance policies</span>.
+
+Responsibilities:
+    *    Interacted with the Functional Analysts to understand the process flow and the business. ; 
+    *    Involved in gathering the business requirements <span inprof='n' id='132' class='bad-occupation'>from Business Analyst</span>. ; 
+    *    Analyzing Source to Target mapping <span inprof='y' id='133' class='sofwr'>Excel</span> document. ; 
+    *    Coordinating the team and assigning dependencies tasks to team. ; 
+    *    Created Data Flow Mappings to extract data from source system and Loading to staging area. ; 
+    *    Analyzed the AR data and developed the code to extract the data for the AR module and implemented in the informatica. ; 
+    *    Developed the strategy for the incremental loads. ; 
+    *    Worked on various tasks like Session, E-Mail task, Command task, etc. ; 
+    *    Worked on <span inprof='y' id='134_1' class='role'>Informatica Scheduler</span> for scheduling the delta loads and master loads. ; 
+    *    Created and used various re-usable tasks, workflows, Worklets, mapplets, and re-usable transformations. ; 
+    *    Worked on slowly changing dimension Type1 and Type2. ; 
+    *    Used the Dynamic look up to implement <span inprof='n' id='135' class='company'>the CDC</span>. ; 
+    *    Involved in performance tuning of the process at mapping, session and database level. ; 
+    *    Used parameter files and variables to <span inprof='y' id='136' class='sofwr'>design ETL</span> process. ; 
+    *    Performed Functionality, Back-end and <span inprof='y' id='137' class='sofwr'>Regression testing</span> during the various phases of the application and Data Integrity/back <span inprof='y' id='138' class='skill'>end testing</span> by executing <span inprof='y' id='139' class='sofwr'>SQL</span> statements. ; 
+    *    Fixed issues in Test, QA and Production. ; 
+    *    Developed Fast Load and Multiload Scripts in <span inprof='y' id='140' class='sofwr'>Teradata</span>. ; 
+    *    Prepared the Low Level documents/mapping documents for the tasks assigned to me. ; 
+    *    Mode code from DEV to TEST to PROD using deployment groups.
+
+Environment: <span inprof='y' id='141' class='sofwr'>Informatica 9.1/8.6</span>, <span inprof='y' id='142' class='sofwr'>Erwin</span>, <span inprof='y' id='143' class='sofwr'>Oracle 11g</span>, <span inprof='y' id='144' class='sofwr'>Toad</span>, <span inprof='y' id='145' class='sofwr'>DB2</span>, <span inprof='y' id='146' class='sofwr'>Teradata</span>, <span inprof='y' id='147' class='sofwr'>PL/SQL</span>, <span inprof='y' id='148_1' class='role'>SQL Developer</span> , Tidal Software, <span inprof='y' id='149' class='sofwr'>Windows XP</span>, <span inprof='y' id='150' class='sofwr'>PL/SQL</span>, <span inprof='y' id='151' class='sofwr'>Sybase</span>, <span inprof='y' id='152' class='sofwr'>SQL Server</span> <span inprof='y' id='153' class='sofwr'>2005</span>/<span inprof='y' id='154' class='sofwr'>2008</span>.
+
+<span inprof='y' id='155_1' class='company'>Client: Glance Finance Ltd</span>, <span inprof='y' id='155_2' class='location'>Bangalore, India</span>                     <span inprof='y' id='155_3_1' class='date'>Jun, 2009</span> - <span inprof='y' id='155_3_2' class='date'>Oct, 2010</span>
+<span inprof='n' id='155_4_1' class='some-position'>Role</span>: <span inprof='y' id='155_4_2' class='role'>ETL /Informatica Developer</span>
+
+Description: It's a merger project between two major banks of their credentials and respective applications with data and enrollments migrations of the existing companies and users. To arrive at a unified set of applications that will be offered to all the customers of both banks. Migration of application data from source (database of application being merged) into existing target (existing database of application being continued in future) is one of the core activities in this initiative.
+
+Responsibilities:
+    *    Worked with power center tools like <span inprof='y' id='156_1' class='role'>Designer</span>, <span inprof='y' id='157_1' class='role'>Workflow Manager, Workflow Monitor</span>, and <span inprof='y' id='157_2' class='role'>Repository Manager</span>. ; 
+    *    Used <span inprof='y' id='158' class='sofwr'>Informatica data</span> services to profile and document the structure and quality of all data. ; 
+    *    Extensively used Informatica Transformation like Source Qualifier, Rank, <span inprof='y' id='159' class='sofwr'>SQL</span>, <span inprof='y' id='160' class='sofwr'>Router</span>, Filter, Lookup, <span inprof='y' id='161_1' class='role'>Joiner</span>, Aggregator, Normalizer, <span inprof='y' id='162_1' class='role'>Sorter</span> etc. and all transformation properties. ; 
+    *    Extensively used Various Data Cleansing and Data Conversion Functions in various transformations. ; 
+    *    Translated Business processes into Informatica mappings for building Data marts by using <span inprof='y' id='163_1' class='role'>Informatica Designer</span> which populated the Data into the Target Star Schema on <span inprof='y' id='164' class='sofwr'>Oracle 9i</span> Instance. ; 
+    *    Followed the required client security policies and required approvals to move the code from one environment to other. ; 
+    *    Developed <span inprof='y' id='165' class='sofwr'>ETL</span> mappings, transformations using <span inprof='y' id='166' class='sofwr'>Informatica Power center 8.6</span> ; 
+    *    Deployed the <span inprof='y' id='167' class='sofwr'>Informatica</span> code and worked on code merge between two difference development teams. ; 
+    *    Extensively used <span inprof='y' id='168' class='sofwr'>PL/SQL programming</span> in backend and front-end functions, procedures, packages to implement business rules. ; 
+    *    Created Informatica complex mappings with <span inprof='y' id='169' class='sofwr'>PL/SQL</span> procedures/functions to build business rules to load data. ; 
+    *    Identified the bottlenecks in the sources, targets, mappings, sessions and resolved the problems. ; 
+    *    Created automated scripts to perform data cleansing and data loading. ; 
+    *    Performed complex defect fixes in various environments like UAT, SIT etc to ensure the proper delivery of the developed jobs into the production environment. ; 
+    *    Attended daily status call with internal team and weekly calls with client and updated the status report.
+
+Environment: <span inprof='y' id='170' class='sofwr'>Informatica Power Center</span> (<span inprof='y' id='171_1' class='role'>Repository Manager</span>, <span inprof='y' id='172_1' class='role'>Designer</span>, <span inprof='y' id='173_1' class='role'>Workflow Manager</span>, Workflow Monitor),<span inprof='y' id='174' class='sofwr'>SQL Server</span>, <span inprof='y' id='175' class='sofwr'>Oracle</span> <span inprof='y' id='176' class='sofwr'>10g</span>, <span inprof='y' id='177' class='sofwr'>Toad</span>, <span inprof='y' id='178' class='sofwr'>UNIX Shell Scripting</span>, <span inprof='y' id='179' class='sofwr'>Flat Files</span>, <span inprof='y' id='180_1' class='role'>SQL Developer</span>, and <span inprof='y' id='181' class='sofwr'>Windows XP Professional</span>.
+
+<span inprof='y' id='182_1' class='company'>Client: Tech Mahindra Limited</span>, <span inprof='y' id='182_2' class='location'>Ahmadabad,                 India</span> <span inprof='y' id='182_3_1' class='date'>Aug, 2006</span> - <span inprof='y' id='182_3_2' class='date'>May, 2009</span>
+<span inprof='n' id='182_4_1' class='some-position'>Role</span>: <span inprof='y' id='182_4_2' class='role'>ETL / Data Warehousing Developer</span>
+
+Description: This project was developed for the marketing and controlling staff enabling them to easily analyze marketing and sales data. The application is used by hundreds of users around the globe which helps them make better decisions. <span inprof='y' id='183_1' class='role'>Managers</span> are now able to determine market share, easily explore cost and profit data, and track performance of new products.
+
+Responsibilities:
+    *    Developed number of Complex Informatica Mappings, Mapplets and Reusable Transformations to facilitate one time, Daily, Monthly and Yearly loading of Data. ; 
+    *    Created Informatica mapping to insert, delete and update data from the dimension tables. ; 
+    *    Involved in creation of <span inprof='y' id='184' class='skill'>ETL Technical Design</span> and Process Documents for the Fact and Dimension Loads. Developed <span inprof='y' id='185' class='sofwr'>ETL</span> Mappings using InformaticaPowerCenter 7.1/6.2 involving extraction and loading of data from relational databases like <span inprof='y' id='186' class='sofwr'>MS SQL Server</span> and <span inprof='y' id='187' class='sofwr'>Oracle9i</span>. · ; 
+    *    Developed complex Functions, packages, Cursors, Tables, Views, Indexes and other <span inprof='y' id='188' class='sofwr'>SQL</span> joins and statements for applications. ; 
+    *    Managed all indexing, debugging, optimization and performance tuning using <span inprof='y' id='189' class='sofwr'>SQL</span> Profiler and SQL Server Agent. ; 
+    *    Coordinated with source system owners, day-to-day <span inprof='y' id='190' class='sofwr'>ETL</span> progress monitoring, <span inprof='y' id='191' class='skill'>Data warehouse target schema design</span> (Star Schema) and maintenance. ; 
+    *     Compressed data files by removing empty database pages and updating index statistics. ; 
+    *    Created Mapplets to load Session Control Tables used for updating Mapping Parameters and Variables in Parameter Files. · ; 
+    *    Implemented stored procedures and functions, as per requirements, in <span inprof='y' id='192' class='sofwr'>PL/SQL</span>. · ; 
+    *    Was actively involved in the Migration process of <span inprof='y' id='193' class='sofwr'>ETL</span> Mappings, Workflows and Sessions from <span inprof='y' id='194' class='sofwr'>Informatica 6.x to 7.x</span> version. ; 
+    *    Involved in unit and <span inprof='y' id='195' class='skill'>integration testing</span> of mappings in <span inprof='y' id='196' class='sofwr'>ETL</span> Test environments. · Performed Debugging procedures and Performance Tuning on bottlenecks encountered. · Worked very closely with the <span inprof='y' id='197' class='sofwr'>Oracle</span> to improve the performance of the stored procedures.
+
+Environment:InformaticaPowerCenter 7.1/6.2, <span inprof='y' id='198' class='sofwr'>Oracle9i</span>, <span inprof='y' id='199' class='sofwr'>MS SQL Server 2000</span>, <span inprof='y' id='200' class='sofwr'>DTS</span>, <span inprof='y' id='201' class='sofwr'>PL/SQL</span>, <span inprof='y' id='202' class='sofwr'>MS SQL Server 2005</span>, <span inprof='y' id='203' class='sofwr'>T-SQL</span>, <span inprof='y' id='204' class='sofwr'>SSRS</span>/<span inprof='y' id='205' class='sofwr'>SSIS</span>, <span inprof='y' id='206' class='sofwr'>Excel</span>,  Window <span inprof='y' id='207' class='sofwr'>2003</span>/<span inprof='y' id='208' class='sofwr'>XP</span>, <span inprof='y' id='209' class='sofwr'>SQL Plus</span>.
+
+</TextResume>
+
+</NonXMLResume>
+
+
+
+<UserArea>
+<DaxResumeUserArea>
+<AdditionalPersonalData>
+<ExperienceSummary>
+<TotalMonthsOfWorkExperience>91</TotalMonthsOfWorkExperience>
+<TotalYearsOfWorkExperience>7</TotalYearsOfWorkExperience>
+<ExecutiveBrief>Sachin Patel has been working in the IT  occupational sector for more than 7 years. During his last employment he was working as an ETL /Informatica Developer at Merrill Lynch. Sachin has extensive knowledge of ETL, Informatica Analytics Package > Informatica PowerCenter, Oracle PL/SQL, Teradata, Oracle, Microsoft SQL Server, DB2, SQL, Microsoft Excel, UNIX, Oracle 9i, Microsoft SQL Server 2005, Informatica, shell scripting, SQLPlus, Oracle 10G, TOAD, Sybase, Microsoft SQL*Loader, Microsoft SQL Server 2008, Microsoft SQL Server 2000, Logic Works ERwin/ERX, Stored Procedures, SQL Server Reporting Services, SQL Server Integration Services, Router, Regression Testing, Oracle Toad, Oracle 11g, Microsoft Transact-SQL, MS-Excel XP, Informatica Analytics Package, Flat Files, ETL methodology, Data Transformation Services, Data Migration, COBOL. So far Sachin has not gained any managerial experience.</ExecutiveBrief>
+</ExperienceSummary>
+</AdditionalPersonalData>
+<ParserInfo>
+<ParserConfiguration>{max_len=50000} {tel_flag=} {send_zip=} {fast_conv=} {DEF_LOCAL=} {sdate=0} {no_email_body=0} {do_clever_zoning=1} {keep_span=1} {complex=1} {accept_langs=} {not_accept_langs=} {prefer_lang_cv=EN} {pers_only=0} {turbo=0} {split_language=0} {picture=0} {picture_inline=0} {name_space=0} {charset=} {hrxml_upgrade_edu_hist=0}{hrxml_add_languages_section=0}{spool=} {docID=} {user=DEFAULT} </ParserConfiguration>
+<ParserRelease>0.12.3.32629</ParserRelease>
+<ParserReleaseDate>2014-06-18</ParserReleaseDate>
+<ParserSchema>2.0.29</ParserSchema>
+<ParserSchemaLocation>http://cvx.daxtra.com/cvts/xsd/candidate/2.0.29/Resume.xsd</ParserSchemaLocation>
+<ConverterRelease>0.5.2.32629</ConverterRelease>
+<ConverterReleaseDate>2014-06-18</ConverterReleaseDate>
+</ParserInfo>
+<FileStruct filename='/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/Sachin_Patel.docx'>
+
+<attachment fname='Sachin_Patel.docx' ftype='docx' conv='yes' doc_type='cv' lang='EN'>/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/Sachin_Patel.docx</attachment>
+
+
+</FileStruct>
+</DaxResumeUserArea>
+</UserArea>
+</Resume>

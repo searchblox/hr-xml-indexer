@@ -1,0 +1,621 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Resume lang='en' src='DAXTRA-CVX schema:2.0.29 release:0.12.3.32629 rdate:2014-06-18'>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName id='2'>
+<FormattedName>Meir Dinkels</FormattedName>
+<GivenName>Meir</GivenName>
+<FamilyName>Dinkels</FamilyName>
+<sex>Male</sex>
+</PersonName>
+<ContactMethod>
+<Telephone id='5' type='home'>
+<InternationalCountryCode>1</InternationalCountryCode>
+<SubscriberNumber>732 364-9639</SubscriberNumber>
+<FormattedNumber>+1 732 364-9639</FormattedNumber></Telephone>
+
+<InternetEmailAddress id='4' type='main'>mdinks120@verizon.net</InternetEmailAddress>
+<PostalAddress id='3' type='main'>
+<CountryCode>US</CountryCode>
+<PostalCode>08701</PostalCode>
+<Region>NJ</Region>
+<Municipality>Lakewood</Municipality>
+<DeliveryAddress>
+<AddressLine>403 8 St</AddressLine>
+<StreetName>8 St.</StreetName>
+<BuildingNumber>403</BuildingNumber>
+</DeliveryAddress>
+
+</PostalAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>Senior programmer with 2 years experience in .NET and total of 16 years experience in C#, VB.NET, VB6, C++, JAVA, JAVASCRIPT, AJAX, HTML and ASP, on windows, with experience in SQL and ODBC using a SQL Server database.</ExecutiveSummary>
+
+
+<EmploymentHistory>
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='37_1'>CMT</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='37_2'>
+<Municipality>Lakewood</Municipality>
+<Region>NJ</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory>
+<Title id='37_4_1'>Senior Programmer</Title>
+<Title id='37_4_2'>Consultant</Title>
+<OrgName id='37_1'>CMT</OrgName>
+
+
+
+<Description>A not-for-profit company based in Lakewood, NJ, providing for community based religious services.
+
+As a consultant and senior programmer, I am responsible for the development of ``M.A.R.S.'' - an automated reservation and resource allocation system. The system is a complex of multiple c# based management modules, asmx web services, maintenance utilities, VOXEO IVR system, and backed by MS-SQLServer 2012. The purpose of the system is to allow customers to dial-in and create/manage reservations in an automated fashion, while giving management real-time visibility and control of the process. In addition to facilitating complete integration with the phone system, it further provides a robust management console which allows live representatives to visualize and manage all resources; to monitor all phone activity in real-time; and to intelligently configure all manner of operating hours and resource availability. Furthermore the system provides a highly configurable complex rule-engine, which allows for the stipulation of reservation restrictions designed to maintain absolute client privacy.</Description>
+<StartDate id='37_3_1'><YearMonth>2013-12</YearMonth></StartDate>
+<EndDate id='37_3_2'>notApplicable</EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-mid</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='37' last_id='42' border_id='43'></TLSPAN>
+<MonthsOfWork>8</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='43_1'>Unbeatablesale.com Inc</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='43_2'>
+<Municipality>Lakewood</Municipality>
+<Region>NJ</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='43_4_1'>Senior Programmer/Analyst</Title>
+<OrgName id='43_1'>Unbeatablesale.com Inc</OrgName>
+
+
+
+<Description>Unbeatablesale.com is an e-commerce company based in Lakewood, NJ. Unbeatablesale specializes in the retail segment of the web, selling millions of items across multitudes of retail and specialized web channels.
+
+Responsibilities spanned the entire range of programming duties required to support the business both internally and externally. As a senior programmer, I worked closely with business leaders to develop robust applications that facilitate agility in the marketplace and allow unique propositions to be tried and executed. Worked together with IT leadership to develop often complex integrations between company and third-parties such as product-vendors and external marketplaces. Utilized technologies revolving around the Microsoft application development stack, mostly C# .NET, Visual Studio, and Microsoft SQL Server.
+
+*  Created web-services that allow for orders to be input into our systems in real-time. ; 
+*  Developed validation routines for the purpose of testing and scrubbing incoming data. ; 
+*  Designed and developed database structure and code to support robust front-end systems. ; 
+*  Designed and developed friendly user interfaces to complex operational tools. ; 
+*  Designed and developed integrations with 3rd parties, including large transfers of data. ; 
+*  Researched and maintained legacy systems that support business operations. ; 
+*  Researched and mined historical data for the purpose of reporting and support of future business ventures. ; 
+*  Researched and enhanced legacy queries where requirements or load on the database may have changed. ;</Description>
+<StartDate id='43_3_1'><YearMonth>2012-09</YearMonth></StartDate>
+<EndDate id='43_3_2'><YearMonth>2013-11</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-mid</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='43' last_id='50' border_id='51'></TLSPAN>
+<MonthsOfWork>15</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='51_1'>Track Data Corporation</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='51_2'>
+<Municipality>Brooklyn</Municipality>
+<Region>NY</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='51_4_1'>Computer Programmer</Title>
+<OrgName id='51_1'>Track Data Corporation</OrgName>
+
+
+
+<Description>Track Data Corporation is a major financial services company that provides direct access brokerage, real-time financial market data, news, and research to institutional and individual investors.
+
+Responsible for the the Newsware system. This system provides client firms with access to major news sources with customizable filtering to match trading needs.
+There are three Newsware formats:
+*  NewsWatch a sophisticated market intelligence tool designed to extract, display and provide alerts on events affecting the financial markets. (Written in vb6) ; 
+*  NewsWare.com a web-based(html, javascript and asp) version of the NewsWatch application. ; 
+*  NewsWare API a NewsAPI tailored and designed to meet the high standards of the financial markets where milliseconds count. Available in many languages.(wrote and maintained vb6
+    and java versions)
+
+Responsible for maintenance, enhancements, and upgrades to the above systems 
+*  Enhanced systems to make code more structured and object oriented to provide for easier maintenance. ; 
+*  Separated the API code from the client code and created an ActiveX control for NewsWatch to communicate with the NewsWare servers to provide for easier maintenance and to set the groundwork for additional access to Newsware. ; 
+*  Packaged this ActiveX control/APIs for customer distribution as a separate ``NewsWare API'' product. This product was successfully sold to many clients, giving them the capability to customize the presentation of news and integrate the power of NewsWatch with their own in-house proprietary applications. ; 
+*  Took the initiative and coded these APIs in java, creating a java bean. ; 
+*  Did programming on the backend system which is coded in C++ and SQL, running on a Windows server and using a SQL Server database. ; 
+*  Wrote and updated Parsers to parse the vendor data headline, story body and tags. Parsers were coded in C++. ;</Description>
+<StartDate id='51_3_1'><YearMonth>1997-08</YearMonth></StartDate>
+<EndDate id='51_3_2'><YearMonth>2012-06</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='51' last_id='70' border_id='0'></TLSPAN>
+<MonthsOfWork>179</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType='college'>
+<SchoolName id='72_2'>Cope Institute</SchoolName>
+<LocationSummary id='72_3'>
+<Municipality>NY</Municipality>
+<Region>NY</Region>
+<CountryCode>US</CountryCode>
+</LocationSummary>
+
+
+<Degree degreeType='some college'>
+<DegreeName id='72_1'>Diploma</DegreeName>
+<DegreeDate id='72_4'><YearMonth>1997-06</YearMonth></DegreeDate>
+</Degree>
+
+
+
+
+
+</SchoolOrInstitution>
+
+</EducationHistory>
+
+
+
+
+
+
+
+
+
+
+
+<Competency oids='20 34 40 50 69 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>202</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Server</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MS-SQLServer</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='12 25 66 70 ' description='Skill > IT' auth='yes' name='C++'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>179</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='11 24 55 ' description='Skill > IT' auth='yes' name='Visual Basic 6'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>179</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VB6</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>71</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='18 32 67 ' description='Skill > IT' auth='yes' name='SQL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>179</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='9 22 48 ' description='Skill > IT' auth='yes' name='Microsoft C-SHARP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='YEAR' lastUsed='2013'><NumericValue description='YEAR'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>16 years experience in C#</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>C#</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>C# .NET</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='14 27 58 ' description='Skill > IT' auth='yes' name='JavaScript'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>179</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>70</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='16 28 57 ' description='Skill > IT' auth='yes' name='HTML'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>179</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>71</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='62 64 ' description='Skill' auth='no' name='easier maintenance'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>179</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='10 23 ' description='Skill > IT' auth='yes' name='Visual Basic .NET'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VB.NET</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='54 59 ' description='Skill' auth='yes' name='Money Markets'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>179</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>financial markets</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>72</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='35 68 ' description='Skill > IT' auth='yes' name='Microsoft Windows'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>179</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>windows platform</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='13 26 ' description='Skill > IT' auth='yes' name='Java'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='63 65 ' description='Skill > IT' auth='yes' name='ActiveX'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>179</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='17 30 ' description='Skill > IT' auth='yes' name='Active Server Pages'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ASP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='42 ' description='Skill' auth='no' name='manage all resources'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='41 ' description='Skill' auth='no' name='giving management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>93</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='47 ' description='Skill' auth='no' name='develop robust applications'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>15</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='60 ' description='Skill' auth='no' name='Responsible for maintenance'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>179</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='61 ' description='Skill > IT' auth='yes' name='Object Oriented Analysis/Design'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>179</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>object oriented</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='19 ' description='Skill > IT' auth='yes' name='ODBC'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='68 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2000 Server'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>179</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='49 ' description='Skill > IT' auth='yes' name='Microsoft Visual Studio'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>15</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Visual Studio</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='8 ' description='Skill > IT' auth='yes' name='Microsoft .NET Technology'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='YEAR'><NumericValue description='YEAR'>2</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2 years experience in .NET</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='29 ' description='Skill > IT' auth='yes' name='DHTML'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='31 ' description='Skill > IT' auth='yes' name='Cascading Style Sheets'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>CSS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='53 ' description='Skill' auth='yes' name='Brokerage'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>179</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>73</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='15 ' description='Skill > IT' auth='yes' name='AJAX'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='33 ' description='Skill > IT' auth='yes' name='ADO'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ADO.NET</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='7_1 37_4_1 39_3 46_2 ' description='Held Position' auth='no' name='Senior programmer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>23</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>a senior programmer</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>97</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='37_4_2 39_2 ' description='Held Position' auth='no' name='Consultant'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>8</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>a consultant</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>94</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='43_4_1 ' description='Held Position' auth='no' name='Senior Programmer/Analyst'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>15</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='51_4_1 ' description='Held Position' auth='no' name='Computer Programmer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>179</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>73</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='72_1 ' description='Degree/Qualification' auth='no' name='Diploma'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency description='Industry' auth='yes' name='industry~it'>
+<CompetencyEvidence name='skillCount' typeDescription='skillCount'><NumericValue>3</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+</Competency>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<RevisionDate id='1'>2014-07-03</RevisionDate>
+</StructuredXMLResume>
+<NonXMLResume>
+
+<TextResume>
+
+
+
+<span inprof='n' id='1' class='date'>{{DOCUMENT_DATESTAMP}} 2014-7-3 {{END_DOCUMENT_DATESTAMP}}</span>
+
+
+<span inprof='y' id='2' class='nominal'>Meir Dinkels</span>
+
+
+<span inprof='y' id='3' class='location'>403 8 St., Lakewood, NJ 08701</span>        <span inprof='y' id='4' class='email'>mdinks120@verizon.net</span>        <span inprof='y' id='5' class='telephone'>732-364-9639</span>
+
+
+<span inprof='n' id='6' class='objectives-mark'>Summary</span>
+
+<span inprof='y' id='7_1' class='role'>Senior programmer</span> with <span inprof='y' id='8' class='sofwr'>2 years experience in .NET</span> and total of <span inprof='y' id='9' class='sofwr'>16 years experience in C#</span>, <span inprof='y' id='10' class='sofwr'>VB.NET</span>, <span inprof='y' id='11' class='sofwr'>VB6</span>, <span inprof='y' id='12' class='sofwr'>C++</span>, <span inprof='y' id='13' class='sofwr'>JAVA</span>, <span inprof='y' id='14' class='sofwr'>JAVASCRIPT</span>, <span inprof='y' id='15' class='sofwr'>AJAX</span>, <span inprof='y' id='16' class='sofwr'>HTML</span> and <span inprof='y' id='17' class='sofwr'>ASP</span>, on windows, with experience in <span inprof='y' id='18' class='sofwr'>SQL</span> and <span inprof='y' id='19' class='sofwr'>ODBC</span> using a <span inprof='y' id='20' class='sofwr'>SQL Server</span> database.
+
+<span inprof='n' id='21' class='skills-qualif-mark'>Skills</span>
+
+<span inprof='y' id='22' class='sofwr'>C#</span>, <span inprof='y' id='23' class='sofwr'>VB.NET</span>, <span inprof='y' id='24' class='sofwr'>VB6</span>, <span inprof='y' id='25' class='sofwr'>C++</span>, <span inprof='y' id='26' class='sofwr'>JAVA</span>, <span inprof='y' id='27' class='sofwr'>JAVASCRIPT</span>, <span inprof='y' id='28' class='sofwr'>HTML</span>, <span inprof='y' id='29' class='sofwr'>DHTML</span>, <span inprof='y' id='30' class='sofwr'>ASP</span>, <span inprof='y' id='31' class='sofwr'>CSS</span>, <span inprof='y' id='32' class='sofwr'>SQL</span> and <span inprof='y' id='33' class='sofwr'>ADO.NET</span> using a <span inprof='y' id='34' class='sofwr'>SQL Server</span> database on a <span inprof='y' id='35' class='sofwr'>windows  platform</span>.
+
+<span inprof='n' id='36' class='work-hist-mark'>Experience</span>
+
+<span inprof='y' id='37_1' class='company'>CMT</span>, <span inprof='y' id='37_2' class='location'>Lakewood, NJ</span>                     <span inprof='y' id='37_3_1' class='date'>December 13</span> - <span inprof='y' id='37_3_2' class='date'>Current</span>
+<span inprof='y' id='37_4_1' class='role'>Senior Programmer</span>/<span inprof='y' id='37_4_2' class='role'>Consultant</span>
+
+A not-for-profit company based in <span inprof='y' id='38' class='location'>Lakewood, NJ</span>, providing for community based religious services.
+
+<span inprof='n' id='39_1' class='some-position'>As</span> <span inprof='y' id='39_2' class='role'>a consultant</span> and <span inprof='y' id='39_3' class='role'>senior programmer</span>, I am responsible for the development of ``M.A.R.S.'' - an automated reservation and resource allocation system. The system is a complex of multiple c# based management modules, asmx web services, maintenance utilities, VOXEO IVR system, and backed by <span inprof='y' id='40' class='sofwr'>MS-SQLServer</span> 2012. The purpose of the system is to allow customers to dial-in and create/manage reservations in an automated fashion, while <span inprof='y' id='41' class='skill'>giving management</span> real-time visibility and control of the process. In addition to facilitating complete integration with the phone system, it further provides a robust management console which allows live representatives to visualize and <span inprof='y' id='42' class='skill'>manage all resources</span>; to monitor all phone activity in real-time; and to intelligently configure all manner of operating hours and resource availability. Furthermore the system provides a highly configurable complex rule-engine, which allows for the stipulation of reservation restrictions designed to maintain absolute client privacy.
+
+
+
+<span inprof='y' id='43_1' class='company'>Unbeatablesale.com Inc</span>, <span inprof='y' id='43_2' class='location'>Lakewood, NJ</span>          <span inprof='y' id='43_3_1' class='date'>September 12</span> - <span inprof='y' id='43_3_2' class='date'>November 13</span>
+<span inprof='y' id='43_4_1' class='role'>Senior Programmer/Analyst</span>
+
+<span inprof='n' id='44' class='company'>Unbeatablesale.com is an e-commerce company</span> based in <span inprof='n' id='45' class='location'>Lakewood, NJ.</span> Unbeatablesale specializes in the retail segment of the web, selling millions of items across multitudes of retail and specialized web channels.
+
+Responsibilities spanned the entire range of programming duties required to support the business both internally and externally. <span inprof='n' id='46_1' class='some-position'>As</span> <span inprof='y' id='46_2' class='role'>a senior programmer</span>, I worked closely with business leaders to <span inprof='y' id='47' class='skill'>develop robust applications</span> that facilitate agility in the marketplace and allow unique propositions to be tried and executed. Worked together with IT leadership to develop often complex integrations between company and third-parties such as product-vendors and external marketplaces. Utilized technologies revolving around the Microsoft application development stack, mostly <span inprof='y' id='48' class='sofwr'>C# .NET</span>, <span inprof='y' id='49' class='sofwr'>Visual Studio</span>, and <span inprof='y' id='50' class='sofwr'>Microsoft SQL Server</span>.
+
+*  Created web-services that allow for orders to be input into our systems in real-time. ; 
+*  Developed validation routines for the purpose of testing and scrubbing incoming data. ; 
+*  Designed and developed database structure and code to support robust front-end systems. ; 
+*  Designed and developed friendly user interfaces to complex operational tools. ; 
+*  Designed and developed integrations with 3rd parties, including large transfers of data. ; 
+*  Researched and maintained legacy systems that support business operations. ; 
+*  Researched and mined historical data for the purpose of reporting and support of future business ventures. ; 
+*  Researched and enhanced legacy queries where requirements or load on the database may have changed.
+
+
+
+
+
+
+<span inprof='y' id='51_1' class='company'>Track Data Corporation</span>, <span inprof='y' id='51_2' class='location'>Brooklyn, NY</span>          <span inprof='y' id='51_3_1' class='date'>August 97</span> - <span inprof='y' id='51_3_2' class='date'>June 12</span>
+<span inprof='y' id='51_4_1' class='role'>Computer Programmer</span>
+
+<span inprof='n' id='52' class='company'>Track Data Corporation is a major financial services company</span> that provides direct access <span inprof='y' id='53' class='skill'>brokerage</span>, real-time financial market data, news, and research to institutional and individual investors.
+
+Responsible for the the Newsware system. This system provides client firms with access to major news sources with customizable filtering to match trading needs.
+There are three Newsware formats:
+*  NewsWatch a sophisticated market intelligence tool designed to extract, display and provide alerts on events affecting the <span inprof='y' id='54' class='skill'>financial markets</span>. (Written in <span inprof='y' id='55' class='sofwr'>vb6</span>) ; 
+*  <span inprof='n' id='56' class='internet-web-address'>NewsWare.com</span> a web-based(<span inprof='y' id='57' class='sofwr'>html</span>, <span inprof='y' id='58' class='sofwr'>javascript</span> and asp) version of the NewsWatch application. ; 
+*  NewsWare API a NewsAPI tailored and designed to meet the high standards of the <span inprof='y' id='59' class='skill'>financial markets</span> where milliseconds count. Available in many languages.(wrote and maintained vb6
+     and java versions)
+
+<span inprof='y' id='60' class='skill'>Responsible for maintenance</span>, enhancements, and upgrades to the above systems 
+*  Enhanced systems to make code more structured and <span inprof='y' id='61' class='sofwr'>object oriented</span> to provide for <span inprof='y' id='62' class='skill'>easier maintenance</span>. ; 
+*  Separated the API code from the client code and created an <span inprof='y' id='63' class='sofwr'>ActiveX</span> control for NewsWatch to communicate with the NewsWare servers to provide for <span inprof='y' id='64' class='skill'>easier maintenance</span> and to set the groundwork for additional access to Newsware. ; 
+*  Packaged this <span inprof='y' id='65' class='sofwr'>ActiveX</span> control/APIs for customer distribution as a separate ``NewsWare API'' product. This product was successfully sold to many clients, giving them the capability to customize the presentation of news and integrate the power of NewsWatch with their own in-house proprietary applications. ; 
+*  Took the initiative and coded these APIs in java, creating a java bean. ; 
+*  Did programming on the backend system which is coded in <span inprof='y' id='66' class='sofwr'>C++</span> and <span inprof='y' id='67' class='sofwr'>SQL</span>, running on a <span inprof='y' id='68' class='sofwr'>Windows server</span> and using a <span inprof='y' id='69' class='sofwr'>SQL Server</span> database. ; 
+*  Wrote and updated Parsers to parse the vendor data headline, story body and tags. Parsers were coded in <span inprof='y' id='70' class='sofwr'>C++</span>.
+
+<span inprof='n' id='71' class='edu-hist-mark'>Education</span>
+
+<span inprof='y' id='72_1' class='qualif'>Diploma</span> - <span inprof='y' id='72_2' class='educational'>Cope Institute</span>, <span inprof='y' id='72_3' class='location'>NY, NY</span>            <span inprof='y' id='72_4' class='date'>June `97</span>
+
+</TextResume>
+
+</NonXMLResume>
+
+
+
+<UserArea>
+<DaxResumeUserArea>
+<AdditionalPersonalData>
+<ExperienceSummary>
+<TotalMonthsOfWorkExperience>202</TotalMonthsOfWorkExperience>
+<TotalYearsOfWorkExperience>17</TotalYearsOfWorkExperience>
+<ExecutiveBrief>Meir Dinkels is a resident of Lakewood, NJ, US. He has been working in the IT  occupational sector for more than 17 years. Currently he is employed as a Senior Programmer/Consultant at CMT. Meir has extensive knowledge of Microsoft SQL Server, C++, Visual Basic 6, SQL, Microsoft C-SHARP, JavaScript, HTML, ActiveX, Object Oriented Analysis/Design, Microsoft Visual Studio. So far Meir has not gained any managerial experience.</ExecutiveBrief>
+</ExperienceSummary>
+</AdditionalPersonalData>
+<ParserInfo>
+<ParserConfiguration>{max_len=50000} {tel_flag=} {send_zip=} {fast_conv=} {DEF_LOCAL=} {sdate=0} {no_email_body=0} {do_clever_zoning=1} {keep_span=1} {complex=1} {accept_langs=} {not_accept_langs=} {prefer_lang_cv=EN} {pers_only=0} {turbo=0} {split_language=0} {picture=0} {picture_inline=0} {name_space=0} {charset=} {hrxml_upgrade_edu_hist=0}{hrxml_add_languages_section=0}{spool=} {docID=} {user=DEFAULT} </ParserConfiguration>
+<ParserRelease>0.12.3.32629</ParserRelease>
+<ParserReleaseDate>2014-06-18</ParserReleaseDate>
+<ParserSchema>2.0.29</ParserSchema>
+<ParserSchemaLocation>http://cvx.daxtra.com/cvts/xsd/candidate/2.0.29/Resume.xsd</ParserSchemaLocation>
+<ConverterRelease>0.5.2.32629</ConverterRelease>
+<ConverterReleaseDate>2014-06-18</ConverterReleaseDate>
+</ParserInfo>
+<FileStruct filename='/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/ResumeMeirDinkels.doc'>
+
+<attachment fname='ResumeMeirDinkels.doc' ftype='doc' conv='yes' doc_type='cv' lang='EN'>/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/ResumeMeirDinkels.doc</attachment>
+
+
+</FileStruct>
+</DaxResumeUserArea>
+</UserArea>
+</Resume>

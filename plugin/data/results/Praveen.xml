@@ -1,0 +1,1854 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Resume lang='en' src='DAXTRA-CVX schema:2.0.29 release:0.12.3.32629 rdate:2014-06-18'>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+</PersonName>
+<ContactMethod>
+<Telephone id='2' type='home'>
+<InternationalCountryCode>1</InternationalCountryCode>
+<SubscriberNumber>201 977-1452</SubscriberNumber>
+<FormattedNumber>+1 201 977-1452</FormattedNumber></Telephone>
+
+<InternetEmailAddress id='4' type='main'>praveen.javalead@hotmail.com</InternetEmailAddress>
+<InternetEmailAddress id='3' type='alt'>venkat@corp2corpinc.com</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>*  9+ years of experience in architectural and programming skills in building software applications with Java, J2EE, Oracle, DB2, Windows environment. ; 
+    *  Strong experience in J2EE application development includes JSP, Servlets, JDBC, Spring, Struts, Hibernate, iBaties, JavaScript, AJAX, SOA, Web Services, SOAP, WSDL, XML/XSL ; 
+    *  Worked in Software Development Life Cycle (SDLC), Agile methodology in building software applications for multi- tier, distributed and client/server architecture, web objects, Internet applications. ; 
+    *  Worked extensively on OOP/OOAD, Design Patterns, MVC architecture, Apache Struts Framework, Spring, UML and Rational Rose. Experience in Object relational mapping tools such as Hibernate ; 
+    *  Worked extensively with databases DB2, Oracle PL/SQL, stored procedures, triggers ; 
+    *  Worked extensively on shell programming with Linux/Unix/AIX scripts ; 
+    *  Experience in Integration &#38; deployment of J2EE Applications on WebLogic, WebSphere, Apache Tomcat servers ; 
+    *  Experience in Installation, configuration, performance tuning, trouble shooting in database and application servers. ; 
+    *  Extensive development experiences with IDEs such as Eclipse, RAD, WSAD, Flex Builder, NetBeans ; 
+    *  Industry experience includes financial, insurance, retail and travel areas. ;</ExecutiveSummary>
+
+
+<EmploymentHistory>
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='145_1'>Western Union</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='145_2'>
+<Region>NJ</Region>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+
+<OrgName id='145_1'>Western Union</OrgName>
+
+
+
+<Description>Project: WUPOS (Western Union Point of Sales)
+Role: Portfolio Lead &#38; Onsite Application Lead
+
+Description:
+    WUPOS is a browser-based thin client application used by WU agents to send and pay out money, pay bills and perform other financial services on behalf of customers. It prints transaction receipts and provides reports such as listing the agent's activity. WUPOS is used in 200+ countries with 28 languages. WUPOS offers Customer to Customer (C2C), Customer to Business (C2B), Bank to Customer (B2C).
+
+WUPOS Support Following Brands:
+    *  Western Union (global) ; 
+    *  Orandi Valuta (focuses Mexico / Central America) ; 
+    *  Vigo (primarily Latin American with presence in several other countries)
+
+Responsibilities:
+    *  Project estimations and Proposals.
+    *  Project forecast &#38; Demand Management. ; 
+    *  Involving in requirement analysis, designing, coding, and testing. ; 
+    *  Creating the high level architectural, detail design using UML, Microsoft Visio ; 
+    *  Tracking Offshore development progress and responsible for the deliverables as per the client commitments. ; 
+    *  Daily and weekly meeting with clients to update the day to day status progress. ; 
+    *  Guiding the Onsite and Offshore team. ; 
+    *  Arranged the Sessions on project business session and technical sessions. ; 
+    *  Involved in the QA, UAT and Production Support. ; 
+    *  Involved in the Release management process.
+
+Environment: Java1.6, Tapestry Framework 5, Jetty 6 Application server, Spring Framework 2.5 &#38; Spring Security 2.0.4, JQuery 1.3, CSS, AJAX, grids 1.0.5, transactions, Memcache, AOP 2.5, Quartz, Hibernate 3.2, SOAP, Webservices 1.5.9, Oracle 10g, IntelliJ Dev Studio 12.0.4, Sonar 3.2.1, Junit 4.5, Selenium 1.0.5, Bamboo, Maven, SVN.</Description>
+<StartDate id='145_3_1'><YearMonth>2011-07</YearMonth></StartDate>
+<EndDate id='145_3_2'>notApplicable</EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='145' last_id='175' border_id='176'></TLSPAN>
+<MonthsOfWork>36</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='176_1'>Bloomberg</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='176_2'>
+<Municipality>New York</Municipality>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='177_2'>Lead/Application Developer</Title>
+<OrgName id='176_1'>Bloomberg</OrgName>
+
+
+
+<Description>Project: CDAP Config Tool
+Role: Lead/Application Developer
+
+Description:
+    Bloomberg service is a global 24-hour-a-day financial information network providing real-time and historical pricing, indicative and fundamental data and analytics. The data collected from the data providers are send to the backend ticker plant after being processed by the parsers. The team is involved in the development of index file generator and search index algorithms for CDAP parser. These are used for enhancing the search options in the pkt-view tool. Currently working in CDAP Parser configuration management tool.
+
+CDAP is the Three Tier Architecture:
+    *  GUI Layer.
+    *  Web Service Layer
+    *  Database Layer ; 
+    *  CDAP tool is used to maintain the application configuration files and setup and deploy the configuration files.
+
+Responsibilities:
+    *  Creation of XML files based on a given Schema (XSD) ; 
+    *  Editing the Xml Files in Html format using jQuery ; 
+    *  Developed and Consumed Web Services in Axix2 Server ; 
+    *  Implementation of Ajax Calls to Server using DWR
+To develop a web based tool so that the XML data can be edited and updated through html using XPATH
+    *  Integrated jQuery plug-in for Grid, Table and scroll bar auto fill
+
+Environment: Java, J2EE, JDK 1.6, JEE, JSP, JavaScript, Web Services, WSDL, SOA, SOAP, XML, XSD, XSL, XSLT, jQuery, JDBC, JUnit 4.0, Oracle 10G, Eclipse, Agile, Maven v2.2.1, Log4J v1.2.x, Solaris 2.5.10, SMTP, HTML, UML, Microsoft Visio,  HP Quality Center.</Description>
+<StartDate id='176_3_1'><YearMonth>2010-09</YearMonth></StartDate>
+<EndDate id='176_3_2'><YearMonth>2011-06</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='176' last_id='215' border_id='216'></TLSPAN>
+<MonthsOfWork>10</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='216_1'>VIA Rail</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='216_2'>
+<CountryCode>CA</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='217_2'>Senior Developer</Title>
+<OrgName id='216_1'>VIA Rail</OrgName>
+
+
+
+<Description>Project: CRRS (Central Railway Reservation System)
+Role: Senior Developer
+
+Description:
+    CRRS - ticketing system is to provide efficient online services to the passengers. CRRS application will provide following service to the passengers. CRRS intends to procure a complete Reservation and Yield Management Solution to meet current requirement.
+
+Responsibilities:
+    *  Involved in project design, coding functional presentations to the team, users. ; 
+    *  Followed the iterative process methodology. ; 
+    *  Created the high level architectural design, workflow and use case, class diagrams using UML, Microsoft Visio ; 
+    *  Developed modules by using Java, Struts, HTTP, XML, XSD, JSP, jQuery, JDBC, MVC, and Tomcat. ; 
+    *  Followed design patterns, MVC architecture in designing the UI and data components ; 
+    *  SQL and stored procedures by using DB2. Used Log4J to trace log statements. ; 
+    *  Used Ant for purpose of build. Testing various components by JUnit framework ; 
+    *  Used Microsoft Visual Source Safe for repository, version control management. ; 
+    *  Inventory management for administrator
+    *  Client profile management.
+    *  Pricing Model ; 
+    *  Food preference selection to the passengers. ; 
+    *  Report generation for the administrator and passengers. ; 
+    *  Daily and weekly meeting with clients to update the day to day status progress. ; 
+    *  Arranged the Sessions on project business session and technical sessions. ; 
+    *  Involved in the QA, UAT and Production Support
+
+Environment: Java, JSP, Struts, Spring, MyEclips7.5, iText2.1, iBatis and Birt Viewer, JDK 1.6, JEE, JSP, JavaScript, JDBC, JUnit 4.0, Oracle 10G, Eclipse, Agile, Maven v2.2.1, Log4J v1.2.x, Solaris 2.5.10, SMTP, HTML, UML, HP Quality Center.</Description>
+<StartDate id='216_3_1'><YearMonth>2009-05</YearMonth></StartDate>
+<EndDate id='216_3_2'><YearMonth>2010-08</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-mid</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='216' last_id='269' border_id='270'></TLSPAN>
+<MonthsOfWork>16</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='270_1'>Toys R Us</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='270_2'>
+<Region>New Jersey</Region>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='271_2'>Lead/Application Developer</Title>
+<OrgName id='270_1'>Toys R Us</OrgName>
+
+
+
+<Description>Project: Wish List
+Role: Lead/Application Developer
+
+Description:
+    Toys R Us offers a convenient online and in-store baby registry that eliminates guesswork and geographic barriers from gift buying. Friends and relatives can easily go to any store location or to www.toysrus.com to select, buy and send the right gift directly to the expectant parents. The scope of project includes Business Process Improvements providing users additional information and a better flow and new set of features (like timely feedback regarding a products transition to unavailability). Addressing existing issues in the application (like providing accurate Zip/Postal Code Validation based on country selected by the user).Enterprise Data Warehouse changes that includes update of EDW data model per registry data model changes and update in corresponding EDW interfaces. The functionalities which are providing for Wish List has to provide for third party vendors (GSI, KIOSE, and Node3 Applications) through Web Service.
+
+Responsibilities:
+    *  Requirement gathering with the client through mails and daily calls. ; 
+    *  Created the high level architectural design, workflow and use case, class diagrams using UML, Microsoft Visio ; 
+    *  Created new Web service and consumed Web service by using Java, Jax ws, HTTP, XML, XSD, JSP, jQuery, JDBC, Apache Ant 1.8, RSA, MVC, WebSphere, Oracle, Linux ; 
+    *  Followed design patterns, MVC architecture in designing the UI and data components ; 
+    *  Creating WSDL &#38; XSD file based on client requirements. ; 
+    *  Developing Web Services using RSA tool. ; 
+    *  Given training in Web Service for the team and external projects. ; 
+    *  Developed stored procedures. ; 
+    *  Daily and weekly meeting with clients to update the day to day status progress. ; 
+    *  Arranged the Sessions on project business session and technical sessions.
+
+Environment: JDK 1.6, JEE, JSP, JavaScript, Web Services, WSDL, SOA, SOAP, XML, XSD, XSL, XSLT, MQSeries, JDBC, JUnit 4.0, Unix Scripts, Oracle 10G, Eclipse, Agile, Maven v2.2.1, Log4J v1.2.x,  SMTP, HTML, UML, Microsoft Visio, HP Quality Center.Java, WSDL, XML, XSD, Web sphere 6.1, Oracle, UNIX, RAD7.0, Rational XDE, CVS.</Description>
+<StartDate id='270_3_1'><YearMonth>2008-05</YearMonth></StartDate>
+<EndDate id='270_3_2'><YearMonth>2009-04</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='270' last_id='336' border_id='337'></TLSPAN>
+<MonthsOfWork>12</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='337_1'>Sanlam</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='337_2'>
+<CountryCode>ZA</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='340_2'>Developer</Title>
+<OrgName id='337_1'>Sanlam</OrgName>
+
+
+
+<Description>Project: CCA (Contact Centre Application)
+Role: Developer &#38; Back up DBA
+
+Description:
+    The aim of this project is to develop a desktop application for Call Centre Employees of Sanlam. The employees should be able to login the user requests and process the requests using this application.
+
+    There are three different modules in the application
+    *  User Interface Layer
+    *  Process Layer
+    *  Component Layer
+
+    Application is designed using SOA architecture. The application consists of the following Layers
+    *  Component/Service Layer on which various services will be running ; 
+    *  Process Layer which communicates between UI and Component Layer ; 
+    *  User Interface Layer  is the entry point of user and invokes services through process Layer
+
+    Apart from the above, there were some batch programs for batch processing during night and day.
+
+Responsibilities:
+    *  Creating ER diagrams. ; 
+    *  Database creation and maintenance in development, testing and performance testing phases. ; 
+    *  Database backup and restore activity. ; 
+    *  Involved in performance improvement &#38; testing ; 
+    *  Query tuning - modifying SQLs, identifying indexes. ; 
+    *  Monitoring Buffer pool size and table spaces. ; 
+    *  Optimizing java code
+
+Environment: Java, J2EE, JDK1.4, J2EE1.4, EJB2.1, JDBC, XML, Oracle8, TOAD, CSS, Visual SourceSafe 4.0, Windows 2000, CVS, Master Craft 7.0.</Description>
+<StartDate id='337_3_1'><YearMonth>2006-12</YearMonth></StartDate>
+<EndDate id='337_3_2'><YearMonth>2007-12</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='337' last_id='359' border_id='360'></TLSPAN>
+<MonthsOfWork>12</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='360_1'>Sanlam</EmployerOrgName>
+<EmployerContactInfo>
+<LocationSummary id='360_2'>
+<CountryCode>ZA</CountryCode>
+</LocationSummary>
+</EmployerContactInfo>
+<PositionHistory positionType='PERMANENT'>
+<Title id='361_2'>Developer</Title>
+<OrgName id='360_1'>Sanlam</OrgName>
+
+
+
+<Description>Project: KOM++ (Commission Maintenance System)
+Role: Developer
+
+Description    :
+KOM++ is a product developed for the Sanlam to calculate the commissions for the intermediaries who deals with the policy holders. The system will calculate the commissions to be issued during Policy Creation, Policy Termination and various events associated with Policy
+
+Responsibilities:
+    *  Processing of Commissions to Intermediaries based on commissionable events. ; 
+    *  Scheduling of commission payments.
+    *  Creation of Commission Payment Entries.
+    *  Online Enquires and Manual Adjustments.
+    *  Online screens to correct any error events.
+    *  Screens for Reports Generation. ; 
+    *  Batch Programs for projecting the future payments
+
+Environment: J2EE, WebSphere 6.0, DB2 8.0, Windows, MasterCraft 7.0, Eclipse.</Description>
+<StartDate id='360_3_1'><YearMonth>2005-05</YearMonth></StartDate>
+<EndDate id='360_3_2'><YearMonth>2006-12</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='360' last_id='368' border_id='0'></TLSPAN>
+<MonthsOfWork>20</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType='university'>
+<SchoolName id='134_2'>Jawaharlal Nehru University</SchoolName>
+
+
+
+<Degree degreeType='bachelors'>
+<DegreeName id='134_1'>Bachelor of Computer Science</DegreeName>
+
+</Degree>
+
+
+
+
+<Comments>*  Master of Business Administration in Human Resource Management - Osmania University.
+
+TECHNICAL CERTIFICATIONS:
+    *  Brainbench Certification in Java 2 Fundamentals, Java 2 Platform Enterprise Edition 1.4 ; 
+    *  Oracle Certified Professional, Java SE 6 Programmer (SCJP). ; 
+    *  Certification on Ruby on Rails from Experts ;</Comments>
+</SchoolOrInstitution>
+
+<SchoolOrInstitution schoolType='university'>
+<SchoolName id='135_2'>Osmania University</SchoolName>
+
+
+
+<Degree degreeType='masters'>
+<DegreeName id='135_1'>Master of Business Administration</DegreeName>
+
+</Degree>
+<Major id='135_1'>Human Resource Management</Major>
+
+
+
+<Comments>TECHNICAL CERTIFICATIONS:
+    *  Brainbench Certification in Java 2 Fundamentals, Java 2 Platform Enterprise Edition 1.4 ; 
+    *  Oracle Certified Professional, Java SE 6 Programmer (SCJP). ; 
+    *  Certification on Ruby on Rails from Experts ;</Comments>
+</SchoolOrInstitution>
+
+</EducationHistory>
+
+
+
+
+
+
+
+
+
+
+
+<Competency oids='28 78 90 181 185 197 226 287 311 331 353 ' description='Skill > IT' auth='yes' name='XML'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>50</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>72</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='25 75 170 193 277 283 284 302 307 ' description='Skill > IT' auth='yes' name='Web Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>58</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Webservices 1.5.9 1.5.9</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Web Service</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='9 80 162 187 223 247 285 329 347 ' description='Skill > IT' auth='yes' name='Java'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>86</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Java 1.6 1.6</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='40 114 155 213 221 268 281 326 ' description='Skill > IT' auth='yes' name='UML/OMT'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>74</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>UML</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>97</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='15 67 191 228 248 255 289 305 ' description='Skill > IT' auth='yes' name='Java Server Pages'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>38</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>JSP</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>JSP 2.0 2.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='10 14 50 62 188 348 350 363 ' description='Skill > IT' auth='yes' name='Java 2 Enterprise Edition'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>42</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>J2EE</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>J2EE1.4 1.4</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='17 84 202 230 257 291 316 352 ' description='Skill > IT' auth='yes' name='JDBC'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>50</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='182 198 227 288 301 312 332 ' description='Skill > IT' auth='yes' name='XML Schema'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>38</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>XSD</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>72</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='77 165 184 201 229 290 ' description='Skill > IT' auth='yes' name='jQuery'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>74</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>JQuery 1.3 1.3</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='115 156 214 222 282 327 ' description='Skill > IT' auth='yes' name='Microsoft Visio'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>74</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='122 173 203 238 258 317 ' description='Skill > IT' auth='yes' name='JUnit'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>74</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>JUnit 4</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Junit 4.5 4.5</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>JUnit 4.0 4.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>JUnit framework</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='56 111 205 260 320 368 ' description='Skill > IT' auth='yes' name='ECLiPSe'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>58</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='27 194 300 308 330 ' description='Skill > IT' auth='yes' name='WSDL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>66</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='19 38 72 224 249 ' description='Skill > IT' auth='yes' name='Struts Web Application Framework'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Struts</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Apache Struts Framework</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='18 39 73 163 250 ' description='Skill > IT' auth='yes' name='Spring Framework'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>52</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Spring</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Spring Framework3.0 3.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Spring Framework 2.5 2.5</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='24 74 195 309 344 ' description='Skill > IT' auth='yes' name='Service Oriented Architecture'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>34</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SOA</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='26 97 169 196 310 ' description='Skill > IT' auth='yes' name='SOAP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>58</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='37 231 234 294 299 ' description='Skill > IT' auth='yes' name='MVC'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='22 71 192 256 306 ' description='Skill > IT' auth='yes' name='JavaScript'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>38</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='88 183 212 267 325 ' description='Skill > IT' auth='yes' name='HTML'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>38</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>71</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='12 43 98 237 365 ' description='Skill > IT' auth='yes' name='DB2'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>DB2 v8.1 v8.1</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>DB2 8.0 8.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='29 91 199 313 ' description='Skill > IT' auth='yes' name='XSL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>66</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='171 204 259 319 ' description='Skill > IT' auth='yes' name='Oracle 10G'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>74</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='11 99 296 333 ' description='Skill > IT' auth='yes' name='Oracle'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='70 190 254 304 ' description='Skill > IT' auth='yes' name='Java Enterprise Edition'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>38</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>JEE 5 5</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>JEE</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='189 253 303 349 ' description='Skill > IT' auth='yes' name='JDK'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>50</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>JDK 1.6 1.6</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>JDK1.4 1.4</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='53 116 295 364 ' description='Skill > IT' auth='yes' name='IBM WebSphere'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>32</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>WebSphere</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IBM WebSphere 6.1 6.1</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>WebSphere 6.0 6.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='20 42 129 168 ' description='Skill > IT' auth='yes' name='Hibernate'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Hibernate 3.x 3.x</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Hibernate 3.2 3.2</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='126 215 269 328 ' description='Skill > IT' auth='no' name='HP Quality Center 10.0'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>38</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>HP Quality Center 10.0 10.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>HP Quality Center</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='174 207 262 322 ' description='Skill > IT' auth='yes' name='Apache Maven'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>74</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Maven</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Maven v2.2.1 v2.2.1</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='48 107 334 ' description='Skill > IT' auth='yes' name='UNIX'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='211 266 324 ' description='Skill > IT' auth='yes' name='SMTP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>38</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='65 86 143 ' description='Skill > IT' auth='yes' name='Ruby on Rails'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='57 109 335 ' description='Skill > IT' auth='yes' name='Rapid Application Development RAD'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>RAD</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>RAD6.1 6.1</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>RAD7.0 7.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='208 263 323 ' description='Skill > IT' auth='yes' name='Log4j'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>38</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Log4J v1.2.x v1.2.x</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='54 120 232 ' description='Skill > IT' auth='yes' name='Jakarta TOMCAT Servlet Engine'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Apache Tomcat</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Tomcat 5.0 5.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Tomcat</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='95 225 286 ' description='Skill > IT' auth='yes' name='HTTP'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='274 275 276 ' description='Skill > IT' auth='yes' name='EDW'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Enterprise Data Warehouse</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='124 336 359 ' description='Skill > IT' auth='yes' name='CVS'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>24</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>48</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='206 261 321 ' description='Skill > IT' auth='no' name='Agile'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>38</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>69</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='23 87 167 ' description='Skill > IT' auth='yes' name='AJAX'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='130 251 ' description='Skill > IT' auth='yes' name='iBATIS'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>iBATIS 2.2.0 2.2.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='219 279 ' description='Skill' auth='no' name='architectural design'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>54</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='200 314 ' description='Skill > IT' auth='yes' name='XSLT'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>66</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='58 110 ' description='Skill > IT' auth='yes' name='WebSphere Studio Application Developer'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>WSAD</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>WSAD5.1 5.1</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='160 245 ' description='Skill' auth='yes' name='User Acceptance Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>52</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>UAT and</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='209 264 ' description='Skill > IT' auth='yes' name='Sun Solaris'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>26</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Solaris</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='45 236 ' description='Skill > IT' auth='yes' name='Stored Procedures'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='41 113 ' description='Skill > IT' auth='yes' name='Rational Rose'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='131 132 ' description='Skill > IT' auth='yes' name='RUP'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Rational Unified Process</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>(RUP)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='161 246 ' description='Skill' auth='no' name='Production Support'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>52</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='51 339 ' description='Skill > IT' auth='yes' name='Oracle Applications'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Applications</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Application</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>23</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='34 35 ' description='Skill > IT' auth='yes' name='Object Oriented Analysis/Design'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>OOP</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>OOAD</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='104 358 ' description='Skill > IT' auth='yes' name='Microsoft Windows 2000 Professional'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2000</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows 2000</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='13 366 ' description='Skill > IT' auth='yes' name='Microsoft Windows'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows environment</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='125 357 ' description='Skill > IT' auth='yes' name='MS Visual SourceSafe'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Microsoft Visual Source Safe 4.0 4.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Visual SourceSafe 4.0 4.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='47 297 ' description='Skill > IT' auth='yes' name='Linux'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='16 82 ' description='Skill > IT' auth='yes' name='Java Servlets'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Servlets</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='138 139 ' description='Skill > IT' auth='yes' name='Java 2'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Java 2 Fundamentals</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='233 298 ' description='Skill' auth='no' name='Followed design'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='68 351 ' description='Skill > IT' auth='yes' name='Enterprise Java Beans'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>EJB 3.0 3.0</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>EJB2.1 2.1</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='220 280 ' description='Skill > IT' auth='yes' name='Class Diagrams'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>28</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>53</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='166 356 ' description='Skill > IT' auth='yes' name='Cascading Style Sheets'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>48</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>CSS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='123 175 ' description='Skill > IT' auth='yes' name='Apache Subversion'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Subversion1.4 1.4</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SVN</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='49 106 ' description='Skill > IT' auth='yes' name='AIX UNIX'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>AIX</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='239 ' description='Skill' auth='no' name='version control management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='46 ' description='Skill' auth='yes' name='shell scripting'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>shell programming</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='158 ' description='Skill' auth='no' name='responsible for the deliverables'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='218 ' description='Skill' auth='no' name='project design'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='8 ' description='Skill' auth='no' name='programming skills'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='346 ' description='Skill' auth='no' name='performance testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>19</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='21 ' description='Skill > IT' auth='no' name='iBaties'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='179 ' description='Skill' auth='no' name='development of index file generator and search index algorithms'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>10</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>68</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='342 ' description='Skill' auth='no' name='develop a desktop application'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='154 ' description='Skill' auth='no' name='detail design'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>96</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='345 ' description='Skill' auth='no' name='batch processing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>20</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='186 ' description='Skill > IT' auth='yes' name='XPath'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>10</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>63</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='89 ' description='Skill > IT' auth='yes' name='XHTML'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='121 ' description='Skill > IT' auth='yes' name='WebSphere MQ Portal'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IBM WebSphere Portal 6.1 6.1</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='315 ' description='Skill > IT' auth='yes' name='WebSphere MQ'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MQSeries</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='52 ' description='Skill > IT' auth='yes' name='WebLogic Enterprise Application Server'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>WebLogic</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='149 ' description='Skill' auth='no' name='WUPOS Support'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>99</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='92 ' description='Skill > IT' auth='yes' name='VoIP (Voice over IP)'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VoIP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='318 ' description='Skill > IT' auth='no' name='Unix Scripts'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='355 ' description='Skill > IT' auth='yes' name='TOAD'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='93 ' description='Skill > IT' auth='yes' name='TCP/IP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='164 ' description='Skill > IT' auth='no' name='Spring Security 2.0.4'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Spring Security 2.0.4 2.0.4</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='30 ' description='Skill > IT' auth='yes' name='Software Development Life Cycle'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='235 ' description='Skill > IT' auth='yes' name='SQL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='94 ' description='Skill > IT' auth='yes' name='SNMP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='31 ' description='Skill > IT' auth='yes' name='SDLC'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>(SDLC)</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='278 ' description='Skill' auth='yes' name='Requirements Gathering'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Requirement gathering</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='153 ' description='Skill' auth='yes' name='Requirements Analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>requirement analysis</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>97</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='293 ' description='Skill > IT' auth='no' name='RSA'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='180 ' description='Skill' auth='no' name='Parser configuration management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>10</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>67</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='128 ' description='Skill > IT' auth='yes' name='PVCS Tracker'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='127 ' description='Skill > IT' auth='no' name='PTMS'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='117 ' description='Skill > IT' auth='no' name='Oracle WebLogic 10.3'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Oracle WebLogic 10.3 10.3</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='44 ' description='Skill > IT' auth='yes' name='Oracle PL/SQL'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='354 ' description='Skill > IT' auth='yes' name='Oracle 8'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='102 ' description='Skill > IT' auth='no' name='Operating Systems'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='157 ' description='Skill' auth='no' name='Offshore development'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='159 ' description='Skill' auth='yes' name='Offshore Oil &#38; Gas'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Offshore</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='81 ' description='Skill' auth='no' name='Network Programming'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='60 ' description='Skill > IT' auth='yes' name='NetBeans'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='103 ' description='Skill > IT' auth='yes' name='Microsoft Windows XP'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Windows XP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='105 ' description='Skill > IT' auth='yes' name='Microsoft Windows NT'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>NT</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='101 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server 2000'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>2000</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='100 ' description='Skill > IT' auth='yes' name='Microsoft SQL Server'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>SQL Server</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='367 ' description='Skill > IT' auth='no' name='MasterCraft 7.0'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2006'><NumericValue description='MONTH'>20</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>MasterCraft 7.0 7.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>23</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='118 ' description='Skill > IT' auth='yes' name='Jboss'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>JBoss 4.0 4.0</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='69 ' description='Skill > IT' auth='yes' name='JavaServer Faces'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>JSF1.2 1.2</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='85 ' description='Skill > IT' auth='yes' name='Java RMI'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>RMI</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='76 ' description='Skill > IT' auth='yes' name='JSON'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='83 ' description='Skill > IT' auth='no' name='JDO'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='240 ' description='Skill' auth='yes' name='Inventory Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='172 ' description='Skill > IT' auth='yes' name='IntelliJ IDEA'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IntelliJ</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>95</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency description='Skill > IT' auth='yes' name='IBM Hardware'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IBM</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='243 ' description='Skill' auth='no' name='Food preference selection'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='148 ' description='Skill' auth='yes' name='Financial Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='96 ' description='Skill > IT' auth='yes' name='FTP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='55 ' description='Skill' auth='no' name='Extensive development'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='36 ' description='Skill > IT' auth='no' name='Design Patterns'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='152 ' description='Skill' auth='no' name='Demand Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>36</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>98</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='341 ' description='Skill' auth='yes' name='Database Administration'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>DBA</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='33 ' description='Skill' auth='yes' name='Client/Server'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='242 ' description='Skill' auth='no' name='Client profile management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='252 ' description='Skill > IT' auth='no' name='Birt Viewer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='119 ' description='Skill > IT' auth='yes' name='Apache WEB Server'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Apache</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='292 ' description='Skill > IT' auth='yes' name='Ant'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Apache Ant 1.8 1.8</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='32 ' description='Skill > IT' auth='yes' name='Agile Methodology'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='177_2 271_2 ' description='Held Position' auth='no' name='Lead/Application Developer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2011'><NumericValue description='MONTH'>22</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>71</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='64_1 142_1 ' description='Held Position' auth='no' name='Java SE 6 Programmer'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='340_2 361_2 ' description='Held Position' auth='no' name='Developer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2007'><NumericValue description='MONTH'>32</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>27</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='217_2 ' description='Held Position' auth='no' name='Senior Developer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2010'><NumericValue description='MONTH'>16</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>51</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='1_1 ' description='Held Position' auth='no' name='Lead Java Application Developer'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='59_1 ' description='Held Position' auth='no' name='Flex Builder'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='63 141 ' description='Degree/Qualification > Professional' auth='yes' name='Oracle Certified Professional'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='136 ' description='Degree/Qualification > Professional' auth='no' name='TECHNICAL CERTIFICATIONS'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='108 ' description='Degree/Qualification > Professional' auth='yes' name='Royal Society of Arts'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>IBM RSA</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='135_1 ' description='Degree/Qualification' auth='yes' name='Masters Degree > Master of Business Administration > Master of Business Administration Human Resource Management'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='Human Resource Management'><StringValue>Human Resource Management</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Master of Business Administration in Human Resource Management</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='61 ' description='Degree/Qualification > Professional' auth='no' name='Brainbench certification in Java'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='137 ' description='Degree/Qualification > Professional' auth='no' name='Brainbench Certification'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='134_1 ' description='Degree/Qualification' auth='yes' name='Bachelors Degree > Bachelor of Computer Sciences'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Bachelor of Computer Science</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency description='Industry' auth='yes' name='industry~it'>
+<CompetencyEvidence name='skillCount' typeDescription='skillCount'><NumericValue>6</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+</Competency>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<RevisionDate id='5'>2014-07-07</RevisionDate>
+</StructuredXMLResume>
+<NonXMLResume>
+
+<TextResume>
+
+
+
+{{HEADER}}
+
+
+
+Praveen
+
+<span inprof='y' id='1_1' class='role'>Lead Java Application Developer</span>
+<span inprof='y' id='2' class='telephone'>(201) 977-1452</span>
+<span inprof='y' id='3' class='email'>venkat@corp2corpinc.com</span>
+; <span inprof='y' id='4' class='email'>praveen.javalead@hotmail.com</span>
+
+Looking for Opportunities only in NJ/NY/PA
+
+
+
+
+
+{{END_HEADER}}
+
+<span inprof='n' id='5' class='date'>{{DOCUMENT_DATESTAMP}} 2014-7-7 {{END_DOCUMENT_DATESTAMP}}</span>
+
+
+
+<span inprof='n' id='6' class='work-hist-mark'>PROFESSIONAL SUMMARY:</span>
+    *  <span inprof='n' id='7' class='duration'>9+ years</span> of experience in architectural and <span inprof='y' id='8' class='skill'>programming skills</span> in building software applications with <span inprof='y' id='9' class='sofwr'>Java</span>, <span inprof='y' id='10' class='sofwr'>J2EE</span>, <span inprof='y' id='11' class='sofwr'>Oracle</span>, <span inprof='y' id='12' class='sofwr'>DB2</span>, <span inprof='y' id='13' class='sofwr'>Windows environment</span>. ; 
+    *  Strong experience in <span inprof='y' id='14' class='sofwr'>J2EE</span> application development includes <span inprof='y' id='15' class='sofwr'>JSP</span>, <span inprof='y' id='16' class='sofwr'>Servlets</span>, <span inprof='y' id='17' class='sofwr'>JDBC</span>, <span inprof='y' id='18' class='sofwr'>Spring</span>, <span inprof='y' id='19' class='sofwr'>Struts</span>, <span inprof='y' id='20' class='sofwr'>Hibernate</span>, <span inprof='y' id='21' class='sofwr'>iBaties</span>, <span inprof='y' id='22' class='sofwr'>JavaScript</span>, <span inprof='y' id='23' class='sofwr'>AJAX</span>, <span inprof='y' id='24' class='sofwr'>SOA</span>, <span inprof='y' id='25' class='sofwr'>Web Services</span>, <span inprof='y' id='26' class='sofwr'>SOAP</span>, <span inprof='y' id='27' class='sofwr'>WSDL</span>, <span inprof='y' id='28' class='sofwr'>XML</span>/<span inprof='y' id='29' class='sofwr'>XSL</span> ; 
+    *  Worked in <span inprof='y' id='30' class='sofwr'>Software Development Life Cycle</span> <span inprof='y' id='31' class='sofwr'>(SDLC)</span>, <span inprof='y' id='32' class='sofwr'>Agile methodology</span> in building software applications for multi- tier, distributed and <span inprof='y' id='33' class='skill'>client/server</span> architecture, web objects, Internet applications. ; 
+    *  Worked extensively on <span inprof='y' id='34' class='sofwr'>OOP</span>/<span inprof='y' id='35' class='sofwr'>OOAD</span>, <span inprof='y' id='36' class='sofwr'>Design Patterns</span>, <span inprof='y' id='37' class='sofwr'>MVC</span> architecture, <span inprof='y' id='38' class='sofwr'>Apache Struts Framework</span>, <span inprof='y' id='39' class='sofwr'>Spring</span>, <span inprof='y' id='40' class='sofwr'>UML</span> and <span inprof='y' id='41' class='sofwr'>Rational Rose</span>. Experience in Object relational mapping tools such as <span inprof='y' id='42' class='sofwr'>Hibernate</span> ; 
+    *  Worked extensively with databases <span inprof='y' id='43' class='sofwr'>DB2</span>, <span inprof='y' id='44' class='sofwr'>Oracle PL/SQL</span>, <span inprof='y' id='45' class='sofwr'>stored procedures</span>, triggers ; 
+    *  Worked extensively on <span inprof='y' id='46' class='skill'>shell programming</span> with <span inprof='y' id='47' class='sofwr'>Linux</span>/<span inprof='y' id='48' class='sofwr'>Unix</span>/<span inprof='y' id='49' class='sofwr'>AIX</span> scripts ; 
+    *  Experience in Integration &#38; deployment of <span inprof='y' id='50' class='sofwr'>J2EE</span> <span inprof='y' id='51' class='sofwr'>Applications</span> on <span inprof='y' id='52' class='sofwr'>WebLogic</span>, <span inprof='y' id='53' class='sofwr'>WebSphere</span>, <span inprof='y' id='54' class='sofwr'>Apache Tomcat</span> servers ; 
+    *  Experience in Installation, configuration, performance tuning, trouble shooting in database and application servers. ; 
+    *  <span inprof='y' id='55' class='skill'>Extensive development</span> experiences with IDEs such as <span inprof='y' id='56' class='sofwr'>Eclipse</span>, <span inprof='y' id='57' class='sofwr'>RAD</span>, <span inprof='y' id='58' class='sofwr'>WSAD</span>, <span inprof='y' id='59_1' class='role'>Flex Builder</span>, <span inprof='y' id='60' class='sofwr'>NetBeans</span> ; 
+    *  Industry experience includes financial, insurance, retail and travel areas. ; 
+    *  <span inprof='y' id='61' class='qualif'>Brainbench certification in Java</span>, <span inprof='y' id='62' class='sofwr'>J2EE</span> ; 
+    *  <span inprof='y' id='63' class='qualif'>Oracle Certified Professional</span>, <span inprof='y' id='64_1' class='role'>Java SE 6 Programmer</span> (SCJP). ; 
+    *  Certification on <span inprof='y' id='65' class='sofwr'>Ruby on Rails</span> from Experts
+
+<span inprof='n' id='66' class='skills-qualif-mark'>TECHNICAL SKILLS:</span>
+       Web Technologies:         <span inprof='y' id='67' class='sofwr'>JSP 2.0</span>, <span inprof='y' id='68' class='sofwr'>EJB 3.0</span>, <span inprof='y' id='69' class='sofwr'>JSF1.2</span>, <span inprof='y' id='70' class='sofwr'>JEE 5</span>, <span inprof='y' id='71' class='sofwr'>JavaScript</span>, <span inprof='y' id='72' class='sofwr'>Struts</span>, <span inprof='y' id='73' class='sofwr'>Spring Framework3.0</span>, <span inprof='y' id='74' class='sofwr'>SOA</span>, <span inprof='y' id='75' class='sofwr'>Web Services</span>, RESTful Services, JRules 6.5, <span inprof='y' id='76' class='sofwr'>JSON</span>, <span inprof='y' id='77' class='sofwr'>jQuery</span>, <span inprof='y' id='78' class='sofwr'>XML</span>
+       <span inprof='n' id='79' class='skills-qualif-mark'>Languages:</span>
+<span inprof='y' id='80' class='sofwr'>Java 1.6</span> (<span inprof='y' id='81' class='skill'>Network Programming</span>, I/O, Collections, Exceptions, Multithreading), <span inprof='y' id='82' class='sofwr'>Java Servlets</span>, <span inprof='y' id='83' class='sofwr'>JDO</span>, <span inprof='y' id='84' class='sofwr'>JDBC</span>, <span inprof='y' id='85' class='sofwr'>RMI</span>, <span inprof='y' id='86' class='sofwr'>Ruby on Rails</span>, <span inprof='y' id='87' class='sofwr'>AJAX</span>, <span inprof='y' id='88' class='sofwr'>HTML</span>, <span inprof='y' id='89' class='sofwr'>XHTML</span>, <span inprof='y' id='90' class='sofwr'>XML</span>, <span inprof='y' id='91' class='sofwr'>XSL</span>.
+       Protocols:                             <span inprof='y' id='92' class='sofwr'>VoIP</span>, <span inprof='y' id='93' class='sofwr'>TCP/IP</span>, <span inprof='y' id='94' class='sofwr'>SNMP</span>, <span inprof='y' id='95' class='sofwr'>HTTP</span>, <span inprof='y' id='96' class='sofwr'>FTP</span>, <span inprof='y' id='97' class='sofwr'>SOAP</span>.
+       Databases:                             <span inprof='y' id='98' class='sofwr'>DB2 v8.1</span>, <span inprof='y' id='99' class='sofwr'>Oracle</span>, <span inprof='y' id='100' class='sofwr'>SQL Server</span> <span inprof='y' id='101' class='sofwr'>2000</span>.
+       <span inprof='y' id='102' class='sofwr'>Operating Systems</span>:        <span inprof='y' id='103' class='sofwr'>Windows XP</span>/<span inprof='y' id='104' class='sofwr'>2000</span>/<span inprof='y' id='105' class='sofwr'>NT</span>, <span inprof='y' id='106' class='sofwr'>AIX</span>, <span inprof='y' id='107' class='sofwr'>UNIX</span>.
+       IDE:         <span inprof='y' id='108' class='qualif'>IBM RSA</span>, <span inprof='y' id='109' class='sofwr'>RAD6.1</span>, <span inprof='y' id='110' class='sofwr'>WSAD5.1</span>, <span inprof='y' id='111' class='sofwr'>Eclipse</span>, NetBean,
+                                       <span inprof='n' id='112' class='nominal'>Intelli J.</span>
+       Design Methodologies:                  <span inprof='y' id='113' class='sofwr'>Rational Rose</span>, <span inprof='y' id='114' class='sofwr'>UML</span>, <span inprof='y' id='115' class='sofwr'>Microsoft Visio</span>
+       Application Web servers:               <span inprof='y' id='116' class='sofwr'>IBM WebSphere 6.1</span>, <span inprof='y' id='117' class='sofwr'>Oracle WebLogic 10.3</span>, <span inprof='y' id='118' class='sofwr'>JBoss 4.0</span>, <span inprof='y' id='119' class='sofwr'>Apache</span>, <span inprof='y' id='120' class='sofwr'>Tomcat 5.0</span>, <span inprof='y' id='121' class='sofwr'>IBM WebSphere Portal 6.1</span>
+       Testing Tools:                         JTest, <span inprof='y' id='122' class='sofwr'>JUnit 4</span>, JSwat
+       Source Control:           GIT, <span inprof='y' id='123' class='sofwr'>Subversion1.4</span>, <span inprof='y' id='124' class='sofwr'>CVS</span>, <span inprof='y' id='125' class='sofwr'>Microsoft Visual Source Safe 4.0</span>.
+       Tracking Tools:                        <span inprof='y' id='126' class='sofwr'>HP Quality Center 10.0</span>, <span inprof='y' id='127' class='sofwr'>PTMS</span>, <span inprof='y' id='128' class='sofwr'>PVCS Tracker</span>.
+       Database Mapping:                      <span inprof='y' id='129' class='sofwr'>Hibernate 3.x</span>, <span inprof='y' id='130' class='sofwr'>iBATIS 2.2.0</span>.
+       Life Cycle Methods:             Agile Methodologies, <span inprof='y' id='131' class='sofwr'>Rational Unified Process</span> <span inprof='y' id='132' class='sofwr'>(RUP)</span>.
+
+<span inprof='n' id='133' class='edu-hist-mark'>EDUCATION:</span>
+    *  <span inprof='y' id='134_1' class='qualif'>Bachelor of Computer Science</span> -<span inprof='y' id='134_2' class='educational'>Jawaharlal Nehru University</span>. ; 
+    *  <span inprof='y' id='135_1' class='qualif'>Master of Business Administration in Human Resource Management</span> - <span inprof='y' id='135_2' class='educational'>Osmania University</span>.
+
+<span inprof='y' id='136' class='qualif'>TECHNICAL CERTIFICATIONS</span>:
+    *  <span inprof='y' id='137' class='qualif'>Brainbench Certification</span> in <span inprof='y' id='138' class='sofwr'>Java 2 Fundamentals</span>, <span inprof='y' id='139' class='sofwr'>Java 2</span> <span inprof='n' id='140' class='company'>Platform Enterprise</span> Edition 1.4 ; 
+    *  <span inprof='y' id='141' class='qualif'>Oracle Certified Professional</span>, <span inprof='y' id='142_1' class='role'>Java SE 6 Programmer</span> (SCJP). ; 
+    *  Certification on <span inprof='y' id='143' class='sofwr'>Ruby on Rails</span> from Experts
+
+<span inprof='n' id='144' class='work-hist-mark'>PROFESSIONAL EXPERIENCE:</span>
+
+<span inprof='y' id='145_1' class='company'>Client: Western Union</span> - <span inprof='y' id='145_2' class='location'>NJ</span>                                  <span inprof='y' id='145_3_1' class='date'>July 2011</span> - <span inprof='y' id='145_3_2' class='date'>Till Date</span>
+Project: WUPOS (<span inprof='n' id='146' class='company'>Western Union</span> <span inprof='n' id='147' class='location'>Point</span> of Sales)
+Role: Portfolio Lead &#38; Onsite Application Lead
+
+Description:
+       WUPOS is a browser-based thin client application used by WU agents to send and pay out money, pay bills and perform other <span inprof='y' id='148' class='skill'>financial services</span> on behalf of customers. It prints transaction receipts and provides reports such as listing the agent's activity. WUPOS is used in 200+ countries with 28 languages. WUPOS offers Customer to Customer (C2C), Customer to Business (C2B), Bank to Customer (B2C).
+
+<span inprof='y' id='149' class='skill'>WUPOS Support</span> Following Brands:
+    *  <span inprof='n' id='150' class='company'>Western Union</span> (global) ; 
+    *  Orandi Valuta (focuses <span inprof='n' id='151' class='location'>Mexico / Central America</span>) ; 
+    *  Vigo (primarily Latin American with presence in several other countries)
+
+Responsibilities:
+    *  Project estimations and Proposals.
+    *  Project forecast &#38; <span inprof='y' id='152' class='skill'>Demand Management</span>. ; 
+    *  Involving in <span inprof='y' id='153' class='skill'>requirement analysis</span>, designing, coding, and testing. ; 
+    *  Creating the high level architectural, <span inprof='y' id='154' class='skill'>detail design</span> using <span inprof='y' id='155' class='sofwr'>UML</span>, <span inprof='y' id='156' class='sofwr'>Microsoft Visio</span> ; 
+    *  Tracking <span inprof='y' id='157' class='skill'>Offshore development</span> progress and <span inprof='y' id='158' class='skill'>responsible for the deliverables</span> as per the client commitments. ; 
+    *  Daily and weekly meeting with clients to update the day to day status progress. ; 
+    *  Guiding the Onsite and <span inprof='y' id='159' class='skill'>Offshore</span> team. ; 
+    *  Arranged the Sessions on project business session and technical sessions. ; 
+    *  Involved in the QA, <span inprof='y' id='160' class='skill'>UAT and</span> <span inprof='y' id='161' class='skill'>Production Support</span>. ; 
+    *  Involved in the Release management process.
+
+Environment: <span inprof='y' id='162' class='sofwr'>Java1.6</span>, Tapestry Framework 5, Jetty 6 Application server, <span inprof='y' id='163' class='sofwr'>Spring Framework 2.5</span> &#38; <span inprof='y' id='164' class='sofwr'>Spring Security 2.0.4</span>, <span inprof='y' id='165' class='sofwr'>JQuery 1.3</span>, <span inprof='y' id='166' class='sofwr'>CSS</span>, <span inprof='y' id='167' class='sofwr'>AJAX</span>, grids 1.0.5, transactions, Memcache, AOP 2.5, Quartz, <span inprof='y' id='168' class='sofwr'>Hibernate 3.2</span>, <span inprof='y' id='169' class='sofwr'>SOAP</span>, <span inprof='y' id='170' class='sofwr'>Webservices 1.5.9</span>, <span inprof='y' id='171' class='sofwr'>Oracle 10g</span>, <span inprof='y' id='172' class='sofwr'>IntelliJ</span> Dev Studio 12.0.4, Sonar 3.2.1, <span inprof='y' id='173' class='sofwr'>Junit 4.5</span>, Selenium 1.0.5, Bamboo, <span inprof='y' id='174' class='sofwr'>Maven</span>, <span inprof='y' id='175' class='sofwr'>SVN</span>.
+
+<span inprof='y' id='176_1' class='company'>Client: Bloomberg</span> - <span inprof='y' id='176_2' class='location'>New York</span>              <span inprof='y' id='176_3_1' class='date'>September 2010</span> - <span inprof='y' id='176_3_2' class='date'>June 2011</span>
+Project: CDAP Config Tool
+<span inprof='n' id='177_1' class='some-position'>Role</span>: <span inprof='y' id='177_2' class='role'>Lead/Application Developer</span>
+
+Description:
+       <span inprof='y' id='178' class='company'>Bloomberg</span> service is a global 24-hour-a-day financial information network providing real-time and historical pricing, indicative and fundamental data and analytics. The data collected from the data providers are send to the backend ticker plant after being processed by the parsers. The team is involved in the <span inprof='y' id='179' class='skill'>development of index file generator and search index algorithms</span> for CDAP parser. These are used for enhancing the search options in the pkt-view tool. Currently working in CDAP <span inprof='y' id='180' class='skill'>Parser configuration management</span> tool.
+
+CDAP is the Three Tier Architecture:
+    *  GUI Layer.
+    *  Web Service Layer
+    *  Database Layer ; 
+    *  CDAP tool is used to maintain the application configuration files and setup and deploy the configuration files.
+
+Responsibilities:
+    *  Creation of <span inprof='y' id='181' class='sofwr'>XML</span> files based on a given Schema (<span inprof='y' id='182' class='sofwr'>XSD</span>) ; 
+    *  Editing the Xml Files in <span inprof='y' id='183' class='sofwr'>Html</span> format using <span inprof='y' id='184' class='sofwr'>jQuery</span> ; 
+    *  Developed and Consumed Web Services in Axix2 Server ; 
+    *  Implementation of Ajax Calls to Server using DWR
+To develop a web based tool so that the <span inprof='y' id='185' class='sofwr'>XML</span> data can be edited and updated through html using <span inprof='y' id='186' class='sofwr'>XPATH</span>
+    *  Integrated jQuery plug-in for Grid, Table and scroll bar auto fill
+
+Environment: <span inprof='y' id='187' class='sofwr'>Java</span>, <span inprof='y' id='188' class='sofwr'>J2EE</span>, <span inprof='y' id='189' class='sofwr'>JDK 1.6</span>, <span inprof='y' id='190' class='sofwr'>JEE</span>, <span inprof='y' id='191' class='sofwr'>JSP</span>, <span inprof='y' id='192' class='sofwr'>JavaScript</span>, <span inprof='y' id='193' class='sofwr'>Web Services</span>, <span inprof='y' id='194' class='sofwr'>WSDL</span>, <span inprof='y' id='195' class='sofwr'>SOA</span>, <span inprof='y' id='196' class='sofwr'>SOAP</span>, <span inprof='y' id='197' class='sofwr'>XML</span>, <span inprof='y' id='198' class='sofwr'>XSD</span>, <span inprof='y' id='199' class='sofwr'>XSL</span>, <span inprof='y' id='200' class='sofwr'>XSLT</span>, <span inprof='y' id='201' class='sofwr'>jQuery</span>, <span inprof='y' id='202' class='sofwr'>JDBC</span>, <span inprof='y' id='203' class='sofwr'>JUnit 4.0</span>, <span inprof='y' id='204' class='sofwr'>Oracle 10G</span>, <span inprof='y' id='205' class='sofwr'>Eclipse</span>, <span inprof='y' id='206' class='sofwr'>Agile</span>, <span inprof='y' id='207' class='sofwr'>Maven v2.2.1</span>, <span inprof='y' id='208' class='sofwr'>Log4J v1.2.x</span>, <span inprof='y' id='209' class='sofwr'>Solaris</span> <span inprof='n' id='210' class='date'>2.5.10</span>, <span inprof='y' id='211' class='sofwr'>SMTP</span>, <span inprof='y' id='212' class='sofwr'>HTML</span>, <span inprof='y' id='213' class='sofwr'>UML</span>, <span inprof='y' id='214' class='sofwr'>Microsoft Visio</span>,  <span inprof='y' id='215' class='sofwr'>HP Quality Center</span>.
+
+<span inprof='y' id='216_1' class='company'>Client: VIA Rail</span> - <span inprof='y' id='216_2' class='location'>Canada</span>                                   <span inprof='y' id='216_3_1' class='date'>May 2009</span> - <span inprof='y' id='216_3_2' class='date'>August 2010</span>
+Project: CRRS (Central Railway Reservation System)
+<span inprof='n' id='217_1' class='some-position'>Role</span>: <span inprof='y' id='217_2' class='role'>Senior Developer</span>
+
+Description:
+       CRRS - ticketing system is to provide efficient online services to the passengers. CRRS application will provide following service to the passengers. CRRS intends to procure a complete Reservation and Yield Management Solution to meet current requirement.
+
+Responsibilities:
+    *  Involved in <span inprof='y' id='218' class='skill'>project design</span>, coding functional presentations to the team, users. ; 
+    *  Followed the iterative process methodology. ; 
+    *  Created the high level <span inprof='y' id='219' class='skill'>architectural design</span>, workflow and use case, <span inprof='y' id='220' class='sofwr'>class diagrams</span> using <span inprof='y' id='221' class='sofwr'>UML</span>, <span inprof='y' id='222' class='sofwr'>Microsoft Visio</span> ; 
+    *  Developed modules by using <span inprof='y' id='223' class='sofwr'>Java</span>, <span inprof='y' id='224' class='sofwr'>Struts</span>, <span inprof='y' id='225' class='sofwr'>HTTP</span>, <span inprof='y' id='226' class='sofwr'>XML</span>, <span inprof='y' id='227' class='sofwr'>XSD</span>, <span inprof='y' id='228' class='sofwr'>JSP</span>, <span inprof='y' id='229' class='sofwr'>jQuery</span>, <span inprof='y' id='230' class='sofwr'>JDBC</span>, <span inprof='y' id='231' class='sofwr'>MVC</span>, and <span inprof='y' id='232' class='sofwr'>Tomcat</span>. ; 
+    *  <span inprof='y' id='233' class='skill'>Followed design</span> patterns, <span inprof='y' id='234' class='sofwr'>MVC</span> architecture in designing the UI and data components ; 
+    *  <span inprof='y' id='235' class='sofwr'>SQL</span> and <span inprof='y' id='236' class='sofwr'>stored procedures</span> by using <span inprof='y' id='237' class='sofwr'>DB2</span>. Used Log4J to trace log statements. ; 
+    *  Used Ant for purpose of build. Testing various components by <span inprof='y' id='238' class='sofwr'>JUnit framework</span> ; 
+    *  Used Microsoft Visual Source Safe for repository, <span inprof='y' id='239' class='skill'>version control management</span>. ; 
+    *  <span inprof='y' id='240' class='skill'>Inventory management</span> <span inprof='n' id='241' class='bad-occupation'>for administrator</span>
+    *  <span inprof='y' id='242' class='skill'>Client profile management</span>.
+    *  Pricing Model ; 
+    *  <span inprof='y' id='243' class='skill'>Food preference selection</span> to the passengers. ; 
+    *  Report generation <span inprof='n' id='244' class='bad-occupation'>for the administrator and passengers</span>. ; 
+    *  Daily and weekly meeting with clients to update the day to day status progress. ; 
+    *  Arranged the Sessions on project business session and technical sessions. ; 
+    *  Involved in the QA, <span inprof='y' id='245' class='skill'>UAT and</span> <span inprof='y' id='246' class='skill'>Production Support</span>
+
+Environment: <span inprof='y' id='247' class='sofwr'>Java</span>, <span inprof='y' id='248' class='sofwr'>JSP</span>, <span inprof='y' id='249' class='sofwr'>Struts</span>, <span inprof='y' id='250' class='sofwr'>Spring</span>, MyEclips7.5, iText2.1, <span inprof='y' id='251' class='sofwr'>iBatis</span> and <span inprof='y' id='252' class='sofwr'>Birt Viewer</span>, <span inprof='y' id='253' class='sofwr'>JDK 1.6</span>, <span inprof='y' id='254' class='sofwr'>JEE</span>, <span inprof='y' id='255' class='sofwr'>JSP</span>, <span inprof='y' id='256' class='sofwr'>JavaScript</span>, <span inprof='y' id='257' class='sofwr'>JDBC</span>, <span inprof='y' id='258' class='sofwr'>JUnit 4.0</span>, <span inprof='y' id='259' class='sofwr'>Oracle 10G</span>, <span inprof='y' id='260' class='sofwr'>Eclipse</span>, <span inprof='y' id='261' class='sofwr'>Agile</span>, <span inprof='y' id='262' class='sofwr'>Maven v2.2.1</span>, <span inprof='y' id='263' class='sofwr'>Log4J v1.2.x</span>, <span inprof='y' id='264' class='sofwr'>Solaris</span> <span inprof='n' id='265' class='date'>2.5.10</span>, <span inprof='y' id='266' class='sofwr'>SMTP</span>, <span inprof='y' id='267' class='sofwr'>HTML</span>, <span inprof='y' id='268' class='sofwr'>UML</span>, <span inprof='y' id='269' class='sofwr'>HP Quality Center</span>.
+
+<span inprof='y' id='270_1' class='company'>Client: Toys R Us</span> - <span inprof='y' id='270_2' class='location'>New Jersey</span>            <span inprof='y' id='270_3_1' class='date'>May 2008</span> - <span inprof='y' id='270_3_2' class='date'>April 2009</span>
+Project: Wish List
+<span inprof='n' id='271_1' class='some-position'>Role</span>: <span inprof='y' id='271_2' class='role'>Lead/Application Developer</span>
+
+Description:
+       <span inprof='n' id='272' class='company'>Toys R Us</span> offers a convenient online and in-store baby registry that eliminates guesswork and geographic barriers from gift buying. Friends and relatives can easily go to any store location or to <span inprof='n' id='273' class='internet-web-address'>www.toysrus.com</span> to select, buy and send the right gift directly to the expectant parents. The scope of project includes Business Process Improvements providing users additional information and a better flow and new set of features (like timely feedback regarding a products transition to unavailability). Addressing existing issues in the application (like providing accurate Zip/Postal Code Validation based on country selected by the user).<span inprof='y' id='274' class='sofwr'>Enterprise Data Warehouse</span> changes that includes update of <span inprof='y' id='275' class='sofwr'>EDW</span> data model per registry data model changes and update in corresponding <span inprof='y' id='276' class='sofwr'>EDW</span> interfaces. The functionalities which are providing for Wish List has to provide for third party vendors (GSI, KIOSE, and Node3 Applications) through <span inprof='y' id='277' class='sofwr'>Web Service</span>.
+
+Responsibilities:
+    *  <span inprof='y' id='278' class='skill'>Requirement gathering</span> with the client through mails and daily calls. ; 
+    *  Created the high level <span inprof='y' id='279' class='skill'>architectural design</span>, workflow and use case, <span inprof='y' id='280' class='sofwr'>class diagrams</span> using <span inprof='y' id='281' class='sofwr'>UML</span>, <span inprof='y' id='282' class='sofwr'>Microsoft Visio</span> ; 
+    *  Created new <span inprof='y' id='283' class='sofwr'>Web service</span> and consumed <span inprof='y' id='284' class='sofwr'>Web service</span> by using <span inprof='y' id='285' class='sofwr'>Java</span>, Jax ws, <span inprof='y' id='286' class='sofwr'>HTTP</span>, <span inprof='y' id='287' class='sofwr'>XML</span>, <span inprof='y' id='288' class='sofwr'>XSD</span>, <span inprof='y' id='289' class='sofwr'>JSP</span>, <span inprof='y' id='290' class='sofwr'>jQuery</span>, <span inprof='y' id='291' class='sofwr'>JDBC</span>, <span inprof='y' id='292' class='sofwr'>Apache Ant 1.8</span>, <span inprof='y' id='293' class='sofwr'>RSA</span>, <span inprof='y' id='294' class='sofwr'>MVC</span>, <span inprof='y' id='295' class='sofwr'>WebSphere</span>, <span inprof='y' id='296' class='sofwr'>Oracle</span>, <span inprof='y' id='297' class='sofwr'>Linux</span> ; 
+    *  <span inprof='y' id='298' class='skill'>Followed design</span> patterns, <span inprof='y' id='299' class='sofwr'>MVC</span> architecture in designing the UI and data components ; 
+    *  Creating <span inprof='y' id='300' class='sofwr'>WSDL</span> &#38; <span inprof='y' id='301' class='sofwr'>XSD</span> file based on client requirements. ; 
+    *  Developing Web Services using RSA tool. ; 
+    *  Given training in <span inprof='y' id='302' class='sofwr'>Web Service</span> for the team and external projects. ; 
+    *  Developed stored procedures. ; 
+    *  Daily and weekly meeting with clients to update the day to day status progress. ; 
+    *  Arranged the Sessions on project business session and technical sessions.
+
+Environment: <span inprof='y' id='303' class='sofwr'>JDK 1.6</span>, <span inprof='y' id='304' class='sofwr'>JEE</span>, <span inprof='y' id='305' class='sofwr'>JSP</span>, <span inprof='y' id='306' class='sofwr'>JavaScript</span>, <span inprof='y' id='307' class='sofwr'>Web Services</span>, <span inprof='y' id='308' class='sofwr'>WSDL</span>, <span inprof='y' id='309' class='sofwr'>SOA</span>, <span inprof='y' id='310' class='sofwr'>SOAP</span>, <span inprof='y' id='311' class='sofwr'>XML</span>, <span inprof='y' id='312' class='sofwr'>XSD</span>, <span inprof='y' id='313' class='sofwr'>XSL</span>, <span inprof='y' id='314' class='sofwr'>XSLT</span>, <span inprof='y' id='315' class='sofwr'>MQSeries</span>, <span inprof='y' id='316' class='sofwr'>JDBC</span>, <span inprof='y' id='317' class='sofwr'>JUnit 4.0</span>, <span inprof='y' id='318' class='sofwr'>Unix Scripts</span>, <span inprof='y' id='319' class='sofwr'>Oracle 10G</span>, <span inprof='y' id='320' class='sofwr'>Eclipse</span>, <span inprof='y' id='321' class='sofwr'>Agile</span>, <span inprof='y' id='322' class='sofwr'>Maven v2.2.1</span>, <span inprof='y' id='323' class='sofwr'>Log4J v1.2.x</span>,  <span inprof='y' id='324' class='sofwr'>SMTP</span>, <span inprof='y' id='325' class='sofwr'>HTML</span>, <span inprof='y' id='326' class='sofwr'>UML</span>, <span inprof='y' id='327' class='sofwr'>Microsoft Visio</span>, <span inprof='y' id='328' class='sofwr'>HP Quality Center</span>.<span inprof='y' id='329' class='sofwr'>Java</span>, <span inprof='y' id='330' class='sofwr'>WSDL</span>, <span inprof='y' id='331' class='sofwr'>XML</span>, <span inprof='y' id='332' class='sofwr'>XSD</span>, Web sphere 6.1, <span inprof='y' id='333' class='sofwr'>Oracle</span>, <span inprof='y' id='334' class='sofwr'>UNIX</span>, <span inprof='y' id='335' class='sofwr'>RAD7.0</span>, Rational XDE, <span inprof='y' id='336' class='sofwr'>CVS</span>.
+
+<span inprof='y' id='337_1' class='company'>Client: Sanlam</span> - <span inprof='y' id='337_2' class='location'>South Africa</span>                      <span inprof='y' id='337_3_1' class='date'>December 2006</span> - <span inprof='y' id='337_3_2' class='date'>December 2007</span>
+Project: CCA (<span inprof='n' id='338' class='company'>Contact Centre</span> <span inprof='y' id='339' class='sofwr'>Application</span>)
+<span inprof='n' id='340_1' class='some-position'>Role</span>: <span inprof='y' id='340_2' class='role'>Developer</span> &#38; Back up <span inprof='y' id='341' class='skill'>DBA</span>
+
+Description:
+       The aim of this project is to <span inprof='y' id='342' class='skill'>develop a desktop application</span> for Call Centre Employees of <span inprof='y' id='343' class='company'>Sanlam</span>. The employees should be able to login the user requests and process the requests using this application.
+
+       There are three different modules in the application
+          *  User Interface Layer
+          *  Process Layer
+          *  Component Layer
+
+       Application is designed using <span inprof='y' id='344' class='sofwr'>SOA</span> architecture. The application consists of the following Layers
+          *  Component/Service Layer on which various services will be running ; 
+          *  Process Layer which communicates between UI and Component Layer ; 
+          *  User Interface Layer  is the entry point of user and invokes services through process Layer
+
+       Apart from the above, there were some batch programs for <span inprof='y' id='345' class='skill'>batch processing</span> during night and day.
+
+Responsibilities:
+    *  Creating ER diagrams. ; 
+    *  Database creation and maintenance in development, testing and <span inprof='y' id='346' class='skill'>performance testing</span> phases. ; 
+    *  Database backup and restore activity. ; 
+    *  Involved in performance improvement &#38; testing ; 
+    *  Query tuning - modifying SQLs, identifying indexes. ; 
+    *  Monitoring Buffer pool size and table spaces. ; 
+    *  Optimizing java code
+
+Environment: <span inprof='y' id='347' class='sofwr'>Java</span>, <span inprof='y' id='348' class='sofwr'>J2EE</span>, <span inprof='y' id='349' class='sofwr'>JDK1.4</span>, <span inprof='y' id='350' class='sofwr'>J2EE1.4</span>, <span inprof='y' id='351' class='sofwr'>EJB2.1</span>, <span inprof='y' id='352' class='sofwr'>JDBC</span>, <span inprof='y' id='353' class='sofwr'>XML</span>, <span inprof='y' id='354' class='sofwr'>Oracle8</span>, <span inprof='y' id='355' class='sofwr'>TOAD</span>, <span inprof='y' id='356' class='sofwr'>CSS</span>, <span inprof='y' id='357' class='sofwr'>Visual SourceSafe 4.0</span>, <span inprof='y' id='358' class='sofwr'>Windows 2000</span>, <span inprof='y' id='359' class='sofwr'>CVS</span>, Master Craft 7.0.
+
+<span inprof='y' id='360_1' class='company'>Client: Sanlam</span> - <span inprof='y' id='360_2' class='location'>South Africa</span>                           <span inprof='y' id='360_3_1' class='date'>May 2005</span> - <span inprof='y' id='360_3_2' class='date'>December 2006</span>
+Project: KOM++ (Commission Maintenance System)
+<span inprof='n' id='361_1' class='some-position'>Role</span>: <span inprof='y' id='361_2' class='role'>Developer</span>
+
+Description          :
+KOM++ is a product developed for the <span inprof='y' id='362' class='company'>Sanlam</span> to calculate the commissions for the intermediaries who deals with the policy holders. The system will calculate the commissions to be issued during Policy Creation, Policy Termination and various events associated with Policy
+
+Responsibilities:
+    *  Processing of Commissions to Intermediaries based on commissionable events. ; 
+    *  Scheduling of commission payments.
+    *  Creation of Commission Payment Entries.
+    *  Online Enquires and Manual Adjustments.
+    *  Online screens to correct any error events.
+    *  Screens for Reports Generation. ; 
+    *  Batch Programs for projecting the future payments
+
+Environment: <span inprof='y' id='363' class='sofwr'>J2EE</span>, <span inprof='y' id='364' class='sofwr'>WebSphere 6.0</span>, <span inprof='y' id='365' class='sofwr'>DB2 8.0</span>, <span inprof='y' id='366' class='sofwr'>Windows</span>, <span inprof='y' id='367' class='sofwr'>MasterCraft 7.0</span>, <span inprof='y' id='368' class='sofwr'>Eclipse</span>.
+
+</TextResume>
+
+</NonXMLResume>
+
+
+
+<UserArea>
+<DaxResumeUserArea>
+<AdditionalPersonalData>
+<ExperienceSummary>
+<TotalMonthsOfWorkExperience>106</TotalMonthsOfWorkExperience>
+<TotalYearsOfWorkExperience>9</TotalYearsOfWorkExperience>
+<TotalMonthsOfManagementWorkExperience>22</TotalMonthsOfManagementWorkExperience>
+<TotalYearsOfManagementWorkExperience>1.8</TotalYearsOfManagementWorkExperience>
+<TotalMonthsOfLowLevelManagementWorkExperience>22</TotalMonthsOfLowLevelManagementWorkExperience>
+<TotalYearsOfLowLevelManagementWorkExperience>1.8</TotalYearsOfLowLevelManagementWorkExperience>
+<ExecutiveBrief>This candidate has been working in the IT  occupational sector for more than 9 years. Currently this candidate is employed at Western Union. This candidate has extensive knowledge of XML, Web Services, Java, UML/OMT, Java Server Pages, Java 2 Enterprise Edition, JDBC, XML Schema, jQuery, Microsoft Visio, JUnit, ECLiPSe, WSDL, Struts Web Application Framework, Spring Framework, Service Oriented Architecture, SOAP, MVC, JavaScript, HTML, DB2, XSL, Oracle 10G, Oracle, Java Enterprise Edition, JDK, IBM WebSphere, Hibernate, HP Quality Center 10.0, Apache Maven, UNIX, SMTP, Rapid Application Development RAD, Log4j, Jakarta TOMCAT Servlet Engine, HTTP, EDW, CVS, Agile, AJAX, iBATIS, XSLT, Sun Solaris, Stored Procedures, Oracle Applications, MS Visual SourceSafe, Linux, Java 2, Enterprise Java Beans, Class Diagrams, Cascading Style Sheets, Apache Subversion, XPath, WebSphere MQ, Unix Scripts, TOAD, Spring Security 2.0.4, SQL, RSA, Oracle 8, MasterCraft 7.0, IntelliJ IDEA, Birt Viewer, Ant. This candidate has some experience in managment (22 months).</ExecutiveBrief>
+<ManagementRecord>Since 2010-09 for 10 months the candidate had experience at a lower grade management level working as a Lead/Application Developer at Bloomberg.
+Since 2008-05 for 12 months the candidate had experience at a lower grade management level working as a Lead/Application Developer at Toys R Us.
+</ManagementRecord>
+</ExperienceSummary>
+</AdditionalPersonalData>
+<ParserInfo>
+<ParserConfiguration>{max_len=50000} {tel_flag=} {send_zip=} {fast_conv=} {DEF_LOCAL=} {sdate=0} {no_email_body=0} {do_clever_zoning=1} {keep_span=1} {complex=1} {accept_langs=} {not_accept_langs=} {prefer_lang_cv=EN} {pers_only=0} {turbo=0} {split_language=0} {picture=0} {picture_inline=0} {name_space=0} {charset=} {hrxml_upgrade_edu_hist=0}{hrxml_add_languages_section=0}{spool=} {docID=} {user=DEFAULT} </ParserConfiguration>
+<ParserRelease>0.12.3.32629</ParserRelease>
+<ParserReleaseDate>2014-06-18</ParserReleaseDate>
+<ParserSchema>2.0.29</ParserSchema>
+<ParserSchemaLocation>http://cvx.daxtra.com/cvts/xsd/candidate/2.0.29/Resume.xsd</ParserSchemaLocation>
+<ConverterRelease>0.5.2.32629</ConverterRelease>
+<ConverterReleaseDate>2014-06-18</ConverterReleaseDate>
+</ParserInfo>
+<FileStruct filename='/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/Praveen.doc'>
+
+<attachment fname='Praveen.doc' ftype='doc' conv='yes' doc_type='cv' lang='EN'>/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/Praveen.doc</attachment>
+
+
+</FileStruct>
+</DaxResumeUserArea>
+</UserArea>
+</Resume>

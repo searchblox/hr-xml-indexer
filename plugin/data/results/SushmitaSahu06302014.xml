@@ -1,0 +1,1510 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Resume lang='en' src='DAXTRA-CVX schema:2.0.29 release:0.12.3.32629 rdate:2014-06-18'>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName id='3' oids='3 8 '>
+<FormattedName>Sushmita Sahu</FormattedName>
+<GivenName>Sushmita</GivenName>
+<FamilyName>Sahu</FamilyName>
+<sex>Female</sex>
+</PersonName>
+<ContactMethod>
+<Telephone id='6' type='home'>
+<InternationalCountryCode>1</InternationalCountryCode>
+<SubscriberNumber>347 735-1490</SubscriberNumber>
+<FormattedNumber>+1 347 735-1490</FormattedNumber></Telephone>
+
+<InternetEmailAddress id='5' type='main'>sushmita.sahu1984@gmail.com</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>Sushmita has 6 years of experience in data analytics, product development, and program and project management in financial companies, Insurance, Healthcare and Airline companies.</ExecutiveSummary>
+<Objective id='4'>MANAGEMENT CONSULTANT</Objective>
+
+
+<EmploymentHistory>
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='55'>PwC</EmployerOrgName>
+
+<PositionHistory positionType='CONTRACT'>
+<Title id='56_1'>Product Manager/Tech</Title>
+<OrgName id='55'>PwC</OrgName>
+
+
+
+<Description>Project: Application Development for Reconciliation of financial instruments for a leading Hedge Fund Company
+Responsibilities
+
+    *    Owned the product management responsibilities like the design, development and testing of two financial applications meant for reconciliation and report generation(TLM from SmartStream and MRS OC for Market Value Reconciliation Reporting). ; 
+    *    Drove the Cash, Positions and MVR Reconciliation of complex portfolios(Having information like Collaterals, Swaps, Repos etc.) in TLM. ; 
+    *    Coordinated with various Application development teams, Operations team, Accounting Teams, Data Delivery and the testing pillar to facilitate and drive development, integration and testing(Unit testing, System testing, Integration testing, UAT and Production Parallel). ; 
+    *    Facilitated change request implementation and defect resolution. Acted as a conduit of communication for the other application liaisons(EAGLE STAR/PACE) for data delivery, defect resolution and final testing. ; 
+    *    Coordinated with the governance, data security team to ensure that coding and promotion are compliant with the existing standards(Dodd Frank and other regulatory requirements). ; 
+    *    Did reporting on a weekly basis to the core hedge fund Company and higher management through Gantt Charts, PowerPoint reports (Heat Maps etc.). ; 
+    *    Conflict management and facilitation of a common agenda for the involved Stakeholders. ; 
+    *    Drove the project from concept to final promotion into the Production environment.</Description>
+<StartDate id='57_1'><YearMonth>2013-12</YearMonth></StartDate>
+<EndDate id='57_2'><YearMonth>2014-06</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-mid</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='55' last_id='78' border_id='79'></TLSPAN>
+<MonthsOfWork>7</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg oids='97_3_1 ' employerOrgType='soleEmployer'>
+<EmployerOrgName id='79_1'>PwC</EmployerOrgName>
+
+<PositionHistory positionType='CONTRACT'>
+<Title id='79_2_1' oids='97_2_1 '>Project Manager</Title>
+<Title id='79_2_2'>architect</Title>
+<OrgName id='79_1'>PwC</OrgName>
+
+<OrgIndustry primaryIndicator='true'><IndustryDescription>Insurance Company</IndustryDescription></OrgIndustry>
+
+<Description>Project: Designing Service Oriented Architecture for a fortune 500 Insurance Company
+Responsibilities
+
+    *    Worked on defining a SOA framework for the client. ; 
+    *    Identified Inventory existing principles, standards, reference architecture, and patterns (Identified potential gaps). ; 
+    *    Developed the reference architecture and patterns s in an iterative manner with planned review sessions at agreed to milestones. An overarching Services Reference Architecture consisting of:
+
+    · Principles specific to the services
+    · Standards specific to the services 
+    · Conceptual and Logical diagram depicting the ESB, on-ramps and off-ramps and the usage
+
+    *    Worked with the enrollment (An insurance application) team to define a roadmap that facilitates alignment on the future state direction and serves as the basis for program management and governance. ; 
+    *    The roadmap creation included the Service snapshots, including alignment to business purpose, functionality, complexity, high-level cost, and business value/benefits, dependency map, unconstrained roadmap, roadmap scenario models and finalized roadmap and high-level business case.
+Project: Risk and Regulatory Reporting for the Financial Services unit of a leading Fortune 500 Organization
+Responsibilities
+
+    *    Helped the company to identify Indirect Investees to be included in their regulatory reporting to the Federal Reserve Board(As per the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010- The company was identified to file legal structure and financial reports). ; 
+    *    Helped in dividing the total population of Legal Entities into FR Y-6, FR Y-10 buckets and their also helped in identifying their subsidaries. ; 
+    *    Performed control assessments required for parent Legal Entities and all subsidiaries to determine FR Y-10 and FY-6 filing requirements ; 
+    *    Facilitated the process of identifying the Legal Entities by Business Units, providing training to the BUs etc and assigning BU Project Managers to complete templates with existing data. ; 
+    *    Consolidated and maintained the tracker(metrics file) for different legal entities(LEs) with updates from the different lines of businesses.- Also worked on administrative tasks on the project like maintaining and analyzing the Time and Expense tracker for the team.</Description>
+<StartDate id='79_3_1' oids='97_3_1 '><YearMonth>2013-10</YearMonth></StartDate>
+<EndDate id='79_3_2' oids='97_3_2 '><YearMonth>2013-12</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>legal</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='79' last_id='82' border_id='85'></TLSPAN>
+<TLSPAN first_id='97' last_id='103' border_id='104'></TLSPAN>
+<MonthsOfWork>3</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='83'>PwC</EmployerOrgName>
+
+<PositionHistory positionType='PERMANENT'>
+<Title id='84_1'>Project Manager</Title>
+<OrgName id='83'>PwC</OrgName>
+
+
+
+<Description>Project: Data Loss Prevention and Risk Assessment in a Payment Processor/ Review of the PCI-DSS compliance of the systems of a Payments Processor for a Data Breach
+
+Responsibilities
+    *    Implemented and defined a set of Information Technology Infrastructure Library(ITIL) practices for the client for aligning their IT services with the business. Worked on several aspects of Service Operation like Event Management, Incident Management, Identity Management etc. ; 
+    *    Worked closely with Network Security Engineers, Applications Owners etc. to gather information on current state and identify gaps ; 
+    *    Established governance standards in compliance with PCI DSS norms and QSA best practices for structured and unstructured data. ; 
+    *    Implemented a Scanning Schedule for the Asset Inventory of the Client and developed Future State Workflows for Scanning, PAN Evaluation and Remediation. ; 
+    *    Performed Archer Reporting Integration Analysis and created strategy for Data in Motion and Data in Use Capabilities/Coverage with the RSA DLP tool. ; 
+    *    Successfully deployed RSA tools on the client systems to monitor and scrutinize data.</Description>
+<StartDate id='85_1'><YearMonth>2012-11</YearMonth></StartDate>
+<EndDate id='85_2'><YearMonth>2013-08</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='83' last_id='91' border_id='94'></TLSPAN>
+<MonthsOfWork>10</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='92'>PwC</EmployerOrgName>
+
+<PositionHistory positionType='PERMANENT'>
+<Title id='121_1'>Helped the UI designer</Title>
+<OrgName id='92'>PwC</OrgName>
+
+<OrgIndustry primaryIndicator='true'><IndustryDescription>Banking Company</IndustryDescription></OrgIndustry>
+
+<Description>KonySolutions -Product Management and Software Engineering (Mobile Applications) 
+This project was targeted at developing a platform independent mobile application with the same functionality as that of the banking web application. The mobile application is seamlessly integrated with the client web services and provides all the functionalities of the banking web application on the mobile devices.
+Responsibilities
+    *    Gathered requirements from the clients and created business requirements document and functional requirements documents. ; 
+    *    Helped the UI designer to create wireframes for client presentation and gathered feedback from the client. ; 
+    *    Coordinated the daily stand up, wrap up and triage meetings. ; 
+    *    Designed and developed UI (Eclipse IDE) for mobile applications and integrated it with client Services (SOAP) (Integration using LUA and XML). Developed middleware code using JAVA and deployed it on IBM WebSphere. ; 
+    *    Involved in the designing of the modules with the architecture team and system integration and testing. ; 
+    *    Successfully deployed the code on iOS Simulator, Android emulator and Blackberry emulators to test the actually functionality of the application. Worked with the team to push weekly releases for the client. ; 
+    *    Interacted with the client for requirement gathering, change requests and defect resolution. ; 
+    *    Supervised a team of four developers and successfully delivered the project in six months resulting in significant turnover for the company.</Description>
+<StartDate id='118_1'><YearMonth>2009-09</YearMonth></StartDate>
+<EndDate id='118_2'><YearMonth>2013-08</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='116' last_id='133' border_id='134'></TLSPAN>
+<MonthsOfWork>48</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='92'>PwC</EmployerOrgName>
+
+<PositionHistory positionType='CONTRACT'>
+<Title id='93_1'>Project Manager</Title>
+<OrgName id='92'>PwC</OrgName>
+
+
+
+<Description>Project: Review of the PCI and NPI compliance of a banking and payment processor's systems for credit card fraud and data breach
+
+Responsibilities
+
+    *    Conducted risk assessment of the client's network by assessing multiple parameters like exposure to external domains, nature of data stored or transmitted by the systems on it. ; 
+    *    Conducted client calls to understand network architecture at the client site. This involved information procurement on the different domains, domain controllers, database servers, application servers and the security loopholes in the network. ; 
+    *    Categorized systems based on data sensitivity parameters like PCI and NPI. ; 
+    *    Identified the high risk systems on the client network and suggested immediate remediation measures like re-imaging and installation of security software. ; 
+    *    Managed and organized the data gathered in the interview sessions.</Description>
+<StartDate id='94_1'><YearMonth>2012-09</YearMonth></StartDate>
+<EndDate id='94_2'><YearMonth>2012-10</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-low</JobGrade>
+</JobLevelInfo>
+
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='92' last_id='96' border_id='97'></TLSPAN>
+<MonthsOfWork>2</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='104_1'>FDA</EmployerOrgName>
+
+<PositionHistory positionType='PERMANENT'>
+<Title id='104_2_1'>Product Manager</Title>
+<Title id='104_2_2'>Risk Analyst</Title>
+<OrgName id='104_1'>FDA</OrgName>
+
+
+
+<Description>ORISE Research Fellow in the Division of Compliance (CDER)
+Responsibilities
+    *    Identified the risks to the international drug supply chain. ; 
+    *    Analyzed historical data from databases to identify trends and help policy makers in decision making. ; 
+    *    Performed risk analysis on supply chain of drugs and found ways to mitigate them. Worked on VB, Excel and Monte Carlo Simulation for developing a risk analysis tool. ; 
+    *    Aided in creating technical designs for translating the risk methodology into a risk monitoring product. ; 
+    *    Authored an internal research paper that addresses the risks to the drugs supply chain. The paper has an overview of compliance regulations existing in the healthcare industry and prior incidents of drug adulteration.</Description>
+<StartDate id='104_3_1'><YearMonth>2011-06</YearMonth></StartDate>
+<EndDate id='104_3_2'><YearMonth>2012-05</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-management-mid</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>procurement</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='104' last_id='115' border_id='118'></TLSPAN>
+<MonthsOfWork>12</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg oids='144_3_1 ' employerOrgType='soleEmployer'>
+<EmployerOrgName id='134_1'>Pramati Technologies</EmployerOrgName>
+
+<PositionHistory positionType='PERMANENT'>
+<Title id='134_2_1' oids='144_2_1 '>Product Management</Title>
+<Title id='134_2_2'>Web Application Developer</Title>
+<OrgName id='134_1'>Pramati Technologies</OrgName>
+
+
+
+<Description>Client: Product Configuration Sales Software Company
+The software customization application is used by sales reps to add products and quotes to opportunities and manage pricing and discounts.
+Responsibilities
+*    Implemented business process, database retrievals, access of information and user interface using Java, Struts. ; 
+*    Implemented the application using many of the design patterns and object oriented processes. Participated in the code deployments, architecture review meetings, design documents updates, project status meetings and environment set-up status meetings. ; 
+*    Contributed to the end to end development of the application and provided useful insights. ; 
+*    Worked on creating adobe and excel quotes for BigMachines' clients using XSLT and Perl.
+Client: Software, IT Services
+The web application developed is a financial aid application for students which makes complex calculations and helps the government decide if a student is eligible for financial aid or not.
+Responsibilities
+    *    Created Controller code for the application using Spring MVC 3 tier architecture. Created database design and used Hibernate technology for information binding of Java Bean with the database schema. ; 
+    *    Developed web pages using JSP, CSS, HTML and JavaScript. Used Direct Web Remoting (DWR) calls for processing client requests through the controller code with the database. ; 
+    *    Represented the team in client calls for requirement changes, discuss change requests, defects, test plan, code migration into UAT and production. ; 
+    *    Involved in project architecture, functional analysis, process work flow and designing. ; 
+    *    Took onus of the coordination between front end and backend of the application. Successfully helped in the final release by fixing application bugs.</Description>
+<StartDate id='134_3_1' oids='144_3_1 '><YearMonth>2008-01</YearMonth></StartDate>
+<EndDate id='134_3_2' oids='144_3_2 '><YearMonth>2009-06</YearMonth></EndDate>
+
+
+
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='134' last_id='143' border_id='144'></TLSPAN>
+<TLSPAN first_id='144' last_id='157' border_id='158'></TLSPAN>
+<MonthsOfWork>18</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+<EmployerOrg employerOrgType='soleEmployer'>
+<EmployerOrgName id='158_1'>Accenture India Development Center</EmployerOrgName>
+
+<PositionHistory positionType='PERMANENT'>
+<Title id='158_2_1'>Associate Software Engineer</Title>
+<Title id='158_2_2'>Business Intelligence Engineer</Title>
+<OrgName id='158_1'>Accenture India Development Center</OrgName>
+
+
+
+<Description>Client: Leading Manufacturing/Energy based Organization
+Responsibilities
+    *    Developed technical design documents and functional design documents for mapping source to target databases. The technical documents had information on how to design mappings (Designing source, target databases and transformations on data) using the Business Intelligence tool Datastage. ; 
+    *    Used ETL tools like Datastage in extraction of sales data from flat files and Oracle databases and deployed them in datamarts. ; 
+    *    Created ETL mappings and used Oracle PL/SQL programming to create Triggers, database packages, Procedures/Functions etc.</Description>
+<StartDate id='158_3_1'><YearMonth>2007-05</YearMonth></StartDate>
+<EndDate id='158_3_2'><YearMonth>2008-01</YearMonth></EndDate>
+
+
+
+<JobLevelInfo>
+<JobGrade>joblevel-nonmanager-low</JobGrade>
+</JobLevelInfo>
+
+<JobCategory>
+<TaxonomyName>JOBAREA</TaxonomyName>
+<CategoryCode>it</CategoryCode>
+</JobCategory>
+
+
+<UserArea>
+<DaxPositionHistoryUserArea>
+<TLSPAN first_id='158' last_id='165' border_id='0'></TLSPAN>
+<MonthsOfWork>9</MonthsOfWork>
+</DaxPositionHistoryUserArea>
+</UserArea>
+</PositionHistory>
+</EmployerOrg>
+
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType='university'>
+<SchoolName id='22_2'>University of Maryland, College Park, MD</SchoolName>
+
+
+
+<Degree degreeType='masters'>
+<DegreeName id='22_1'>Master of Science</DegreeName>
+<DegreeDate id='22_3'><YearMonth>2012-05</YearMonth></DegreeDate>
+</Degree>
+<Major id='22_1'>Civil Engineering</Major>
+
+<Measure>
+<MeasureValue id='22_1'>GPA-3.5/4</MeasureValue>
+</Measure>
+
+
+
+</SchoolOrInstitution>
+
+<SchoolOrInstitution schoolType='university'>
+<SchoolName id='23_3'>National Institute of Technology</SchoolName>
+<LocationSummary id='23_4'>
+<Municipality>Rourkela</Municipality>
+<Region>Orissa</Region>
+<CountryCode>IN</CountryCode>
+</LocationSummary>
+
+
+<Degree degreeType='bachelors'>
+<DegreeName id='23_1'>Bachelor of Technology</DegreeName>
+<DegreeDate id='23_2'><YearMonth>2007-05</YearMonth></DegreeDate>
+</Degree>
+<Major id='23_1'>Civil Engineering</Major>
+
+<Measure>
+<MeasureValue id='23_5_1'>GPA-7.59/10</MeasureValue>
+</Measure>
+
+
+
+</SchoolOrInstitution>
+
+<SchoolOrInstitution schoolType='college'>
+<SchoolName id='29'>Department of Compliance(CDER)</SchoolName>
+
+
+
+<Degree degreeType='some college'>
+<DegreeName id='28'>ORISE Fellow</DegreeName>
+
+</Degree>
+
+
+
+
+<Comments>*    Konysolutions- Product Manager/Software Engineer, Application Development Team ; 
+    *    Pramati Technologies - Development Engineer, Products team ; 
+    *    Accenture India Development Center - Associate Software Engineer, Business Intelligence Team
+
+TECHNOLOGY CAPABILITIES
+
+    *    Statistical Tools: SPSS,R,SAS
+    *    Project Management Tools:    Microsoft Project, @Risk, Primavera ; 
+    *    Programming Languages:    C, C++, Java, J2EE, Ajax, Spring,VB
+    *    Reporting Tools: Jasper Reports
+    *    Database Languages:    MySQL , Oracle 8i/9i/10 ;</Comments>
+</SchoolOrInstitution>
+
+</EducationHistory>
+
+
+
+
+
+
+
+
+
+
+
+<Competency oids='59 62 64 65 ' description='Skill' auth='yes' name='Reconciliations'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Reconciliation</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>91</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='108 110 115 ' description='Skill' auth='yes' name='Supply Chain'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='11 12 35 ' description='Skill' auth='yes' name='Project Management'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>82</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='52 112 141 ' description='Skill > IT' auth='yes' name='Microsoft Excel'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>30</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>EXCEL</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>67</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='39 127 137 ' description='Skill > IT' auth='yes' name='Java'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>66</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>84</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='49 160 162 ' description='Skill > IT' auth='yes' name='Ascential DataStage'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Datastage</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='132 156 ' description='Skill' auth='no' name='change requests'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>66</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>84</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='43 111 ' description='Skill > IT' auth='yes' name='Visual Basic'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>VB</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>63</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='42 147 ' description='Skill > IT' auth='yes' name='Spring Framework'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Spring</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='86 95 ' description='Skill' auth='no' name='Risk Assessment'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>83</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='120 131 ' description='Skill' auth='yes' name='Requirements Gathering'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>48</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Gathered requirements</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>requirement gathering</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='98 100 ' description='Skill' auth='yes' name='Regulatory Reporting'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>3</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>80</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='13 61 ' description='Skill' auth='no' name='PRODUCT MANAGEMENT'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>90</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='15 139 ' description='Skill > IT' auth='yes' name='Object Oriented Analysis/Design'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='DESIGN'><StringValue>DESIGN</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='ANALYSIS'><StringValue>ANALYSIS</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>OBJECT ORIENTED DESIGN AND ANALYSIS</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>object oriented</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='46 125 ' description='Skill > IT' auth='yes' name='Lua'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>48</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='47 154 ' description='Skill > IT' auth='yes' name='JavaScript'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='161 164 ' description='Skill > IT' auth='yes' name='ETL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ETL tools</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>21</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency description='Skill > IT' auth='yes' name='DLP'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='20 159 ' description='Skill' auth='yes' name='Business Intelligence'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='82 ' description='Skill' auth='no' name='program management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>3</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>81</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='136 ' description='Skill' auth='no' name='manage pricing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='157 ' description='Skill' auth='no' name='functional analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='74 ' description='Skill' auth='no' name='final testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='67 ' description='Skill' auth='no' name='drive development'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='140 ' description='Skill > IT' auth='no' name='adobe'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>47</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='142 ' description='Skill > IT' auth='yes' name='XSLT'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='126 ' description='Skill > IT' auth='yes' name='XML'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>48</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>85</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='71 ' description='Skill' auth='yes' name='User Acceptance Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>, UAT</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='68 ' description='Skill' auth='no' name='Unit testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='122 ' description='Skill' auth='yes' name='Triage'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>48</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>88</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='69 ' description='Skill' auth='yes' name='System Testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='138 ' description='Skill > IT' auth='yes' name='Struts Web Application Framework'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Struts</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>48</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='80 ' description='Skill > IT' auth='yes' name='Service Oriented Architecture'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>3</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>81</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='17 ' description='Skill' auth='no' name='STATISTICAL ANALYSIS'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='18 ' description='Skill' auth='no' name='SOFTWARE DEVELOPMENT'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='114 ' description='Skill' auth='yes' name='Risk Analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>61</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='10 ' description='Skill' auth='yes' name='Product Development'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>82</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='96 ' description='Skill' auth='yes' name='Procurement'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>2</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>63</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='143 ' description='Skill > IT' auth='yes' name='Perl Programming'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Perl</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='109 ' description='Skill' auth='no' name='Performed risk analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='90 ' description='Skill' auth='no' name='Performed Archer Reporting Integration Analysis'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>10</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>81</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='165 ' description='Skill > IT' auth='yes' name='Oracle PL/SQL'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence name='Application' typeDescription='Application' type='programming'><StringValue>programming</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Oracle PL/SQL programming</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>18</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='45 ' description='Skill > IT' auth='yes' name='Oracle 8i'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Oracle 8i/9i/10 9i/10</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='163 ' description='Skill > IT' auth='yes' name='Oracle'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>19</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='44 ' description='Skill > IT' auth='yes' name='MySQL'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='113 ' description='Skill' auth='yes' name='Monte Carlo Simulation'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>62</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='36 ' description='Skill > IT' auth='yes' name='Microsoft Project'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='77 ' description='Skill > IT' auth='yes' name='Microsoft PowerPoint'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>PowerPoint</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='151 ' description='Skill > IT' auth='yes' name='Java Server Pages'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>JSP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='40 ' description='Skill > IT' auth='yes' name='Java 2 Enterprise Edition'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>J2EE</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='70 ' description='Skill' auth='no' name='Integration testing'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='51 ' description='Skill > IT' auth='yes' name='Informatica'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='89 ' description='Skill' auth='no' name='Incident Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>10</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>81</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='128 ' description='Skill > IT' auth='yes' name='IBM WebSphere'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>48</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>84</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='149 ' description='Skill > IT' auth='yes' name='Hibernate'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='75 ' description='Skill' auth='yes' name='Hedge Fund'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='153 ' description='Skill > IT' auth='yes' name='HTML'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='99 ' description='Skill' auth='yes' name='Financial Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>3</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>79</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='72 ' description='Skill' auth='no' name='Facilitated change request implementation'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='88 ' description='Skill' auth='no' name='Event Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>10</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>82</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='150 ' description='Skill > IT' auth='yes' name='Enterprise Java Beans'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Java Bean</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='73 ' description='Skill > IT' auth='yes' name='Eagle STAR Financial Software'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>EAGLE STAR</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='123 ' description='Skill > IT' auth='yes' name='ECLiPSe'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>48</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Eclipse IDE</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='48 ' description='Skill' auth='yes' name='Data Warehousing'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='19 ' description='Skill' auth='no' name='DATABASE DESIGN AND DEVELOPMENT'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='16 ' description='Skill' auth='no' name='DATA ANALYSIS'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='148 ' description='Skill' auth='no' name='Created database design'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='78 ' description='Skill' auth='no' name='Conflict management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='124 ' description='Skill' auth='yes' name='Client Services'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>48</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>86</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='152 ' description='Skill > IT' auth='yes' name='Cascading Style Sheets'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>CSS</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='27 ' description='Skill' auth='yes' name='Capital Markets'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='38 ' description='Skill > IT' auth='yes' name='C++'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='37 ' description='Skill > IT' auth='yes' name='C Programming Language'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>C</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='50 ' description='Skill > IT' auth='yes' name='Business Objects'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='14 ' description='Skill' auth='yes' name='Business Analysis'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='103 ' description='Skill' auth='yes' name='Buses'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>3</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>BUs</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>78</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='130 ' description='Skill > IT' auth='yes' name='BlackBerry'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>48</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>84</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='66 ' description='Skill' auth='yes' name='Bank Repos'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Repos</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>87</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='58 ' description='Skill' auth='no' name='Application Development'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='129 ' description='Skill > IT' auth='yes' name='Android'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>48</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>84</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='41 ' description='Skill > IT' auth='yes' name='AJAX'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='79_2_1 84_1 93_1 97_2_1 ' description='Held Position' auth='no' name='Project Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>15</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>84</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='30_2 134_2_3 144_2_3 ' description='Held Position' auth='yes' name='Analyst/Programmer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Software Engineer</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='134_2_2 144_2_2 ' description='Held Position' auth='no' name='Web Application Developer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='30_1 104_2_1 ' description='Held Position' auth='no' name='Product Manager'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='134_2_1 144_2_1 ' description='Held Position' auth='no' name='Product Management'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>50</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='4_1 26_1 ' description='Held Position' auth='no' name='MANAGEMENT CONSULTANT'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='34_1 158_2_1 ' description='Held Position' auth='no' name='Associate Software Engineer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='145_1 ' description='Held Position' auth='no' name='a student'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='104_2_2 ' description='Held Position' auth='no' name='Risk Analyst'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>65</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='56_1 ' description='Held Position' auth='no' name='Product Manager/Tech'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2014'><NumericValue description='MONTH'>7</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>92</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='121_1 ' description='Held Position' auth='no' name='Helped the UI designer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>48</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>89</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='106_1 ' description='Held Position' auth='no' name='Fellow'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2012'><NumericValue description='MONTH'>12</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>64</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GOOD</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='32_1 ' description='Held Position' auth='no' name='Development Engineer'>
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>13</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='146_1 ' description='Held Position' auth='no' name='Created Controller'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2009'><NumericValue description='MONTH'>18</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>45</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>WORKING</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='158_2_2 ' description='Held Position' auth='no' name='Business Intelligence Engineer'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2008'><NumericValue description='MONTH'>9</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>22</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>BASIC</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='79_2_2 ' description='Held Position' auth='no' name='Architect'>
+<CompetencyEvidence name='Extent of Experience' typeDescription='Extent of Experience' type='MONTH' lastUsed='2013'><NumericValue description='MONTH'>3</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>81</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>EXCELLENT</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='53 91 ' description='Degree/Qualification > Professional' auth='yes' name='Royal Society of Arts'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>RSA DLP</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>24</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='22_1 ' description='Degree/Qualification' auth='yes' name='Masters Degree > Master of Science > Master of Science Project Management'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='Project Management'><StringValue>Project Management</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Master of Science in Civil Engineering GPA-3.5/4 , Major: Project Management</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+
+<CompetencyWeight type='skillProficiency'><StringValue minValue='BASIC' maxValue='EXCELLENT'>GPA-3.5/4</StringValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='28 ' description='Degree/Qualification > Professional' auth='no' name='Fellow'>
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>ORISE Fellow</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='23_1 ' description='Degree/Qualification' auth='yes' name='Bachelors Degree > Bachelor of Technology > Bachelor of Technology Civil Engineering'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='Civil Engineering'><StringValue>Civil Engineering</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>Bachelor of Technology in Civil Engineering</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency oids='76 ' description='Degree/Qualification' auth='yes' name='A Levels/Grades > Scottish Highers > Scottish Highers management'>
+<CompetencyEvidence name='Application' typeDescription='Application' type='management'><StringValue>management</StringValue></CompetencyEvidence>
+
+<CompetencyEvidence typeDescription='Alias' name='Alias'><StringValue>higher management</StringValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>12</NumericValue></CompetencyWeight>
+</Competency>
+
+<Competency description='Industry' auth='yes' name='industry~it'>
+<CompetencyEvidence name='skillCount' typeDescription='skillCount'><NumericValue>5</NumericValue></CompetencyEvidence>
+
+<CompetencyWeight type='skillLevel'><NumericValue minValue='0' maxValue='100'>100</NumericValue></CompetencyWeight>
+</Competency>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<RevisionDate id='2'>2014-07-01</RevisionDate>
+</StructuredXMLResume>
+<NonXMLResume>
+
+<TextResume>
+
+
+
+{{FOOTER}}
+
+<span inprof='n' id='1' class='date'>04/01/2013</span>
+
+
+{{END_FOOTER}}
+
+
+<span inprof='n' id='2' class='date'>{{DOCUMENT_DATESTAMP}} 2014-07-01 {{END_DOCUMENT_DATESTAMP}}</span> 
+
+<span inprof='y' id='3' class='nominal'>SUSHMITA SAHU</span>, <span inprof='y' id='4_1' class='role'>MANAGEMENT CONSULTANT</span>
+
+                                                                                                                                                                                                          <span inprof='y' id='5' class='email'>Email: sushmita.sahu1984@gmail.com</span>
+                                                                                                                 <span inprof='y' id='6' class='telephone'>Phone: (347)735-1490</span>
+<span inprof='n' id='7' class='title-line'>SUMMARY</span>
+
+<span inprof='y' id='8' class='nominal'>Sushmita</span> has <span inprof='n' id='9' class='duration'>6 years</span> of experience in data analytics, <span inprof='y' id='10' class='skill'>product development</span>, and program and <span inprof='y' id='11' class='skill'>project management</span> in financial companies, Insurance, Healthcare and Airline companies.
+
+RANGE OF EXPERIENCE
+
+                                 *    <span inprof='y' id='12' class='skill'>PROJECT MANAGEMENT</span>
+                                 *    <span inprof='y' id='13' class='skill'>PRODUCT MANAGEMENT</span>
+                                 *    <span inprof='y' id='14' class='skill'>BUSINESS ANALYSIS</span>
+                                 *    <span inprof='y' id='15' class='sofwr'>OBJECT ORIENTED DESIGN AND ANALYSIS</span>
+                                 *    ENTERPRISE ARCHITECTURE
+                                 *    BIG DATA
+                                 *    <span inprof='y' id='16' class='skill'>DATA ANALYSIS</span>
+                                 *    <span inprof='y' id='17' class='skill'>STATISTICAL ANALYSIS</span>
+                                 *    <span inprof='y' id='18' class='skill'>SOFTWARE DEVELOPMENT</span>
+                                 *    <span inprof='y' id='19' class='skill'>DATABASE DESIGN AND DEVELOPMENT</span>
+                                 *    <span inprof='y' id='20' class='skill'>BUSINESS INTELLIGENCE</span>
+
+
+<span inprof='n' id='21' class='edu-hist-mark'>EDUCATION AND CERTICATIONS</span>
+
+<span inprof='y' id='22_1' class='qualif'>Master of Science in Civil Engineering                                                                                                                 GPA-3.5/4
+Major: Project Management</span>
+<span inprof='y' id='22_2' class='educational'>University of Maryland, College Park, MD</span>                                                                                          <span inprof='y' id='22_3' class='date'>Graduation-May 2012</span>
+
+
+<span inprof='y' id='23_1' class='qualif'>Bachelor of Technology in Civil Engineering</span>                                                                                   <span inprof='y' id='23_2' class='date'>Graduation-May 2007</span>
+<span inprof='y' id='23_3' class='educational'>National Institute of Technology</span>, <span inprof='y' id='23_4' class='location'>Rourkela, India</span>                                                                                                <span inprof='y' id='23_5_1' class='degree-measure'>GPA-7.59/10</span>
+
+<span inprof='n' id='24' class='work-hist-mark'>PROFESSIONAL AND BUSINESS HISTORY</span>
+
+                                 *    <span inprof='n' id='25' class='company'>PwC</span> - <span inprof='y' id='26_1' class='role'>Management Consultant</span> in Banking and <span inprof='y' id='27' class='skill'>Capital Markets</span>, Technology Division ; 
+                                 *    FDA - <span inprof='y' id='28' class='qualif'>ORISE Fellow</span>, <span inprof='y' id='29' class='educational'>Department of Compliance(CDER)</span> ; 
+                                 *    Konysolutions- <span inprof='y' id='30_1' class='role'>Product Manager</span>/<span inprof='y' id='30_2' class='role'>Software Engineer</span>, Application Development Team ; 
+                                 *    <span inprof='n' id='31' class='company'>Pramati Technologies</span> - <span inprof='y' id='32_1' class='role'>Development Engineer</span>, Products team ; 
+                                 *    <span inprof='n' id='33' class='company'>Accenture India Development Center</span> - <span inprof='y' id='34_1' class='role'>Associate Software Engineer</span>, Business Intelligence Team
+
+TECHNOLOGY CAPABILITIES
+
+                                 *    Statistical Tools: SPSS,R,SAS
+                                 *    <span inprof='y' id='35' class='skill'>Project Management</span> Tools:                <span inprof='y' id='36' class='sofwr'>Microsoft Project</span>, @Risk, Primavera ; 
+                                 *    Programming Languages:                   <span inprof='y' id='37' class='sofwr'>C</span>, <span inprof='y' id='38' class='sofwr'>C++</span>, <span inprof='y' id='39' class='sofwr'>Java</span>, <span inprof='y' id='40' class='sofwr'>J2EE</span>, <span inprof='y' id='41' class='sofwr'>Ajax</span>, <span inprof='y' id='42' class='sofwr'>Spring</span>,<span inprof='y' id='43' class='sofwr'>VB</span>
+                                 *    Reporting Tools: Jasper Reports
+                                 *    Database Languages:                           <span inprof='y' id='44' class='sofwr'>MySQL</span> , <span inprof='y' id='45' class='sofwr'>Oracle 8i/9i/10</span>
+                                 *    Scripting Languages:                           <span inprof='y' id='46' class='sofwr'>Lua</span>, <span inprof='y' id='47' class='sofwr'>JavaScript</span>
+                                 *    <span inprof='y' id='48' class='skill'>Data warehousing</span> Tools: <span inprof='y' id='49' class='sofwr'>Datastage</span>, <span inprof='y' id='50' class='sofwr'>Business Objects</span>, <span inprof='y' id='51' class='sofwr'>Informatica</span> ; 
+                                 *    <span inprof='y' id='52' class='sofwr'>EXCEL</span> SKILLS: Macros, Graphs, Mathematical Operations ; 
+                                 *    Network Security: <span inprof='y' id='53' class='qualif'>RSA DLP</span> Suite, RSA Archer
+
+
+<span inprof='n' id='54' class='work-hist-mark'>PROFESSIONAL AND BUSINESS EXPERIENCE</span>
+
+<span inprof='y' id='55' class='company'>PwC</span> - <span inprof='y' id='56_1' class='role'>Product Manager/Tech</span> Liaison    (<span inprof='y' id='57_1' class='date'>December 2013</span> - <span inprof='y' id='57_2' class='date'>June 2014</span>)
+Project: <span inprof='y' id='58' class='skill'>Application Development</span> for <span inprof='y' id='59' class='skill'>Reconciliation</span> of financial instruments for a leading <span inprof='n' id='60' class='company'>Hedge Fund Company</span>
+Responsibilities
+
+                                 *    Owned the <span inprof='y' id='61' class='skill'>product management</span> responsibilities like the design, development and testing of two financial applications meant for <span inprof='y' id='62' class='skill'>reconciliation</span> and report generation(TLM from SmartStream and <span inprof='n' id='63' class='nominal'>MRS OC</span> for Market Value <span inprof='y' id='64' class='skill'>Reconciliation</span> Reporting). ; 
+                                 *    Drove the Cash, Positions and MVR <span inprof='y' id='65' class='skill'>Reconciliation</span> of complex portfolios(Having information like Collaterals, Swaps, <span inprof='y' id='66' class='skill'>Repos</span> etc.) in TLM. ; 
+                                 *    Coordinated with various Application development teams, Operations team, Accounting Teams, Data Delivery and the testing pillar to facilitate and <span inprof='y' id='67' class='skill'>drive development</span>, integration and testing(<span inprof='y' id='68' class='skill'>Unit testing</span>, <span inprof='y' id='69' class='skill'>System testing</span>, <span inprof='y' id='70' class='skill'>Integration testing</span><span inprof='y' id='71' class='skill'>, UAT</span> and Production Parallel). ; 
+                                 *    <span inprof='y' id='72' class='skill'>Facilitated change request implementation</span> and defect resolution. Acted as a conduit of communication for the other application liaisons(<span inprof='y' id='73' class='sofwr'>EAGLE STAR</span>/PACE) for data delivery, defect resolution and <span inprof='y' id='74' class='skill'>final testing</span>. ; 
+                                 *    Coordinated with the governance, data security team to ensure that coding and promotion are compliant with the existing standards(Dodd Frank and other regulatory requirements). ; 
+                                 *    Did reporting on a weekly basis to the core <span inprof='y' id='75' class='skill'>hedge fund</span> Company and <span inprof='y' id='76' class='qualif'>higher management</span> through Gantt Charts, <span inprof='y' id='77' class='sofwr'>PowerPoint</span> reports (Heat Maps etc.). ; 
+                                 *    <span inprof='y' id='78' class='skill'>Conflict management</span> and facilitation of a common agenda for the involved Stakeholders. ; 
+                                 *    Drove the project from concept to final promotion into the Production environment.
+
+<span inprof='y' id='79_1' class='company'>PwC</span> - <span inprof='y' id='79_2_1' class='role'>Project Manager</span> and <span inprof='y' id='79_2_2' class='role'>architect</span> (<span inprof='y' id='79_3_1' class='date'>October 2013</span> - <span inprof='y' id='79_3_2' class='date'>December 2013</span>)
+Project: Designing <span inprof='y' id='80' class='sofwr'>Service Oriented Architecture</span> for a fortune 500 <span inprof='n' id='81' class='industry-sector'>Insurance Company</span>
+Responsibilities
+
+                                 *    Worked on defining a SOA framework for the client. ; 
+                                 *    Identified Inventory existing principles, standards, reference architecture, and patterns (Identified potential gaps). ; 
+                                 *    Developed the reference architecture and patterns s in an iterative manner with planned review sessions at agreed to milestones. An overarching Services Reference Architecture consisting of:
+
+                  · Principles specific to the services
+                  · Standards specific to the services 
+                  · Conceptual and Logical diagram depicting the ESB, on-ramps and off-ramps and the usage
+
+                                 *    Worked with the enrollment (An insurance application) team to define a roadmap that facilitates alignment on the future state direction and serves as the basis for <span inprof='y' id='82' class='skill'>program management</span> and governance. ; 
+                                 *    The roadmap creation included the Service snapshots, including alignment to business purpose, functionality, complexity, high-level cost, and business value/benefits, dependency map, unconstrained roadmap, roadmap scenario models and finalized roadmap and high-level business case.
+
+<span inprof='y' id='83' class='company'>PwC</span> - <span inprof='y' id='84_1' class='role'>Project Manager</span> and IT/Infrastructure Security  (<span inprof='y' id='85_1' class='date'>November 2012</span> - <span inprof='y' id='85_2' class='date'>August 2013</span>)
+Project: Data Loss Prevention and <span inprof='y' id='86' class='skill'>Risk Assessment</span> in a Payment Processor/ Review of the PCI-DSS compliance of the systems of a Payments Processor for a Data Breach
+
+Responsibilities
+                                 *    Implemented and defined a set of <span inprof='n' id='87' class='company'>Information Technology Infrastructure Library(ITIL)</span> practices for the client for aligning their IT services with the business. Worked on several aspects of Service Operation like <span inprof='y' id='88' class='skill'>Event Management</span>, <span inprof='y' id='89' class='skill'>Incident Management</span>, Identity Management etc. ; 
+                                 *    Worked closely with Network Security Engineers, Applications Owners etc. to gather information on current state and identify gaps ; 
+                                 *    Established governance standards in compliance with PCI DSS norms and QSA best practices for structured and unstructured data. ; 
+                                 *    Implemented a Scanning Schedule for the Asset Inventory of the Client and developed Future State Workflows for Scanning, PAN Evaluation and Remediation. ; 
+                                 *    <span inprof='y' id='90' class='skill'>Performed Archer Reporting Integration Analysis</span> and created strategy for Data in Motion and Data in Use Capabilities/Coverage with the <span inprof='y' id='91' class='qualif'>RSA DLP</span> tool. ; 
+                                 *    Successfully deployed RSA tools on the client systems to monitor and scrutinize data.
+
+<span inprof='y' id='92' class='company'>PwC</span> - <span inprof='y' id='93_1' class='role'>Project Manager</span> and IT Security (<span inprof='y' id='94_1' class='date'>September 2012</span> - <span inprof='y' id='94_2' class='date'>October 2012</span>)
+Project: Review of the PCI and NPI compliance of a banking and payment processor's systems for credit card fraud and data breach
+
+Responsibilities
+
+                                 *    Conducted <span inprof='y' id='95' class='skill'>risk assessment</span> of the client's network by assessing multiple parameters like exposure to external domains, nature of data stored or transmitted by the systems on it. ; 
+                                 *    Conducted client calls to understand network architecture at the client site. This involved information <span inprof='y' id='96' class='skill'>procurement</span> on the different domains, domain controllers, database servers, application servers and the security loopholes in the network. ; 
+                                 *    Categorized systems based on data sensitivity parameters like PCI and NPI. ; 
+                                 *    Identified the high risk systems on the client network and suggested immediate remediation measures like re-imaging and installation of security software. ; 
+                                 *    Managed and organized the data gathered in the interview sessions.
+
+
+<span inprof='y' id='97_1' class='company'>PwC</span> - <span inprof='y' id='97_2_1' class='role'>Project Manager</span>(<span inprof='y' id='97_3_1' class='date'>July 2013</span> - <span inprof='y' id='97_3_2' class='date'>October 2013</span>)
+Project: Risk and <span inprof='y' id='98' class='skill'>Regulatory Reporting</span> for the <span inprof='y' id='99' class='skill'>Financial Services</span> unit of a leading Fortune 500 Organization
+Responsibilities
+
+                                 *    Helped the company to identify Indirect Investees to be included in their <span inprof='y' id='100' class='skill'>regulatory reporting</span> to <span inprof='n' id='101' class='company'>the Federal Reserve Board</span>(As per <span inprof='y' id='102' class='location'>the Dodd-Frank Wall Street</span> Reform and Consumer Protection Act of 2010- The company was identified to file legal structure and financial reports). ; 
+                                 *    Helped in dividing the total population of Legal Entities into FR Y-6, FR Y-10 buckets and their also helped in identifying their subsidaries. ; 
+                                 *    Performed control assessments required for parent Legal Entities and all subsidiaries to determine FR Y-10 and FY-6 filing requirements ; 
+                                 *    Facilitated the process of identifying the Legal Entities by Business Units, providing training to the <span inprof='y' id='103' class='skill'>BUs</span> etc and assigning BU Project Managers to complete templates with existing data. ; 
+                                 *    Consolidated and maintained the tracker(metrics file) for different legal entities(LEs) with updates from the different lines of businesses.- Also worked on administrative tasks on the project like maintaining and analyzing the Time and Expense tracker for the team.
+
+
+<span inprof='y' id='104_1' class='company'>FDA</span> - <span inprof='y' id='104_2_1' class='role'>Product Manager</span> and <span inprof='y' id='104_2_2' class='role'>Risk Analyst</span>  (<span inprof='y' id='104_3_1' class='date'>June 2011</span> - <span inprof='y' id='104_3_2' class='date'>May 2012</span>)
+<span inprof='n' id='105' class='company'>ORISE Research</span> <span inprof='y' id='106_1' class='role'>Fellow</span> in <span inprof='n' id='107' class='company'>the Division of Compliance (CDER)</span>
+Responsibilities
+                                 *    Identified the risks to the international drug <span inprof='y' id='108' class='skill'>supply chain</span>. ; 
+                                 *    Analyzed historical data from databases to identify trends and help policy makers in decision making. ; 
+                                 *    <span inprof='y' id='109' class='skill'>Performed risk analysis</span> on <span inprof='y' id='110' class='skill'>supply chain</span> of drugs and found ways to mitigate them. Worked on <span inprof='y' id='111' class='sofwr'>VB</span>, <span inprof='y' id='112' class='sofwr'>Excel</span> and <span inprof='y' id='113' class='skill'>Monte Carlo Simulation</span> for developing a <span inprof='y' id='114' class='skill'>risk analysis</span> tool. ; 
+                                 *    Aided in creating technical designs for translating the risk methodology into a risk monitoring product. ; 
+                                 *    Authored an internal research paper that addresses the risks to the drugs <span inprof='y' id='115' class='skill'>supply chain</span>. The paper has an overview of compliance regulations existing in the healthcare industry and prior incidents of drug adulteration.
+
+KonySolutions -<span inprof='n' id='116' class='qualif'>Product Management and Software Engineering</span> (<span inprof='n' id='117' class='qualif'>Mobile Applications</span>)(<span inprof='y' id='118_1' class='date'>September 2009</span> -<span inprof='y' id='118_2' class='date'>August 2013</span> )
+
+Client: Fortune 500 <span inprof='n' id='119' class='industry-sector'>Banking Company</span>
+This project was targeted at developing a platform independent mobile application with the same functionality as that of the banking web application. The mobile application is seamlessly integrated with the client web services and provides all the functionalities of the banking web application on the mobile devices.
+Responsibilities
+                                 *    <span inprof='y' id='120' class='skill'>Gathered requirements</span> from the clients and created business requirements document and functional requirements documents. ; 
+                                 *    <span inprof='y' id='121_1' class='role'>Helped the UI designer</span> to create wireframes for client presentation and gathered feedback from the client. ; 
+                                 *    Coordinated the daily stand up, wrap up and <span inprof='y' id='122' class='skill'>triage</span> meetings. ; 
+                                 *    Designed and developed UI (<span inprof='y' id='123' class='sofwr'>Eclipse IDE</span>) for mobile applications and integrated it with <span inprof='y' id='124' class='skill'>client Services</span> (SOAP) (Integration using <span inprof='y' id='125' class='sofwr'>LUA</span> and <span inprof='y' id='126' class='sofwr'>XML</span>). Developed middleware code using <span inprof='y' id='127' class='sofwr'>JAVA</span> and deployed it on <span inprof='y' id='128' class='sofwr'>IBM WebSphere</span>. ; 
+                                 *    Involved in the designing of the modules with the architecture team and system integration and testing. ; 
+                                 *    Successfully deployed the code on iOS Simulator, <span inprof='y' id='129' class='sofwr'>Android</span> emulator and <span inprof='y' id='130' class='sofwr'>Blackberry</span> emulators to test the actually functionality of the application. Worked with the team to push weekly releases for the client. ; 
+                                 *    Interacted with the client for <span inprof='y' id='131' class='skill'>requirement gathering</span>, <span inprof='y' id='132' class='skill'>change requests</span> and defect resolution. ; 
+                                 *    Supervised a team of four developers and successfully delivered the project in <span inprof='n' id='133' class='duration'>six months</span> resulting in significant turnover for the company.
+
+
+<span inprof='y' id='134_1' class='company'>Pramati Technologies</span> - <span inprof='y' id='134_2_1' class='role'>Product Management</span> and <span inprof='y' id='134_2_2' class='role'>Web Application Developer</span>/<span inprof='y' id='134_2_3' class='role'>Software Engineer</span>(<span inprof='y' id='134_3_1' class='date'>January 2008</span> - <span inprof='y' id='134_3_2' class='date'>June 2009</span>)
+<span inprof='n' id='135' class='company'>Client: Product Configuration Sales Software Company</span>
+The software customization application is used by sales reps to add products and quotes to opportunities and <span inprof='y' id='136' class='skill'>manage pricing</span> and discounts.
+Responsibilities
+*    Implemented business process, database retrievals, access of information and user interface using <span inprof='y' id='137' class='sofwr'>Java</span>, <span inprof='y' id='138' class='sofwr'>Struts</span>. ; 
+*    Implemented the application using many of the design patterns and <span inprof='y' id='139' class='sofwr'>object oriented</span> processes. Participated in the code deployments, architecture review meetings, design documents updates, project status meetings and environment set-up status meetings. ; 
+*    Contributed to the end to end development of the application and provided useful insights. ; 
+*    Worked on creating <span inprof='y' id='140' class='sofwr'>adobe</span> and <span inprof='y' id='141' class='sofwr'>excel</span> quotes for BigMachines' clients using <span inprof='y' id='142' class='sofwr'>XSLT</span> and <span inprof='y' id='143' class='sofwr'>Perl</span>.
+
+
+<span inprof='y' id='144_1' class='company'>Pramati Technologies</span> - <span inprof='y' id='144_2_1' class='role'>Product Management</span> and <span inprof='y' id='144_2_2' class='role'>Web Application Developer</span>/<span inprof='y' id='144_2_3' class='role'>Software Engineer</span>(<span inprof='y' id='144_3_1' class='date'>January 2008</span> - <span inprof='y' id='144_3_2' class='date'>June 2009</span>)
+
+Client: Software, IT Services
+The web application developed is a financial aid application for students which makes complex calculations and helps the government decide if <span inprof='y' id='145_1' class='role'>a student</span> is eligible for financial aid or not.
+Responsibilities
+                                 *    <span inprof='y' id='146_1' class='role'>Created Controller</span> code for the application using <span inprof='y' id='147' class='sofwr'>Spring</span> MVC 3 tier architecture. <span inprof='y' id='148' class='skill'>Created database design</span> and used <span inprof='y' id='149' class='sofwr'>Hibernate</span> technology for information binding of <span inprof='y' id='150' class='sofwr'>Java Bean</span> with the database schema. ; 
+                                 *    Developed web pages using <span inprof='y' id='151' class='sofwr'>JSP</span>, <span inprof='y' id='152' class='sofwr'>CSS</span>, <span inprof='y' id='153' class='sofwr'>HTML</span> and <span inprof='y' id='154' class='sofwr'>JavaScript</span>. <span inprof='n' id='155' class='company'>Used Direct</span> Web Remoting (DWR) calls for processing client requests through the controller code with the database. ; 
+                                 *    Represented the team in client calls for requirement changes, discuss <span inprof='y' id='156' class='skill'>change requests</span>, defects, test plan, code migration into UAT and production. ; 
+                                 *    Involved in project architecture, <span inprof='y' id='157' class='skill'>functional analysis</span>, process work flow and designing. ; 
+                                 *    Took onus of the coordination between front end and backend of the application. Successfully helped in the final release by fixing application bugs.
+
+
+<span inprof='y' id='158_1' class='company'>Accenture India Development Center</span>- <span inprof='y' id='158_2_1' class='role'>Associate Software Engineer</span>/<span inprof='y' id='158_2_2' class='role'>Business Intelligence Engineer</span>(<span inprof='y' id='158_3_1' class='date'>May 2007</span> - <span inprof='y' id='158_3_2' class='date'>January 2008</span>)
+Client: Leading Manufacturing/Energy based Organization
+Responsibilities
+                                 *    Developed technical design documents and functional design documents for mapping source to target databases. The technical documents had information on how to design mappings (Designing source, target databases and transformations on data) using the <span inprof='y' id='159' class='skill'>Business Intelligence</span> tool <span inprof='y' id='160' class='sofwr'>Datastage</span>. ; 
+                                 *    Used <span inprof='y' id='161' class='sofwr'>ETL tools</span> like <span inprof='y' id='162' class='sofwr'>Datastage</span> in extraction of sales data from flat files and <span inprof='y' id='163' class='sofwr'>Oracle</span> databases and deployed them in datamarts. ; 
+                                 *    Created <span inprof='y' id='164' class='sofwr'>ETL</span> mappings and used <span inprof='y' id='165' class='sofwr'>Oracle PL/SQL programming</span> to create Triggers, database packages, Procedures/Functions etc.
+
+</TextResume>
+
+</NonXMLResume>
+
+
+
+<UserArea>
+<DaxResumeUserArea>
+<AdditionalPersonalData>
+<ExperienceSummary>
+<TotalMonthsOfWorkExperience>109</TotalMonthsOfWorkExperience>
+<TotalYearsOfWorkExperience>9</TotalYearsOfWorkExperience>
+<TotalMonthsOfManagementWorkExperience>34</TotalMonthsOfManagementWorkExperience>
+<TotalYearsOfManagementWorkExperience>2.8</TotalYearsOfManagementWorkExperience>
+<TotalMonthsOfMidLevelManagementWorkExperience>19</TotalMonthsOfMidLevelManagementWorkExperience>
+<TotalYearsOfMidLevelManagementWorkExperience>1.5</TotalYearsOfMidLevelManagementWorkExperience>
+<TotalMonthsOfLowLevelManagementWorkExperience>15</TotalMonthsOfLowLevelManagementWorkExperience>
+<TotalYearsOfLowLevelManagementWorkExperience>1.2</TotalYearsOfLowLevelManagementWorkExperience>
+<ExecutiveBrief>Sushmita Sahu has been working in the IT  occupational sector for more than 9 years. During her last employment she was working as a Product Manager/Tech at PwC. Sushmita has extensive knowledge of Microsoft Excel, Java, Ascential DataStage, Visual Basic, Spring Framework, Object Oriented Analysis/Design, Lua, JavaScript, ETL, adobe, XSLT, XML, Struts Web Application Framework, Service Oriented Architecture, Perl Programming, Oracle PL/SQL, Oracle, Microsoft PowerPoint, Java Server Pages, IBM WebSphere, Hibernate, HTML, Enterprise Java Beans, Eagle STAR Financial Software, ECLiPSe, Cascading Style Sheets, BlackBerry, Android. Sushmita has a considerable management experience (2.8 years) with exposure to executive/middle management positions.</ExecutiveBrief>
+<ManagementRecord>Since 2013-12 for 7 months the candidate had experience at a executive/middle management level working as a Product Manager/Tech/architect at PwC.
+Since 2013-10 for 3 months the candidate had experience at a lower grade management level working as a Project Manager/architect at PwC.
+Since 2012-11 for 10 months the candidate had experience at a lower grade management level working as a Project Manager/architect at PwC.
+Since 2012-09 for 2 months the candidate had experience at a lower grade management level working as a Project Manager/architect at PwC.
+Since 2011-06 for 12 months the candidate had experience at a executive/middle management level working as a Product Manager/architect at FDA.
+</ManagementRecord>
+</ExperienceSummary>
+</AdditionalPersonalData>
+<ParserInfo>
+<ParserConfiguration>{max_len=50000} {tel_flag=} {send_zip=} {fast_conv=} {DEF_LOCAL=} {sdate=0} {no_email_body=0} {do_clever_zoning=1} {keep_span=1} {complex=1} {accept_langs=} {not_accept_langs=} {prefer_lang_cv=EN} {pers_only=0} {turbo=0} {split_language=0} {picture=0} {picture_inline=0} {name_space=0} {charset=} {hrxml_upgrade_edu_hist=0}{hrxml_add_languages_section=0}{spool=} {docID=} {user=DEFAULT} </ParserConfiguration>
+<ParserRelease>0.12.3.32629</ParserRelease>
+<ParserReleaseDate>2014-06-18</ParserReleaseDate>
+<ParserSchema>2.0.29</ParserSchema>
+<ParserSchemaLocation>http://cvx.daxtra.com/cvts/xsd/candidate/2.0.29/Resume.xsd</ParserSchemaLocation>
+<ConverterRelease>0.5.2.32629</ConverterRelease>
+<ConverterReleaseDate>2014-06-18</ConverterReleaseDate>
+</ParserInfo>
+<FileStruct filename='/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/SushmitaSahu06302014.docx'>
+
+<attachment fname='SushmitaSahu06302014.docx' ftype='docx' conv='yes' doc_type='cv' lang='EN'>/home/izoom/anazarov/grammar/analysis/3rconnect/doc/100_Resume-ApTask/SushmitaSahu06302014.docx</attachment>
+
+
+</FileStruct>
+</DaxResumeUserArea>
+</UserArea>
+</Resume>
