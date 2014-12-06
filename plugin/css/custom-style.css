@@ -1,0 +1,104 @@
+/* Styles go here */
+.border
+{
+    border:1px solid transparent;
+}
+.left-nav
+{
+    border-radius: 6px;
+    word-wrap: break-word;
+    white-space: normal;
+    border:1px solid #dddddd;
+}
+
+.right-nav
+{
+    word-wrap: break-word;
+    white-space: normal;
+    border-left:1px solid #dddddd;
+}
+
+.button-wrap{
+    white-space:normal;
+    margin-top:3px;
+    margin-bottom:3px;
+}
+.wrap-text{
+    word-wrap: break-word;
+    white-space: normal;
+}
+.main-section{
+    width:730px;
+}
+.centered {
+    margin-left: 350px;
+}
+
+.ads-style {
+    background-color: #EEF1FA;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left:5px;
+    padding-right:5px;
+    margin-bottom: 1px;
+}
+
+.odd {
+    background-color:transparent;
+    margin-bottom: 12px;
+    margin-top: 12px;
+}
+.even {
+    background-color:#f2f2f2;
+    border-bottom:1px solid #dddddd;
+    border-top:1px solid #dddddd;
+    margin-bottom: 12px;
+    margin-top: 12px;
+
+}
+.app-font{
+    margin: 0;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    color: #333333;
+    background-color: #ffffff;
+}
+#raw-chart .modal-dialog {
+    width: 85%;
+}
+.top5{margin-top:5px}
+.top10{margin-top:10px}
+.top15{margin-top:15px}
+.top20{margin-top:20px}
+.top30{margin-top:30px}
+.bottom5{margin-bottom:5px}
+.bottom10{margin-bottom:10px}
+.bottom15{margin-bottom:15px}
+.bottom20{margin-bottom:20px}
+.bottom30{margin-bottom:30px}
+.modal-backdrop.am-fade {
+    background: rgba(0, 0, 0, 0.5);
+}
+/*screen-xs*/
+@media (max-width: 768px) {
+    .colorBg{background-color:#f2f2f2;}
+}
+/*screen-sm*/
+@media (min-width: 768px) and (max-width: 992px) {
+    .colorBg{background-color:#f2f2f2;}
+}
+/*screen-md*/
+@media (min-width: 992px) and (max-width: 1200px) {
+    .colorBg{background-color:#f2f2f2;}
+}
+/*screen-lg corresponds with col-lg*/
+@media (min-width: 1200px) {
+    .colorBg{background-color:#f2f2f2;}
+}
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+    display: none !important;
+}
+button[disabled] {
+    color: #808080;
+}

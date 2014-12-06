@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html ng-app="searchbloxModule" ng-controller="searchbloxParentController">
+<head>
+    <script>document.write('<base href="' + document.location + '">');</script>
+    <title></title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+
+    <link rel="stylesheet" type="text/css" href="bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css">
+    <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css">
+    <link rel="shortcut icon" href="http://searchblox-website.s3.amazonaws.com/favicon.ico" />
+
+    <link rel="stylesheet" href="css/autosuggest-style.css"/>
+    <link rel="stylesheet" href="css/custom-style.css"/>
+</head>
+<body style="background:url('images/subtle_dots.png')">
+    <div class="container">
+        <div style="margin-top:10px;margin-bottom:10px" align="center">
+            <a href="http://www.searchblox.com"><img src="images/logo-searchblox.png"/></a>
+        </div>
+
+        <div ng-cloak ng-view=""></div>
+
+        <footer id="footer" style="margin-top: 10px; text-align:center">
+            <div style="margin-bottom: 20px;" ng-if="!API.searching">
+                <button ng-click="doIndexing()" ng-disabled="API.indexing">Index All Documents</button>
+                <p ng-show="API.indexing" ng-cloak>Indexing <strong ng-bind="API.currentDocument"></strong> ...</p>
+                <p ng-show="API.indexFinished" ng-cloak>Indexed done.</p>
+            </div>
+            <span class="app-font">Copyright {{ddate}} SearchBlox Software, Inc.</span>
+            <span class="links">&nbsp;<a href="http://www.searchblox.com" target="_blank">Contact Us</a></span>
+        </footer>
+
+    </div>
+
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
+<script src="bower_components/angular/angular.min.js"></script>
+<script src="bower_components/angular-route/angular-route.min.js"></script>
+<script src="bower_components/angular-resource/angular-resource.min.js"></script>
+<script src="bower_components/angular-sanitize/angular-sanitize.min.js"></script>
+<script src="bower_components/moment/min/moment.min.js"></script>
+<script src="bower_components/jquery-ui/jquery-ui.min.js"></script>
+<script src="bower_components/abdmob/x2js/xml2json.min.js"></script>
+<script src="lib/async.js"></script>
+
+<script src="lib/ui-bootstrap-tpls-0.10.0.js" charset="UTF-8"></script>
+<script src="bootstrap/js/bootstrap.min.js" charset="UTF-8"></script>
+
+<script src="js/controllers/searchblox-controller-parent.js"></script>
+<script src="js/controllers/searchblox-controller.js"></script>
+<script src="js/directives/autocomplete-directive.js"></script>
+<script src="js/directives/custom-input-directive.js"></script>
+<script src="js/directives/media-template-directive.js"></script>
+<script src="js/directives/ads-template-directive.js"></script>
+<script src="js/factories/searchblox-factory.js"></script>
+<script src="js/factories/searchblox-api.js"></script>
+<script src="js/filters/searchblox-filter.js"></script>
+<script src="js/modules/facet-module.js"></script>
+<script src="js/modules/rw-ui-slider.js"></script>
+<script src="js/modules/searchblox-module.js"></script>
+<script src="js/services/searchblox-service.js"></script>
+<script src="js/services/xml2js.js"></script>
+<script src="js/custom-lib/myscripts.js"></script>
+
+</body>
+</html>
