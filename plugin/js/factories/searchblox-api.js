@@ -150,29 +150,6 @@
                 }, function() {
                     finalCB();
                 });
-
-                //for(var i = 0; i < rc.length; i++) {
-                //    var v = rc[i],
-                //        _d = deferred[i] = $q.defer();
-                //
-                //    promises[i] = _d.promise;
-                //
-                //    if (!v) {
-                //        _d.reject('Invalid name');
-                //    } else {
-                //        s.getResume(v, eachLastCB.bind(null, v)).then(function() {
-                //            s.indexResume({
-                //                name: v
-                //            }, resolved.bind(null, _d, v));
-                //        });
-                //    }
-                //    console.log(promises);
-                //}
-                //
-                //$q.all(promises).then(function(results) {
-                //    console.log(results);
-                //    finalCB();
-                //});
             }
         };
 
