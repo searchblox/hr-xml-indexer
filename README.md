@@ -12,7 +12,15 @@ hr-xml-indexer
 Facet.json configuration file options that can be configured.
     
     "licenseKey": "F7F522D18E3D1F47947D31D1E3C32093", // API Key used for indexing. REQUIRED
+    
     "colName": "Resume-Collection",                   // Collection name to index. REQUIRED
+    
+    "resumeCandidates": [   // list down all the xml files, place all the xml files in this
+        "Abhik",            // plugin "plugin/data/results/" directory
+        "AkshataKothiwale",
+        "AlexSpears201405cProfileBA",
+    ]
+    
     "facets":[
         {"field": "contenttype", "display": "Content Type","size":"10"}, // term facet filters
         {"field": "keywords",  "display": "Keywords","size":"10"}, 
@@ -53,8 +61,3 @@ Facet.json configuration file options that can be configured.
     "pageSize": "10", // Number of results per page
     
     "showAutoSuggest": "true" // turn off autosuggest by setting this value to false
-    "resumeCandidates": [   // list down all the xml files, place all the xml files in this
-        "Abhik",            // plugin "plugin/data/results/" directory
-        "AkshataKothiwale",
-        "AlexSpears201405cProfileBA",
-    ]
