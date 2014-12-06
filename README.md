@@ -53,3 +53,8 @@ Facet.json configuration file options that can be configured.
     "pageSize": "10", // Number of results per page
     
     "showAutoSuggest": "true" // turn off autosuggest by setting this value to false
+    "resumeCandidates": [   // list down all the xml files, place all the xml files in this
+        "Abhik",            // plugin "plugin/data/results/" directory
+        "AkshataKothiwale",
+        "AlexSpears201405cProfileBA",
+    ]
