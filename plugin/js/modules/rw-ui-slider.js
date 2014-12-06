@@ -62,7 +62,6 @@
             }
 
             if (scope.searchData) {
-                console.log(scope.searchData);
                 var propertyKeys = Object.keys(scope.searchData);
                 var length = propertyKeys.length;
                 var min = 0, max = 0;

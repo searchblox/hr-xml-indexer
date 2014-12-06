@@ -51,7 +51,6 @@ angular.module('searchblox.controller').controller('searchbloxController', [
     $scope.dataMap = {};
     $scope.inputClass = {};
     $scope.inputClass.name = "ngCustomInput col-sm-8 col-md-8 col-md-offset-2";
-    $scope.gridColumns = [];
 
     // load autosuggest items
     $scope.loadItems = function (term) {
@@ -123,16 +122,10 @@ angular.module('searchblox.controller').controller('searchbloxController', [
                     $scope.showAutoSuggest = data.showAutoSuggest;
                 }
 
-                if (typeof($scope.gridColumns) == "undefined" || $scope.gridColumns == null || $scope.gridColumns.length < 1) {
-                    $scope.gridColumns = data.gridColumns;
-                }
-
 
                 $scope.dataMap['facet'] = 'on';
                 $scope.dataMap['xsl'] = "json";
 
-                $scope.gridInit();
-                
                 $scope.initResolved = true;
             }
         });
@@ -149,12 +142,14 @@ angular.module('searchblox.controller').controller('searchbloxController', [
     $scope.doSearch = function () {
         var urlParams = searchbloxService.getUrlParams(searchUrl, $scope.query,
             $scope.rangeFilter, $scope.filterFields, $scope.page, $scope.dataMap);
+
         searchbloxFactory.getResponseData(urlParams).then(function (searchResults) {
             $scope.parsedSearchResults = searchbloxService.parseResults(searchResults.data, $scope.facetMap, $scope.dataMap);
-            $scope.bindGridSearchResults($scope.parsedSearchResults);
             $scope.parsedLinks = searchbloxService.parseLinks(searchResults.data, $scope.facetMap);
             $scope.startedSearch = true;
             $scope.inputClass.name = "ngCustomInput col-sm-6 col-md-6 col-md-offset-2";
+
+            $scope.$emit('searching', true);
         });
     };
 
@@ -229,6 +224,8 @@ angular.module('searchblox.controller').controller('searchbloxController', [
 
     // Function for search by filter.
     $scope.doSearchByFilter = function (filter, facetName, rSlider) {
+        if (!filter) return;
+
         $scope.page = 1;
 
         var filters = "",
@@ -388,103 +385,4 @@ angular.module('searchblox.controller').controller('searchbloxController', [
         }
         return false;
     };
-
-    /**
-     * Grid options
-     */
-    $scope.gridInit = function() {
-        var footerTemplate = '<div class="ui-grid-bottom-panel">' +
-            '<ul class="pager">' +
-            '<li><a href="#" ng-click="getExternalScopes().gridApi.pagination.previousPage()">Previous</a></li>' +
-            '<li><a href="#" ng-click="getExternalScopes().gridApi.pagination.nextPage()">Next</a></li>' +
-            '<li>Page: {{ getExternalScopes().gridApi.pagination.getPage() }}</li>' +
-            '<li>Total pages: {{ getExternalScopes().gridApi.pagination.getTotalPages() }}</li>' +
-            '</ul></div>';
-
-        var modalTemplate = function (c) {
-
-            var fields = $scope.gridColumns.map(function(v) { return v['field']; });
-            var displayAs = $scope.gridColumns.map(function(v) { return v['name']; });
-
-            var x = '<table class="table table-striped table-bordered"><tbody>';
-
-            fields.forEach(function(v, i) {
-                var _c = c[v];
-
-                if (_c == null && v.indexOf('.') > -1) {
-                    _c = Object.resolve(v, c);
-                }
-
-                x += '<tr>';
-                x += '<th>' + displayAs[i] + '</th><td>' + (_c?_c:'') + '</td>';
-                x += '</tr>';
-            });
-            x += '</tbody></table>';
-            return x;
-        };
-
-        $scope.gridOptions = {
-            data: 'gridResultsData',
-            rowHeight: 60,
-            onRegisterApi: function (gridApi) {
-                $scope.gridApi = gridApi;
-            },
-            showFooter: false,
-            footerTemplate: footerTemplate
-        };
-
-        $scope.gridOptions.columnDefs = $scope.gridColumns;
-
-        $scope.dUtils = {
-            formatData: function (obj) {
-                if (!angular.isArray(obj))
-                    return [obj];
-                else
-                    return obj;
-            },
-            modal: function (field) {
-                $modal({
-                    title: field.title,
-                    content: modalTemplate(field),
-                    html: true
-                })
-            },
-            gridApi: $scope.gridApi
-        };
-
-        $scope.dumpCSV = function() {
-            var exporterElem = $('.custom-csv-link-location.hidden');
-            $scope.gridApi.exporter.csvExport(uiGridExporterConstants.ALL, uiGridExporterConstants.ALL, exporterElem);
-            return $timeout(function() {
-                $scope.gridResultsDataCSV = exporterElem.find('a').attr('href').replace('data:text/csv;charset=UTF-8,', '');
-            }, 0);
-        };
-
-        $scope.bindGridSearchResults = function (v) {
-            $scope.gridResultsData = [];
-
-            if (v == null || !angular.isObject(v.records)) {
-                return false
-            }
-
-            $scope.gridResultsData = v.records;
-        };
-
-        $scope.openVisualBox = function () {
-            if ($scope.gridResultsData.length) {
-                $scope.gridResultsDataCSV = '';
-                $scope.dumpCSV().then(function() {
-                    var data = decodeURIComponent($scope.gridResultsDataCSV);
-                    data = $filter('htmlToPlaintext')(data);
-                    $modal({
-                        title: 'New Visualization',
-                        template: 'views/raw-chart.html',
-                        content: data
-                    });
-                });
-            } else {
-                alert('No data inside grid');
-            }
-        };
-    }
 }]);

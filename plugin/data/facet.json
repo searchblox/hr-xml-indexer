@@ -5,9 +5,9 @@
         {"field": "keywords", "display": "Keywords", "size": "10"},
         {"field": "colname", "display": "Collection", "size": "10"},
         {
-            "field": "experience", "display": "Experience", "slider": true,
+            "field": "experience", "display": "Experience", "slider": true, "dropdown": true,
             "range": [
-                {"name": "&lt 2 years", "from": "*", "to": "2"},
+                {"name": "< 2 years", "from": "*", "to": "2"},
                 {"name": "2 to 4 years", "from": "2", "to": "4"},
                 {"name": "5 to 10 years", "from": "5", "to": "10"},
                 {"name": "10 to 15 years", "from": "10", "to": "15"},

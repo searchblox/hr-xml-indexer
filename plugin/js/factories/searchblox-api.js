@@ -109,11 +109,23 @@
             format.searchblox['document']['title']['__text'] = sxr.ContactInfo.PersonName.FormattedName || data.name;
 
             if (ua.DaxResumeUserArea.AdditionalPersonalData) {
-                format.searchblox['document']['meta'][0] = ua.DaxResumeUserArea.AdditionalPersonalData.ExperienceSummary.TotalYearsOfWorkExperience;
+                format.searchblox['document']['meta'][0]['__text'] = ua.DaxResumeUserArea.AdditionalPersonalData.ExperienceSummary.TotalYearsOfWorkExperience;
             }
 
-            //format.searchblox['document']['meta'][1] = r;
-            //format.searchblox['document']['meta'][2] = r;
+            if (sxr.EmploymentHistory) {
+                var eh = sxr.EmploymentHistory.EmployerOrg;
+
+                if (angular.isArray(eh)) {
+                    eh.some(function(v) {
+                        if (v.EmployerOrgName && v.EmployerOrgName !== '') {
+                            format.searchblox['document']['meta'][1]['__text'] = v.EmployerOrgName;
+                            return true;
+                        }
+                    });
+                }
+            }
+
+            //format.searchblox['document']['meta'][2]['__text'] = r;
 
             return protoFn(API_INDEX_URL, null, format, cb);
         };
@@ -154,7 +166,6 @@
         };
 
         s.toXML = function(json) {
-            console.log(json);
             return x2js.json2xml_str(json)
         };
 

@@ -23,7 +23,7 @@
         <div ng-cloak ng-view=""></div>
 
         <footer id="footer" style="margin-top: 10px; text-align:center">
-            <div style="margin-bottom: 20px;">
+            <div style="margin-bottom: 20px;" ng-if="!API.searching">
                 <button ng-click="doIndexing()" ng-disabled="API.indexing">Index All Documents</button>
                 <p ng-show="API.indexing" ng-cloak>Indexing <strong ng-bind="API.currentDocument"></strong> ...</p>
                 <p ng-show="API.indexFinished" ng-cloak>Indexed done.</p>
