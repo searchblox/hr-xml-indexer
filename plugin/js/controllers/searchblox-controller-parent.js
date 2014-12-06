@@ -19,7 +19,6 @@
             }
 
             $scope.API.indexFinished = false;
-
             $scope.API.indexing = true;
 
             var _eachCallback = function (v) {
@@ -32,7 +31,7 @@
                 console.log('done');
             };
 
-            searchbloxAPI.indexResumes(angular.noop, _eachCallback, _finalCallback);
+            searchbloxAPI.indexResumes(_eachCallback, _finalCallback);
         };
 
     }]);

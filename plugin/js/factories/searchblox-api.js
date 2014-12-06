@@ -6,10 +6,9 @@
 
     var app = angular.module('searchblox.api', []);
 
-    app.factory('searchbloxAPI', ['$http', 'x2js', '$q', '$timeout',
-    function ($http, x2js, $q, $timeout) {
-        var protoFn, s,
-            deferred = $q.defer();
+    app.factory('searchbloxAPI', ['$http', 'x2js', '$q',
+    function ($http, x2js, $q) {
+        var protoFn, s;
 
         s = {};
 
@@ -19,7 +18,6 @@
         s.resumeObject = null;
         s.resumeXML = null;
         s.resumeCandidates = [];
-        s.candidateName = null;
 
         var sampleFormat = {
             "searchblox": {
@@ -27,7 +25,7 @@
                 "document": {
                     "_colname": "Custom_Collection",
                     "_location": "http://www.google.com/",
-                    "url": "data/results/",
+                    "url": "",
                     "title": {
                         "_boost": "1",
                         "__text": ""
@@ -96,8 +94,7 @@
             var format = sampleFormat;
 
             if (!s.resumeObject || !s.resumeObject.Resume) {
-                deferred.reject('Invalid data');
-                return deferred.promise;
+                return;
             }
 
             var r = s.resumeObject.Resume,
@@ -107,9 +104,9 @@
 
             format.searchblox['_apikey'] = s.licenseKey;
             format.searchblox['document']['_colname'] = s.colName;
-            format.searchblox['document']['url'] += s.candidateName;
+            format.searchblox['document']['url'] = 'data/results/' + data.name + '.xml';
 
-            format.searchblox['document']['title']['__text'] = sxr.ContactInfo.PersonName.FormattedName || s.candidateName;
+            format.searchblox['document']['title']['__text'] = sxr.ContactInfo.PersonName.FormattedName || data.name;
 
             if (ua.DaxResumeUserArea.AdditionalPersonalData) {
                 format.searchblox['document']['meta'][0] = ua.DaxResumeUserArea.AdditionalPersonalData.ExperienceSummary.TotalYearsOfWorkExperience;
@@ -118,8 +115,6 @@
             //format.searchblox['document']['meta'][1] = r;
             //format.searchblox['document']['meta'][2] = r;
 
-            jQuery.extend(true, format, data);
-
             return protoFn(API_INDEX_URL, null, format, cb);
         };
 
@@ -127,7 +122,6 @@
             if (!name) return;
 
             name = name + '.xml';
-            s.candidateName = name;
 
             return protoFn('data/results/' + name, 'get', {}, function(err, res) {
                 s.resumeObject = res.data;
@@ -135,27 +129,50 @@
             });
         };
 
-        s.indexResumes = function(eachCB, eachLastCB, finalCB) {
-            var resumePromises = [],
-                rc = s.resumeCandidates;
+        s.indexResumes = function(eachCB, finalCB) {
+            var rc = s.resumeCandidates;
 
             if (rc && angular.isArray(rc)) {
-                angular.forEach(rc, function (v) {
-                    if (!v) return true;
+                async.eachSeries(rc, function(v, cb) {
 
-                    var promise = s.getResume(v, function() {
+                    s.getResume(v, function(err) {
+                        if (err) return cb(null);
                         eachCB(v);
+
                     }).then(function() {
-                        return s.indexResume({}, function() {
-                            eachLastCB(v);
+                        s.indexResume({
+                            name: v
+                        }, function() {
+                            cb(null, v);
                         });
                     });
-                    resumePromises.push(promise);
-                });
 
-                $q.all(resumePromises).then(function() {
+                }, function() {
                     finalCB();
                 });
+
+                //for(var i = 0; i < rc.length; i++) {
+                //    var v = rc[i],
+                //        _d = deferred[i] = $q.defer();
+                //
+                //    promises[i] = _d.promise;
+                //
+                //    if (!v) {
+                //        _d.reject('Invalid name');
+                //    } else {
+                //        s.getResume(v, eachLastCB.bind(null, v)).then(function() {
+                //            s.indexResume({
+                //                name: v
+                //            }, resolved.bind(null, _d, v));
+                //        });
+                //    }
+                //    console.log(promises);
+                //}
+                //
+                //$q.all(promises).then(function(results) {
+                //    console.log(results);
+                //    finalCB();
+                //});
             }
         };
 
