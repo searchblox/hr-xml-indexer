@@ -61,3 +61,16 @@ Facet.json configuration file options that can be configured.
     "pageSize": "10", // Number of results per page
     
     "showAutoSuggest": "true" // turn off autosuggest by setting this value to false
+
+And ofcourse you need to append this to `searchblox/webapps/searchblox/WEB-INF` inside the `sdoc.properties`
+
+    "experience":{
+        "type":"integer",
+        "store":"yes",
+        "include_in_all":"false"
+    },
+    "currentcompany":{
+        "type":"string",
+        "store":"yes",
+        "include_in_all":"false"
+    },
