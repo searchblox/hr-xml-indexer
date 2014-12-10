@@ -25,16 +25,20 @@ Facet.json configuration file options that can be configured.
         {"field": "contenttype", "display": "Content Type","size":"10"}, // term facet filters
         {"field": "keywords",  "display": "Keywords","size":"10"}, 
         {"field": "colname","display": "Collection","size":"10"},
-        {"field": // number range facet filters
-            "size","display":"Size",
-            "slider": true, // true/false to enable/disable slider filter
-            "range":[
-            {"name":"&lt 100kB","from":"*","to":"102400"}, // define the from and to values to setup a range
-            {"name":"100kB to 500kB","from":"102400","to":"512000"}, 
-            {"name":"500kB to 1MB","from":"512000","to":"1048576"},
-            {"name":"1MB to 10MB","from":"1048576","to":"10485760"},
-            {"name":"10MB &gt","from":"10485760","to":"*"} // * can be used to define the higher or lower ranges
-        ]},
+        {"field": "currentcompany", "display": "Current Company", "size": "10"},
+        {"field": "previouscompany", "display": "Previous Company", "size": "10"},
+        {
+            "field": "experience", "display": "Experience",  // number range facet filters
+            "slider": true,         // true/false to enable/disable slider filter
+            "dropdown": true,       // true/false to enable/disable dropdown filter
+            "range": [
+                {"name": "< 2 years", "from": "*", "to": "2"}, // define the from and to values to setup a range
+                {"name": "2 to 4 years", "from": "2", "to": "4"},
+                {"name": "5 to 10 years", "from": "5", "to": "10"},
+                {"name": "10 to 15 years", "from": "10", "to": "15"},
+                {"name": "20 years", "from": "20", "to": "*"} // * can be used to define the higher or lower ranges
+            ]
+        },
         {"field": "lastmodified","display":"Modified Date", // date range facet filters
             "dateRange":[ 
                 {"name":"Last 24 hours","calendar":"days","value":"1"}, // look back values can be specified in days, months, years within the calendar
@@ -62,7 +66,7 @@ Facet.json configuration file options that can be configured.
     
     "showAutoSuggest": "true" // turn off autosuggest by setting this value to false
 
-And ofcourse you need to append this to `searchblox/webapps/searchblox/WEB-INF` inside the `sdoc.properties`
+And ofcourse you need to append this to `searchblox/webapps/searchblox/WEB-INF/mapping.json` within the `sdoc.properties` object
 
     "experience":{
         "type":"integer",
@@ -72,5 +76,16 @@ And ofcourse you need to append this to `searchblox/webapps/searchblox/WEB-INF` 
     "currentcompany":{
         "type":"string",
         "store":"yes",
-        "include_in_all":"false"
+        "index":"analyzed",
+        "analyzer":"comma_analyzer",
+        "include_in_all":"false",
+        "boost":"1"
+    },
+    "previouscompany":{
+        "type":"string",
+        "store":"yes",
+        "index":"analyzed",
+        "analyzer":"comma_analyzer",
+        "include_in_all":"false",
+        "boost":"1"
     },
