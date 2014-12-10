@@ -22,9 +22,7 @@ Facet.json configuration file options that can be configured.
     ]
     
     "facets":[
-        {"field": "contenttype", "display": "Content Type","size":"10"}, // term facet filters
-        {"field": "keywords",  "display": "Keywords","size":"10"}, 
-        {"field": "colname","display": "Collection","size":"10"},
+        {"field": "keywords",  "display": "Keywords","size":"10"},
         {"field": "currentcompany", "display": "Current Company", "size": "10"},
         {"field": "previouscompany", "display": "Previous Company", "size": "10"},
         {
