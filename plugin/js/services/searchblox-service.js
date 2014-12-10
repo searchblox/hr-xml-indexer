@@ -86,7 +86,6 @@ angular.module('searchblox.service', [])
             //var values = new Array();
             var collectionString = "";
             for (var i in collection) {
-                console.log(i);
                 //  values.push(collection[i]);
                 collectionString = collectionString + '&col=' + collection[i];
             }

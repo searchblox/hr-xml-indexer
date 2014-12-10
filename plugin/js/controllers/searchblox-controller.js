@@ -300,6 +300,10 @@ angular.module('searchblox.controller').controller('searchbloxController', [
                     }
 
                     $scope.filterFields = rangeFilter;
+                } else if (filterRangeCalendar !== undefined && filterRangeValue !== undefined) {
+                    $scope.filterFields = filters + '&f.' + facetName + '.filter=[' + moment().subtract(filterRangeCalendar, filterRangeValue).format("YYYY-MM-DDTHH:mm:ss") + 'TO*]';
+                } else {
+                    $scope.filterFields = filters + "&f." + facetName + ".filter=" + filterName;
                 }
 
                 $scope.showInput = true;

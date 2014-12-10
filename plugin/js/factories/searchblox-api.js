@@ -97,35 +97,7 @@
                 return;
             }
 
-            var r = s.resumeObject.Resume,
-                ua = r.UserArea,
-                sxr = r.StructuredXMLResume,
-                nxr = r.NonXMLResume;
-
-            format.searchblox['_apikey'] = s.licenseKey;
-            format.searchblox['document']['_colname'] = s.colName;
-            format.searchblox['document']['url'] = 'data/results/' + data.name + '.xml';
-
-            format.searchblox['document']['title']['__text'] = sxr.ContactInfo.PersonName.FormattedName || data.name;
-
-            if (ua.DaxResumeUserArea.AdditionalPersonalData) {
-                format.searchblox['document']['meta'][0]['__text'] = ua.DaxResumeUserArea.AdditionalPersonalData.ExperienceSummary.TotalYearsOfWorkExperience;
-            }
-
-            if (sxr.EmploymentHistory) {
-                var eh = sxr.EmploymentHistory.EmployerOrg;
-
-                if (angular.isArray(eh)) {
-                    eh.some(function(v) {
-                        if (v.EmployerOrgName && v.EmployerOrgName !== '') {
-                            format.searchblox['document']['meta'][1]['__text'] = v.EmployerOrgName;
-                            return true;
-                        }
-                    });
-                }
-            }
-
-            //format.searchblox['document']['meta'][2]['__text'] = r;
+            parseViewValues(format, data);
 
             return protoFn(API_INDEX_URL, null, format, cb);
         };
@@ -167,6 +139,69 @@
 
         s.toXML = function(json) {
             return x2js.json2xml_str(json)
+        };
+
+        var parseViewValues = function(format, data) {
+            var r = s.resumeObject.Resume,
+                ua = r.UserArea,
+                sxr = r.StructuredXMLResume,
+                nxr = r.NonXMLResume;
+
+            format.searchblox['_apikey'] = s.licenseKey;
+            format.searchblox['document']['_colname'] = s.colName;
+            format.searchblox['document']['url'] = 'data/results/' + data.name + '.xml';
+
+            format.searchblox['document']['title']['__text'] = sxr.ContactInfo.PersonName.FormattedName || data.name;
+
+            if (ua.DaxResumeUserArea.AdditionalPersonalData) {
+                format.searchblox['document']['meta'][0]['__text'] = ua.DaxResumeUserArea.AdditionalPersonalData.ExperienceSummary.TotalYearsOfWorkExperience;
+            }
+
+            if (sxr.EmploymentHistory) {
+                var eh = sxr.EmploymentHistory.EmployerOrg, prevCIndex = 0, prevCs = [];
+
+                if (angular.isArray(eh)) {
+                    // Current company
+                    for (var x = 0; eh.length > x; x++) {
+                        var y = eh[x];
+
+                        if (y.EmployerOrgName) {
+                            format.searchblox['document']['meta'][1]['__text'] = y.EmployerOrgName.__text;
+                            prevCIndex = x;
+                            break;
+                        }
+                    }
+
+                    if (prevCIndex > -1) {
+                        format.searchblox['document']['meta'][2]['__text'] = "";
+                        // Previous Company
+                        for (var i = prevCIndex + 1; eh.length > i; i++) {
+                            var j = eh[i];
+
+                            if (j.EmployerOrgName) {
+                                prevCs.push(j.EmployerOrgName.__text);
+                            }
+                        }
+
+                        if (prevCs.length) {
+                            format.searchblox['document']['meta'][2]['__text'] = prevCs.join(',');
+                        }
+                    }
+                }
+            }
+
+            if (sxr.Competency) {
+                var ct = sxr.Competency, keywords;
+
+                if (angular.isArray(ct)) {
+                    // Skills
+                    keywords = ct.map(function(v) {
+                        return v['_name'];
+                    }).join(',');
+
+                    format.searchblox['document']['keywords']['__text'] = keywords;
+                }
+            }
         };
 
         return s;
