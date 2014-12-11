@@ -8,9 +8,10 @@
                 <div ng-bind="parsedSearchResults.found + ' results found'"></div>
         	</span>
 
-            <div class="col-lg-12" ng-repeat="item in selectedItems" slide-show="showInput">
-                <a id="item['id']" href="javascript:void(0)" data-ng-click="removeItem($index)" class="btn btn-primary btn-xs col-lg-9 button-wrap">
-                    <span ng-bind-html="item['filterName'] | trust"></span>
+            <div class="col-lg-12 selectedItems" ng-repeat="item in selectedItems" slide-show="showInput">
+                <a ng-if="item.facetName !== 'experience'" ng-click="includeExcludeTerm($index)" class="cursor-pointer include" ng-class="{'term-included': item.included, 'term-excluded': !item.included}"></a>
+                <span class="label label-primary" ng-bind-html="item['filterName'] | trust"></span>
+                <a id="item['id']" href="javascript:void(0)" data-ng-click="removeItem($index)" class="btn btn-xs button-wrap">
                     <i class="glyphicon glyphicon-remove"></i>
                 </a>
             </div>
