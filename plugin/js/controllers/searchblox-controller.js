@@ -336,8 +336,7 @@ angular.module('searchblox.controller').controller('searchbloxController', [
     };
 
     var reArrangeFilters = function($index) {
-        var filters = "", query = angular.copy($scope.query), inOutKeyword = '',
-            includeOtherFilter = true;
+        var filters = "", query = angular.copy($scope.query), inOutKeyword = '';
 
         for (var i = 0, l = $scope.selectedItems.length; i < l; i++) {
             var obj = $scope.selectedItems[i];
@@ -347,7 +346,6 @@ angular.module('searchblox.controller').controller('searchbloxController', [
 
                 if (!obj.included) {
                     query += ' ' + inOutKeyword;
-                    includeOtherFilter = true
                 } else {
                     query = query.replace(inOutKeyword, ' ');
                 }
@@ -355,16 +353,14 @@ angular.module('searchblox.controller').controller('searchbloxController', [
                 $scope.query = $.trim(query);
             }
 
-            if (includeOtherFilter) {
-                if (obj['filterRangeFrom'] !== undefined && obj['filterRangeTo'] !== undefined) {
-                    filters = filters + '&f.' + obj['facetName'] + '.filter=[' + obj['filterRangeFrom'] + 'TO' + obj['filterRangeTo'] + ']';
-                }
-                else if (obj['filterRangeCalendar'] !== undefined && obj['filterRangeValue'] !== undefined) {
-                    filters = filters + '&f.' + obj['facetName'] + '.filter=[' + moment().subtract(obj['filterRangeCalendar'], obj['filterRangeValue']).format("YYYY-MM-DDTHH:mm:ss") + 'TO*]';
-                }
-                else {
-                    filters = filters + "&f." + obj['facetName'] + ".filter=" + obj['filterName'];
-                }
+            if (obj['filterRangeFrom'] !== undefined && obj['filterRangeTo'] !== undefined) {
+                filters = filters + '&f.' + obj['facetName'] + '.filter=[' + obj['filterRangeFrom'] + 'TO' + obj['filterRangeTo'] + ']';
+            }
+            else if (obj['filterRangeCalendar'] !== undefined && obj['filterRangeValue'] !== undefined) {
+                filters = filters + '&f.' + obj['facetName'] + '.filter=[' + moment().subtract(obj['filterRangeCalendar'], obj['filterRangeValue']).format("YYYY-MM-DDTHH:mm:ss") + 'TO*]';
+            }
+            else {
+                filters = filters + "&f." + obj['facetName'] + ".filter=" + obj['filterName'];
             }
         }
 
