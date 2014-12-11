@@ -5,7 +5,7 @@
 
     app.factory('x2js', function() {
         return new X2JS({
-            escapeMode: false
+            escapeMode: true
         });
     });
 

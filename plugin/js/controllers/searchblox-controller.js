@@ -235,6 +235,7 @@ angular.module('searchblox.controller').controller('searchbloxController', [
             filterRangeCalendar = filter['@calendar'],
             filterRangeValue = filter['@value'],
             slider = filter['slider'] = (rSlider || false),
+            included = (filter['included'] == null || filter['included'] === true),
             searchReplacment = false,
             filter_index = -1,
             hasFilter = false;
@@ -286,9 +287,11 @@ angular.module('searchblox.controller').controller('searchbloxController', [
         newFilter['filterRangeValue'] = filterRangeValue;
         newFilter['slider'] = slider;
         newFilter['pageNo'] = $scope.prevPage;
+        newFilter['included'] = included;
+
         $scope.prevPage = $scope.page;
 
-        $scope.prepareFilters = function() {
+        var prepareFilters = function() {
             if (!hasFilter || searchReplacment === true) {
                 if (filterRangeFrom !== undefined && filterRangeTo !== undefined) {
                     var rangeFilter = '';
@@ -315,7 +318,7 @@ angular.module('searchblox.controller').controller('searchbloxController', [
             }
         };
 
-        $scope.prepareFilters();
+        prepareFilters();
         $scope.doSearch();
     };
 
@@ -324,9 +327,32 @@ angular.module('searchblox.controller').controller('searchbloxController', [
         var selected_object = $scope.selectedItems[index];
         $scope.page = selected_object['pageNo'];
         $scope.selectedItems.splice(index, 1);
-        var filters = "";
+        reArrangeFilters(index);
+    };
+
+    $scope.includeExcludeTerm = function($index) {
+        $scope.selectedItems[$index].included = !$scope.selectedItems[$index].included;
+        reArrangeFilters($index);
+    };
+
+    var reArrangeFilters = function($index) {
+        var filters = "", query = angular.copy($scope.query), inOutKeyword = '';
+
         for (var i = 0, l = $scope.selectedItems.length; i < l; i++) {
             var obj = $scope.selectedItems[i];
+
+            if ($index === i) {
+                inOutKeyword = '-' + obj.filterName;
+
+                if (!obj.included) {
+                    query += ' ' + inOutKeyword;
+                } else {
+                    query = query.replace(inOutKeyword, ' ');
+                }
+
+                $scope.query = $.trim(query);
+            }
+
             if (obj['filterRangeFrom'] !== undefined && obj['filterRangeTo'] !== undefined) {
                 filters = filters + '&f.' + obj['facetName'] + '.filter=[' + obj['filterRangeFrom'] + 'TO' + obj['filterRangeTo'] + ']';
             }
@@ -337,6 +363,7 @@ angular.module('searchblox.controller').controller('searchbloxController', [
                 filters = filters + "&f." + obj['facetName'] + ".filter=" + obj['filterName'];
             }
         }
+
         $scope.filterFields = filters;
         $scope.doSearch();
     };

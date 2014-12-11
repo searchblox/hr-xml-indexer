@@ -102,3 +102,20 @@
 button[disabled] {
     color: #808080;
 }
+.selectedItems > * {
+    display: inline-block;
+    vertical-align: middle;
+}
+.cursor-pointer {
+    cursor: pointer;
+}
+.include {
+    width: 20px;
+    height: 20px;
+}
+.term-included {
+    background: url("../images/include.png") 0 0 no-repeat;
+}
+.term-excluded {
+    background: url("../images/exclude.png") 0 0 no-repeat;
+}

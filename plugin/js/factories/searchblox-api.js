@@ -17,6 +17,7 @@
 
         s.resumeObject = null;
         s.resumeXML = null;
+        s.resumeTextContent = null;
         s.resumeCandidates = [];
 
         var sampleFormat = {
@@ -66,6 +67,7 @@
 
             config.transformResponse = function(data) {
                 s.resumeXML = data;
+                s.resumeTextContent = $.trim(data.replace(/(<([^>]+)>)/ig,""));
                 return x2js.xml_str2json(data);
             };
 
@@ -152,6 +154,7 @@
             format.searchblox['document']['url'] = 'data/results/' + data.name + '.xml';
 
             format.searchblox['document']['title']['__text'] = sxr.ContactInfo.PersonName.FormattedName || data.name;
+            format.searchblox['document']['content']['__text'] = s.resumeTextContent || '';
 
             if (ua.DaxResumeUserArea.AdditionalPersonalData) {
                 format.searchblox['document']['meta'][0]['__text'] = ua.DaxResumeUserArea.AdditionalPersonalData.ExperienceSummary.TotalYearsOfWorkExperience;
