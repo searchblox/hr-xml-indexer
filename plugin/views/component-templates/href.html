@@ -1,15 +1,18 @@
 <div class="row-fluid">
-    <a href="{{url}}" target="_blank"><b>{{content.title}}</b></a>
+    <a ng-href="{{url}}" target="_blank"><b ng-bind="content.title"></b></a>
 </div>
 
-<div class="row-fluid" >
-    <i ng-bind-html="'Experience: ' + ((content.experience>0) ? content.experience : 'None')"></i>
+<div class="row-fluid">
+    <strong>Experience: </strong>
+    <span ng-bind-html="((content.experience>0) ? content.experience : 'None')"></span>
 </div>
 
 <div class="row-fluid" ng-if="content.currentcompany.length">
-    <i ng-bind="'Current company: ' + content.currentcompany"></i>
+    <strong>Current Company: </strong>
+    <span ng-bind="content.currentcompany"></span>
 </div>
 
 <div class="row-fluid" ng-if="content.previouscompany.length">
-    <i ng-bind="'Previous company: ' + content.previouscompany"></i>
+    <strong>Previous Companies: </strong>
+    <span ng-bind="content.previouscompany"></span>
 </div>
