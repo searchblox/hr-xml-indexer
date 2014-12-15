@@ -46,16 +46,24 @@
                     "category": [
                         "Resumes"
                     ],
-                    "meta": [{
-                        "_name": "experience",
-                        "__text": 0
-                    },{
-                        "_name": "currentcompany",
-                        "__text": ''
-                    }, {
-                        "_name": "previouscompany",
-                        "__text": ''
-                    }]
+                    "meta": [
+                        {
+                            "_name": "experience",
+                            "__text": 0
+                        },
+                        {
+                            "_name": "currentcompany",
+                            "__text": ''
+                        },
+                        {
+                            "_name": "previouscompany",
+                            "__text": ''
+                        },
+                        {
+                            "_name": "currentlocation",
+                            "__text": ''
+                        }
+                    ]
                 }
             }
         };
@@ -156,6 +164,10 @@
             format.searchblox['document']['title']['__text'] = sxr.ContactInfo.PersonName.FormattedName || data.name;
             format.searchblox['document']['content']['__text'] = s.resumeTextContent || '';
 
+            if (sxr.ExecutiveSummary) {
+                format.searchblox['document']['description']['__text'] = sxr.ExecutiveSummary || '';
+            }
+
             if (ua.DaxResumeUserArea.AdditionalPersonalData) {
                 format.searchblox['document']['meta'][0]['__text'] = ua.DaxResumeUserArea.AdditionalPersonalData.ExperienceSummary.TotalYearsOfWorkExperience;
             }
@@ -169,8 +181,28 @@
                         var y = eh[x];
 
                         if (y.EmployerOrgName) {
-                            format.searchblox['document']['meta'][1]['__text'] = y.EmployerOrgName.__text;
+                            format.searchblox['document']['meta'][1]['__text'] = y.EmployerOrgName;
                             prevCIndex = x;
+
+                            // Current City/Location
+                            if (y.EmployerContactInfo && y.EmployerContactInfo.LocationSummary) {
+                                var locSummary = y.EmployerContactInfo.LocationSummary, location = '';
+
+                                if (locSummary.Municipality) {
+                                    location += locSummary.Municipality;
+                                }
+
+                                if (locSummary.Region) {
+                                    location += ', ' + locSummary.Region;
+                                }
+
+                                if (locSummary.CountryCode) {
+                                    location += ', ' + locSummary.CountryCode;
+                                }
+
+                                format.searchblox['document']['meta'][3]['__text'] = location.trim(',\\s');
+                            }
+
                             break;
                         }
                     }
@@ -182,7 +214,7 @@
                             var j = eh[i];
 
                             if (j.EmployerOrgName) {
-                                prevCs.push(j.EmployerOrgName.__text);
+                                prevCs.push(j.EmployerOrgName);
                             }
                         }
 
@@ -200,7 +232,7 @@
                     // Skills
                     keywords = ct.map(function(v) {
                         return v['_name'];
-                    }).join(',');
+                    }).join(', ');
 
                     format.searchblox['document']['keywords']['__text'] = keywords;
                 }
