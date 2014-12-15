@@ -13,7 +13,8 @@
         },
         {"field": "keywords", "display": "Keywords", "size": "10"},
         {"field": "currentcompany", "display": "Current Company", "size": "10"},
-        {"field": "previouscompany", "display": "Previous Company", "size": "10"}
+        {"field": "previouscompany", "display": "Previous Company", "size": "10"},
+        {"field": "currentlocation", "display": "Current Location", "size": "10"}
     ],
     "collection": [],
     "collectionForAds": [],
