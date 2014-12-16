@@ -119,3 +119,11 @@ button[disabled] {
 .term-excluded {
     background: url("../images/exclude.png") 0 0 no-repeat;
 }
+.sidebar .selected-items {
+    font-size: 14px;
+}
+.col-fluid .skills p {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}

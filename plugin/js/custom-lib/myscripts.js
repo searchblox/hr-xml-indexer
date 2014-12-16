@@ -82,3 +82,10 @@ function bytesToSize(bytes, size) {
 
     return result;
 }
+
+String.prototype.trim = function(delimiter) {
+    var delimiter = delimiter || '',
+        regex = new RegExp("^["+delimiter+"]+|["+delimiter+"]+$", "g");
+        
+    return this.replace(regex, '');
+};

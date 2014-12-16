@@ -327,31 +327,19 @@ angular.module('searchblox.controller').controller('searchbloxController', [
         var selected_object = $scope.selectedItems[index];
         $scope.page = selected_object['pageNo'];
         $scope.selectedItems.splice(index, 1);
-        reArrangeFilters(index);
+        reArrangeFilters();
     };
 
     $scope.includeExcludeTerm = function($index) {
         $scope.selectedItems[$index].included = !$scope.selectedItems[$index].included;
-        reArrangeFilters($index);
+        reArrangeFilters();
     };
 
-    var reArrangeFilters = function($index) {
-        var filters = "", query = angular.copy($scope.query), inOutKeyword = '';
+    var reArrangeFilters = function() {
+        var filters = "";
 
         for (var i = 0, l = $scope.selectedItems.length; i < l; i++) {
             var obj = $scope.selectedItems[i];
-
-            if ($index === i) {
-                inOutKeyword = '-' + obj.filterName;
-
-                if (!obj.included) {
-                    query += ' ' + inOutKeyword;
-                } else {
-                    query = query.replace(inOutKeyword, ' ');
-                }
-
-                $scope.query = $.trim(query);
-            }
 
             if (obj['filterRangeFrom'] !== undefined && obj['filterRangeTo'] !== undefined) {
                 filters = filters + '&f.' + obj['facetName'] + '.filter=[' + obj['filterRangeFrom'] + 'TO' + obj['filterRangeTo'] + ']';
@@ -360,7 +348,11 @@ angular.module('searchblox.controller').controller('searchbloxController', [
                 filters = filters + '&f.' + obj['facetName'] + '.filter=[' + moment().subtract(obj['filterRangeCalendar'], obj['filterRangeValue']).format("YYYY-MM-DDTHH:mm:ss") + 'TO*]';
             }
             else {
-                filters = filters + "&f." + obj['facetName'] + ".filter=" + obj['filterName'];
+                if (!obj.included) {
+                    filters = filters + "&f." + obj['facetName'] + ".notfilter=" + obj['filterName'];
+                } else {
+                    filters = filters + "&f." + obj['facetName'] + ".filter=" + obj['filterName'];
+                }
             }
         }
 
