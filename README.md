@@ -25,6 +25,7 @@ Facet.json configuration file options that can be configured.
         {"field": "keywords",  "display": "Keywords","size":"10"},
         {"field": "currentcompany", "display": "Current Company", "size": "10"},
         {"field": "previouscompany", "display": "Previous Company", "size": "10"},
+        {"field": "currentlocation", "display": "Current Location", "size": "10"}
         {
             "field": "experience", "display": "Experience",  // number range facet filters
             "slider": true,         // true/false to enable/disable slider filter
@@ -64,26 +65,38 @@ Facet.json configuration file options that can be configured.
     
     "showAutoSuggest": "true" // turn off autosuggest by setting this value to false
 
-And ofcourse you need to append this to `searchblox/webapps/searchblox/WEB-INF/mapping.json` within the `sdoc.properties` object
+And you need to add mapping properties to `searchblox/webapps/searchblox/WEB-INF/mapping.json` within the
 
-    "experience":{
-        "type":"integer",
-        "store":"yes",
-        "include_in_all":"false"
-    },
-    "currentcompany":{
-        "type":"string",
-        "store":"yes",
-        "index":"analyzed",
-        "analyzer":"comma_analyzer",
-        "include_in_all":"false",
-        "boost":"1"
-    },
-    "previouscompany":{
-        "type":"string",
-        "store":"yes",
-        "index":"analyzed",
-        "analyzer":"comma_analyzer",
-        "include_in_all":"false",
-        "boost":"1"
-    },
+    "sdoc":{
+        "properties":{
+            ...
+
+this object:
+
+                "experience":{
+                    "type":"integer",
+                    "store":"yes",
+                    "include_in_all":"false"
+                },
+                "currentcompany":{
+                    "type":"string",
+                    "store":"yes",
+                    "index":"not_analyzed",
+                    "include_in_all":"false",
+                    "boost":"1"
+                },
+                "previouscompany":{
+                    "type":"string",
+                    "store":"yes",
+                    "index":"analyzed",
+                    "analyzer":"comma_analyzer",
+                    "include_in_all":"false",
+                    "boost":"1"
+                },
+                "currentlocation":{
+                    "type":"string",
+                    "store":"yes",
+                    "index":"not_analyzed",
+                    "include_in_all":"false",
+                    "boost":"1"
+                },
