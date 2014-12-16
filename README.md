@@ -8,6 +8,7 @@ hr-xml-indexer
 - Access the angularJS based search page at http://localhost:8080/searchblox/plugin/index.html
 - Edit the /plugin/data/facet.json file to add/modify/remove term, number range and date range filters.
 - Add sorting options and faceted search options on the facet.json file. 
+- The XML files should be placed on this current plugin `/plugin/data/results/` directory
 
 Facet.json configuration file options that can be configured.
     
@@ -15,8 +16,11 @@ Facet.json configuration file options that can be configured.
     
     "colName": "Resume-Collection",                   // Collection name to index. REQUIRED
     
-    "resumeCandidates": [   // list down all the xml files, place all the xml files in this
-        "Abhik",            // plugin "plugin/data/results/" directory
+    // list down all the xml files without (`.xml`) their extension
+    // and place all the xml files in this current plugin "plugin/data/results/" directory
+
+    "resumeCandidates": [
+        "Abhik",           
         "AkshataKothiwale",
         "AlexSpears201405cProfileBA",
     ]
