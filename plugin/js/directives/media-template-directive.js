@@ -50,14 +50,25 @@ angular.module('searchblox.contentItem', []).
 
                 $scope.getLastModified = function (lastmodified) {
                     return moment(lastmodified).format("MMMM Do YYYY, h:mm:ss a");
-                }
+                };
 
                 $scope.formatData = function (obj) {
                     if (!angular.isArray(obj))
                         return [obj];
                     else
                         return obj;
-                }
+                };
+
+                $scope.showSummary = false;
+
+                $scope.hoverIn = function() {
+                    console.log(1);
+                    $scope.showSummary = true;
+                };
+
+                $scope.hoverOut = function(){
+                    $scope.showSummary = false;
+                };
             }
         };
     }]);
