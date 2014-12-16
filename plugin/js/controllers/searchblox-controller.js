@@ -408,4 +408,5 @@ angular.module('searchblox.controller').controller('searchbloxController', [
         }
         return false;
     };
+
 }]);

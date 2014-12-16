@@ -1,18 +1,21 @@
-<div class="row-fluid" ng-if="content.title">
-    <strong>Name: </strong>
-    <a ng-href="{{url}}" target="_blank"><b ng-bind="content.title"></b></a>
-</div>
+<div class="row-fluid" ng-mouseover="hoverIn()" ng-mouseleave="hoverOut()">
+    <div class="row-fluid" ng-if="content.title">
+        <strong>Name: </strong>
+        <a ng-href="{{url}}" target="_blank"><b ng-bind="content.title"></b></a>
+    </div>
 
-<div class="row-fluid" ng-if="content.currentlocation">
-    <strong>Current City: </strong>
-    <span ng-bind="content.currentlocation"></span>
-</div>
+    <div class="row-fluid" ng-if="content.currentlocation">
+        <strong>Current City: </strong>
+        <span ng-bind="content.currentlocation"></span>
+    </div>
 
-<div class="row-fluid skills" ng-if="content.keywords">
-    <p ng-bind-html="'<strong>Skills: </strong>' + content.keywords"></p>
-</div>
+    <div class="row-fluid skills" ng-if="content.keywords">
+        <p ng-bind-html="'<strong>Skills: </strong>' + content.keywords"></p>
+    </div>
 
-<div class="row-fluid" ng-if="content.description">
-    <strong>Summary: </strong>
-    <span ng-bind="content.description"></span>
+    <div class="row-fluid" ng-if="content.description">
+        <strong>Summary: </strong>
+        <span ng-bind="content.description" ng-show="showSummary"></span>
+        <span ng-hide="showSummary">...</span>
+    </div>
 </div>
